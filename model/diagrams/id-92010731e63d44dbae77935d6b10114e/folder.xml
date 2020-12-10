@@ -1,14 +1,13 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business"
-    id="id-fdb9988169784a0792bc0ea27ccb5e36"
-    type="business">
+    name="Kladd"
+    id="id-92010731e63d44dbae77935d6b10114e">
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Business"/>
+      value="Kladd"/>
   <properties
       key="difi:name_en"/>
   <properties

@@ -1,14 +1,13 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business"
-    id="id-fdb9988169784a0792bc0ea27ccb5e36"
-    type="business">
+    name="Motivasjon"
+    id="id-ad74a4319d1e4be9ac81f4b5d94a69cd">
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Business"/>
+      value="Motivation"/>
   <properties
       key="difi:name_en"/>
   <properties
