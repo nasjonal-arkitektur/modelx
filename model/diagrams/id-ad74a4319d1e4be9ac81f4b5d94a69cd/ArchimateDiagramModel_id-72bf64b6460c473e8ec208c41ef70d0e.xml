@@ -286,7 +286,7 @@
         targetConnections="id-e73ed67c6f3d4bea9384c7d95d8b5a86"
         textPosition="1">
       <bounds
-          x="480"
+          x="444"
           y="24"
           width="137"
           height="71"/>
@@ -300,7 +300,7 @@
         targetConnections="id-3d9ef99f0c594e9aa553048894e26ef5"
         textPosition="1">
       <bounds
-          x="167"
+          x="156"
           y="24"
           width="137"
           height="71"/>
@@ -314,7 +314,7 @@
         targetConnections="id-165b94df4ca54499853a677aacaf44f0"
         textPosition="1">
       <bounds
-          x="321"
+          x="300"
           y="24"
           width="137"
           height="71"/>
@@ -328,7 +328,7 @@
         targetConnections="id-e901ff52d1524b919d9e3ceb7cb5ebd4"
         textPosition="1">
       <bounds
-          x="636"
+          x="588"
           y="24"
           width="137"
           height="71"/>
@@ -967,7 +967,7 @@
       id="id-d7e86ef8e6a348d1a10dc42824317c97"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#fff4ea"
       type="1">
     <features
         name="gradient"
