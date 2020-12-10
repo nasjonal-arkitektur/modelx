@@ -1,6 +1,6 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Politiker"
+    name="Politikker"
     id="id-90dfb173ed5f45fdba3b5ed15ac77275">
   <properties
       key="difi:metaLevel"
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Politiker"/>
+      value="Politikker"/>
   <properties
       key="difi:name_en"/>
   <properties

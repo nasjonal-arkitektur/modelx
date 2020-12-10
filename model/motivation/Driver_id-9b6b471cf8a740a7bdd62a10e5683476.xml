@@ -1,13 +1,13 @@
-<archimate:Stakeholder
+<archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Politikker"
-    id="id-9d6c1cde19854ecc944c38ece718e659">
+    name="Gjennbruk av gode ideer og løsninger "
+    id="id-9b6b471cf8a740a7bdd62a10e5683476">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:stakeholder"/>
+      value="archi:driver"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Politikker"/>
+      value="Gjennbruk av gode ideer og løsninger "/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,7 +32,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:Stakeholder>
+</archimate:Driver>

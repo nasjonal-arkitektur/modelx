@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samkjøring med Felles datakatalog"
+    name="Samkjøring med fellesdatakatalog"
     id="id-fd0582b2643d4b029b6cf96e6a5a48ed">
   <properties
       key="difi:metaLevel"
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Samkjøring med Felles datakatalog"/>
+      value="Samkjøring med fellesdatakatalog"/>
   <properties
       key="difi:name_en"/>
   <properties

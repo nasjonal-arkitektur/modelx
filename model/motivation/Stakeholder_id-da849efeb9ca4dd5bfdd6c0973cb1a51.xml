@@ -32,7 +32,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Stakeholder>

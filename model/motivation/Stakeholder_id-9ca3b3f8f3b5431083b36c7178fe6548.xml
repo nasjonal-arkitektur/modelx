@@ -1,6 +1,6 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prosjekteier"
+    name="Prosjekteiere"
     id="id-9ca3b3f8f3b5431083b36c7178fe6548">
   <properties
       key="difi:metaLevel"
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Prosjekteier"/>
+      value="Prosjekteiere"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,7 +32,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Stakeholder>

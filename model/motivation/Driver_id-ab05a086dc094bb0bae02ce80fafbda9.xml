@@ -1,6 +1,6 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&quot;Perspektiv-meldingen&quot;"
+    name="&quot;Perspektivmeldingen&quot;"
     id="id-ab05a086dc094bb0bae02ce80fafbda9">
   <properties
       key="difi:metaLevel"
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="&quot;Perspektiv-meldingen&quot;"/>
+      value="&quot;Perspektivmeldingen&quot;"/>
   <properties
       key="difi:name_en"/>
   <properties

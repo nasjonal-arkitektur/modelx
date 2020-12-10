@@ -1,7 +1,7 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Politikker"
-    id="id-9d6c1cde19854ecc944c38ece718e659">
+    name="Kommunal sektoren"
+    id="id-884bb561af194d8ab1712878bf5b5269">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -23,7 +23,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Politikker"/>
+      value="Kommunal sektoren"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,7 +32,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Stakeholder>
