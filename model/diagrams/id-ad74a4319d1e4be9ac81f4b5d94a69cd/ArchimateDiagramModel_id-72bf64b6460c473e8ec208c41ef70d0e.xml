@@ -8,7 +8,7 @@
       id="id-4f60750796fb4979859afe85bc6b07cb"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#e8e8ff"
       type="1">
     <features
         name="gradient"
@@ -211,7 +211,7 @@
       id="id-bd4919f6b2fd468e891bd4f01240994e"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#e8e8ff"
       type="1">
     <features
         name="gradient"
@@ -345,7 +345,7 @@
       id="id-f360b3f5ba794a45b99218417f6fcfab"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#fff4ea"
       type="1">
     <features
         name="gradient"
@@ -397,7 +397,7 @@
         targetConnections="id-6f214c68c7e54c4193cd30121585ba6b"
         textPosition="1">
       <bounds
-          x="173"
+          x="165"
           y="24"
           width="137"
           height="71"/>
@@ -411,7 +411,7 @@
         targetConnections="id-920f0dc5bb424c1db474b277d23b6d07"
         textPosition="1">
       <bounds
-          x="328"
+          x="320"
           y="24"
           width="137"
           height="71"/>
@@ -425,7 +425,7 @@
         targetConnections="id-f8b66faa337d4f6fb060a30d6d8b90d5"
         textPosition="1">
       <bounds
-          x="476"
+          x="468"
           y="24"
           width="137"
           height="71"/>
@@ -439,7 +439,7 @@
         targetConnections="id-d0d797d1f4ae49b5a2401531ca1c9772"
         textPosition="1">
       <bounds
-          x="24"
+          x="16"
           y="24"
           width="137"
           height="71"/>
@@ -456,7 +456,7 @@
       id="id-ef1bfe9b70164ee489541d54ff5c00cb"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#edf1fc"
       type="1">
     <features
         name="gradient"
@@ -549,7 +549,7 @@
       id="id-1ea3fb3e8af64fef8b8dda4aec395020"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#e8e8ff"
       type="1">
     <features
         name="gradient"
@@ -706,7 +706,7 @@
       id="id-3719e72e457f467c896f504f519d4639"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#edf1fc"
       type="1">
     <features
         name="gradient"
@@ -804,7 +804,7 @@
       id="id-727d79e368f64ce3ae4ec31f47d6dd80"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#fffff0"
       type="1">
     <features
         name="gradient"
@@ -1032,7 +1032,7 @@
       id="id-82087bba80dc4e0abfa338da36d43f12"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#fff4ea"
       type="1">
     <features
         name="gradient"
@@ -1166,7 +1166,7 @@
       id="id-915c08d641724beeb72ce886b02a30ff"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
+      fillColor="#fff4ea"
       type="1">
     <features
         name="gradient"
