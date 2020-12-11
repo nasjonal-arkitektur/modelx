@@ -872,7 +872,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-de1472cdd57a44ddbcca4c6be11f7fd8"
         targetConnections="id-c75395c2e78e479d8502643061651e63"
-        fontColor="#ff0000"
+        fontColor="#ff8080"
         textPosition="1">
       <bounds
           x="732"
