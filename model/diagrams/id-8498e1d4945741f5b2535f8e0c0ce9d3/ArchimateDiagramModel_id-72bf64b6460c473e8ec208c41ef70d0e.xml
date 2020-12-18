@@ -1111,7 +1111,7 @@
       <bounds
           x="732"
           y="24"
-          width="137"
+          width="193"
           height="71"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
@@ -1277,7 +1277,7 @@
       <bounds
           x="168"
           y="24"
-          width="137"
+          width="133"
           height="71"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
