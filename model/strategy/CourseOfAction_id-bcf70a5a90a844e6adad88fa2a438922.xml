@@ -35,4 +35,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-180b2c8659c4427dbfc65430ff786e42"/>
 </archimate:CourseOfAction>
