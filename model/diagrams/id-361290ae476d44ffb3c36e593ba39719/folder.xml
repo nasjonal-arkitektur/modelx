@@ -1,4 +1,20 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aktiviteter"
-    id="id-361290ae476d44ffb3c36e593ba39719"/>
+    id="id-361290ae476d44ffb3c36e593ba39719">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Aktiviteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-361290ae476d44ffb3c36e593ba39719"/>
+</archimate:Folder>

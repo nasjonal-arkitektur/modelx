@@ -1,0 +1,41 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="_Application Process"
+    id="id-390d5ac407dc4b5c937e7c4bbb755725">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="_Application Process"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-390d5ac407dc4b5c937e7c4bbb755725"/>
+</archimate:ApplicationProcess>

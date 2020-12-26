@@ -1,4 +1,20 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kladd"
-    id="id-33b85235da394cd6a85c321871481427"/>
+    id="id-33b85235da394cd6a85c321871481427">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kladd"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-33b85235da394cd6a85c321871481427"/>
+</archimate:Folder>

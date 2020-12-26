@@ -34,6 +34,9 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-ed400bfa463f4cd8bd05bbb78a96b6a8"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_id-778e028678114618914e1b501d8cd69b.xml#id-778e028678114618914e1b501d8cd69b"/>

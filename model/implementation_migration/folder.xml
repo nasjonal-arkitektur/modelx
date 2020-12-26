@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementation &amp; Migration"
     id="id-139a70927e114dc3b4f730791966fb6c"
-    type="implementation_migration"/>
+    type="implementation_migration">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Implementation &amp; Migration"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-139a70927e114dc3b4f730791966fb6c"/>
+</archimate:Folder>

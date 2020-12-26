@@ -1,0 +1,42 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface SBB"
+    id="04ea10d8-a228-4692-a558-ece219f8aa62">
+  <properties
+      key="dct:type"
+      value="archi:application-interface"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Application Interface SBB"/>
+  <properties
+      key="difi:name_en"
+      value="Application Interface SBB"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="04ea10d8-a228-4692-a558-ece219f8aa62"/>
+</archimate:ApplicationInterface>

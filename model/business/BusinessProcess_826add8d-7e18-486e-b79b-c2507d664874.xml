@@ -1,0 +1,42 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process SBB"
+    id="826add8d-7e18-486e-b79b-c2507d664874"
+    documentation="Business Process Solution">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Business Process SBB"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="826add8d-7e18-486e-b79b-c2507d664874"/>
+</archimate:BusinessProcess>

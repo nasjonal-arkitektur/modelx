@@ -35,4 +35,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-6e03c5a7fbb54536b51f66375a153886"/>
 </archimate:Driver>

@@ -1,0 +1,42 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor SBB"
+    id="ed5a702f-2f24-4e83-a12b-8429f492a8fe">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Business Actor"/>
+  <properties
+      key="difi:name_en"
+      value="Business Actor SBB"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="ed5a702f-2f24-4e83-a12b-8429f492a8fe"/>
+</archimate:BusinessActor>

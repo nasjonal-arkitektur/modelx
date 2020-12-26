@@ -1,0 +1,20 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abstraksjon"
+    id="7f50e99c-29fb-4726-973a-7367f4bb0c1f">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Abstraksjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="7f50e99c-29fb-4726-973a-7367f4bb0c1f"/>
+</archimate:Folder>

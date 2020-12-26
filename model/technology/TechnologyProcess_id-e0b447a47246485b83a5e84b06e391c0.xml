@@ -1,0 +1,41 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="_Technology Process"
+    id="id-e0b447a47246485b83a5e84b06e391c0">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:technology-process"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="_Technology Process"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-e0b447a47246485b83a5e84b06e391c0"/>
+</archimate:TechnologyProcess>

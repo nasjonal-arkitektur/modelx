@@ -1,0 +1,20 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelleringskonvensjoner"
+    id="id-83bc16b81e5f4cbdb2730f4a031d7406">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Modelleringskonvensjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-83bc16b81e5f4cbdb2730f4a031d7406"/>
+</archimate:Folder>

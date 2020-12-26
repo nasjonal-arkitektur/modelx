@@ -1,0 +1,42 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Interface ABB"
+    id="f12fab7f-d37a-4157-a275-96f89334bd46">
+  <properties
+      key="dct:type"
+      value="archi:business-interface"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Business Interface ABB"/>
+  <properties
+      key="difi:name_en"
+      value="Business Interface ABB"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="f12fab7f-d37a-4157-a275-96f89334bd46"/>
+</archimate:BusinessInterface>

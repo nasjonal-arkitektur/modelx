@@ -1,0 +1,28 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Navnekonvensjoner"
+    id="id-2d37846380e04b4cb36b2200a7f5fd8d">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Navnekonvensjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="digdir:narrative_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="digdir:narrative_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+  <properties
+      key="modelx:guid"
+      value="id-2d37846380e04b4cb36b2200a7f5fd8d"/>
+</archimate:ArchimateDiagramModel>

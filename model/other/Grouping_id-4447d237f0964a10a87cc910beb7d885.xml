@@ -35,4 +35,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-4447d237f0964a10a87cc910beb7d885"/>
 </archimate:Grouping>

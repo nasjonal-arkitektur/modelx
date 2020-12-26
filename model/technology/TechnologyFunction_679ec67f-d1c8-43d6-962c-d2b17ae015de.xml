@@ -1,0 +1,42 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Function ABB"
+    id="679ec67f-d1c8-43d6-962c-d2b17ae015de">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:technology-function"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Technology Function ABB"/>
+  <properties
+      key="difi:name_en"
+      value="Technology Function ABB"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="679ec67f-d1c8-43d6-962c-d2b17ae015de"/>
+</archimate:TechnologyFunction>

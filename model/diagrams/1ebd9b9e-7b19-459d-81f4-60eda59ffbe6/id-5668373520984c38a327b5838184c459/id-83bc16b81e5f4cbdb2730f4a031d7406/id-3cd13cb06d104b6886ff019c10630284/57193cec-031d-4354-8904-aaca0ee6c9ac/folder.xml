@@ -1,0 +1,20 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realisering"
+    id="57193cec-031d-4354-8904-aaca0ee6c9ac">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Realisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="57193cec-031d-4354-8904-aaca0ee6c9ac"/>
+</archimate:Folder>

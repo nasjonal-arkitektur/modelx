@@ -1,0 +1,43 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service SBB"
+    id="7a3801bd-395a-4875-ae8b-2d976af3b974"
+    documentation="Application Service Solution">
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Application Service SBB"/>
+  <properties
+      key="difi:name_en"
+      value="Application Service SBB"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="7a3801bd-395a-4875-ae8b-2d976af3b974"/>
+</archimate:ApplicationService>

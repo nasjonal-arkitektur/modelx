@@ -1,0 +1,41 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="_Business Collaboration"
+    id="id-3ce619251d74478aaa5c40545aadbb5f">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-collaboration"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="_Business Collaboration"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-3ce619251d74478aaa5c40545aadbb5f"/>
+</archimate:BusinessCollaboration>

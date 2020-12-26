@@ -396,4 +396,7 @@
       key="difi:antoraViewPath"/>
   <properties
       key="difi:antoraViewImagePath"/>
+  <properties
+      key="modelx:guid"
+      value="id-de19321b371847278feb9eac5c1dd2e5"/>
 </archimate:ArchimateDiagramModel>

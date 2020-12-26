@@ -35,4 +35,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-81b2de4da9f44049a2934673f6e8e188"/>
 </archimate:Goal>

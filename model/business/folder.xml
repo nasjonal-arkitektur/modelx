@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business"
     id="id-b9e4f8de6332426ca0c94943d28ae1b2"
-    type="business"/>
+    type="business">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Business"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-b9e4f8de6332426ca0c94943d28ae1b2"/>
+</archimate:Folder>

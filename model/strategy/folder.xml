@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategy"
     id="id-cddd9d97524348d4a96e7cb7155300e1"
-    type="strategy"/>
+    type="strategy">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Strategy"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-cddd9d97524348d4a96e7cb7155300e1"/>
+</archimate:Folder>

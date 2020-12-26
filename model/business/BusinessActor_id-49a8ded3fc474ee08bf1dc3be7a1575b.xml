@@ -35,4 +35,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:guid"
+      value="id-49a8ded3fc474ee08bf1dc3be7a1575b"/>
 </archimate:BusinessActor>

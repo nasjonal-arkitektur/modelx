@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology &amp; Physical"
     id="id-8eec547323d8474f83bad26254bb384e"
-    type="technology"/>
+    type="technology">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Technology &amp; Physical"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-8eec547323d8474f83bad26254bb384e"/>
+</archimate:Folder>

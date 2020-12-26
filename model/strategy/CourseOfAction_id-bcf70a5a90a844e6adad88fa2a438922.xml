@@ -38,4 +38,7 @@
   <properties
       key="drill down"
       value="id-180b2c8659c4427dbfc65430ff786e42"/>
+  <properties
+      key="modelx:guid"
+      value="id-bcf70a5a90a844e6adad88fa2a438922"/>
 </archimate:CourseOfAction>

@@ -1,0 +1,42 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface INSTANCE"
+    id="01e64515-56d4-40dc-b2e7-fd3bb36fd303">
+  <properties
+      key="dct:type"
+      value="archi:application-interface"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="instance"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Application Interface INSTANCE"/>
+  <properties
+      key="difi:name_en"
+      value="Application Interface INSTANCE"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="01e64515-56d4-40dc-b2e7-fd3bb36fd303"/>
+</archimate:ApplicationInterface>

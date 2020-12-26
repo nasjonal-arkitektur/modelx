@@ -12,4 +12,7 @@
   <properties
       key="difi:antoraComponentsPath"
       value="Update value according to your local installation"/>
+  <properties
+      key="modelx:guid"
+      value="id-47cab0b6afa149a783d217a0fa229ff0"/>
 </archimate:ArchimateModel>

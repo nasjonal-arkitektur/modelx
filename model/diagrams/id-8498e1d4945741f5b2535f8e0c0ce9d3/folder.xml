@@ -1,4 +1,20 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivasjon"
-    id="id-8498e1d4945741f5b2535f8e0c0ce9d3"/>
+    id="id-8498e1d4945741f5b2535f8e0c0ce9d3">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Motivasjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="modelx:guid"
+      value="id-8498e1d4945741f5b2535f8e0c0ce9d3"/>
+</archimate:Folder>

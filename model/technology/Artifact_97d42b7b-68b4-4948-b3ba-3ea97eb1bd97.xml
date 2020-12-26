@@ -1,0 +1,42 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Artifact INSTANCE"
+    id="97d42b7b-68b4-4948-b3ba-3ea97eb1bd97">
+  <properties
+      key="dct:type"
+      value="archi:artifact"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="instance"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Data Artifact Instance"/>
+  <properties
+      key="difi:name_en"
+      value="Data Artifact Instance"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="modelx:guid"
+      value="97d42b7b-68b4-4948-b3ba-3ea97eb1bd97"/>
+</archimate:Artifact>
