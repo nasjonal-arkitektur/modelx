@@ -1,13 +1,16 @@
-<archimate:CourseOfAction
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere arkitekturbibilotek med initialt innhold"
-    id="id-bcf70a5a90a844e6adad88fa2a438922">
+    name="Business Object"
+    id="id-e3f8d5452fe941c8b7afcc65183902f4">
+  <properties
+      key="modelx:guid"
+      value="id-e3f8d5452fe941c8b7afcc65183902f4"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:course-of-action"/>
+      value="archi:business-object"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -23,7 +26,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Etablere arkitektur bibilotek med et minimum av innhold"/>
+      value="Business Object"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,13 +35,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="drill down"
-      value="id-180b2c8659c4427dbfc65430ff786e42"/>
-  <properties
-      key="modelx:guid"
-      value="id-bcf70a5a90a844e6adad88fa2a438922"/>
-</archimate:CourseOfAction>
+</archimate:BusinessObject>

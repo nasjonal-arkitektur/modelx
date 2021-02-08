@@ -1,13 +1,13 @@
-<archimate:CompositionRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-75345804c45b40ce9297210eef51f069">
+    name="Styringsorganer"
+    id="id-5a3d5f5f180c4593b7baf881862cd0da">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:stakeholder"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,7 +22,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Toppledelse"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -36,11 +37,5 @@
       key="difi:notes"/>
   <properties
       key="modelx:guid"
-      value="id-75345804c45b40ce9297210eef51f069"/>
-  <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-a74158aaeb65416f97773f417f2dd789.xml#id-a74158aaeb65416f97773f417f2dd789"/>
-  <target
-      xsi:type="archimate:Capability"
-      href="Capability_id-a70b0675abcf4d0c9df8549b02b7be76.xml#id-a70b0675abcf4d0c9df8549b02b7be76"/>
-</archimate:CompositionRelationship>
+      value="id-24e0051ba36e4a58b279e64098ddb6e2"/>
+</archimate:Stakeholder>

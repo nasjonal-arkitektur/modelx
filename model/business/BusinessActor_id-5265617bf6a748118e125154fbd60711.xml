@@ -1,7 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Andre offentlige sektorer og virksomheter"
-    id="id-5265617bf6a748118e125154fbd60711">
+    id="id-5265617bf6a748118e125154fbd60711"
+    documentation="UDI, Oslo Kommune, Lillestrøm kommune">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

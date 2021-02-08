@@ -1,13 +1,17 @@
-<archimate:Capability
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Felles arkitektur arkitektur bibilotek"
-    id="id-a70b0675abcf4d0c9df8549b02b7be76">
+    id="id-f0b3a34c9bed47f6a2b65f25d9b8bf3b"
+    directed="true">
+  <properties
+      key="modelx:guid"
+      value="id-f0b3a34c9bed47f6a2b65f25d9b8bf3b"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:capability"/>
+      value="archi:association-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,8 +26,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Felles arkitektur arkitektur bibilotek"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -35,7 +38,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="id-a70b0675abcf4d0c9df8549b02b7be76"/>
-</archimate:Capability>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c65b448a3891459abe5ab1de6000f12a.xml#id-c65b448a3891459abe5ab1de6000f12a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e3f8d5452fe941c8b7afcc65183902f4.xml#id-e3f8d5452fe941c8b7afcc65183902f4"/>
+</archimate:AssociationRelationship>

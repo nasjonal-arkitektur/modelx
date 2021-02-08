@@ -1,13 +1,16 @@
-<archimate:CompositionRelationship
+<archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5ec88d14607649e48eef91cf4284a6f9">
+    id="id-2a1b615dc37a46748a1eb356b03601ab">
+  <properties
+      key="modelx:guid"
+      value="id-2a1b615dc37a46748a1eb356b03601ab"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:aggregation-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -34,13 +37,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="id-5ec88d14607649e48eef91cf4284a6f9"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-87a7a30f9f414f1283a9684c353abcaf.xml#id-87a7a30f9f414f1283a9684c353abcaf"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-df3545c3ec7d4d56991f742252f86074.xml#id-df3545c3ec7d4d56991f742252f86074"/>
   <target
-      xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_id-566221bb75d540aaac085be845acddeb.xml#id-566221bb75d540aaac085be845acddeb"/>
-</archimate:CompositionRelationship>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c65b448a3891459abe5ab1de6000f12a.xml#id-c65b448a3891459abe5ab1de6000f12a"/>
+</archimate:AggregationRelationship>

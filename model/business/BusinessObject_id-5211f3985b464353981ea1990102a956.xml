@@ -1,13 +1,16 @@
-<archimate:Grouping
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sekundære målgrupper"
-    id="id-43d8a486296b4284806a7fa1ab8d3370">
+    name="Class"
+    id="id-5211f3985b464353981ea1990102a956">
+  <properties
+      key="modelx:guid"
+      value="id-5211f3985b464353981ea1990102a956"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:grouping"/>
+      value="archi:business-object"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -23,9 +26,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Sekundære målgrupper"/>
+      value="Klasse"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Class"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -35,7 +39,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="id-43d8a486296b4284806a7fa1ab8d3370"/>
-</archimate:Grouping>
+</archimate:BusinessObject>

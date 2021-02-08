@@ -1,13 +1,14 @@
-<archimate:CompositionRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5e7d906149d74a8ab838e0362d518ac8">
+    name="Felles dokumentasjons-konvensjoner"
+    id="id-1359247a420c44e886c1ca8b3d7147d5"
+    documentation="Fokus på BPMN for prosessmodellering og ArchiMate  for arkitektur. Datamodelering ....">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:capability"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,11 +23,13 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Felles semantikk for arkitektur"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Fokus på BPMN for prosessmodellering og ArchiMate for arkitektur. Datamodelering ...."/>
   <properties
       key="difi:description_en"/>
   <properties
@@ -36,11 +39,5 @@
       key="difi:notes"/>
   <properties
       key="modelx:guid"
-      value="id-5e7d906149d74a8ab838e0362d518ac8"/>
-  <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-87a7a30f9f414f1283a9684c353abcaf.xml#id-87a7a30f9f414f1283a9684c353abcaf"/>
-  <target
-      xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_id-4afd452ec404458da4a21276a181ccc3.xml#id-4afd452ec404458da4a21276a181ccc3"/>
-</archimate:CompositionRelationship>
+      value="id-2cf0e85789aa4d719a5b2b06b301f914"/>
+</archimate:Resource>

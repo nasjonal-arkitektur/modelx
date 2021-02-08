@@ -1,13 +1,13 @@
-<archimate:CompositionRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5cfe694620574ea8a0da046011f8ff29">
+    name="Felles arkitekturbibilotek"
+    id="id-103ddb3791314219b912418a3c0536c1">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:capability"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,7 +22,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Felles arkitektur arkitektur bibilotek"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -36,11 +37,5 @@
       key="difi:notes"/>
   <properties
       key="modelx:guid"
-      value="id-5cfe694620574ea8a0da046011f8ff29"/>
-  <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-87a7a30f9f414f1283a9684c353abcaf.xml#id-87a7a30f9f414f1283a9684c353abcaf"/>
-  <target
-      xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_id-208a8bbf07f840a5a28d66fe3a385730.xml#id-208a8bbf07f840a5a28d66fe3a385730"/>
-</archimate:CompositionRelationship>
+      value="id-a70b0675abcf4d0c9df8549b02b7be76"/>
+</archimate:Resource>

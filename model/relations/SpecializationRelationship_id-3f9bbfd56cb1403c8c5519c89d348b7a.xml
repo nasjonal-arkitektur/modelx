@@ -1,13 +1,16 @@
-<archimate:Grouping
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Videre tiltak"
-    id="id-87a7a30f9f414f1283a9684c353abcaf">
+    id="id-3f9bbfd56cb1403c8c5519c89d348b7a">
+  <properties
+      key="modelx:guid"
+      value="id-3f9bbfd56cb1403c8c5519c89d348b7a"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:grouping"/>
+      value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,8 +25,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Videre tiltak"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -35,7 +37,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="id-87a7a30f9f414f1283a9684c353abcaf"/>
-</archimate:Grouping>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c65b448a3891459abe5ab1de6000f12a.xml#id-c65b448a3891459abe5ab1de6000f12a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-20f8c67aa0394d53862630a0ed2293a8.xml#id-20f8c67aa0394d53862630a0ed2293a8"/>
+</archimate:SpecializationRelationship>

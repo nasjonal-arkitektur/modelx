@@ -1,13 +1,16 @@
-<archimate:CompositionRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-f1d0fe1215654d9089e382c232b9878f">
+    name="Enumeration"
+    id="id-1fd68594cb604028ad987784eaf36e84">
+  <properties
+      key="modelx:guid"
+      value="id-1fd68594cb604028ad987784eaf36e84"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:composition-relationship"/>
+      value="archi:business-object"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -22,7 +25,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="Kodeliste"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -34,13 +38,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="id-f1d0fe1215654d9089e382c232b9878f"/>
-  <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-87a7a30f9f414f1283a9684c353abcaf.xml#id-87a7a30f9f414f1283a9684c353abcaf"/>
-  <target
-      xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_id-2c5b91b27c5b4ec68cbc8d838bf42232.xml#id-2c5b91b27c5b4ec68cbc8d838bf42232"/>
-</archimate:CompositionRelationship>
+</archimate:BusinessObject>
