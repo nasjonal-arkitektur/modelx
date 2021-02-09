@@ -10,7 +10,7 @@
       value="archi:technology-process"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="sbb"/>
@@ -31,11 +31,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="d22fd540-bf9c-4cd9-a789-e8c4692510af"/>
 </archimate:TechnologyProcess>

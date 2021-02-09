@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodisk framstilling av statistikk"
+    id="dbc3c8f9-7773-4b58-bf10-9236babcaf4f">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

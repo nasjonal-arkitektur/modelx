@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks innsyn"
+    id="1f6f8010-1b2f-493f-806a-ac7e533b05a2">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationInterface>

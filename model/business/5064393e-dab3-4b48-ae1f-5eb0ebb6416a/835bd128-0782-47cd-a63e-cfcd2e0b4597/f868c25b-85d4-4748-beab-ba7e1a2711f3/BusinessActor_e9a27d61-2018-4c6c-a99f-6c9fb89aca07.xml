@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Homeopatika (lag)"
+    id="e9a27d61-2018-4c6c-a99f-6c9fb89aca07"
+    documentation="Registrering av homeopatiske legemidler">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

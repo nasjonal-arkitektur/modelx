@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detaljhandel av medikament"
+    id="43bf9e55-dc04-4536-a499-b54383a22d25"
+    documentation="Detaljhandel er en betegnelse for salg av varer i kvanta tilpasset personlig eller husholdningsbehov direkte til forbrukere eller husholdninger, i motsetning til grossisthandel. Detaljister i forbindelse med medikamentreisen vil som oftest være apoteker og utsalgsteder som Dagligvarebutikker, bensinstasjoner m.m. som kan selge legemidler utenom apotek (LUA).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

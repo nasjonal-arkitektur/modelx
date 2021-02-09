@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndterere metodevarsler"
+    id="748518a1-6879-43c4-905f-4c06d18872f5"
+    documentation="Metodevarsler utarbeides av  Statens legemiddelverk  i samarbeid med Folkehelseinstituttet.&#xD;&#xA;Et metodevarsel er ingen metodevurdering, men fungerer som en bestillingsfunksjon for å sette i gang metodevurdering.&#xD;&#xA;Folkehelseinstituttet er tillagt et nasjonalt ansvar for å drifte en metodevarslingsfunksjon i samarbeid med alle aktørene i Nye metoder. &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

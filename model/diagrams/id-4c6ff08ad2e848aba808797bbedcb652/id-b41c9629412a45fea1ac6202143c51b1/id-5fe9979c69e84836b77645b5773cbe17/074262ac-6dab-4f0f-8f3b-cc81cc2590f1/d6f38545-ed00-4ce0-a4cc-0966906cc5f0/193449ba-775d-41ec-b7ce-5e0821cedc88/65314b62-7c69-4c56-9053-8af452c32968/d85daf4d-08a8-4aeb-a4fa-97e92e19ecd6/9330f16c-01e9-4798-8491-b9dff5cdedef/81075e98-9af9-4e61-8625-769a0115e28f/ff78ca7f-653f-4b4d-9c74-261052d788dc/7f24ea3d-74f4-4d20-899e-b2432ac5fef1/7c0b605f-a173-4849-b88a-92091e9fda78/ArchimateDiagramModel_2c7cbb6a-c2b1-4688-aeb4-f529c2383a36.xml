@@ -1,0 +1,27 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generer notifikasjoner (løsningsmønster)"
+    id="2c7cbb6a-c2b1-4688-aeb4-f529c2383a36">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Genere notifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_epublisering"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støttetjenester"
+    id="f1e9336b-1613-469c-a077-579b5a42e8ef">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

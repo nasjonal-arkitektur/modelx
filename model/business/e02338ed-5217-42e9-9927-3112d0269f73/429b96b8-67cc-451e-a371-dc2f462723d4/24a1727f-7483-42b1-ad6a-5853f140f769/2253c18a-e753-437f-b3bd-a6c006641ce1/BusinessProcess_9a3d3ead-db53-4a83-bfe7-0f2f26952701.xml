@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette MT-nummer"
+    id="9a3d3ead-db53-4a83-bfe7-0f2f26952701"
+    documentation="Som en del av innregistreringsprosessen registreres medikamentet det søkes om MT for, i Athene. Medikamentet registreres med status &quot;Søkt MT&quot;.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

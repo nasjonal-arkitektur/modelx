@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSubmission Portal / Web Client"
+    id="149b64cb-f700-4202-9c82-67f676f29a02"
+    documentation="The web-based Gateway Web Client may be more suitable for small and medium-sized companies, however it is available for all applicants. The Gateway and the Web Client users will benefit from an automated confirmation of the technical validation feedback and an automated upload to the Agency’s eCTD review system. The use of the eSubmission Gateway and the Web Client is mandatory for all human and veterinary submissions.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

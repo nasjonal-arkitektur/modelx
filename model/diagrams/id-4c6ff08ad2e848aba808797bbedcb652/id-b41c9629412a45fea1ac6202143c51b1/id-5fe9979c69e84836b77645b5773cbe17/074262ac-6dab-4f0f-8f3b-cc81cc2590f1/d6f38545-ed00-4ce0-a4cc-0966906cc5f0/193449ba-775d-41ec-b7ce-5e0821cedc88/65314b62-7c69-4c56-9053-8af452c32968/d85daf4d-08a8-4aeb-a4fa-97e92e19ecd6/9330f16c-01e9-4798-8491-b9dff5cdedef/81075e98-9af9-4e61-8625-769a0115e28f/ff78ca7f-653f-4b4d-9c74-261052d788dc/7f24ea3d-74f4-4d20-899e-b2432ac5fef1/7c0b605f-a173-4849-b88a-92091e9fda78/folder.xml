@@ -1,0 +1,20 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB"
+    id="7c0b605f-a173-4849-b88a-92091e9fda78">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="SBB"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:Folder>

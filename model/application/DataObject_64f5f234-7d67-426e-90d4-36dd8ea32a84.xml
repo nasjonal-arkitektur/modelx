@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journal"
+    id="64f5f234-7d67-426e-90d4-36dd8ea32a84">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

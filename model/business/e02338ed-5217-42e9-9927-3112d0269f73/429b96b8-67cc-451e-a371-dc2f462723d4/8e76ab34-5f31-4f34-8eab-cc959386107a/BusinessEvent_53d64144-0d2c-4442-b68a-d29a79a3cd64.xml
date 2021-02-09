@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assessment Report utarbeidet"
+    id="53d64144-0d2c-4442-b68a-d29a79a3cd64">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

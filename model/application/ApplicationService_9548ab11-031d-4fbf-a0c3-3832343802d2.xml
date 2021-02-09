@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kalendervisning"
+    id="9548ab11-031d-4fbf-a0c3-3832343802d2">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

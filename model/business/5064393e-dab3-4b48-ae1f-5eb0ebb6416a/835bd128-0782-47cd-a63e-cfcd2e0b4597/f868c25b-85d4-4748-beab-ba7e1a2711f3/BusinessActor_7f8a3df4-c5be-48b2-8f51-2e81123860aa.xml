@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA+ paralelle SA for legemidler til mennesker (lag)"
+    id="7f8a3df4-c5be-48b2-8f51-2e81123860aa"
+    documentation="Svare på spørsmål fra søker">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

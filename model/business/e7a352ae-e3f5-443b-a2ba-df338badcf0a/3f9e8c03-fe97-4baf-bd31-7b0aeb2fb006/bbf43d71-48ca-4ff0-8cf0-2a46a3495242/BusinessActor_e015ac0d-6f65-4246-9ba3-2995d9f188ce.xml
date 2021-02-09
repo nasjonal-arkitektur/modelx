@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dagny Driftsleverandør"
+    id="e015ac0d-6f65-4246-9ba3-2995d9f188ce">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

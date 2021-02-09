@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forutsetninger for arbeid med definisjon av datasett og API"
+    id="id-10635a87eda1423188e7952fcce3ad33"
+    documentation="Vi forutsetter og bygger på en viss fremgang i arbeid med&#xD;&#xA;https://data.norge.no/guide/veileder-orden-i-eget-hus/[orden i eget hus]&#xD;&#xA;hos deltagende virksomheter der noen datasett er dokumentert i en&#xD;&#xA;datakatalog. Dette kan enten være Digitaliseringsdirektoratets&#xD;&#xA;https://data.norge.no/[felles datakatalog], eller en fremtidig katalog&#xD;&#xA;for høyere utdanning og forskningssektoren som høstes inn i felles&#xD;&#xA;datakatalogen.&#xD;&#xA;&#xD;&#xA;Vi forutsetter også en domenebasert tilnærming der det finnes noen&#xD;&#xA;masterdata kilder som reflekterer den overordnede forretningsmodellen&#xD;&#xA;til utdanning og forskning. Disse realiserer «domains aligned with the&#xD;&#xA;source» i figuren under (fra How to Move Beyond a Monolithic Data Lake&#xD;&#xA;to a Distributed Data Mesh&#xD;&#xA;&#xD;&#xA;https://martinfowler.com/articles/data-monolith-to-mesh.html#CentralizedAndMonolithic).&#xD;&#xA;&#xD;&#xA;image:{imagepath}image10.png[image,width=601,height=331]&#xD;&#xA;&#xD;&#xA;Disse kildene vil være basiskildene, som for eksempel studentregister,&#xD;&#xA;ansattregister, organisasjonsregister, emneregister,&#xD;&#xA;forskningsdatakilder og Learning Object Repository. Disse kildene&#xD;&#xA;defineres i andre prosesser. Innhold i disse masterdatakildene suppleres&#xD;&#xA;av annen informasjon i en mer bruksnær kontekst, og en tilnærming til&#xD;&#xA;definisjon av denne er beskrevet under.&#xD;&#xA;&#xD;&#xA;Rutinen under benyttes dermed til å definere API og datasett i «domains&#xD;&#xA;aligned with the consumption», eller brukernære behov.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-forvaltning"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

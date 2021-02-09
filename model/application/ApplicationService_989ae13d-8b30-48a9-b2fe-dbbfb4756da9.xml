@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begreper"
+    id="989ae13d-8b30-48a9-b2fe-dbbfb4756da9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

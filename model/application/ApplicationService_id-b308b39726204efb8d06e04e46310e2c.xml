@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks kjøretøyregister"
+    id="id-b308b39726204efb8d06e04e46310e2c">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhente dokumentasjon på at rapport er fulgt opp"
+    id="5bcbe636-39e1-4be2-9111-f874d7625148"
+    documentation="Tilsynsobjektet får frist angitt i rapporten for korreksjon av avvik.&#xD;&#xA;&#xD;&#xA;Alle avvik følges opp.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

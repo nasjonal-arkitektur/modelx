@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reklametilsyn"
+    id="316b45c0-357a-40fc-8f94-7bf4802d036c"
+    documentation="Legemiddelverket fører tilsyn med reklame for legemidler. Tilsynsarbeidet omfatter all slags legemiddelreklame – skriftlig og muntlig – uavhengig av form, kanal og sted. Tilsynet skal bidra til å sikre:&#xA;* Trygg bruk av legemidler&#xA;* Etterlevelse av refusjonsreglene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

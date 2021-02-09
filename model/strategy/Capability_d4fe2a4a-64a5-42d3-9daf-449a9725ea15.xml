@@ -1,0 +1,27 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Retrieval"
+    id="d4fe2a4a-64a5-42d3-9daf-449a9725ea15">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Innhente datagrunnlag"/>
+  <properties
+      key="difi:name_en"
+      value="Evidence Retrieval"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

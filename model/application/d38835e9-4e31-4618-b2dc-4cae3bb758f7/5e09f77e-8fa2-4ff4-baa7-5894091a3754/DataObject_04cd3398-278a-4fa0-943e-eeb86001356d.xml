@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyserapport"
+    id="04cd3398-278a-4fa0-943e-eeb86001356d"
+    documentation="Analyserapport - basert på egen Word-mal.&#xD;&#xA;I dokumentet flettes inn grunndata fra regnearket med grunndata, slik at man ikke behøver å taste grunndata på nytt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

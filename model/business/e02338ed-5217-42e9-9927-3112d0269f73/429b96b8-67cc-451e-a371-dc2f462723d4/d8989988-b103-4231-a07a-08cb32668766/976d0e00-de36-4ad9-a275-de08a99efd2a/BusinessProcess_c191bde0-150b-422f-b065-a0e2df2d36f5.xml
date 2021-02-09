@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Start nasjonal fase"
+    id="c191bde0-150b-422f-b065-a0e2df2d36f5"
+    documentation="MT-søknad er godkjent, og det er klart for Nasjonal Fase - dvs. godkjenning av norsk produktinformajson.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

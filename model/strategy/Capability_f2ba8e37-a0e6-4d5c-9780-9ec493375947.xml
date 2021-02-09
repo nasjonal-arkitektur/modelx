@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medvirkning"
+    id="f2ba8e37-a0e6-4d5c-9780-9ec493375947">
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

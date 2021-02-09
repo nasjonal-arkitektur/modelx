@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forsyningskjeden - kompetansenettverk"
+    id="f1ddddf2-d3ac-4e45-9b95-cce3f8b3e67e"
+    documentation="Kompetansedeling innen fagområdene tilsyn, kvalitetssvikt, leveringssikkerhet, virksomhetstillatelser, narkotikakontroll og klassifisering">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

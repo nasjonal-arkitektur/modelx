@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for kvalitet"
+    id="d43c5a24-47a0-43a5-8b01-834853eb1c97"
+    documentation="Ansvarsområder:&#xD;&#xA;* Greie ut kvaliteten til kjemiske og biologiske legemiddel inkludert vaksinar&#xD;&#xA;* Følge opp MT-eigarar sitt ansvar&#xD;&#xA;* Gjennomføre klassifisering og forvalte regelverk knytt til narkotika og doping">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

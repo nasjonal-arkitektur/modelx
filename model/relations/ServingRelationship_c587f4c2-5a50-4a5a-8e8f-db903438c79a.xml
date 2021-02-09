@@ -1,0 +1,16 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overvåking av feilsituasjoner"
+    id="c587f4c2-5a50-4a5a-8e8f-db903438c79a"
+    documentation="Feilede meldinger overvåles vha Application Insights">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_95dd5c4f-3ed1-4872-a98d-2d39055d3487.xml#95dd5c4f-3ed1-4872-a98d-2d39055d3487"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_868093db-6824-4110-8e63-8024a2a39a64.xml#868093db-6824-4110-8e63-8024a2a39a64"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Athene - Kodeverksmodul"
+    id="57efed6d-e711-482d-a816-7dcd50ec5b4b">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad om markedsføringstillatelse (MT)"
+    id="9e2d356e-2954-42fc-b21e-2a30639e20e5"
+    documentation="Markedsføringstillatelse er nødvendig for å kunne markedsføre (selge) legemidler. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

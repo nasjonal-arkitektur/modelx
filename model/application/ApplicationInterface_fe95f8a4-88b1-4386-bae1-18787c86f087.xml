@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maskin til maskin grensesnitt"
+    id="fe95f8a4-88b1-4386-bae1-18787c86f087">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationInterface>

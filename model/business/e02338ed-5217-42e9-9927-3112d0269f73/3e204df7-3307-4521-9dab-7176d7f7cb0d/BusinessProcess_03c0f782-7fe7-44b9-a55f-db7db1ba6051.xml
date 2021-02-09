@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende søknad om godkjenningsfritak"
+    id="03c0f782-7fe7-44b9-a55f-db7db1ba6051"
+    documentation="Sjekk av negativ- / positivlisten gjøres ofte automatisk i EPJ-systemet.&#xD;&#xA;Legen trykker &quot;send&quot;. Systemet sendes søknad automatisk til SLV eller Apotek, avhengig av om det inngår i notifiseringsordningen / står positivlisten eller står på negativlisten.&#xD;&#xA;Legen må fylle ut et forhåndsdefinert skjema, med søknadsinformasjon.&#xD;&#xA;Funksjonaliteten forutsetter at EPJ-systemet er oppdatert fra FEST.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generikaprodusent"
+    id="a4acd350-b0f6-4bcb-9de5-d95faa136073"
+    documentation="Generika - farmasøytisk byttbare legemidler - er legemidler som har samme virkestoff og effekt som originalpreparatene og som produseres av konkurrerende produsenter etter at patenttiden til originalpreparatene er utløpt. Patenttiden er typisk 20 år.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

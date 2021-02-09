@@ -21,7 +21,7 @@
       value="archi:application-collaboration"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -32,11 +32,4 @@
       key="difi:description_en"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="67409610-7853-4070-b88c-a32298fb2ab1"/>
 </archimate:ApplicationCollaboration>

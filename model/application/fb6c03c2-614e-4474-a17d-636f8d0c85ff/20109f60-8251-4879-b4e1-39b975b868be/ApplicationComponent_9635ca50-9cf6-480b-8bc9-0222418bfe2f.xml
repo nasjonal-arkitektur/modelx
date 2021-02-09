@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Athene"
+    id="9635ca50-9cf6-480b-8bc9-0222418bfe2f"
+    documentation="Athene er et internt fagsystem som forvalter all legemiddelinformasjon – produktbeskrivelser, administrering- og doseringsinformasjon, pris og refusjon, markedsføringsstatuser m.m.&#xD;&#xA;Informasjon som registreres i systemet danner også grunnlaget for data FEST-meldingen.&#xD;&#xA;Athene er samhandlingsløsningens kilde for preparatinformasjon, utover det som ligger i det innsendte søknadsskjemaet.&#xD;&#xA;Samhandlingsløsningen henter informasjon om en søknads MTer fra Athene, basert på MT-nummer fra søknaden, eller MT-nummer angitt av saksbehandler (for nye MTer), og utfører knytningen mellom sak opprettet i 360° og Athene.&#xD;&#xA;&#xD;&#xA;Athene benyttes samtidig av 100-150 ansatte daglig og har betydelige avhengigheter til 360 og SAM. Hvis Athene er nede, funger ikke SAM. 360 vil fungere – men koblinger mot sak i Athene som Arkiv ofte må legge inn – vil ikke fungere.&#xD;&#xA;Dersom Athene er nede vil dette derfor påvirke svært mange saksbehandlere hos Legemiddelverket, ikke kun saksbehandlere som bare jobber i Athene.&#xD;&#xA;Dersom Athene er nede vil det forsinke saksbehandlingen for markedsføringstillatelser, prisvedtak osv. Det er derfor svært kritisk at Athene er oppe.&#xD;&#xA;&#xD;&#xA;Aåpplikasjon med egen database.&#xD;&#xA;Brukes til håndtering av legemiddelinformajson og redaksjonelt innhold&#xD;&#xA;&#xD;&#xA;Løsnignen er basert på .Net-teknologi&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

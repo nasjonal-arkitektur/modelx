@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Driftes av"
+    id="54ad1b6b-c1f2-4b71-a514-9c11a8808986">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_f35b5ebb-c830-4d8b-b1c6-25987de2fe3a.xml#f35b5ebb-c830-4d8b-b1c6-25987de2fe3a"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d1988fc7-2c6e-4ecb-a29f-c304680367a6.xml#d1988fc7-2c6e-4ecb-a29f-c304680367a6"/>
+</archimate:ServingRelationship>

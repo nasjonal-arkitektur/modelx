@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilleggstjeneste"
+    id="e3a8d425-78df-4e02-9189-bba912448842">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

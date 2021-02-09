@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltning av naturressurser"
+    id="f0e5f6a0-144f-400e-9878-6f3a774ff3bf"
+    documentation="Ability to identify, track, set quality standards for, equitably sustain, and distribute the supply of non-living matter derived from nature such as, but not limited to, solar energy, waves, wind, natural gas, shale, minerals, and ores such as coal and precious metals, which include uranium.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forvaltning av naturressurser"/>
+  <properties
+      key="difi:name_en"
+      value="Natural Resources Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, track, set quality standards for, equitably sustain, and distribute the supply of non-living matter derived from nature such as, but not limited to, solar energy, waves, wind, natural gas, shale, minerals, and ores such as coal and precious metals, which include uranium."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, track, set quality standards for, equitably sustain, and distribute the supply of non-living matter derived from nature such as, but not limited to, solar energy, waves, wind, natural gas, shale, minerals, and ores such as coal and precious metals, which include uranium."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

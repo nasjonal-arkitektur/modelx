@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdater informasjon i Athene"
+    id="e74d68c2-3cb8-4b1d-9c9d-4ee36e7f0314">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

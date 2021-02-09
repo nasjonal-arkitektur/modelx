@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fornye markedsføringstillatelse"
+    id="c779da06-95c8-4e1c-85b5-2c86a0031279"
+    documentation="I løpet av 5 år etter utstedelse må markedsføringstillatelsen fornyes. Søknaden om fornyelse må sendens inn senest 9 måneder før det har gått fem år. Man kan enten få &quot;evig&quot; markedsføringstillatelse i de disse tilfellene, eller en markedsføringstillatelse som varer i fem nye år.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

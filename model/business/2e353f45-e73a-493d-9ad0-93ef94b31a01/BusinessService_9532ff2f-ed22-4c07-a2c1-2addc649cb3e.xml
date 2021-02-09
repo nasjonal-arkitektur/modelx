@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faktura og purring fra kommunen"
+    id="9532ff2f-ed22-4c07-a2c1-2addc649cb3e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

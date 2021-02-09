@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere og frigi vaksiner til mennesker (batch release)"
+    id="f12a153e-1edd-414e-a3f4-4d711f9d24dc">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

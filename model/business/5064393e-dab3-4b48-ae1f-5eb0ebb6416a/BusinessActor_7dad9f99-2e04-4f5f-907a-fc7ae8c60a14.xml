@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="National Competent Authority (NCA)"
+    id="7dad9f99-2e04-4f5f-907a-fc7ae8c60a14"
+    documentation="A National Competent Authority (Legemiddelstyresmakter) – or regulatory authority – has the power to grant marketing authorisations for medicinal products in its territory.&#xA;&#xA;National competent authorities are organisations that have the legally delegated or invested authority, or power to perform a designated function, normally monitoring compliance with the national statutes and regulations.&#xA;&#xA;Statens legemiddelverk, Läkemedelsverket (Sverige), Lægemiddelstyrelsen (Danmark), Medicines and Healthcare products Regulatory Agency (England) er et eksempeler på Legemiddelstyiringsmakter. Med EU/EØS-regulativene som finnes er det spesielt stort fokus på godt samarbeid på tvers av ulike styresmakter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

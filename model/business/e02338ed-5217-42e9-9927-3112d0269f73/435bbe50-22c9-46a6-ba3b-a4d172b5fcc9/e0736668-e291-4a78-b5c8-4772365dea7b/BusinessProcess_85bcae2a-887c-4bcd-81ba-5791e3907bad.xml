@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede sviktmeldingen"
+    id="85bcae2a-887c-4bcd-81ba-5791e3907bad"
+    documentation="Produsenten utreder sviktmeldingen, og rapporterer tilbake til SLV.&#xD;&#xA;Som en del av utrednignen berikes også sviktmeldingen med detaljinformasjon, i tillegg til observasjoner og konklusjoner knyttet til svikttilfellet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

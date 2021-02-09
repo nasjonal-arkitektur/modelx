@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifisere kandidater til positivlisten"
+    id="85d2bad5-8198-4dce-93b5-70aee70e116e"
+    documentation="Periodisk gjennomgang av enkeltvedtak for å se om det finnes medikamenter som kan settes på positivlisten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

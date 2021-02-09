@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In silico medisin (lag)"
+    id="c85c4728-66fe-46c9-9f82-6a439c0abb1d">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

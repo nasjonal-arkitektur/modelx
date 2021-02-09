@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unzip CESP"
+    id="c536f100-8771-46cd-ad2c-8170b78180d8"
+    documentation="Jobb som pakker ut MT-søknader og legger dem tilgjengelig for akrivet">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

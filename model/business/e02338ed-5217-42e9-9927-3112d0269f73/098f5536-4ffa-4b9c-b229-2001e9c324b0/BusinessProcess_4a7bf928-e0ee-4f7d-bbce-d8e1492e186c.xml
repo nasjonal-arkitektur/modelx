@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Velge tilsynsobjekter"
+    id="4a7bf928-e0ee-4f7d-bbce-d8e1492e186c"
+    documentation="De fleste tilsyn genereres av Legemiddelverket selv. Nasjonale tilsyn.&#xD;&#xA;Det stilles krav fra EU mht hvor hyppighet på tilsyn på de ulike områdene:&#xD;&#xA;&#x9;• Legemiddeltilvirkere (hvert 3. år)&#xD;&#xA;&#x9;• Blodbanker (hvert 2. år)&#xD;&#xA;&#x9;• Grossister (hvert 5. år)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

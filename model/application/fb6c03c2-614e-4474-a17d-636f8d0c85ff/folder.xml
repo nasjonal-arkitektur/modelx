@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komponenter"
+    id="fb6c03c2-614e-4474-a17d-636f8d0c85ff">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Folder>

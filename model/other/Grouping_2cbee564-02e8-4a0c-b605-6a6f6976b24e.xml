@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offentlig organisasjonsledelse"
+    id="2cbee564-02e8-4a0c-b605-6a6f6976b24e"
+    documentation="Ability to create, structure, and govern a governmental body or collection of governmental bodies.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Offentlig organisasjonsledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Public Sector Entity Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to create, structure, and govern a governmental body or collection of governmental bodies."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to create, structure, and govern a governmental body or collection of governmental bodies."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvekslet hendelsesliste"
+    id="55d7af88-fd1a-4b50-86e5-3fc7224f2f3d"
+    documentation="Hendelsesliste som utveksles,  filtrert ut fra konsumentens spesifikasjoner.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

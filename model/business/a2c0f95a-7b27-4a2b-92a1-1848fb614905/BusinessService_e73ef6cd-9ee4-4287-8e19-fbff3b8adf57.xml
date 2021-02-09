@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtere Rapid alert / kvalitetssvikt"
+    id="e73ef6cd-9ee4-4287-8e19-fbff3b8adf57"
+    documentation="Behandle meldinger om kvalitetssvikt på legemidler og medisinsk utstyr&#xD;&#xA;* Prosess knyttet til tilbaketrekking av produkter fra markedet&#xD;&#xA;* Vanskelig å finne hvilket produkt, fordi man får melding fra produsent om alle medikamenter med stoff produsert fra sånn og slik produsent&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

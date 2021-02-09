@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="?"
+    id="2e915044-2765-4351-b2b8-7cf2fab652be">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

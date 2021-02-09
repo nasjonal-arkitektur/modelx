@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgang av alle standarbrev og standardtekster i enhet for legemiddelbruk (Få måneder) (lag)"
+    id="d9f3a0b6-25a6-4b17-b7f1-86da5c1d2713"
+    documentation="Vurdere behovet for, forenkle og språkvaske standardbrev og standardtekster">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

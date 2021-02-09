@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinical Trial (EVCTM)"
+    id="850d3e28-01f4-40a1-8f54-f9849d391c06"
+    documentation="EudraVigilance Clinical Trials module">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telefon"
+    id="3bb22588-9257-4f03-876a-143cee16e4ab">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessInterface>

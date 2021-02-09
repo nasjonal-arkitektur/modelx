@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgå MT-søkers tilsvar"
+    id="2fead1b9-bd1b-40cb-9275-3c5bfb5f8cb3"
+    documentation="MT-søkers tilsvar gjennomgås. På dette stadiet i prosessen er det normalt mindre detaljer som avklares.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

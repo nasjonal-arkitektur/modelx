@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette sak"
+    id="c8a9e074-f473-45f4-804b-c8e6cf5ae79b"
+    documentation="Som en del av innsjekkarbeidet opprettes det sak i SAM (og implisitt i Public 360) ved opplasting og innsjekk av søknad.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

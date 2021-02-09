@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende inn søknad om endring av klinisk utprøving"
+    id="2ee515e8-08de-4bf1-8000-2c7ae3a352af"
+    documentation="I en del tilfeller oppstår det endringer under veis i utprøvingen. Det kan f.eks. være endring av antall personer i studien, endring av type pasienter, justering av metode osv.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

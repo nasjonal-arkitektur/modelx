@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applikasjonsoversikt forespørsel integrert med IAM"
+    id="id-9b773390a5394211a66e1592400c00f4">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-6e3e4636c5b54ad8b4e4bb11b37353e7"/>
+  <properties
+      key="drill down"
+      value="id-6e3e4636c5b54ad8b4e4bb11b37353e7"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

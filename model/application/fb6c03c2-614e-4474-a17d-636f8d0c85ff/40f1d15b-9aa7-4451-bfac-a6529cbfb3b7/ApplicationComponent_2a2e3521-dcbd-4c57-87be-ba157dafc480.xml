@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Exchange"
+    id="2a2e3521-dcbd-4c57-87be-ba157dafc480"
+    documentation="Exchange Server er Microsoft`s løsning for e-post og gruppevare. Dette innebærer e-post, kalender, kontakter, oppgaver med tilhørende funksjoner som webmail, synkronisering etc..&#xD;&#xA;&#xD;&#xA;Webmail-funksjonaliteten som het Outlook Web Access i tidligere versjoner av Exchange har nå fått navnet Outlook Web App (OWA). ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

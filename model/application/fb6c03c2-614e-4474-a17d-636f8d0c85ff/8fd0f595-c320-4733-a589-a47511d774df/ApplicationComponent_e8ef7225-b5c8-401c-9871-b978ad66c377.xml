@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU Pharmacovigilance Issues Tracking tool (EPITT)"
+    id="e8ef7225-b5c8-401c-9871-b978ad66c377"
+    documentation="- Database developed by EMA to promote&#xD;&#xA;the rapid communication of&#xD;&#xA;pharmacovigilance and risk management&#xD;&#xA;issues between the EMA, Committees and&#xD;&#xA;NCAs.&#xD;&#xA;- All signals validated by EMA and MSs are&#xD;&#xA;entered in EPITT.&#xD;&#xA;- Further steps of the signal management&#xD;&#xA;process (confirmation and evaluation) are&#xD;&#xA;also tracked in EPITT.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

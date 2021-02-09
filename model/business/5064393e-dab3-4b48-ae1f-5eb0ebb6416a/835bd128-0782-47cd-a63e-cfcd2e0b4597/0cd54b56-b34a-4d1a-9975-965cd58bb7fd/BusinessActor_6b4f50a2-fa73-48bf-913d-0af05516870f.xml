@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningslaget (lag)"
+    id="6b4f50a2-fa73-48bf-913d-0af05516870f"
+    documentation="Håndtering av pasientrapporter, rette opp duplikater av meldinger og annet vedlikehold, teknisk arbeid, kontakt med legemiddel- firma, oversendelser til EMA og firma. (Tidligere bivirkningsdatabasen og bivirkningsinformasjon)&#xA;&#xA;Arbeid for å omsette kunnskap om bivirkninger til råd om hensiktsmessig bruk av legemidler, nyhetssaker, rapporter, &quot;Kjære helsepersonell-brev&quot; (DHPC), opplæringsmateriell, besvare henvendelser fra media, pasienter og helsepersonell, årsrapport, oppsummeringer om meldte bivirkninger etter HPV-vakinering.&#xA;&#xA;Sammenslaåing av tidligere bivirnkningdatabasen og bivirkningsinformasjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alvorlig signal / vaksine"
+    id="a1f7aa61-e4c3-40bb-a56b-2a9ff0793467"
+    documentation="Dersom det er signal om alvorlige bivirkninger eller signaler knyttet til vaksiner, går signalet direkte til utredning.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1ac2ad95-30e2-4ce9-b911-420ed80ed981.xml#1ac2ad95-30e2-4ce9-b911-420ed80ed981"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_10baf09e-724e-474a-82d4-5056460612f5.xml#10baf09e-724e-474a-82d4-5056460612f5"/>
+</archimate:FlowRelationship>

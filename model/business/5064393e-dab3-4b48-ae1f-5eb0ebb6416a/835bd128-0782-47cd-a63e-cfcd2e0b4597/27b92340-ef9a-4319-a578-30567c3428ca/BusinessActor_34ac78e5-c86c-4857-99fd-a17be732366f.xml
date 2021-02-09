@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systemeierlaget (lag)"
+    id="34ac78e5-c86c-4857-99fd-a17be732366f"
+    documentation="Lag av systemeiere for fagsystemer i henhold til med ansvar i henhold til gjeldende forvaltningsretningslinjer med tilhørende rolle- og ansvarskart.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

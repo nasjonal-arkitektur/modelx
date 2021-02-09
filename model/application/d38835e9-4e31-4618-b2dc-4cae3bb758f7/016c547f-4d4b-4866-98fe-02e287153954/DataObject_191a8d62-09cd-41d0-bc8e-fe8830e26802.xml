@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maksprissøknad"
+    id="191a8d62-09cd-41d0-bc8e-fe8830e26802"
+    documentation="Søknadsskjema er et Excel-ark - der må de legge inn informasjon med hvilke pakker, varenummer, MT-nummer og referansepriser I 9 utvalgte land der legemiddelet markedsføring. Dette er underlaget for å sette pris.&#xD;&#xA;Det etterprøves om prisene de sender inn er riktig I forhold til det de sender inn. &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

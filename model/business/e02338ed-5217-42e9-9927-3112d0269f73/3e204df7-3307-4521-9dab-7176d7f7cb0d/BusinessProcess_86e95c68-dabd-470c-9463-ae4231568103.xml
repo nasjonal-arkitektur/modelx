@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flytte legemidler til negativlisten"
+    id="86e95c68-dabd-470c-9463-ae4231568103"
+    documentation="Dersom man fra statistikken ser tendens til for mye forskriving av et legemiddel på positivlisten, kan legemiddelet legges tilbake på negativlisten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

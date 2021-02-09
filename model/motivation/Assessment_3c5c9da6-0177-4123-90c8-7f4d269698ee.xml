@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manglende kapasitet til saksbehandling"
+    id="3c5c9da6-0177-4123-90c8-7f4d269698ee"
+    documentation="Man har ikke tilstrekkelig saksbehandlerkapasitet til å håndtere hele saksmengden. Dette medfører blant annet at sluttrapporter sjelden eller aldri blir gjennomgått.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

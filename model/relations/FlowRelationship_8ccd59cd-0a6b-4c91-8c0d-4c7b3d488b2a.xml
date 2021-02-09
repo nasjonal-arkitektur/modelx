@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="går over i"
+    id="8ccd59cd-0a6b-4c91-8c0d-4c7b3d488b2a">
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="går over i"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_c012f55c-39e2-4082-a6ab-7c25aca9a396.xml#c012f55c-39e2-4082-a6ab-7c25aca9a396"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_c41fdf00-e8dd-48ca-ab02-13e849fd5e67.xml#c41fdf00-e8dd-48ca-ab02-13e849fd5e67"/>
+</archimate:FlowRelationship>

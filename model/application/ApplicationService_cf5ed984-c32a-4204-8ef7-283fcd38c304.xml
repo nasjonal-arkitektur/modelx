@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSignering (tjeneste under SvarUt)"
+    id="cf5ed984-c32a-4204-8ef7-283fcd38c304">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

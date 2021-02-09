@@ -1,0 +1,8 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vigselportal"
+    id="3e64c9c7-2049-4848-bc01-09fbf5c4d1df">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessInterface>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informere om legemidler og bivirkninger"
+    id="ee06831c-129b-4554-89b8-8097f700b3cf"
+    documentation="På bakgrunn av data samlet i bivirkningsdatabasen framstilles det statistikker og rapporter.&#xD;&#xA;Dette informeres om i ulike kanaler, blant annet på legemiddelverkets nettisder og i ulike publikasjoner.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

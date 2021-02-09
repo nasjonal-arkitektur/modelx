@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressursstyring"
+    id="41ddd74a-7b3a-47aa-9a42-5b4bcecc6e36"
+    documentation="Evnen til å anskaffe, forvalte, utnytte og rapportere ressursbruk.">
+  <properties
+      key="Nivå"/>
+  <properties
+      key="Kilde"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

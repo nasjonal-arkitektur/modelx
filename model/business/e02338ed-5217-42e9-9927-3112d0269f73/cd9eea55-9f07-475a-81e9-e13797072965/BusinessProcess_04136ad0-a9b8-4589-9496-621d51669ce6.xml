@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patentsøknad"
+    id="04136ad0-a9b8-4589-9496-621d51669ce6"
+    documentation="Det søkes ofte patent tidlig i utviklingsprosessen for å ha rettigheter til inntjening knyttet til produktet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

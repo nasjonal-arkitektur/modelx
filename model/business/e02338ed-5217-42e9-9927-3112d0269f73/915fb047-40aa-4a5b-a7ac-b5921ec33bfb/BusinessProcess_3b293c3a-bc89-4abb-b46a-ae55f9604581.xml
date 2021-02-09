@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utforme liste med standpunkt"
+    id="3b293c3a-bc89-4abb-b46a-ae55f9604581"
+    documentation="Det utformes en liste med medlemsland som er klar til å godkjenne søknaden om klinisk utprøving og med de som har flere punkter som må avklares.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

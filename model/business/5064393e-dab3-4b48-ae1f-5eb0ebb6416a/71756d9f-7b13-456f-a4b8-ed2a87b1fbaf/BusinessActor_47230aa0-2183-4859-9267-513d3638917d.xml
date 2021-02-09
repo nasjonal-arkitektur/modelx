@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagleder"
+    id="47230aa0-2183-4859-9267-513d3638917d"
+    documentation="Å være lagleder er en rolle, ikke en stilling, og vil typisk utgjøre 5-20% av en stilling. Det er normalt to års varighet på laglederrollen. Deretter lyses rollen ut og alle i organisasjonen kan søke. Tidligere lagleder kan oppnevnes på nytt. Enhetsleder skal som hovedregel ikke være lagleder.&#xD;&#xA; &#xD;&#xA;Ansvar og oppgaver:&#xD;&#xA;Har overordnet ansvar for lagets oppgaver, møter, arbeidsmåter, aktivitetsplaner og resultater.&#xD;&#xA;Har ansvar for å løfte problemstillinger som laget ikke selv kan løse til den enhetslederen som har oppfølgingsansvar for laget – eksempelvis ressursbehov, manglende leveranse, kvalitetskrav, og nye problemstillinger som oppstår.&#xD;&#xA;Er kontaktpunkt mot ansvarlig enhetsleder.&#xD;&#xA;Har ansvar for at nye lagmedarbeidere får relevant opplæring.&#xD;&#xA;Forholder seg til PMs prioriteringer.&#xD;&#xA;Har ansvar for å evaluere arbeidsmåter og resultater for å bli bedre">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

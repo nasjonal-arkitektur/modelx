@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksportere pris- og refusjonsinformasjon til Farmalogg"
+    id="09523edc-afcb-44ea-8525-30ddf1f1e561"
+    documentation="Oppdaterte pris- og refusjonsdata eksporteres fra Athene, og lastes opp i Farmalogg.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

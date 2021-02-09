@@ -1,0 +1,30 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Få tilgang til og innhente eksterne data"
+    id="83ba1ee0-d44b-4a02-8235-90f038a71dc2">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Få tilgang ti og innhente eksterne data"/>
+  <properties
+      key="difi:name_en"
+      value="Obtaining and ingesting external data"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

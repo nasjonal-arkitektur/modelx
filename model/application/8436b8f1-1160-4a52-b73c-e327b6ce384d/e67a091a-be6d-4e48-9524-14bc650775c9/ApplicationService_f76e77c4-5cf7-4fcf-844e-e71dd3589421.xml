@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn Bivirkningsskjema (Pasientrapportering)"
+    id="f76e77c4-5cf7-4fcf-844e-e71dd3589421"
+    documentation="PASSRAP&#xA;Det er laget eget skjema i Altinn for innrapportering av bivirkninger.&#xD;&#xA;Skjemaet inneholder alle felter som en pasient eller pårørende kan svare på.&#xD;&#xA;En del dataelementer som er nødvendig for komplett registrering, men som krever fagkvalifikasjoner for å fylle ut, er ikke tatt med i skjemaet.&#xD;&#xA;Supplerende informasjon fylles ut av saksbehandler.&#xD;&#xA;&#xD;&#xA;Pasientrapportering er webbasert rapportering for egenmelding av bivirkninger for hele den norske befolkning. Eget webskjema (www.legemiddelverket.no) som benytter for eksempel BankID, gir vanlige personer mulighet til å melde inn bivirkninger. Meldingene går inn til den nasjonale Bivirkningsdatabasen. Dagens løsning benytter komponenter fra Eyra-prosjektet (og det bør rutes om så ikke unødvendige og kompliserende moduler er påkrevd for meldingsflyten). Testmiljøet i Altinn (TT02) er reetablert for testing mot Viginor. Med fast kobling mot det nye Sandbox miljøet, er det gode muligheter for å videreutvikle systemet for Pasientrapportering.&#xD;&#xA;&#xD;&#xA;Kildekoden til Pasientrapporteringen ligger i samme koderepo som SAM, og deployes sammen med SAM">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn sending av dokument"
+    id="49882dac-59f9-421a-a7ec-f33c4d792b64"
+    documentation="Denne løsningen kan du bruke til å sende og motta dokumenter og store datamengder. Du bruker en sikker infrastruktur til formidling og kan spore forsendelsene.">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn sending av dokument"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>

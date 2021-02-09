@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="representerer"
+    id="720e4529-9cd9-4e3b-bd63-cf7dc917ce32">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="representerer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_eeb9476f-3b68-4b75-a168-594378fdeb9e.xml#eeb9476f-3b68-4b75-a168-594378fdeb9e"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_0d867114-d08f-4a8f-8089-797f0883d784.xml#0d867114-d08f-4a8f-8089-797f0883d784"/>
+</archimate:AssignmentRelationship>

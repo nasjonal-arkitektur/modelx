@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette sak for enkelttilsyn"
+    id="590054b0-1a6c-44f9-b51c-44f37eb82f05"
+    documentation="Alle tilsyn som gjennomføres skal være registrert som sak i arkivet / saksbehandlingssystemet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

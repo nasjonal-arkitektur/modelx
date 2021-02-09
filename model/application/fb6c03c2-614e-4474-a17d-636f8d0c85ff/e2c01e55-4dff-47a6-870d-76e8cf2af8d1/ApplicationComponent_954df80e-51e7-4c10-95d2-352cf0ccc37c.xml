@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dips Communicator"
+    id="954df80e-51e7-4c10-95d2-352cf0ccc37c"
+    documentation="Dips Communicator benyttes som meldingsmotor for Godkjenningsfritak mot Eresept og for utveksling av FEST informasjon mellom NAV/Helfo og Farmalogg. Dips Communicator er satt opp for meldingsutveksling mot Reseptformidler (RF). Funksjonen for meldingsutveksler er å sørge for sikker flyt av meldinger i forbindelse med Godkjenningsfritak. &#xD;&#xA;&#xD;&#xA;FEST-DIPS er en instans av DIPS meldingsmotor. Den formidler XML-meldinger på M30 format mellom Apollon i Legemiddelverket og NAV/Helfo-meldingsmottak. Det sendes informasjon om Handelsvarer fra Helfo til Legemiddelverket. Og det sendes FEST-M30 fra Legemiddelverket til Helfo. I tillegg formidler den XML-meldinger på VAREREG-format fra Farmalogg til Athene i Legemiddelverket. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

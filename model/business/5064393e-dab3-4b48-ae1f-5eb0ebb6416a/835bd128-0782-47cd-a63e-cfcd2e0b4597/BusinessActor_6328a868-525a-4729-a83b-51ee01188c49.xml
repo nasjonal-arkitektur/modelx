@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varseltrekant"
+    id="6328a868-525a-4729-a83b-51ee01188c49"
+    documentation="Midlertidig lag som skal rydde opp i merking med varseltrekant. Legemidlene som skal merkes med varseltrekant må samsvare med den legemiddellisten som Helsedirektoratet har utarbeidet til førerkortforskriften. De legemidlene som Helsedirektoratet har satt på sin liste skal merkes med varseltrekant. Gjeldende merking på eventuelle andre legemildler skal fases ut.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

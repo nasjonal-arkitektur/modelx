@@ -1,0 +1,36 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere API"
+    id="401e79ba-83e5-4aec-9f55-66e228109fbd"
+    documentation="Prosess med å registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Registrere API"/>
+  <properties
+      key="difi:description_no"
+      value="Registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessProcess>

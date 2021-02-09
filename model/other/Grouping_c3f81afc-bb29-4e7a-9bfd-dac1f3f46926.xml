@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Energiadministrasjon"
+    id="c3f81afc-bb29-4e7a-9bfd-dac1f3f46926"
+    documentation="Ability to organize, distribute, conserve, control, and monitor the generation and use of sources of power derived from the utilization of physical or chemical resources, especially to provide light and heat and to work devices and machines.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Energiadministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Energy Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to organize, distribute, conserve, control, and monitor the generation and use of sources of power derived from the utilization of physical or chemical resources, especially to provide light and heat and to work devices and machines."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to organize, distribute, conserve, control, and monitor the generation and use of sources of power derived from the utilization of physical or chemical resources, especially to provide light and heat and to work devices and machines."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

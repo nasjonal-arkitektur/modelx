@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relasjonshåndtering"
+    id="aaa336f1-186f-408d-89dd-cbdb63ff4c17"
+    documentation="Evnen til å levere tjenester gjennom en god dialog med innbygger.">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

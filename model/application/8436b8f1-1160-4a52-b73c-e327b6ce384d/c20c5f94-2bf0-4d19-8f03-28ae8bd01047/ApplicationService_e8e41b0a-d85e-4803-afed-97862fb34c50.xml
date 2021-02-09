@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Repository - Brukergrensesnitt"
+    id="e8e41b0a-d85e-4803-afed-97862fb34c50">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

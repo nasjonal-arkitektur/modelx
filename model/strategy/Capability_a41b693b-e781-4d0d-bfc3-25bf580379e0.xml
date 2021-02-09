@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital transformasjon"
+    id="a41b693b-e781-4d0d-bfc3-25bf580379e0"
+    documentation="Ta i bruk ny teknologi for å endre arbeidsprosessen til noe som ikke var mulig uten teknologien.">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

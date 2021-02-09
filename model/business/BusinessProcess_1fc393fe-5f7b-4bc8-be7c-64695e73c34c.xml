@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosess som kun utføres ved behov"
+    id="1fc393fe-5f7b-4bc8-be7c-64695e73c34c">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessProcess>

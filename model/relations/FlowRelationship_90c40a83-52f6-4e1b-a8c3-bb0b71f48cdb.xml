@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mangler / forbedringsbehov"
+    id="90c40a83-52f6-4e1b-a8c3-bb0b71f48cdb">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5f1180ef-d8f6-4cf6-b7d9-58f8533d7fa5.xml#5f1180ef-d8f6-4cf6-b7d9-58f8533d7fa5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_59a5451d-92be-4c29-a3d6-341e136ab600.xml#59a5451d-92be-4c29-a3d6-341e136ab600"/>
+</archimate:FlowRelationship>

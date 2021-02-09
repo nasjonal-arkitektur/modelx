@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å vurdere om data kan gjøres tilgjengelig som åpne data"
+    id="ea93787b-9c26-4a5a-a6ea-50fe579924ed"
+    documentation="Forklaring:&#xD;&#xA;Hvis data klassifiseres som grønn (eventuelt gule data som kan være aktuelt å dele som åpne data), må det videre vurderes om dataene skal deles som åpne data. Her vil flere forhold kunne spille inn. Eksempel på dette er vurdering av om dataene er interessante for allmennheten, samt vurdering av kostnadene med å dele dataene sett i forhold til samfunnsnytten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Sjekkliste for vurderingene som skal gjøres før dataene eventuelt gjøres tilgjengelig som åpne data&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å vurdere om data kan gjøres tilgjengelig som åpne data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Hvis data klassifiseres som grønn (eventuelt gule data som kan være aktuelt å dele som åpne data), må det videre vurderes om dataene skal deles som åpne data. Her vil flere forhold kunne spille inn. Eksempel på dette er vurdering av om dataene er interessante for allmennheten, samt vurdering av kostnadene med å dele dataene sett i forhold til samfunnsnytten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Sjekkliste for vurderingene som skal gjøres før dataene eventuelt gjøres tilgjengelig som åpne data&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

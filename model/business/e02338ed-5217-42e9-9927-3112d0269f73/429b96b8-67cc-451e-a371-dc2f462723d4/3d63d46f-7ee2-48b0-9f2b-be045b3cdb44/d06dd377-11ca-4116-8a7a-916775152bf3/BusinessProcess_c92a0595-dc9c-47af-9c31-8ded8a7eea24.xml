@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstede MT-brev med norsk PI"
+    id="c92a0595-dc9c-47af-9c31-8ded8a7eea24"
+    documentation="Når man har mottatt produktinformasjonen fra MT-søker har man 30 dager på å gjennomgå og kommentere og be om forbedringer.&#xD;&#xA;Det er kun den norske oversettingen som gjennomgås. Den engelske versjonen av produktinformasjonen er på dette stadiet ferdig kontrollert og godkjent.&#xD;&#xA;&#xD;&#xA;Det kan være flere runder innenfor disse 30 dagene.&#xD;&#xA;&#x9;• Samarbeid med de andre nordiske landene - dersom firmaet skal ha samme pakning I de nordiske landene&#xD;&#xA;&#x9;• Kommer til enighet sammen - dette skjer på e-post - har prosedyrer og maler for dette.&#xD;&#xA;Kan gå mye mer enn 30 dager - men det er inneforstått når man ber om en felles godkjenning fra landene.&#xD;&#xA;&#x9;• Her har man ikke støtte I SAM, bruker 360&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

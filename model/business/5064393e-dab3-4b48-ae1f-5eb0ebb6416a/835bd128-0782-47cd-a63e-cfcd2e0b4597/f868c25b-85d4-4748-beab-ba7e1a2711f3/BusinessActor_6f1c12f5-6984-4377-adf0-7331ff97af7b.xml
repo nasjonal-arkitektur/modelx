@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidler i MRP/DCP/NP - Utrederansvar (lag)"
+    id="6f1c12f5-6984-4377-adf0-7331ff97af7b"
+    documentation="MT (utrederansvar) til mennesker og dyr.&#xD;&#xA;For legemidler til mennesker dannes det et lag som går helt frem til markedstilgang der det er relevant.&#xD;&#xA;Vurdering av innsendt dokumentasjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Navnekoordineringsliste"
+    id="c905f6a3-c522-474e-a660-2fb5b539024e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

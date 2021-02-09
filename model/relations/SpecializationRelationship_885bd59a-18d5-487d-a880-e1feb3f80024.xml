@@ -1,0 +1,15 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="spesialiserer"
+    id="885bd59a-18d5-487d-a880-e1feb3f80024">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1fc393fe-5f7b-4bc8-be7c-64695e73c34c.xml#1fc393fe-5f7b-4bc8-be7c-64695e73c34c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e13e1fcc-f913-4614-afe7-97e9f1c0d8da.xml#e13e1fcc-f913-4614-afe7-97e9f1c0d8da"/>
+</archimate:SpecializationRelationship>

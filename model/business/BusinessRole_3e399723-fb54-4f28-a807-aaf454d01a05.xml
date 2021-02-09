@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abonnent på jevnlige tilstandsdata"
+    id="3e399723-fb54-4f28-a807-aaf454d01a05">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

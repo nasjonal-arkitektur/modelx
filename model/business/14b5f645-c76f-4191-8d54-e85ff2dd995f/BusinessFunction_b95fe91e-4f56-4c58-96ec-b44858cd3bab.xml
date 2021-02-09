@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetssvikt"
+    id="b95fe91e-4f56-4c58-96ec-b44858cd3bab"
+    documentation="Våre oppgaver:&#xD;&#xA;* Behandle meldinger om kvalitetssvikt ved legemiddel, inkludert falske legemidler.&#xD;&#xA;* Treffe nødvendige tiltak i samråd med legemiddelfirmaer, grossister og apotekkjeder. Dette inkluderer vedtak om salgsstopp og tilbaketrekking av legemidler.&#xD;&#xA;&#xD;&#xA;E-postadresse: rapidalert@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

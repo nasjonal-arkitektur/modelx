@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skrive &quot;Nytt om legemidler&quot;"
+    id="6c26e995-e340-4542-ba20-ea912f061112"
+    documentation="Nytt om legemidler er en fast spalte i tidsskriftet til Den Norske Legeforening">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

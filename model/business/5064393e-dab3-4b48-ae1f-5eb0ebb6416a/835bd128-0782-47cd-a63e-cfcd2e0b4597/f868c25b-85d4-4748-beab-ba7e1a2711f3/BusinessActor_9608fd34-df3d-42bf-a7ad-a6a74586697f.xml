@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utredninger for HOD innen metodevurdering (lag)"
+    id="9608fd34-df3d-42bf-a7ad-a6a74586697f"
+    documentation="Oppfølging priomelding">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

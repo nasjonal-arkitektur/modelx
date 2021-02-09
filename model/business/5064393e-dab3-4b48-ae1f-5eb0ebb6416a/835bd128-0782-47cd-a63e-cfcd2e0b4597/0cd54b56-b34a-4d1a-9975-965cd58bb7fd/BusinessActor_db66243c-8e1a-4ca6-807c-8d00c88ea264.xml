@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reklameovervåking (Langvarig, men revurdering av arbeidet i løpet av 2017) (lag)"
+    id="db66243c-8e1a-4ca6-807c-8d00c88ea264"
+    documentation="Overvåke legemiddelreklame. Revurdere arbeidsmåter, prioriteringer og rutiner og forankre dette i HOD.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

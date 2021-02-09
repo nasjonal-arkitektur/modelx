@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU Veterinary product database (V)"
+    id="7b8fae9b-cdc3-45d8-ac7a-e181dd00cde1"
+    documentation="The EU Veterinary Medicinal Product Database is a source of information on all medicinal   products   for   veterinary   use   that   have   been   authorised   in   the   European Union and the European Economic Area.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

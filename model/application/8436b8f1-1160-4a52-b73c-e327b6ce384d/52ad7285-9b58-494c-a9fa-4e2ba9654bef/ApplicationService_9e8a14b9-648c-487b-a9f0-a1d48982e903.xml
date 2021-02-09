@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU-CEG - Brukergrensesnitt opplasting / innsending"
+    id="9e8a14b9-648c-487b-a9f0-a1d48982e903"
+    documentation="Brukergrensesnitt for opplasting av dokumentasjon">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

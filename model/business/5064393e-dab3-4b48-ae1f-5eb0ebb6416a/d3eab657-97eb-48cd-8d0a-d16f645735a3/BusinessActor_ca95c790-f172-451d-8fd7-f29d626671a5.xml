@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Område legemiddeltilgang"
+    id="ca95c790-f172-451d-8fd7-f29d626671a5"
+    documentation="Området har ansvar for prosessar som gir pasientane rask tilgang til nye, effektive og sikre legemiddel for menneske og dyr, og for å fremje innovasjon og god forsking på legemiddelområdet.&#xD;&#xA;&#xD;&#xA;​Området har i hovudsak ansvar for vitskapleg rådgiving, søknader om kliniske studium, marknadsføringsløyve og indikasjonsutvidingar, metodevurderingar og søknader om refusjon. Området er delt inn i fem einingar.">
+  <properties
+      key="Stereotype"
+      value="Område"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

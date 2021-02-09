@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraMail (H+V)"
+    id="7179b089-51e1-4978-bf63-f5ac20d88a1c"
+    documentation="EudraMail is a EudraNet Service which helps to facilitate collaborative business processes   in   Pharmaceuticals,   enabling   users   to   share   and   disseminate   information  effectively  and  securely  by  email  between  NCAs,  pharmaceutical  industry and the EMA/European Commission.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,26 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utviklingsmetodikk (program-og prosjektstyring. tjenesteutvikling)"
+    id="0c00a91c-63be-4d56-9707-5a54992a3141">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utviklingsmetodikk (program-og prosjektstyring. tjenesteutvikling)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

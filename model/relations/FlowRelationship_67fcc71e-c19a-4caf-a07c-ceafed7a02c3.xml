@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="instruerer og støtter"
+    id="67fcc71e-c19a-4caf-a07c-ceafed7a02c3">
+  <properties
+      key="label"
+      value="instruerer\nog\nstøtter"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="instruerer og støtter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_6c7c4788-4816-4f4c-b943-66852c0dbc68.xml#6c7c4788-4816-4f4c-b943-66852c0dbc68"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9efb9481-a4e1-40d6-919b-5ff8538efaad.xml#9efb9481-a4e1-40d6-919b-5ff8538efaad"/>
+</archimate:FlowRelationship>

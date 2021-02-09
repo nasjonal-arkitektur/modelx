@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Be om rettinger og oppdateringer av produktinformasjonen"
+    id="639f26b5-69ad-491a-b944-a8d686d2626e"
+    documentation="Dersom det er mangler eller feil i produktinformasjonen, bes MT-søker om å oppdatere / supplere.&#xD;&#xA;Ofte mangler mock-ups for produktinnpakningen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

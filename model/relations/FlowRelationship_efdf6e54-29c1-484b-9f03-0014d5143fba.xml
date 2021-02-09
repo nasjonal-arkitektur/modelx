@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stopp påkrevet"
+    id="efdf6e54-29c1-484b-9f03-0014d5143fba">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6e2f0d86-0a6d-423f-958b-69fa991c6485.xml#6e2f0d86-0a6d-423f-958b-69fa991c6485"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d26de316-2667-436c-9a80-8c1a44d37c6e.xml#d26de316-2667-436c-9a80-8c1a44d37c6e"/>
+</archimate:FlowRelationship>

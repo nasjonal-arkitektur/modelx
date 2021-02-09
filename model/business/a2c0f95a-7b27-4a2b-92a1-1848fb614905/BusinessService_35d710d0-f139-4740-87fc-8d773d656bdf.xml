@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvalte narkotika- og dopingforskriften og gi tillatelser til import og eksport av narkotiske legemidler"
+    id="35d710d0-f139-4740-87fc-8d773d656bdf">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

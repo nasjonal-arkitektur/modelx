@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatere søknad"
+    id="1b34ad94-15d0-4b50-b05b-79543b247fef"
+    documentation="Søker (grossist) oppdaterer søknaden med å legge inn etterspurt informasjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

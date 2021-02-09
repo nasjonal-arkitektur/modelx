@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF Klientregister"
+    id="id-51e6a038ba824aacac9a13d7eef336aa"
+    documentation="Oversikt over alle klienter som er blitt tildelt tilgang til ressurser.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

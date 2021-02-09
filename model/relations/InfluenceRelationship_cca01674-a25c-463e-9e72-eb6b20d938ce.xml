@@ -1,0 +1,33 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gir grunnlag for "
+    id="cca01674-a25c-463e-9e72-eb6b20d938ce">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="grunnlag for "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_38a42199-bc04-49b8-ac41-6073863029a0.xml#38a42199-bc04-49b8-ac41-6073863029a0"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_8500ddfd-af26-446b-890e-a7bebb28dc3b.xml#8500ddfd-af26-446b-890e-a7bebb28dc3b"/>
+</archimate:InfluenceRelationship>

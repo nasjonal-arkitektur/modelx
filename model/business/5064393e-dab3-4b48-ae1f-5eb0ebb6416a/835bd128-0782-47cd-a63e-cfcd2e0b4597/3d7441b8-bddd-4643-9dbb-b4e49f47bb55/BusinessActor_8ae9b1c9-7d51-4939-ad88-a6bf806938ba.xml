@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCABR - vaksiner (lag)"
+    id="8ae9b1c9-7d51-4939-ad88-a6bf806938ba"
+    documentation="OCABR for vaksiner til mennesker (DiTebooster, DiTeKiBooster, Bexsero).">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

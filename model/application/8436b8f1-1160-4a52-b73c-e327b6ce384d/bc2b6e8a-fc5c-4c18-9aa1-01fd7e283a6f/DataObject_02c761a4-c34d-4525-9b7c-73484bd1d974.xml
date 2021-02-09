@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uttrekk - Institusjon"
+    id="02c761a4-c34d-4525-9b7c-73484bd1d974"
+    documentation="Uttrekk for instituasjon finnes i to utgaver&#xD;&#xA;Full utgave&#xD;&#xA;Inkrementell utgave">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

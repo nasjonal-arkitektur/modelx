@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagsystem barnevern"
+    id="a699106f-9f75-4092-a4f8-58062ea5da7b">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

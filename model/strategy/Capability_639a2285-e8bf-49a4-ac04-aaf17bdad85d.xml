@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å motta henvendelser om forbedringer"
+    id="639a2285-e8bf-49a4-ac04-aaf17bdad85d"
+    documentation="Forklaring:&#xD;&#xA;Det bør være enkelt for datakonsument å gi tilbakemelding til virksomheten om hvordan datakonsument opplever datatilbyders tilbud av data. Datatilbyder må evne å motta og behandle tilbakemeldinger på en profesjonell måte.&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Løsning for mottak av henvendelser. Kan eksempelvis være mottaksapparat i form av felles postkasse eller lignende.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å motta henvendelser om forbedringer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Det bør være enkelt for datakonsument å gi tilbakemelding til virksomheten om hvordan datakonsument opplever datatilbyders tilbud av data. Datatilbyder må evne å motta og behandle tilbakemeldinger på en profesjonell måte.&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Løsning for mottak av henvendelser. Kan eksempelvis være mottaksapparat i form av felles postkasse eller lignende."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

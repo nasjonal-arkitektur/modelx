@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hjørne 2 Aksesspunkt avsender"
+    id="f95de0f3-fa18-4025-9a4e-4d414ac65e8e">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationComponent>

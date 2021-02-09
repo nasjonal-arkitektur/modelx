@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komme med innspill til nye stoffer"
+    id="5f5e7adc-31ca-438c-aa57-5ee1abb908d5"
+    documentation="Dersom FHI kommer over virkestoffer som kanskje burde være på narkotikalisten varsler de Legemiddelverket om dette.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

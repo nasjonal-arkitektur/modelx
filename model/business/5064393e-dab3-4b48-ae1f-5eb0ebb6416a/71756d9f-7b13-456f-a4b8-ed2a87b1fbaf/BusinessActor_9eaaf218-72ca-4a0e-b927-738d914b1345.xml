@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kompetansenettverk - leder"
+    id="9eaaf218-72ca-4a0e-b927-738d914b1345"
+    documentation="Hvert kompetansenettverk har en leder som sørger  for tema og innkalling til møter i kompetansenettverket man har ansvar for">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

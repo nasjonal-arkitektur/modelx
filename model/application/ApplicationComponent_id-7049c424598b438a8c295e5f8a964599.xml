@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressursportal"
+    id="id-7049c424598b438a8c295e5f8a964599">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

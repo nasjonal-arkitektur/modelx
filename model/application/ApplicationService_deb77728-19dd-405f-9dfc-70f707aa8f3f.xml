@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Signature Creation Service"
+    id="deb77728-19dd-405f-9dfc-70f707aa8f3f"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of signing data in electronic form by a natural person.&#xD;&#xA;An ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Signature Creation Service ABB  is salient for technical interoperability because it provides &#xD;&#xA;the functionalities required for e-signature creation service.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CEF eSignature DSS&#xD;&#xA;DSS (Digital Signature Services) is an open-source software library for electronic signature creation and validation. DSS supports the creation and verification of interoperable and secure electronic signatures in line with European legislation. In particular, DSS aims to follow the eIDAS Regulation and related standards closely.&#xD;&#xA;DSS can be re-used in an IT solution for electronic signatures to ensure that signatures are created and verified in line with European legislation and standards. DSS allows re-use in a variety of different ways: in an applet, in a stand-alone application or in a server application. DSS can also be used as a reference implementation for IT solutions which do not directly re-use it.&#xD;&#xA;CEF eSignature's DSS open-source library delivers the following benefits to its users:&#xD;&#xA;•&#x9;Open-source software under LGPL 2.1, a non-viral open source license;&#xD;&#xA;•&#x9;Interoperability of the e-signatures;&#xD;&#xA;•&#x9;Supports both e-signatures and e-seals;&#xD;&#xA;•&#x9;Validation of countersignatures and multiple signatures;&#xD;&#xA;•&#x9;Alignment with the eIDAS Regulation and related standards;&#xD;&#xA;•&#x9;Supports EU standards on:&#xD;&#xA;o&#x9;Signature formats and packaging methods;&#xD;&#xA;o&#x9;Signature validation procedures;&#xD;&#xA;•&#x9;Validation relying on Member States' trusted lists:&#xD;&#xA;o&#x9;Status of trust service providers/trust service, compensation of information, path validation.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignature  &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB55"/>
+  <properties
+      key="dct:type"
+      value="eira:E-SignatureCreationService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="e-Signature Creation Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of signing data in electronic form by a natural person.&#xD;&#xA;An ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Signature Creation Service ABB  is salient for technical interoperability because it provides &#xD;&#xA;the functionalities required for e-signature creation service.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;CEF eSignature DSS&#xD;&#xA;DSS (Digital Signature Services) is an open-source software library for electronic signature creation and validation. DSS supports the creation and verification of interoperable and secure electronic signatures in line with European legislation. In particular, DSS aims to follow the eIDAS Regulation and related standards closely.&#xD;&#xA;DSS can be re-used in an IT solution for electronic signatures to ensure that signatures are created and verified in line with European legislation and standards. DSS allows re-use in a variety of different ways: in an applet, in a stand-alone application or in a server application. DSS can also be used as a reference implementation for IT solutions which do not directly re-use it.&#xD;&#xA;CEF eSignature's DSS open-source library delivers the following benefits to its users:&#xD;&#xA;•&#x9;Open-source software under LGPL 2.1, a non-viral open source license;&#xD;&#xA;•&#x9;Interoperability of the e-signatures;&#xD;&#xA;•&#x9;Supports both e-signatures and e-seals;&#xD;&#xA;•&#x9;Validation of countersignatures and multiple signatures;&#xD;&#xA;•&#x9;Alignment with the eIDAS Regulation and related standards;&#xD;&#xA;•&#x9;Supports EU standards on:&#xD;&#xA;o&#x9;Signature formats and packaging methods;&#xD;&#xA;o&#x9;Signature validation procedures;&#xD;&#xA;•&#x9;Validation relying on Member States' trusted lists:&#xD;&#xA;o&#x9;Status of trust service providers/trust service, compensation of information, path validation.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignature  &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:ApplicationService>

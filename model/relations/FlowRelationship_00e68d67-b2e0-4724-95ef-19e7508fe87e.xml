@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VET-Data"
+    id="00e68d67-b2e0-4724-95ef-19e7508fe87e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6b21ad58-13bd-4e00-b7c7-481ddc44fc71.xml#6b21ad58-13bd-4e00-b7c7-481ddc44fc71"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_65ff4530-4f9c-4e3d-aad0-752ee4c362f6.xml#65ff4530-4f9c-4e3d-aad0-752ee4c362f6"/>
+</archimate:FlowRelationship>

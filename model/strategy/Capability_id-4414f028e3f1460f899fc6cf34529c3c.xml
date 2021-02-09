@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere API"
+    id="id-4414f028e3f1460f899fc6cf34529c3c">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

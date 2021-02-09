@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP-Portalen"
+    id="f4bd817f-95e9-4329-a555-a10d7a0880bb"
+    documentation="SAP Portalen har tre hovedfunksjoner: &#xD;&#xA;&#xD;&#xA;-  Ansattes selvbetjening for timeregistrering, fraværsregistrering, informasjon om arbeidstid, lønn og reiseregning. &#xD;&#xA;-  Leders selvbetjening for oppfølging av ansatte de har personalansvar for. &#xD;&#xA;-  Innboks med meldinger fra SAP, personal og ansattes leder">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

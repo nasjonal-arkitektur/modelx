@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Midlertidig"
+    id="c2f37db1-da9f-4a59-b776-20fc863b9817">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_32f8e2a3-6cd0-4000-99aa-fdd133ccd390.xml#32f8e2a3-6cd0-4000-99aa-fdd133ccd390"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_8cc1a1b4-c53b-460d-b9fa-51d125c47f3a.xml#8cc1a1b4-c53b-460d-b9fa-51d125c47f3a"/>
+</archimate:ServingRelationship>

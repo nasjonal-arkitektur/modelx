@@ -1,0 +1,27 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Authorization"
+    id="6c604d7f-d1fe-4df8-98c6-a8cd683f3b6e">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Autorisere bruker"/>
+  <properties
+      key="difi:name_en"
+      value="User Authorization"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

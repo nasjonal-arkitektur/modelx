@@ -1,0 +1,46 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatransformasjon"
+    id="8837b7a0-d28b-4fbc-84e3-0aac8bedf25e"
+    documentation="Tjeneste for  transformere data og meldinger til andre formater.">
+  <properties
+      key="ID"
+      value="ABB40"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Datatransformasjon"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for  transformere data og meldinger til andre formater."/>
+  <properties
+      key="difi:name_en"
+      value="Data Transformation Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of conversion of one data format to another. &#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Transformation Service ABB  is salient for technical interoperability  because it provides the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Eurostat transformation service&#xD;&#xA;The transformation service allows datasets to be converted from one file format to another, optionally performing additional tasks, such as mapping and transcoding. &#xD;&#xA;The service is operational but is currently only available for internal consumption within Eurostat. However, the source code of both web service and software component is available in the SDMX webspace:&#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/validation-transformation/transformation-services &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

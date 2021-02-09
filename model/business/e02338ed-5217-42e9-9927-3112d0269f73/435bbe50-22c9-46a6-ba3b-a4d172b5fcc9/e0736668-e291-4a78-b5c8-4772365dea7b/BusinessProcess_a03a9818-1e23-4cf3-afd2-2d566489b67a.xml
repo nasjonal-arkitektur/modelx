@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetssikre melding "
+    id="a03a9818-1e23-4cf3-afd2-2d566489b67a"
+    documentation="Sviktmeldingen gjennomgås for å sikre at kvaliteten på informasjonen i meldingen er korrekt, før den sendes videre til produsent&#xD;&#xA;Kan medføre:&#xD;&#xA;Spørre helsepersonell en skjelden gang&#xD;&#xA;Endring av felter om det er rapportert feil&#xD;&#xA;Legger til myndighetstilførsel">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

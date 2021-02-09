@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST - Tjeneste v2.5.0"
+    id="f88823d4-be63-46d7-886e-680c690e6e73"
+    documentation="FEST-tjeneste tilbyr aksess til XML-filene som er generert av generatoren.&#xD;&#xA;Ut fra parameter bestemmer tjenesten hvilken versjon / filtrering av XML-fila soim skal hentes.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

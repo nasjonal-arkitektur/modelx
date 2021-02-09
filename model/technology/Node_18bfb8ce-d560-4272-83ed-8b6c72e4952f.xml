@@ -1,0 +1,26 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plattformer og kommunikasjons-infrastruktur"
+    id="18bfb8ce-d560-4272-83ed-8b6c72e4952f">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Plattformer - utvikling, drift"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:node"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Node>

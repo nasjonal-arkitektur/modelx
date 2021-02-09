@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CC - Landekode til RMS"
+    id="60b70706-c431-4665-b027-32f41fcccf62"
+    documentation="De to første tegnene er landekoden til Reference Member State (landet som har ansvar for å utrede MT-søknaden)&#xA;AT: Austria&#xA;BE: Belgium&#xA;BG: Bulgaria&#xA;CY: Cyprus&#xA;CZ: Czech Republic DE: Germany&#xA;DK: Denmark EE: Estonia EL: Greece ES: Spain&#xA;FI: Finland FR: France HU: Hungary IE: Ireland IS: Iceland&#xA;IT: Italy&#xA;LV: Latvia&#xA;LI: Liechtenstein LT: Lithuanian&#xA;LU: Luxemburg&#xA;MT: Malta&#xA;PL: Poland&#xA;NL: The Netherlands NO: Norway&#xA;PT: Portugal&#xA;RO: Romania&#xA;SK: Slovak Republic SI: Slovenia&#xA;SE: Sweden&#xA;UK: United Kingdom">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknadsutredning - utarbeiding av dag70-rapport (dag 0-70)"
+    id="3492e77a-aabf-48b0-b065-d4f13a1e3444"
+    documentation="RMS utarbeider Asessment Report for MT-søknaden. Rapporten skal være ferdig til dag 70 (og kalles dag70-rapport).&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

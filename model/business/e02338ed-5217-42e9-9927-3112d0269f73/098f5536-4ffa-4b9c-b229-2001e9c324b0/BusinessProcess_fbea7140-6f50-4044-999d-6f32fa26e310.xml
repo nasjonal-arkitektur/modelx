@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn basert på bekymringsmeldinger"
+    id="fbea7140-6f50-4044-999d-6f32fa26e310"
+    documentation="Tilsyn kan gjennomføres på bakgrunn av mistanke om avviksforhold. Slike forhold kan rapporteres inn via ulike kanaler, enten indirekte eller direkte til Legemiddelverket.&#xD;&#xA;Dersom det avviksmeldingene vurderes til å være gjenstand for tilsyn, gjennomføres disse tilsynene i tillegg til de planlagte tilsynene (dvs. at planene tilpasses slik at disse tilsynene kan gjennomføres).&#xD;&#xA;Slike tilsyn kan gjennomføres anmeldt eller uanmeldt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

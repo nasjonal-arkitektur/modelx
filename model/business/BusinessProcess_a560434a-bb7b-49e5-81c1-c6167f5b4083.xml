@@ -1,0 +1,28 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegering av rettigheter til databehandler (leverandør)"
+    id="a560434a-bb7b-49e5-81c1-c6167f5b4083"
+    documentation="Prosessen med å delegere rettigheter til databehandler/leverandør.">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Delegering av rettigheter til databehandler (leverandør)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Prosessen med å delegere rettigheter til databehandler/leverandør."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

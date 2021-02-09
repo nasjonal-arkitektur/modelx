@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Importere informasjon om varenumre og markedsføringsstatus"
+    id="5c7e77dd-fc58-412b-b1da-5003f6c0448e"
+    documentation="Infomrajson om varenumre og markedsføringsstatus importeres manuelt fra Farmalogg, for oppdatering av Athene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

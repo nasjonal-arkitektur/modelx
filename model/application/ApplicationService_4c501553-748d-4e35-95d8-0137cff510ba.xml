@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSB"
+    id="4c501553-748d-4e35-95d8-0137cff510ba">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

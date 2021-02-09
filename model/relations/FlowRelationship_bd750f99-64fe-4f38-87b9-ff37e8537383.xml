@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klasse 1-produkter"
+    id="bd750f99-64fe-4f38-87b9-ff37e8537383"
+    documentation="For klasse 1-produkter er det ingen søknad om sertifisering. For denne typen produkter sertifiserer leverandør seg selv - dvs. dokumenterer at produktet tilfredsstiller CE-kravene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_f80edb63-c2e3-4058-97a2-9ea4943376fc.xml#f80edb63-c2e3-4058-97a2-9ea4943376fc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_13cdd1f2-777e-4c1d-a728-bd5b80f8657d.xml#13cdd1f2-777e-4c1d-a728-bd5b80f8657d"/>
+</archimate:FlowRelationship>

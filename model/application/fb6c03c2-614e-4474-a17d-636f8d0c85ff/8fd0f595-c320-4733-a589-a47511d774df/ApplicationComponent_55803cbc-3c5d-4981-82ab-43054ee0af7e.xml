@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referential Management Services (RMS) (H+V)"
+    id="55803cbc-3c5d-4981-82ab-43054ee0af7e"
+    documentation="The RMS system manages referential master data, i.e. lists of terms (controlled vocabularies)  to  describe  the  attributes  of  medicinal  products,  such  as  lists  of  dosage forms, units of measurement and routes of administration.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ja"
+    id="ba560b50-6032-448e-97e7-ff3bb0bce575"
+    documentation="Nødvendig med vurdering fra inspektør">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_ea319903-c177-4920-b6d6-a3ab2d177ec7.xml#ea319903-c177-4920-b6d6-a3ab2d177ec7"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_dd863d8a-a470-40b5-b174-a9d3757d5832.xml#dd863d8a-a470-40b5-b174-a9d3757d5832"/>
+</archimate:FlowRelationship>

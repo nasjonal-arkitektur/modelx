@@ -1,0 +1,36 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avklar juridiske og avtalemessige forhold for aktuelle datasett"
+    id="a1cb9d32-4794-47eb-91da-953f0ad3e539"
+    documentation="Evnetuelt også innmelding i avtalefellesskap her">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avklar juridiske og avtalemessige forhold for aktuelle datasett"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evnetuelt også innmelding i avtalefellesskap her"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

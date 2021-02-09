@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP Preparatomtale URL-downloader"
+    id="fa0c2b6c-a32c-4e44-bf51-9b068126d748"
+    documentation="Henter et Excel-ark fra EMA og legger i Athenedatabasen.&#xD;&#xA;Regnearket inneholder prosedyrenumre og URL-er til preparatomtale. Oppdaterer tilsvarrende i Athenedatabasen.&#xD;&#xA;&#xD;&#xA;Kjører som en tidsstyrt jobb på en Windowsserver">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

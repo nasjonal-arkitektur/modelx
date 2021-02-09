@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utleveringsbestemmelser (lag)"
+    id="1bf6efa6-5326-4470-b9b3-29311eb1ae9d"
+    documentation="Arbeid med utleveringsbestemmelser knyttet til MT-søknader eller i fbm. endringer/justeringer etter MT.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

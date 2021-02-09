@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kunnskapsbase"
+    id="aee6a93e-dafe-43fa-8876-86aa415ba484">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

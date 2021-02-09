@@ -7,7 +7,7 @@
       value="archi:application-interface"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
@@ -32,11 +32,4 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="9b3c9384-3667-4422-ae25-c0d8aa84d58e"/>
 </archimate:ApplicationInterface>

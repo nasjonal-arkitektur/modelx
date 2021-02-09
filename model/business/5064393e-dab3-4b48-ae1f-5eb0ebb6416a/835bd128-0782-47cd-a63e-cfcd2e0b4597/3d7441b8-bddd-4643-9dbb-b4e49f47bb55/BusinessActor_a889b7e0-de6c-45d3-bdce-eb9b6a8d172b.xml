@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetsvurdering biologiske legemidler til mennesker og dyr. (lag)"
+    id="a889b7e0-de6c-45d3-bdce-eb9b6a8d172b"
+    documentation="Vurdere innsatsnivå, disponere ressurser/fordele saker. Utredere til nye MT-søknader, kliniske studier, scientific advice plukkes herfra (til evt lag som opprettes). Kvalitetsendringer. Rådgivning. Bidra i vurdering av kvalitets- og leveringssviktsaker. Løpende behandling av ad hoc saker. Regelverksfortolkning&amp;utvikling. Aktiv deltakelse i nasjonale- og internasjonale fora.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

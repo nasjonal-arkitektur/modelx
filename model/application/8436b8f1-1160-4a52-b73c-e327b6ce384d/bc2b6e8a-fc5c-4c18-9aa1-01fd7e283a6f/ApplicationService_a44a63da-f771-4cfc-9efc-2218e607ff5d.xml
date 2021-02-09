@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLS - Administrasjonsmodul"
+    id="a44a63da-f771-4cfc-9efc-2218e607ff5d"
+    documentation="Administrasjonsmodulen tilbyr funksjonalitet for å vedlikeholde oversettinger av legemiddelstandarder">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

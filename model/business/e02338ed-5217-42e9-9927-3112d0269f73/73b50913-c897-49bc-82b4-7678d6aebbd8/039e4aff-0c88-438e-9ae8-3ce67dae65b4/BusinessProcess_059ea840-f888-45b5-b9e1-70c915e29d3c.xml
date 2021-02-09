@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svare på oppgave (annen saksbehandler)"
+    id="059ea840-f888-45b5-b9e1-70c915e29d3c"
+    documentation="Oppgave kan ha taggen/statusen møte, altså er det meningen spørsmplene skal bli besvart i ett møte.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

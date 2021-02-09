@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søke om godkjenningsfritak med papirsøknad"
+    id="1bd38c5a-efc3-49b5-b9a9-c2076e5bc742">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

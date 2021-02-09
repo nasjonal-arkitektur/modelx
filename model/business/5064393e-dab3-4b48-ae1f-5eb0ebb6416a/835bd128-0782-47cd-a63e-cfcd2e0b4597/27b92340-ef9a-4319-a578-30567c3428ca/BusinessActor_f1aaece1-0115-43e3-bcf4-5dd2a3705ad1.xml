@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDPR – General data protection regulation» – Ny personvernforordning fra EU (Gjeldende fra mai 2018) (lag)"
+    id="f1aaece1-0115-43e3-bcf4-5dd2a3705ad1"
+    documentation="Sørge for at Legemiddelverket implementerer nye krav til håndtering av personopplysninger etter «General data protection regulation/GDPR» innen fristen mai 2018">
+  <properties
+      key="Stereotype"
+      value="Mildertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

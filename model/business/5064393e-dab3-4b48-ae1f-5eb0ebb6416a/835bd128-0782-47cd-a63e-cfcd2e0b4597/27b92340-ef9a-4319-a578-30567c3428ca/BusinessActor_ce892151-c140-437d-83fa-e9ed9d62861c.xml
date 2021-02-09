@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klagesak - apotekstøtte (lag)"
+    id="ce892151-c140-437d-83fa-e9ed9d62861c"
+    documentation="360: 18/09566. &#xD;&#xA;Klagesak vedrørende økonomisk støtte til apotek. Klagesak oversendt HOD i uke 37.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

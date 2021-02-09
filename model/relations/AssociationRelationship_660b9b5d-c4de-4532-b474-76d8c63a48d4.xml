@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentutveksling"
+    id="660b9b5d-c4de-4532-b474-76d8c63a48d4"
+    documentation="SAM bruker Castor dokumentrepo.&#xD;&#xA;Det opprettes automatisk en dokumentstruktur basert på år/saksnr/dokumentnr">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_369703bf-bf99-4d11-90c8-cada8df12180.xml#369703bf-bf99-4d11-90c8-cada8df12180"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_277e48fa-27fe-41c0-a93a-a1dbd74f1c28.xml#277e48fa-27fe-41c0-a93a-a1dbd74f1c28"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,40 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenesteformidler"
+    id="4db6c089-8339-4983-a7e6-855b790fe5f3"
+    documentation="Evidence service broker...&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:name_no"
+      value="Tjenesteformidler"/>
+  <properties
+      key="difi:name_en"
+      value="Evidence Service Broker"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      value="${name}[ns:${property:difi:language}]"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessRole>

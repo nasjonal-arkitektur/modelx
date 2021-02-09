@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende kopi av reklamen"
+    id="d5b4f040-87c8-4bc2-8da1-ae67b7136460"
+    documentation="Alle legemiddelfirmaer som markedsfører produkter i Norge plikter å sende en kopi av all skriftlig reklame til Statens legemiddelverk eller til det frivillige bransjeorgan som Statens legemiddelverk bestemmer kan føre kontroll med reklamen, jf. Forskrift om legemidler § 13-11. Dette gjelder også firmaer som ikke er medlem av LMI. Siste frist for innsendelse av reklamen er når aktiviteten gjennomføres og reklamen tas i bruk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

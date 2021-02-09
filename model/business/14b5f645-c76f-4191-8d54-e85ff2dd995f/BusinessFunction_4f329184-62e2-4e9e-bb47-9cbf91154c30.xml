@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk"
+    id="4f329184-62e2-4e9e-bb47-9cbf91154c30"
+    documentation="Våre oppgaver før MT&#xD;&#xA;* Koordinere søknader om markedsføringstillatelse.&#xD;&#xA;* Implementere &quot;sunset clause&quot; i Norge. (Dvs at legemidler mister MT dersom de ikke markedsføres innen 5 år etter innvilget MT)&#xD;&#xA;&#xD;&#xA;Etter MT:&#xD;&#xA;Regulatorisk og koordinerende arbeid tilknyttet legemidler som har fått godkjenning på det norske markedet&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;mt@legemiddelverket.no (koordinering av MT-søknader og endringer)&#xD;&#xA;pi@legemiddelverket.no (godkjenning og utforming av produktinformasjon)&#xD;&#xA;parallellimport@legemiddelverket.no&#xD;&#xA;post@legemiddelverket.no (øvrige henvendelser)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisere legemidler, dopingmidler, narkotika m.v."
+    id="00d35bfc-b4f7-4621-9ec7-6ea57f5a92ac"
+    documentation="* Trigger:&#xD;&#xA;&#x9;* Henvedelse fra Toll eller Politimyndigheter&#xD;&#xA;&#x9;* Henvendelse fra enkeltpersoner eller virksomheter&#xD;&#xA;* Klassfisering i henhold til narkotikagradering og doping (ulovlige dopingmidler)&#xD;&#xA;&#x9;* Har konsekvenser for håndheving av lover og regler&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

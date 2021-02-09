@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web-redaksjonen (lag)"
+    id="8772fea9-43b4-4aaf-8d3d-03486368feff"
+    documentation="Løpende drift og utvikling av innhold på legemiddelverket.no">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

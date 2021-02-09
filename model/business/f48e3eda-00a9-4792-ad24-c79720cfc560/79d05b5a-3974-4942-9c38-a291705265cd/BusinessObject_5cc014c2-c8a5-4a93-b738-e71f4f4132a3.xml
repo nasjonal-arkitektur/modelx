@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodic Safety Update Report (PSUR)"
+    id="5cc014c2-c8a5-4a93-b738-e71f4f4132a3"
+    documentation="Sikkerhetsrapport om et legemiddel som sendes inn av MT-innehaver til myndighetene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

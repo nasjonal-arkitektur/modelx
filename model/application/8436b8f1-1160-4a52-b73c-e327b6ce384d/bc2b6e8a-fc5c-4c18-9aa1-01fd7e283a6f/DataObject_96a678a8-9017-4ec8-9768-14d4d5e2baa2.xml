@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uttrekk - Veterinær"
+    id="96a678a8-9017-4ec8-9768-14d4d5e2baa2">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

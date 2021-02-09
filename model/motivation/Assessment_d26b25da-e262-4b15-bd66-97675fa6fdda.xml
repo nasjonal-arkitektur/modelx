@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell prosess for import / eksport av data til Farmalogg"
+    id="d26b25da-e262-4b15-bd66-97675fa6fdda"
+    documentation="Både import av data fra Farmalogg (vareinformasjon og markedsføringsstatus) og eksport av pris- og refusjonsinformasjon fra Athene ti lFarmalogg, gjøres manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

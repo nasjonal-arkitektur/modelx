@@ -1,0 +1,27 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Del og innhent data og hendelser, detaljert verdistrøm datatilbyder med kapabiliteter"
+    id="id-525a82f5fe00413eaf52a451ea2e2d7e"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å bestemme hvilken teknisk løsning som skal benyttes når dataene gjøres tilgjengelig som åpne data&#xD;&#xA;&#xD;&#xA;Datatilbyder må evne å velge hvor og hvordan dataene skal gjøres tilgjengelig, hvor skal datakonsument finne dataene og på hvilket format skal dataene deles &#xD;&#xA;&#xD;&#xA;Datatilbyder må videre evne å bestemme detaljeringsgrad på dataene&#xD;&#xA;&#xD;&#xA;Krav til personvern må kunne ivaretas, samt eventuelle krav i forhold til andre skjermingsverdige opplysninger  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for å dele data som åpne data&#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="6e794bab-1330-418d-af53-3b216a2317a4"/>
+  <properties
+      key="drill down"
+      value="6e794bab-1330-418d-af53-3b216a2317a4"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

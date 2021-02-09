@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST M30 Downloader"
+    id="a513c899-713f-47b6-b6a7-97d8f3b3cc34"
+    documentation="M30 downloader er en egenutviklet applikasjon som brukes til å prøve-nedlaste FEST-melding fra Wcf webservice. Den er produksjonssatt som to instanser med ulik konfigurasjon.&#xD;&#xA;&#xD;&#xA;- Den ene instansen kan hente fra Wcf webservice på internett. Bruker kan velge om det skal lastes ned fra produksjon eller test, samt velge hvilken versjon og filter som skal lastes ned. &#xD;&#xA;&#xD;&#xA;- Den andre instansen er konfigurert slik at den henter fra Wcf webservice på NHN. Den er satt opp slik at bruker får den opp inne på NHN som en remote desktop. Bruker kan velge om det skal lastes ned fra produksjon, staging eller test, samt velge hvilken versjon og filter som skal lastes ned. &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

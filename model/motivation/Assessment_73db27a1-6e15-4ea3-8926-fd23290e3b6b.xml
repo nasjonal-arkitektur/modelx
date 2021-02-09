@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for eget system for innsending"
+    id="73db27a1-6e15-4ea3-8926-fd23290e3b6b"
+    documentation="Søknader om makspris sendes inn i form av et Excel regneark, hvor det skal fylles inn en hel rekke verdier. Excel-arket importeres til Athene for behandling. I denne prosessen må det ofte gjøres korreksjoner mv., i tillegg til at det er uhensiktsmessig med filer lagret på filshare i stedet for søknader lagret i en database.&#xD;&#xA;Det er med andre ord behov for en tjeneste hvor søker selv kan registrere søknad i et skjema, som automatisk dukker opp i saksbehandlingsløsningene hos Legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

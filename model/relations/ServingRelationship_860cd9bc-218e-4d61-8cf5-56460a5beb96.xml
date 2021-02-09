@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhetsleder"
+    id="860cd9bc-218e-4d61-8cf5-56460a5beb96">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_1ead7586-11ec-45f9-a0eb-b932e588d534.xml#1ead7586-11ec-45f9-a0eb-b932e588d534"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_170aa66f-ff12-4c56-998d-fe1d619e664d.xml#170aa66f-ff12-4c56-998d-fe1d619e664d"/>
+</archimate:ServingRelationship>

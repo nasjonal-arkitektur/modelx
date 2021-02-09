@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRP"
+    id="427458f7-b3e3-4e6b-8313-17d38a7096fa">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_90955d28-f245-4c27-b54b-960bbc712b50.xml#90955d28-f245-4c27-b54b-960bbc712b50"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4ea8b585-519f-47df-9e80-20f934434c66.xml#4ea8b585-519f-47df-9e80-20f934434c66"/>
+</archimate:ServingRelationship>

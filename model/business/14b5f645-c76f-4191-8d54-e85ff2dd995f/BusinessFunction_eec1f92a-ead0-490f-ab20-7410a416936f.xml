@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikkerhetsutredning"
+    id="eec1f92a-ead0-490f-ab20-7410a416936f"
+    documentation="Våre oppgaver:&#xD;&#xA;* Utrede sikkerhetsdokumentasjon etter markedsføringstillatelse.&#xD;&#xA;* Utrede effekt og sikkerhetsdokumentasjon for søknader om markedsføringstillatelse for kjente virkestoff&#xD;&#xA;* Vurdere risikominimeringstiltak for markedsførte legemidler.&#xD;&#xA;&#xD;&#xA;E-postadresse: bivirkninger@legemiddelverket.no (human)&#xD;&#xA;Vet.felles@legemiddelverket.no (veterinær)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

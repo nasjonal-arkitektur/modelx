@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API tilgangs-forespørsel"
+    id="id-665178dd6b464a94a908145cac822615"
+    documentation="API eieren får forespørsel om den vil gi konsumenten tilgang til APIet.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

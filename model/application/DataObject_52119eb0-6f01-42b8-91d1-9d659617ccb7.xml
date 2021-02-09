@@ -15,7 +15,7 @@
       value="archi:data-object"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="instance"/>
@@ -32,11 +32,4 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="52119eb0-6f01-42b8-91d1-9d659617ccb7"/>
 </archimate:DataObject>

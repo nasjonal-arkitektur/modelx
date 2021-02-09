@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adressetjeneste"
+    id="2715d0e5-cfea-4699-aa85-ac696c2e155d"
+    documentation="Tjeneste som gir mulighet til å slå opp teknisk endepunkt">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

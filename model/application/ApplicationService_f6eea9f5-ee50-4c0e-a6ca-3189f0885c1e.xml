@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatolk"
+    id="f6eea9f5-ee50-4c0e-a6ca-3189f0885c1e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

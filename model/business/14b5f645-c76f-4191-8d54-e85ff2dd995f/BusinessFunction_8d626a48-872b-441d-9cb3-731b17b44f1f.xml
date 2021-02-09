@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medisinsk utstyr"
+    id="8d626a48-872b-441d-9cb3-731b17b44f1f"
+    documentation="Våre oppgaver:&#xD;&#xA;Forvaltnings- og rådgivingsoppgaver&#xD;&#xA;Tilsynsmyndighet overfor produsenter, distributører og teknisk kontrollorgan&#xD;&#xA;Markedsovervåking inkludert oppfølging av meldinger om svikt og uhell&#xD;&#xA;Klassifisere medisinsk utstyr&#xD;&#xA;Vurdere søknader om klinisk utprøving&#xD;&#xA;Regelverksutvikling og –tolking&#xD;&#xA;&#xD;&#xA;E-postadresse: medisinsk.utstyr@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

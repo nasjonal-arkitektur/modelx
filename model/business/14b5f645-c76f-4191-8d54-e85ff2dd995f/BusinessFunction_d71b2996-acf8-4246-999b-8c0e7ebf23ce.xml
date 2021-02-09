@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentforvaltning"
+    id="d71b2996-acf8-4246-999b-8c0e7ebf23ce"
+    documentation="Enhet for dokumentforvaltning har følgende oppgaver:&#xD;&#xA;* Forvalte dokumenter og data i elektronisk arkiv.&#xD;&#xA;* Gi intern veiledning i arkivfaglige spørsmål.&#xD;&#xA;* Publisere den offentlige journalen til Legemiddelverket.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

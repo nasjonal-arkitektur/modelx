@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for dokumentforvaltning"
+    id="a10609bc-6d28-4826-8ce7-0ef4b52cad51"
+    documentation="Ansvarsområder:&#xD;&#xA;* Forvaltar dokument og data i elektronisk arkiv og har ansvar for registrering og kvalitetskontroll&#xD;&#xA;* Gir intern rettleiing og arkivfagleg service til saksbehandlarar.&#xD;&#xA;* Publiserer den offentlege journalen til Legemiddelverket.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

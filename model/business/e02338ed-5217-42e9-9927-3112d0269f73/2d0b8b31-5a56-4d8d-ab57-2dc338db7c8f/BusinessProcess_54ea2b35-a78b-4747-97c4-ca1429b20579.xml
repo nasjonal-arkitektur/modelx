@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legge søknad inn i søknadsoversikt"
+    id="54ea2b35-a78b-4747-97c4-ca1429b20579"
+    documentation="Etter mottak av søknad oppdateres en oversikt på X i excel (arbeidsliste) over hvilke pakker det er søkt om pris for.&#xD;&#xA;Oversikten er organisert på pakningsnivå - I 360 er det organisert på preparat. Får ikke ut riktige statistikker ved å bruke 360. Saken I 360 er en epost med Excel-ark med hvilke pakker de søker pris på for ett preparat.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

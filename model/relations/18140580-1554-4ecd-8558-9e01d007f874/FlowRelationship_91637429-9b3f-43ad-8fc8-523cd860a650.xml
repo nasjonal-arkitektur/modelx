@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fase 2 og 3"
+    id="91637429-9b3f-43ad-8fc8-523cd860a650"
+    documentation="Klinisk utprøving i fase 2 og 3 er mer kostbar enn fase 1, fordi omfanget er større.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b8eb7397-9ff1-4643-9784-48acbb77272c.xml#b8eb7397-9ff1-4643-9784-48acbb77272c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_9b76daf2-1325-4d83-802a-c374ac7f7b97.xml#9b76daf2-1325-4d83-802a-c374ac7f7b97"/>
+</archimate:FlowRelationship>

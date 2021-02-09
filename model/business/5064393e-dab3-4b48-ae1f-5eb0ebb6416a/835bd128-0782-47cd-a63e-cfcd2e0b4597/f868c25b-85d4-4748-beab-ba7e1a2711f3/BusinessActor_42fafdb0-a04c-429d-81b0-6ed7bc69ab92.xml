@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevurdering Blåresept (lag)"
+    id="42fafdb0-a04c-429d-81b0-6ed7bc69ab92"
+    documentation="Vurdere og beslutte om legemidler skal få forhåndsgodkjent refusjon, refusjonsoppdateringer, blåreseptboks">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

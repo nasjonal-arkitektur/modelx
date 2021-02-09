@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonal infrastruktur"
+    id="id-f9f3e8eba10047d6afcd48ee19b0628c">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle vedtak til søker"
+    id="5f79abee-fc3b-4161-8ecf-bcc3912c1920"
+    documentation="Vedtak i saken formidles til søker på E-post, og journalføres i P360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

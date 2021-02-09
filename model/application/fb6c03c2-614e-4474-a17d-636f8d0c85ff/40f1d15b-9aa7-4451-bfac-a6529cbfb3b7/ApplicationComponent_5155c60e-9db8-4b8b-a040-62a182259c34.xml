@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Office 2013"
+    id="5155c60e-9db8-4b8b-a040-62a182259c34"
+    documentation="SAM benytter seg av MS Exchange 2013 og e-postkassene knyttet til denne tjenesten er nå de eneste som ikke er migrert til Office 2016 (pr Januar 2019)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

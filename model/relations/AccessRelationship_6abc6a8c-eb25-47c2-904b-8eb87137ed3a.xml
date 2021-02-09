@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Negativ beslutning"
+    id="6abc6a8c-eb25-47c2-904b-8eb87137ed3a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_de0ac79b-2849-4bc3-9c2a-7708b069dcb1.xml#de0ac79b-2849-4bc3-9c2a-7708b069dcb1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a5930025-711a-40b9-88d5-a9be25b3a431.xml#a5930025-711a-40b9-88d5-a9be25b3a431"/>
+</archimate:AccessRelationship>

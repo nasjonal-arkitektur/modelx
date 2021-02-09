@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelinformasjon - lokale"
+    id="20109f60-8251-4879-b4e1-39b975b868be">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Folder>

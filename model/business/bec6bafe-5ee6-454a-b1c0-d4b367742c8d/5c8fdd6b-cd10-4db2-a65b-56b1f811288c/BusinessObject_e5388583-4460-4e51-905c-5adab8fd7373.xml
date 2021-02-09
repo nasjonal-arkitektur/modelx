@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Kjære Helsepersonell&quot;-brev"
+    id="e5388583-4460-4e51-905c-5adab8fd7373">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

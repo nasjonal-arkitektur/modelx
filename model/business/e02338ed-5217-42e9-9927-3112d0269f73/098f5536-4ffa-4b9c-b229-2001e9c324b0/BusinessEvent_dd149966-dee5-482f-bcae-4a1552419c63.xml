@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for kartlegging innen et tema"
+    id="dd149966-dee5-482f-bcae-4a1552419c63"
+    documentation="Til grunn for en kartlegging ligger behov for å innhente kunnskap om et gitt tema.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

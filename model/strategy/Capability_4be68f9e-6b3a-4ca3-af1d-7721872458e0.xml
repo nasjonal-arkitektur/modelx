@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intern rapportering"
+    id="4be68f9e-6b3a-4ca3-af1d-7721872458e0">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

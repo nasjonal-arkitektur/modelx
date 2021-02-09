@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Føre virkestoff på narkotikalisten"
+    id="919c50d6-59ec-4ef0-9a6a-169c3ddca31d">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

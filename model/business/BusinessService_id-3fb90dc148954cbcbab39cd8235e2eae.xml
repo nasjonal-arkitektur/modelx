@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bekrefter vigsel med vigselsattest"
+    id="id-3fb90dc148954cbcbab39cd8235e2eae">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

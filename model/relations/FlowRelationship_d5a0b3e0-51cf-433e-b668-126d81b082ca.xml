@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VET Data"
+    id="d5a0b3e0-51cf-433e-b668-126d81b082ca"
+    documentation="Kodeverk og medikamentdata.&#xD;&#xA;Det er kun preparater med godkjent MT, dvs kun preparater med MT-status: Har MT, Har MT u/norsk PI, Markedsført, Midlertidig utgått, som får lov til å bli med i uttrekket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_65ff4530-4f9c-4e3d-aad0-752ee4c362f6.xml#65ff4530-4f9c-4e3d-aad0-752ee4c362f6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_70cfe3ef-69c3-4ba1-907b-bb8ee46143fb.xml#70cfe3ef-69c3-4ba1-907b-bb8ee46143fb"/>
+</archimate:FlowRelationship>

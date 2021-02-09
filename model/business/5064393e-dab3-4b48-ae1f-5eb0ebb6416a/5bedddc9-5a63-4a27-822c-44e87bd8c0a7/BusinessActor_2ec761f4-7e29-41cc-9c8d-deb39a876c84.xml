@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsynsobjekt"
+    id="2ec761f4-7e29-41cc-9c8d-deb39a876c84"
+    documentation="Tilsynsobjekt er den virksomhet eller enhet som er gjenstand for tilsyn. Det kan være et apotek, et produksjonslokale, en grossist osv.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

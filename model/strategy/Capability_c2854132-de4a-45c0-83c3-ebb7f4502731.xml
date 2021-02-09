@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å ta imot henvendelser om tilgang til data"
+    id="c2854132-de4a-45c0-83c3-ebb7f4502731"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må ha rutiner for å håndtere mottak av henvendelser slik at krav til eventuell journalføring, registrering og arkivering blir ivaretatt&#xD;&#xA;&#xD;&#xA;Datatilbyder må sørge for at henvendelsen er forstått slik at det ikke er uklarheter omkring konsumentens behov. Dersom tilbyder ikke har forstått hva konsument har behov for, må konsument kontaktes&#xD;&#xA;&#xD;&#xA;Det må videre håndteres hvordan henvendelsen skal følges opp videre i virksomheten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Rutine for mottak av henvendelser om tilgang til data for å sikre at henvendelser håndteres effektivt og ensartet&#xD;&#xA;&#xD;&#xA;Konsumentene må dokumentere sitt formål og behandlingsgrunnlag, og argumentere for hvilke informasjonselementer de mener de skal ha tilgang til for det gitte formålet.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å ta imot henvendelser om tilgang til data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må ha rutiner for å håndtere mottak av henvendelser slik at krav til eventuell journalføring, registrering og arkivering blir ivaretatt&#xD;&#xA;&#xD;&#xA;Datatilbyder må sørge for at henvendelsen er forstått slik at det ikke er uklarheter omkring konsumentens behov. Dersom tilbyder ikke har forstått hva konsument har behov for, må konsument kontaktes&#xD;&#xA;&#xD;&#xA;Det må videre håndteres hvordan henvendelsen skal følges opp videre i virksomheten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Rutine for mottak av henvendelser om tilgang til data for å sikre at henvendelser håndteres effektivt og ensartet&#xD;&#xA;&#xD;&#xA;Konsumentene må dokumentere sitt formål og behandlingsgrunnlag, og argumentere for hvilke informasjonselementer de mener de skal ha tilgang til for det gitte formålet."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

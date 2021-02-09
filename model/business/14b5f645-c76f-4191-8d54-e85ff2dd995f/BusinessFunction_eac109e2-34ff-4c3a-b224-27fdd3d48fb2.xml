@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevurdering og refusjon"
+    id="eac109e2-34ff-4c3a-b224-27fdd3d48fb2"
+    documentation="Legemiddelverket vurderer hvilke legemidler det offentlige bør finansiere, på bakgrunn av nytte, ressursbruk og alvorlighet. Legemiddelverket gjør en metodevurdering («verdivurdering») av alle legemidler, og beslutter hvilke legemidler som skal få forhåndsgodkjent refusjon.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;metodevarsling@legemiddelverket.no (gjelder legemidler som skal metodevurderes senere)&#xD;&#xA;sykehus@legemiddelverket.no (metodevurdering av legemidler som skal finansieres av sykehusene)&#xD;&#xA;blaresept@legemiddelverket.no (metodevurdering av legemidler som skal finansieres av Folketrygden)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

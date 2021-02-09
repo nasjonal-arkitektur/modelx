@@ -1,0 +1,37 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anvende elektroniske data som &quot;juridisk dokumentasjon&quot;"
+    id="77f72efc-3f4f-45cd-a6ec-d0da1a545a91"
+    documentation="https://amagno.co.uk/digitalfilesandrecords/20713/ : &#xD;&#xA;&#xD;&#xA;Legal admissibility refers to whether a court of law would accept a a digital file as a valid piece of evidence in case of a dispute. Even though records can be admissible (i.e. accepted as evidence) the opposing party and their legal counsel may call the evidential weight into question if there are any doubts as to the record’s veracity or integrity.&#xD;&#xA;&#xD;&#xA;. Digital files must be accurate, i.e. unaltered representations of the information;&#xD;&#xA;&#xD;&#xA;. Digital files must be authentic, i.e. what it purports to be;&#xD;&#xA;&#xD;&#xA;. Digital files must not have been tampered with;&#xD;&#xA;&#xD;&#xA;. Digital files must be stored in a system that has been secure throughout the file’s lifetime.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anvende elektroniske data som &quot;juridisk dokumentasjon&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="Legal admissibility"/>
+  <properties
+      key="difi:description_no"
+      value="https://amagno.co.uk/digitalfilesandrecords/20713/ : &#xD;&#xA;&#xD;&#xA;Legal admissibility refers to whether a court of law would accept a a digital file as a valid piece of evidence in case of a dispute. Even though records can be admissible (i.e. accepted as evidence) the opposing party and their legal counsel may call the evidential weight into question if there are any doubts as to the record’s veracity or integrity.&#xD;&#xA;&#xD;&#xA;. Digital files must be accurate, i.e. unaltered representations of the information;&#xD;&#xA;&#xD;&#xA;. Digital files must be authentic, i.e. what it purports to be;&#xD;&#xA;&#xD;&#xA;. Digital files must not have been tampered with;&#xD;&#xA;&#xD;&#xA;. Digital files must be stored in a system that has been secure throughout the file’s lifetime."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

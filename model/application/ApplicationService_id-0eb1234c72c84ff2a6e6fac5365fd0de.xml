@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks bekymringsmelding"
+    id="id-0eb1234c72c84ff2a6e6fac5365fd0de">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

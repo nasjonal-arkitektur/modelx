@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentsøk"
+    id="a4a1d818-7a03-45e6-aa73-1d1a99f8ceb9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationInterface>

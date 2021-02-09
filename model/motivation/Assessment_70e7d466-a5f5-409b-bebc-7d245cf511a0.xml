@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknadsbehandling på papir"
+    id="70e7d466-a5f5-409b-bebc-7d245cf511a0"
+    documentation="Søknader på papir og manuelle arkiver gjør behanlding av denne typen søknader tungvin.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

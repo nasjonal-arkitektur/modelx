@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varsler"
+    id="8008f838-4719-411e-905a-47567a979056"
+    documentation="En varsler kan være ansatt i et apotek, hos en grossist e.l.&#xD;&#xA;Har observert avviskforhold og varsler Legemiddelverket om det">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

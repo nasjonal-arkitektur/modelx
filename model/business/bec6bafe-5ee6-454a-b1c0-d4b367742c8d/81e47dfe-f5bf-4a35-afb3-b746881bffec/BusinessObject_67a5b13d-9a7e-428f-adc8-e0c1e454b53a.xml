@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M1 - Regulatorisk"
+    id="67a5b13d-9a7e-428f-adc8-e0c1e454b53a"
+    documentation="Modul 1 - Regulatorisk/administrativ hovedinformasjon (serifikater, pakningsvedlegg) SPC (helsepersonell, Pakningsvedlegg (pasienter) forkortet&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

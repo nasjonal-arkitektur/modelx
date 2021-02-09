@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="En Vei Inn"
+    id="66f057d5-f3d9-4f94-9681-9fe71f803d13"
+    documentation="En Vei Inn er en felles løsning for innrapportering av bivirkning&#xD;&#xA;&#xD;&#xA;Fase 1 inneholdt første versjon av En vei inn-løsningen, inkludert meldeordningen for bivirkninger av legemidler. Løsningen gikk i produksjon 1.11.2018, i henhold til plan.&#xD;&#xA;&#xD;&#xA;I Fase 2 skal løsningen utvides til å omfatte øvrige bivirkningsordninger (vaksiner, kosttilskudd og kosmetikk) samt medisinsk utstyr. Fase 2 skal etter planen pågå frem til sommeren 2019.&#xD;&#xA;&#xD;&#xA;Det er til vurdering hos HOD om løsningen skal utvides videre til å omfatte meldinger fra pasienter og pårørende, samt varselordningen til Helsetilsynet og Undersøkelseskommisjonen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

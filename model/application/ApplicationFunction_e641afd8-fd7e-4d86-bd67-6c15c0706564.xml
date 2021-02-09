@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kryptering"
+    id="e641afd8-fd7e-4d86-bd67-6c15c0706564">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationFunction>

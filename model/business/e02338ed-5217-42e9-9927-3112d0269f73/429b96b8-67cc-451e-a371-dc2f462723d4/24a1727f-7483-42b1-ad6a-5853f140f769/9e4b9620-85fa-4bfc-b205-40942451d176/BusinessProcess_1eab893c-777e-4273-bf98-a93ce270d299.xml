@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide Asessment Report - Dag150-rapport"
+    id="1eab893c-777e-4273-bf98-a93ce270d299"
+    documentation="På bakgrunn av MT-søkers svar på spørsmål / oppdatering av søknaden utarbeides det en Asessment Report, som skal være ferdig til dag 150. Rapporten kalles derfor Dag150-rapport.&#xD;&#xA;Rapportør og Ko-rapportør samarbeider om dette.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

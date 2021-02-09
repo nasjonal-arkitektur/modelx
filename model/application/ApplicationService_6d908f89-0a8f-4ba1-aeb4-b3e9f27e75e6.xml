@@ -1,0 +1,35 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tokenvaliderings-tjeneste"
+    id="6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6"
+    documentation="Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Tokenvalideringstjeneste"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="application-service"/>
+  <properties
+      key="label"
+      value="Tokenvaliderings-tjeneste"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

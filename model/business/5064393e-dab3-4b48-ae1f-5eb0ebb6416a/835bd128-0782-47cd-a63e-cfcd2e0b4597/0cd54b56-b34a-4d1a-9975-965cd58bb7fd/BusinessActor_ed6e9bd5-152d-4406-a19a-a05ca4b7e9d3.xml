@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salg av homøopatika utenom apotek (lag)"
+    id="ed6e9bd5-152d-4406-a19a-a05ca4b7e9d3"
+    documentation="Oppdrag i tildelingsbrevet: &#xD;&#xA;Midlertidig lag med frist desember 2017">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

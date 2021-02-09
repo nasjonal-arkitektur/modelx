@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsmodell"
+    id="f297dbf7-db5e-4558-877c-b4d09872d4be">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

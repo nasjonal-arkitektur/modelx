@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsledelse"
+    id="d572f5ff-66fd-4b1e-8a5b-0442a63929aa"
+    documentation="Ability to capture, organize, prioritize, route, interpret, disseminate, assign, and administer tasks, inbound requests, schedules, time, work events, and related decisions.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Arbeidsledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Work Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to capture, organize, prioritize, route, interpret, disseminate, assign, and administer tasks, inbound requests, schedules, time, work events, and related decisions."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to capture, organize, prioritize, route, interpret, disseminate, assign, and administer tasks, inbound requests, schedules, time, work events, and related decisions."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

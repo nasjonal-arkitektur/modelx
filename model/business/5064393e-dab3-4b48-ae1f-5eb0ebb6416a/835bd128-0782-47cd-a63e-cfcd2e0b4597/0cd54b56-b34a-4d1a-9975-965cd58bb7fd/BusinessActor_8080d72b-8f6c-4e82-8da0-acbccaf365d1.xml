@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farmasøytutlevering - oppdrag (lag)"
+    id="8080d72b-8f6c-4e82-8da0-acbccaf365d1"
+    documentation="Utrede ordningen for farmasøytutlevering (tilleggsoppdrag fra HOD)">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

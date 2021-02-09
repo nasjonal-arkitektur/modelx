@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TempShare"
+    id="c865a316-d2ba-40d3-bbef-570755193725"
+    documentation="Temporært filområde / arbeidsområde for SAM.&#xD;&#xA;Brukes alle steder der en fil skal flyttes fra ett system til et annet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

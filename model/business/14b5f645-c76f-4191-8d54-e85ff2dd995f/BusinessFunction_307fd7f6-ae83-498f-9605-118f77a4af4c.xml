@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR og organisasjonsutvikling"
+    id="307fd7f6-ae83-498f-9605-118f77a4af4c"
+    documentation="Enhet for HR og organisasjonsutvikling har blant annet ansvar for personalspørsmål og rekruttering.&#xD;&#xA;&#xD;&#xA;E-postadresse: HR@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

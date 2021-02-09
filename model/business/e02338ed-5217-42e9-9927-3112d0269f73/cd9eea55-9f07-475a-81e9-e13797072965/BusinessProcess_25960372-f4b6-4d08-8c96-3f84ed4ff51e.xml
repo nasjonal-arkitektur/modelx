@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfølging av utstyr og bivirkninger"
+    id="25960372-f4b6-4d08-8c96-3f84ed4ff51e"
+    documentation="Etter et produkt er tatt i bruk vil prosusent ofte fortsette å forske på produktet og eventuelt videreutvikle det. Endringer i produktet kan medføre om at man må søke om ny sertifisering.&#xA;&#xA;Offentlige og private virksomheter som håndterer medisinsk utstyr har en plikt til å melde om hendelser (bivirkninger). Meldingen sendes i egen skjemaløsning til Legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

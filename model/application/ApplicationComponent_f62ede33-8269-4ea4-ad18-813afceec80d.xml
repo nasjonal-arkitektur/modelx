@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn autorisasjon"
+    id="f62ede33-8269-4ea4-ad18-813afceec80d"
+    documentation="Torget:&#xD;&#xA;Autorisasjonskomponenten i Altinn som gir muligheter til å delegere rettigheter til andre organisasjoner eller personer. Rettigheter til bruk av autorisasjonskomponenten baserer seg på registrerte roller i Enhetsregisteret.&#xD;&#xA;Altinn autorisasjon leverer også tjenester for å registrere og kontrollere samtykke gitt av person eller virksomhet.&#xD;&#xA;&#xD;&#xA;Verktøykasse for deling av data:&#xD;&#xA;Altinn autorisasjon gir teknisk samhandlingsevne ved at bruker logger inn med elektronisk ID,&#xD;&#xA;autorisasjonskomponenten sjekker at bruker har de tilgangene som kreves for å ta i bruk aktuell tjeneste.&#xD;&#xA;&#xD;&#xA;Dersom en privatperson skal ta i bruk en tjeneste på vegne av en virksomhet, gjøres det et oppslag mot Enhetsregisteret for å bekrefte at personen har en rolle på vegne av virksomheten. Dette gir organisatorisk samhandlingsevne.&#xD;&#xA;&#xD;&#xA;Mer om Altinn autorisasjon:&#xD;&#xA;https://www.altinndigital.no/produkter/styring-av-tilgang/&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn autorisasjon"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

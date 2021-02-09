@@ -10,7 +10,7 @@
       value="archi:technology-interface"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="instance"/>
@@ -32,11 +32,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="6a3d5a88-ccbd-4da1-8dc0-6343a67cbfd2"/>
 </archimate:TechnologyInterface>

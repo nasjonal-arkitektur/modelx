@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filshare - K: Castor / SAN"
+    id="277e48fa-27fe-41c0-a93a-a1dbd74f1c28"
+    documentation="Filområde &#xD;&#xA;Arkiveringsløsning - Castor er den lokale løsningen for å ta vare på søknadsdokumenter. &#xD;&#xA;&#xD;&#xA;Her vil alle oppdateringer av søknader også lastese ned, etter hvert som MT-søker sender inn oppdateringer. &#xD;&#xA;Arkivfunksjonen sitter og følger med på daglig/ukentlig basis og laster ned når noe dukker opp.&#xD;&#xA;&#xD;&#xA;I Castor ligger alle dokumenter behandles i SAM, som ikke er arkivverdige. Saksbehandler får valg om dokument skal legges i P360 eller Castor på et tidlig puntk i saksbehandlingen.&#xD;&#xA;&#xD;&#xA;Her kommer også filer fra Filshare L: CESP inn etter at de er behandlet der">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

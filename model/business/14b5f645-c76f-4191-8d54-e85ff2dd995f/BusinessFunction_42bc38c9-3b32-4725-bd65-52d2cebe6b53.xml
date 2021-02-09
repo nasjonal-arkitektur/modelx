@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medisinsk rådgiving - Human"
+    id="42bc38c9-3b32-4725-bd65-52d2cebe6b53"
+    documentation="Våre oppgaver:&#xD;&#xA;Drive allmennmedisinsk rådgiving til forskrivere.&#xD;&#xA;Bistå med kliniske vurderinger innenfor andre temaer på legemiddelområdet.&#xD;&#xA;&#xD;&#xA;For bruk av veterinære legemidler kontakt Mattilsynet.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

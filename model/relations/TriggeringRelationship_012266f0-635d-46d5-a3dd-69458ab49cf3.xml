@@ -1,0 +1,15 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Igangsetting av saksbehandlingsprosess"
+    id="012266f0-635d-46d5-a3dd-69458ab49cf3">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9592f8b9-f5d6-4eaf-991c-4c33b973e7da.xml#9592f8b9-f5d6-4eaf-991c-4c33b973e7da"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_31fadc6b-9a5d-4306-b2ea-0f4d2fb7cd64.xml#31fadc6b-9a5d-4306-b2ea-0f4d2fb7cd64"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-sigaretter"
+    id="459f2b3a-fe62-4068-9ee9-29f060ce70f2"
+    documentation="Legemiddelverket forvalter regelverket for e-sigaretter sammen med Helsedirektoratet. Firmaer som ønsker å importere e-sigaretter som et røykeavvenningsprodukt må henvende seg til Legemiddelverket.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no&#xD;&#xA;&#xD;&#xA;Merknad pr 03.10.2018:&#xD;&#xA;Er ikke på plass enda, da dette er et oppdrag vi har fått men ikke kommet i gang med pga nødvendige regelverksendringer og avtaler med EU. Lever i organisasjonen som et litt luftig prosjekt, pr i dag styrt av jurist fra Virksomhetsstøtte (Økonomi og Jus, inntil hun går ut i mammaperm), men det er på gang ansettelser for å sette i gang forvaltning.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

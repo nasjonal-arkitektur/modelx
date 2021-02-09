@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GUI for registrering og opplasting av OAS-filer"
+    id="1939cf8e-8bb0-4743-9dd1-cf8fa8cf5fc8">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationService>

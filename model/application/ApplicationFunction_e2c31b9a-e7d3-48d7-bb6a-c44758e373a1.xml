@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adresseoppslag"
+    id="e2c31b9a-e7d3-48d7-bb6a-c44758e373a1">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationFunction>

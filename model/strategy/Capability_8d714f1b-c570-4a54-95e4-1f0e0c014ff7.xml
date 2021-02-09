@@ -1,0 +1,27 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Competent Authority Lookup"
+    id="8d714f1b-c570-4a54-95e4-1f0e0c014ff7">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Formidle informasjon om  dataleverandører og tjenester"/>
+  <properties
+      key="difi:name_en"
+      value="Competent Authority Lookup"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

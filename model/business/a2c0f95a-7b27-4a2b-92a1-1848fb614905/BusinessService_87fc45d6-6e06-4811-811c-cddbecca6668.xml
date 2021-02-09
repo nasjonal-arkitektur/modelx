@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtere Apotekøkonomi"
+    id="87fc45d6-6e06-4811-811c-cddbecca6668"
+    documentation="Kreve inn avgifter knyttet til omsetning av legemidler, gi apotek driftsstøtte og fraktrefusjon og utarbeide apotekstatistikk&#xD;&#xA;* Omsetningsavgift&#xD;&#xA;&#x9;* Baseres på omsatt volumer&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunikasjon"
+    id="639bffde-b2bc-410d-824e-f7466cf91a59"
+    documentation="Enhet for kommunikasjon driver strategisk og operativt kommunikasjonsarbeid, inkludert omdømmearbeid, pressekontakt, web og sosiale medier. &#xD;&#xA;&#xD;&#xA;E-postadresse: redaksjonen@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

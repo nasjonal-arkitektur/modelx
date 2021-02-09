@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="behandler"
+    id="690c04d5-4ec9-4bf5-86f3-703dfeb65fcb"
+    accessType="3">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="behandler"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_131072ef-75fa-457f-aa2e-19d9b5601990.xml#131072ef-75fa-457f-aa2e-19d9b5601990"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b7310c0d-6e55-47f0-a2e1-5f393c77187d.xml#b7310c0d-6e55-47f0-a2e1-5f393c77187d"/>
+</archimate:AccessRelationship>

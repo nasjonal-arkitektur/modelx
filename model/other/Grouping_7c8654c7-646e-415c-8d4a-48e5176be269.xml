@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Politikkstyring"
+    id="7c8654c7-646e-415c-8d4a-48e5176be269"
+    documentation="Ability to establish, administer, maintain, and comply with a course or principle of action adopted or proposed by a government party, business, or individual.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Politikkstyring"/>
+  <properties
+      key="difi:name_en"
+      value="Policy Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to establish, administer, maintain, and comply with a course or principle of action adopted or proposed by a government party, business, or individual."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, administer, maintain, and comply with a course or principle of action adopted or proposed by a government party, business, or individual."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

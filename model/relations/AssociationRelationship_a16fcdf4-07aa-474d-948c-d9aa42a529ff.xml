@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a16fcdf4-07aa-474d-948c-d9aa42a529ff"
+    documentation="Saker administreres i verktøyet, mens dokumenter håndteres i 360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f4014127-610e-4715-aa50-a7edcd86a06d.xml#f4014127-610e-4715-aa50-a7edcd86a06d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eca9ad78-84a7-4212-8396-876bcb6a0cd5.xml#eca9ad78-84a7-4212-8396-876bcb6a0cd5"/>
+</archimate:AssociationRelationship>

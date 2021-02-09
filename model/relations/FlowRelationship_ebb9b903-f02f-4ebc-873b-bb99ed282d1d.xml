@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingen påstått effekt"
+    id="ebb9b903-f02f-4ebc-873b-bb99ed282d1d">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_e078b2f0-16d0-4a50-a966-80b5df472521.xml#e078b2f0-16d0-4a50-a966-80b5df472521"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1d21f123-65ec-4c2e-95ca-b2b5757f78a7.xml#1d21f123-65ec-4c2e-95ca-b2b5757f78a7"/>
+</archimate:FlowRelationship>

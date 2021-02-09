@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a401cab795924f05b9a2c8f54ae8128d">
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_id-61082551b4ce4ae9a2aa38dfe4857ca9.xml#id-61082551b4ce4ae9a2aa38dfe4857ca9"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-239051e6402244fcaafee61373157e5a.xml#id-239051e6402244fcaafee61373157e5a"/>
+</archimate:AggregationRelationship>

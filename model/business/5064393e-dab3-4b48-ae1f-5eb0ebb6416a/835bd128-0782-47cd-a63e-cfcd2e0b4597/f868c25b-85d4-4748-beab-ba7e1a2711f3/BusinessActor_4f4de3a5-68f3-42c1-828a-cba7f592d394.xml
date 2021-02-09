@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plantebaserte legemidler (lag)"
+    id="4f4de3a5-68f3-42c1-828a-cba7f592d394"
+    documentation="Søknader om registrering av tradisjonelt plantebasert legemiddel, monografier, veiledning av søkere">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

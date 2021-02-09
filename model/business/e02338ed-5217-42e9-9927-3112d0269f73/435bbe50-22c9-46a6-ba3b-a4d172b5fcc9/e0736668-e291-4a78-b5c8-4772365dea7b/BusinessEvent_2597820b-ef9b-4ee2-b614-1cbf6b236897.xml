@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent sender inn utredning av sviktmelding"
+    id="2597820b-ef9b-4ee2-b614-1cbf6b236897"
+    documentation="Produsenten sender beriket melding til SLV.&#xD;&#xA;Benytter et eget skjema (Manufacturer Incident Report MIR), som man søker å standardisere innen 1.1.2020&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

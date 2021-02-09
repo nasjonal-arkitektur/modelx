@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere legemiddel for oppføring på negativliste"
+    id="3216bfb5-5e0e-4a17-904d-ee6098db0b15"
+    documentation="Legemidler føres opp negativlisten, når:&#xD;&#xA;* man får meldinger om bivirkninger&#xD;&#xA;* biologiske legemidler &#xD;&#xA;* Legemiddelet er under klinisk utprøving&#xD;&#xA;* medisinske gasser&#xD;&#xA;* legemidler hvor det finnes alternativer med MT">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

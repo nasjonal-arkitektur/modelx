@@ -1,0 +1,42 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supplerende hendelsesrelaterte data"
+    id="985cc05e-cf51-4655-a57a-af9ae3f68610">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="supplerende hendelsesrelaterte data"/>
+  <properties
+      key="difi:name_en"
+      value="additional event related data"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_c777850b-1ce0-4af0-b1b2-d180411baaca.xml#c777850b-1ce0-4af0-b1b2-d180411baaca"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a78bf9f0-ef86-4b42-b908-545afa46e6b3.xml#a78bf9f0-ef86-4b42-b908-545afa46e6b3"/>
+</archimate:FlowRelationship>

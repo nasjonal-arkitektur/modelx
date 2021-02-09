@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Info utl. av med. med godkj.fr."
+    id="e53cc541-86ae-4567-8d91-b0de357e97f6"
+    documentation="Informasjon om utlevering av medikamenter med godkjenningsfritak">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_954df80e-51e7-4c10-95d2-352cf0ccc37c.xml#954df80e-51e7-4c10-95d2-352cf0ccc37c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3341fe1b-2413-4135-a28c-893567441052.xml#3341fe1b-2413-4135-a28c-893567441052"/>
+</archimate:FlowRelationship>

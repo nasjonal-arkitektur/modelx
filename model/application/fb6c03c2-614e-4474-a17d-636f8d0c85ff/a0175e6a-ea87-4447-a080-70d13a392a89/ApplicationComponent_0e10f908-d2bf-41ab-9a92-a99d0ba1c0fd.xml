@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronsik Pasientjournal (EPJ) - Legens eget"
+    id="0e10f908-d2bf-41ab-9a92-a99d0ba1c0fd"
+    documentation="Legen eller legekontorets egen EPJ-løsning">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

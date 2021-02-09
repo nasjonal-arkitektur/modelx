@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre analyse"
+    id="8247de7b-a5d5-4d66-b354-2f095c70a01f"
+    documentation="Analyserer også preparater som skal løse seg opp I kroppen over tid - dette tar vesentlig mye lengre tid enn f.eks. en screeninganalyse.&#xD;&#xA;En normal kontrollanalyse tar normalt 3-4 uker. Det skal analyseres, skrives rapport og kontrolleres&#xD;&#xA;Setter opp en analyseplan (analyseansvarlig) - etter spesifikasjonene i preparatene, alt fra utseende til preparat. Hvert enkelt medikament.&#xD;&#xA;Etter hvert som det registreres resultater i analysen, fylles dette inn i registreringsskjemaer&#xD;&#xA;&#xD;&#xA;Screeninganalyser for Mattilsynet for å finne nye preparater foregår litt annerledes. I slike prosesser plukker ikke fra hverandre, men er opptatt av å finne ut hva kosttilskudd inneholder. Det kan også i slike tilfeller gjøres mer dyptgående analyser dersom det er behov.&#xD;&#xA;&#xD;&#xA;Dokumenter som utarbeides som en del av prosessen lagres I 360 underveis. De endelige dokumentene går I 360. &#xD;&#xA;Arbeidsdokumentene går I X. Dokumentene opprettes I 360 med en gang. &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

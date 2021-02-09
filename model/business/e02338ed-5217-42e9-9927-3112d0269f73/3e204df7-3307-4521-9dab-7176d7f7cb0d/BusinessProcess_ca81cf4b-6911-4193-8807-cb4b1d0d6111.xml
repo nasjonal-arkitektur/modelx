@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksbehandle / vurdere søknad om godkjenningsfritak"
+    id="ca81cf4b-6911-4193-8807-cb4b1d0d6111"
+    documentation="En viktig del av saksbehandlingen er innhenting av informajson. Athene er en viktig kilde til informasjon, , i tillegg til informasjon fra andre lands legemiddelmyndigheter og andre kilder (via internett).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

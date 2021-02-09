@@ -1,0 +1,27 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroller mottakers kapabiliteter"
+    id="ccfb1ce9-6107-4aa9-87db-98ee1f1c4af1"
+    documentation="Prosess for å slå opp og kontrollere mottakers evner til samhandling innenfor fellesskapet.">
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kontroller mottakers kapabiliteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessProcess>

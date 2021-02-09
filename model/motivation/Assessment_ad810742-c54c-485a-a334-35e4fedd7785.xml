@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kan sitte på hver sin versjon av rapport"
+    id="ad810742-c54c-485a-a334-35e4fedd7785"
+    documentation="Ettersom rapporten lagres lokalt på &quot;X&quot; underveis, kan de som er utredere av rapporten, ende opp med hver sine versjoner som gir utfordringer når all dokumentasjon skal føres sammen til en felles rapport.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

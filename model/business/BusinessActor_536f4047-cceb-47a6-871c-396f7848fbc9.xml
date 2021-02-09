@@ -10,7 +10,7 @@
       value="archi:business-actor"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
@@ -32,11 +32,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="536f4047-cceb-47a6-871c-396f7848fbc9"/>
 </archimate:BusinessActor>

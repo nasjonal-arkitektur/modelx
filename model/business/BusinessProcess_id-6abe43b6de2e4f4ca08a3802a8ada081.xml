@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsumere data"
+    id="id-6abe43b6de2e4f4ca08a3802a8ada081">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

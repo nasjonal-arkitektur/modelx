@@ -12,31 +12,8 @@
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
-      key="dct:type"
-      value="archi:realization-relationship"/>
-  <properties
       key="difi:namespace"
-      value="-"/>
-  <properties
-      key="difi:abstractionLevel"
-      value="undefined"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="difi:language"
-      value="no"/>
-  <properties
-      key="difi:description_en"/>
-  <properties
-      key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="7eacf1c4-117c-47db-b991-bc3c8e5843b1"/>
+      value="digdir"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_77e1a2cf-8685-4d20-8450-33fbe2fbd565.xml#77e1a2cf-8685-4d20-8450-33fbe2fbd565"/>

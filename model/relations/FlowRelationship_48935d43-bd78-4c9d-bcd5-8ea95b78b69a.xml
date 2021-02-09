@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feil eller mangler i PI"
+    id="48935d43-bd78-4c9d-bcd5-8ea95b78b69a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_59bc5935-7621-44a1-8a49-9b7b2d6de507.xml#59bc5935-7621-44a1-8a49-9b7b2d6de507"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_639f26b5-69ad-491a-b944-a8d686d2626e.xml#639f26b5-69ad-491a-b944-a8d686d2626e"/>
+</archimate:FlowRelationship>

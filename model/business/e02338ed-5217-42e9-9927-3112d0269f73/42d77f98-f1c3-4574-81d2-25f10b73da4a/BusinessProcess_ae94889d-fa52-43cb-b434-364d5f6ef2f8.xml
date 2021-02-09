@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patentsøknad"
+    id="ae94889d-fa52-43cb-b434-364d5f6ef2f8"
+    documentation="Produsentene er tidlig ute med å søke om patenter, for å sikre eierskap og muligheter for kapitalisering på investeringer i utviklingen. Søknaden kan sendes inn på ulike steg i medikamentreisen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

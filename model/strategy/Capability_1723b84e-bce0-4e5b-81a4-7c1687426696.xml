@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bygging"
+    id="1723b84e-bce0-4e5b-81a4-7c1687426696">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

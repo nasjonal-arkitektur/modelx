@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eResept Forskrivningsmodul (EPJ)"
+    id="fdd1c5bb-4197-4682-81ef-e56bb1372e32"
+    documentation="Gir brukere tilgang til eResept Forskrivningsmodul.&#xD;&#xA;&#xD;&#xA;Gir tilgang til eHelse Forskrivningsmodul&#xD;&#xA;Bruker et program kalt MiniEPJ for å få tilgang til modulen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

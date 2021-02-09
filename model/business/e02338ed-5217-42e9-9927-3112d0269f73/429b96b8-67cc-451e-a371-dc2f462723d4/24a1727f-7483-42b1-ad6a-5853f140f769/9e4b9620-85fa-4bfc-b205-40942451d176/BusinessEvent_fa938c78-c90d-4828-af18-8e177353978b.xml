@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende inn oppdatert søknad / svar på spørsmål"
+    id="fa938c78-c90d-4828-af18-8e177353978b">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

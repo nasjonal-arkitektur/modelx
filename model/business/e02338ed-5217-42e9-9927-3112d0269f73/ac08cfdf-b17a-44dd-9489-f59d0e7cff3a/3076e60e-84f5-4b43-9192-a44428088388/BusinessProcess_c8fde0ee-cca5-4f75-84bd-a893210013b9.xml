@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede bivirkningssignal"
+    id="c8fde0ee-cca5-4f75-84bd-a893210013b9"
+    documentation="Utredning av bivirkningsssignaler">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

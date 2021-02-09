@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksterne virksomhetstjenester"
+    id="f48e3eda-00a9-4792-ad24-c79720cfc560">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Folder>

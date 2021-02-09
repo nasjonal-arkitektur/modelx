@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API samarbeidsportalen"
+    id="3029166f-224d-4532-975d-114c929a0367">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationInterface>

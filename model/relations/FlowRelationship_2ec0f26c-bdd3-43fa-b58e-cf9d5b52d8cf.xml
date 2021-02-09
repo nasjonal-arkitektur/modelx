@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvittering på mottatt bivirkningsmelding"
+    id="2ec0f26c-bdd3-43fa-b58e-cf9d5b52d8cf">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_07f01dd6-089a-4b00-9831-3375864b0d52.xml#07f01dd6-089a-4b00-9831-3375864b0d52"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f76e77c4-5cf7-4fcf-844e-e71dd3589421.xml#f76e77c4-5cf7-4fcf-844e-e71dd3589421"/>
+</archimate:FlowRelationship>

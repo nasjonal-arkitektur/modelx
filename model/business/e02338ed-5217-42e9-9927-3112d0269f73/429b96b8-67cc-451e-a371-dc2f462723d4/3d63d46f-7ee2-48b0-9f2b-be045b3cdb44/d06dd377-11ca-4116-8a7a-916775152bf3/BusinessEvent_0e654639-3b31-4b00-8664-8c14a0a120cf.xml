@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respons / produktinformasjon mottatt fra MT-søker"
+    id="0e654639-3b31-4b00-8664-8c14a0a120cf"
+    documentation="Etter prosedyreslutt har man enten fått produktinformasjonen eller man må etterspørre dette fra søker. Dersom de ikke har sendt inn PI og man må purre setter man en frist for når man skal ha det inn. Dette kan man velge selv - avhengig av om firmaet har bedt om mer tid. Man er litt pragmatiske.&#xD;&#xA;&#x9;• Når man har mottatt informasjonen har man 30 dager på å se gjennom.&#xD;&#xA;&#x9;• På dette stadiet er man enige om at den engelske utgaven av produktinformasjonen er komplett og av riktig kvalitet&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

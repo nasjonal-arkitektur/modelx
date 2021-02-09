@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Management Service"
+    id="27ade69e-575a-4079-8550-5feb1ce32204"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of user authentication.&#xD;&#xA;‘Electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person;&#xD;&#xA;‘Authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Authentication Service, eID&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Identity Management Service ABB  is salient for technical interoperability because it provides the functionalities of user authentication.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EU Login&#xD;&#xA;EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. &#xD;&#xA;EU Login supports a variety of verification methods: &#xD;&#xA;•&#x9;Password; &#xD;&#xA;•&#x9;ECAS Mobile App PIN code; &#xD;&#xA;•&#x9;ECAS Mobile App QR code; &#xD;&#xA;•&#x9;On mobile authentication; &#xD;&#xA;•&#x9;Mobile phone + SMS; &#xD;&#xA;•&#x9;Token and Token CRAM. &#xD;&#xA;https://webgate.ec.europa.eu/cas/about.html &#xD;&#xA;https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial_1.1.pdf &#xD;&#xA;&#xD;&#xA;Federal Public Service Policy and Support - Federal Authentication Service (FAS)&#xD;&#xA;Via the Federal Authentication Service (FAS) individuals are authenticated so that they can access secure online government applications.&#xD;&#xA;Characteristics:&#xD;&#xA;•&#x9;Three different security levels depending on the sensitivity of the information: user name and password; user name, password and token; electronic identity card with associated PIN code.&#xD;&#xA;•&#x9;Authentication when connecting to an application&#xD;&#xA;•&#x9;Support with the implementation of the service&#xD;&#xA;•&#x9;Support while the service is being used&#xD;&#xA;Attribute Publication Service:&#xD;&#xA;•&#x9;Collecting a user´s attributes from one or more reliable sources that are located in other government institutions (i.e., National Register, Crossroads Bank for Social Security and Crossroads Bank for Enterprises)&#xD;&#xA;•&#x9;Sending of the requested attributes to the requesting government application within the framework of a successful authentication&#xD;&#xA;Users:&#xD;&#xA;•&#x9;All public services and institutions that want a secure authentication process for their applications: Federal public services and institutions; Communities and Regions; Provinces, municipalities and local public social welfare centres; businesses or persons implementing government contracts&#xD;&#xA;Requirements: &#xD;&#xA;•&#x9;Application with Fedict Service Desk and signing up to a user agreement&#xD;&#xA;http://www.fedict.belgium.be/en/identificatie_beveiliging/federal_authentication_service &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB204"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Identity Management Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of user authentication.&#xD;&#xA;‘Electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person;&#xD;&#xA;‘Authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Authentication Service, eID&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Identity Management Service ABB  is salient for technical interoperability because it provides the functionalities of user authentication.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;EU Login&#xD;&#xA;EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. &#xD;&#xA;EU Login supports a variety of verification methods: &#xD;&#xA;•&#x9;Password; &#xD;&#xA;•&#x9;ECAS Mobile App PIN code; &#xD;&#xA;•&#x9;ECAS Mobile App QR code; &#xD;&#xA;•&#x9;On mobile authentication; &#xD;&#xA;•&#x9;Mobile phone + SMS; &#xD;&#xA;•&#x9;Token and Token CRAM. &#xD;&#xA;https://webgate.ec.europa.eu/cas/about.html &#xD;&#xA;https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial_1.1.pdf &#xD;&#xA;&#xD;&#xA;Federal Public Service Policy and Support - Federal Authentication Service (FAS)&#xD;&#xA;Via the Federal Authentication Service (FAS) individuals are authenticated so that they can access secure online government applications.&#xD;&#xA;Characteristics:&#xD;&#xA;•&#x9;Three different security levels depending on the sensitivity of the information: user name and password; user name, password and token; electronic identity card with associated PIN code.&#xD;&#xA;•&#x9;Authentication when connecting to an application&#xD;&#xA;•&#x9;Support with the implementation of the service&#xD;&#xA;•&#x9;Support while the service is being used&#xD;&#xA;Attribute Publication Service:&#xD;&#xA;•&#x9;Collecting a user´s attributes from one or more reliable sources that are located in other government institutions (i.e., National Register, Crossroads Bank for Social Security and Crossroads Bank for Enterprises)&#xD;&#xA;•&#x9;Sending of the requested attributes to the requesting government application within the framework of a successful authentication&#xD;&#xA;Users:&#xD;&#xA;•&#x9;All public services and institutions that want a secure authentication process for their applications: Federal public services and institutions; Communities and Regions; Provinces, municipalities and local public social welfare centres; businesses or persons implementing government contracts&#xD;&#xA;Requirements: &#xD;&#xA;•&#x9;Application with Fedict Service Desk and signing up to a user agreement&#xD;&#xA;http://www.fedict.belgium.be/en/identificatie_beveiliging/federal_authentication_service &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

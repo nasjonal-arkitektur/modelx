@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraVigilance (V+H)"
+    id="9f0ff110-ff5e-4742-9d77-ef694154b0ff"
+    documentation="EudraVigilance er systemet for å administrere og analysere informasjon om mistanke om bivirkninger av legemidler som er godkjent eller er gjenstand for kliniske studier i EØS. Det europeiske legemiddelkontoret (EMA) driver systemet på vegne av EUs lovverk for legemidler.&#xD;&#xA;&#xD;&#xA;Human: The EudraVigilance Human is a system for managing and analysing information on suspected adverse reactions to medicines which have been authorised in the European Economic Area.&#xD;&#xA;Veterinary: EudraVigilance   Veterinary   is   the   European   data-processing   network   and   database management system for the exchange, processing, and evaluation of Suspected  Adverse  Events  related  to  veterinary  medicinal  products  authorised in the European Economic Area.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

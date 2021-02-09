@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lag - Oversikt"
+    id="2561b553-0ef8-45af-86f4-e1363f06e87d">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0e04546d-9bca-458e-adf4-4011a1be2ace"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Oversikt over lag"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="240"
+        y="14"
+        width="493"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="0cddbbc0-e1af-4956-a0f6-e676bcd46735">
+    <bounds
+        x="12"
+        y="14"
+        width="181"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cd4a211b-1601-415a-a7b1-9a00ad81b7f2"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Lagsstruktur og hvor de hører hjemme i organisasjonen vedlikeholdes i lagoversikten - som ligger på &quot;NettVerket&quot; (på egen side) &lt;TODO - legge inn URL>.">
+    <bounds
+        x="216"
+        y="108"
+        width="517"
+        height="169"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

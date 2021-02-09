@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Følge opp meldinger om legemiddelmangel"
+    id="e382bc65-0a4c-4028-83e2-77a727ab055e"
+    documentation="Ved mangelsituasjoner iverksettes nasjonale tiltak. Legemiddelverket samarbeider med produsent, apotek og grossist, blant annet ved å gi tillatelser til salg av utenlandske pakninger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

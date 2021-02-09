@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Axway Activator - HUMAN / VET"
+    id="70cfe3ef-69c3-4ba1-907b-bb8ee46143fb"
+    documentation="Axway Activator er en meldingsmotor som kommuniserer med EMA Gateway i London via internett. Axway mottar e-post, og oppdaterer postgres (EXE fil) database.&#xD;&#xA;&#xD;&#xA;Løsningen ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

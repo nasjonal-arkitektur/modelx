@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere etikk og faglig  standard"
+    id="1fc49ee9-5ff2-4076-bfa9-2bbac8ade594"
+    documentation="De regionale etikkomiteene (REK) vurderer den kliniske utprøvingen opp mot etiske normer. Vedtak fra REK inngår som del av det endelige vedtaket for søknaden.&#xD;&#xA;&#xD;&#xA;REK fatter eget vedtak. Dette skal endres på sikt (2020?)&#xD;&#xA;&#xD;&#xA;REK behandler ikke søknader om Compassionate Use, og er heller ikke involvert i søknad om endring.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

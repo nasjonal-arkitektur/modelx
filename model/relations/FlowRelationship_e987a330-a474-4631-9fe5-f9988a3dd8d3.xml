@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kobling mellom saker og preparater"
+    id="e987a330-a474-4631-9fe5-f9988a3dd8d3">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6b21ad58-13bd-4e00-b7c7-481ddc44fc71.xml#6b21ad58-13bd-4e00-b7c7-481ddc44fc71"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2b3b5e0e-aaa5-4af7-b632-9719e7f945e6.xml#2b3b5e0e-aaa5-4af7-b632-9719e7f945e6"/>
+</archimate:FlowRelationship>

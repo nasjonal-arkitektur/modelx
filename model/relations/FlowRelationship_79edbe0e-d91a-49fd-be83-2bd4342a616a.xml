@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Positiv nivåvurdering"
+    id="79edbe0e-d91a-49fd-be83-2bd4342a616a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_5e5c4708-7b83-4bcb-aca5-d4d4a163a4fc.xml#5e5c4708-7b83-4bcb-aca5-d4d4a163a4fc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_290b0bdf-4ad5-4bfb-846e-9547ebed6324.xml#290b0bdf-4ad5-4bfb-846e-9547ebed6324"/>
+</archimate:FlowRelationship>

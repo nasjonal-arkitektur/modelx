@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preopinion som Member State (MS)"
+    id="48e63ada-e68e-4263-9124-6dc679f35cae"
+    documentation="CP Human: Preopinion (201 dager) som Member State (MS)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

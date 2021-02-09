@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EURIPID"
+    id="42c246db-e276-469f-b506-890e8fb81d14"
+    documentation="EU-løsning hvor det er mulig å finne prisinformasjon">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

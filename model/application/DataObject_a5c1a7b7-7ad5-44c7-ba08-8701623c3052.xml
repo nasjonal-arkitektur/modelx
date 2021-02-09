@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komplett hendelsesliste, tilbyders domene"
+    id="a5c1a7b7-7ad5-44c7-ba08-8701623c3052">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:DataObject>

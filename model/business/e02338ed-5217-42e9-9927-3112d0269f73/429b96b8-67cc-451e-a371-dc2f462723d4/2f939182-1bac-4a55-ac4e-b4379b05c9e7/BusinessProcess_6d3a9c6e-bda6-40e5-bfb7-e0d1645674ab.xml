@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar markedsføringstillatelse i NP/DCP"
+    id="6d3a9c6e-bda6-40e5-bfb7-e0d1645674ab">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

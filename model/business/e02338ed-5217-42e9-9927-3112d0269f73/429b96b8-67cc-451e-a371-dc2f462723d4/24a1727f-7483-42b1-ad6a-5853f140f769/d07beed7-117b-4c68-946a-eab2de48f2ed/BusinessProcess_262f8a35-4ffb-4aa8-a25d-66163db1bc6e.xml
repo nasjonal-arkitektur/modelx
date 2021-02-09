@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signere utstedelsesbrev"
+    id="262f8a35-4ffb-4aa8-a25d-66163db1bc6e"
+    documentation="Markedsføringstillatelsen undertegnes av enhetsleder, som har fullmakt fra Legemiddelverkets direktør.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

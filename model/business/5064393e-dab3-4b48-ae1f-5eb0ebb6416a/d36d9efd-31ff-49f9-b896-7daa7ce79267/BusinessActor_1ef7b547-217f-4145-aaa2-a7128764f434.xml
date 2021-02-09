@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaksiner - kompetansenettverk"
+    id="1ef7b547-217f-4145-aaa2-a7128764f434"
+    documentation="Kompetansenettverk på bakgrunn av at SLV er en av de ledende landene innen utredning og overvåkning av vaksiner&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

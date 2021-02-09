@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for bedre fordeling av oppgaver"
+    id="eb00ddff-6f3e-44ae-8cf9-e5d7f4edfdcd"
+    documentation="Det er behov for en bedre (og bredere) fordeling av oppgaver. Oppgaver kunne poteensielt vært fordelt til flere fagområder / lag.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

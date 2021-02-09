@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitalisering i Legemiddelverket - kompetansenettverk"
+    id="95a4a38d-cef5-41fb-bc1d-b6aa57845f39"
+    documentation="For at Legemiddelverket skal kunne leve opp til regjeringens ambisjon om digitalisering, trenger vi å bygge og dele kompetanse">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

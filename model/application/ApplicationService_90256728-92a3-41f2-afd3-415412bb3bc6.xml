@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smittestopp innsamling"
+    id="90256728-92a3-41f2-afd3-415412bb3bc6">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

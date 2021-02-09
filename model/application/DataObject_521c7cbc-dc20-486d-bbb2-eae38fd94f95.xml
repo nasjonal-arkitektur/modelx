@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagspesifikk dokumentasjon"
+    id="521c7cbc-dc20-486d-bbb2-eae38fd94f95">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

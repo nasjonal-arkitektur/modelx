@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komitemøte for å avgjøre innstilling"
+    id="483589a7-c68c-43cf-a820-c58c8cf1d4ec"
+    documentation="På bakgrunn av utredninger og avklaringer for søknaden og konklusjonene til Rapportør og Ko-rapportør, fattes det en beslutning om innstilling til kommisjonen.&#xD;&#xA;Dette gjøres på faste CHMP-møter">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

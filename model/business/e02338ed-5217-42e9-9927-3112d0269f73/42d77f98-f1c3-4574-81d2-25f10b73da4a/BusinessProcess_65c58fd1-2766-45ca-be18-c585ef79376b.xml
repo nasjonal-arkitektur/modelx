@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfølging og videre forskning"
+    id="65c58fd1-2766-45ca-be18-c585ef79376b"
+    documentation="Legemiddelfirma fortsetter ofte å forske på legemiddelet etter det er tatt i bruk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

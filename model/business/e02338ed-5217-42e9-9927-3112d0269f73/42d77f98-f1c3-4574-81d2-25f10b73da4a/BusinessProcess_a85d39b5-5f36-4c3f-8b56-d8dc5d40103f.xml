@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenningsfritak"
+    id="a85d39b5-5f36-4c3f-8b56-d8dc5d40103f"
+    documentation="Dette kan skje på mange ulike tidspunkt I prosessen. Det handler om tillatelse til å bruke et legemiddel, men det må ha en godkjenning ra et annet land. Noe annet enn Compassionate Use.&#xD;&#xA;&#xD;&#xA;Enten ønsker man å bruke det til en annen indikasjon enn det har fått. Eks ADHD-medisin som har indikasjon på barn, men man ønsker å bruke det på voksne også&#xD;&#xA;&#xD;&#xA;Kan også være et legemiddel som finnes I Danmark, men man ønsker å bruke det I Norge.&#xD;&#xA;&#xD;&#xA;Det kommer mange fra dyr. Man har et legemiddel som fungerer på gris, men ønsker å bruke det på ku. Det kommer mange slike godkjenningsfritak til Veterinær&#xD;&#xA;&#x9;• Mer generelle søknader&#xD;&#xA;&#x9;• Man får også av og til inn en notifisering om at man har brukt det på et annet dyr&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

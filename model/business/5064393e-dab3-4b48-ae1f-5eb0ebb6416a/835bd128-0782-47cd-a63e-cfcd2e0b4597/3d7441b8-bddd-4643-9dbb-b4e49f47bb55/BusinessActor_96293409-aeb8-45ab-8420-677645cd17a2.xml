@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeid forskrifter om sikkerhetsanordninger (safety features) (lag)"
+    id="96293409-aeb8-45ab-8420-677645cd17a2"
+    documentation="Implementere krav fra forordning om sikkerhetsanordninger i norsk regelver. Forskriften vil bl.a. inkludere adgangen til å forsegle legemiddelpakninger, behandling av ledemidler på godkjenningsfritak, og unntak fra krav om å deaktivere sikkerhetskoden. Videre angi hvordan forordningens unntaksbestemmelser sykehus skal ivaretas. Laget vil også være ansvarlig for å holde våre internettsider om sikkerhetsanordninger oppdatert. Samarbeid med HOD og eventuelt helseforetak. Mål overlevering til HOD 15. juni 2017">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Type hendelse"
+    id="13092a64-91a2-402c-8aa7-a11fb39389f2"
+    documentation="Identifikasjon av type hendelse. Dette kan være et entydig element i et kontrollert vokabular, men det kan også være &quot;fritekst&quot;.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Type hendelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Identifikasjon av type hendelse. Dette kan være et entydig element i et kontrollert vokabular, men det kan også være &quot;fritekst&quot;."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

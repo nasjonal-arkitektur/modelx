@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrasjon av geografiske områder"
+    id="aa583d8e-52e4-4bc4-b5e1-524be8420c82"
+    documentation="Administrasjon av geografiske områder">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Administrasjon av geografiske områder"/>
+  <properties
+      key="difi:name_en"
+      value="Geographic Space Management"/>
+  <properties
+      key="difi:description_no"
+      value="Administrasjon av geografiske områder"/>
+  <properties
+      key="difi:description_en"
+      value="Administrasjon av geografiske områder"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere fakturadetaljer"
+    id="f6b5cc47-0b44-4291-9e42-1f9432099f5a"
+    documentation="Fakturagrunnlaget opprettes i forbindelse med at prosessen starter&#xD;&#xA;&#xD;&#xA;Ved inngåelse av avtale om RMS-oppdrag faktureres søker med NOK 50.000. Avtalt tidspunkt for innsendelse av søknad om markedsføringstillatelse må overholdes. Søknader som ikke innsendes til avtalt tid vil vanligvis bli avvist. Legemiddelverket vil som hovedregel kun akseptere at tildelt tid benyttes til oppgitt preparat (ikke mulig å bytte preparat). Ved igangsettelse av MRP-oppdrag faktureres søker med NOK 100.000.&#xD;&#xA;&#xD;&#xA;Dersom MT-søknaden trekkes faktureres søker kun med et administrasjonsgebyr.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

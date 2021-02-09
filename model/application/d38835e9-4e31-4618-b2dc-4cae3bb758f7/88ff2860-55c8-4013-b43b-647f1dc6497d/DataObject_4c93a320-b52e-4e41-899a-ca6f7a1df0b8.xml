@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknadsoversikt"
+    id="4c93a320-b52e-4e41-899a-ca6f7a1df0b8"
+    documentation="Excel-regneark med oversikt over og detaljer for alle søknader for inneværende år, inkludert tidsfrister og hvem som har ansvaret for saksbehandling.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Payment Service"
+    id="e9b6ac5c-53db-40da-9c47-7a43d059b4a4"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of executing payment transactions where the consent of the payer to execute a payment transaction is given by means of any telecommunication, digital or IT device.&#xD;&#xA;&#xD;&#xA;Source: Directive 2007/64/EC&#xD;&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0064:EN:NOT &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Payment Service ABB is salient for technical interoperability because it enables the possibility of executing payment transactions by any means of telecommunication, digital or IT device as stated in the EIF: &quot;Public administrations need to exploit services delivered outside their organisational boundaries by third parties, such as payment services provided by financial institutions or connectivity services provided by telecommunications providers.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;SEPA&#xD;&#xA;The single euro payments area (SEPA) harmonises the way cashless euro payments are made across Europe. It allows European consumers, businesses and public administrations to make and receive the following types of transactions under the same basic conditions:&#xD;&#xA;-&#x9;credit transfers&#xD;&#xA;-&#x9;direct debit payments&#xD;&#xA;-&#x9;card payments&#xD;&#xA;This makes all cross-border electronic payments in euro as easy as domestic payments.&#xD;&#xA;https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en &#xD;&#xA;&#xD;&#xA;UniPay Payment Gateway&#xD;&#xA;The open source payment transactions processing platform UniPay Payment Gateway is a robust, flexible and scalable payment gateway software.&#xD;&#xA;The platform has a powerful, processor-agnostic payment gateway at its foundation, which supplies numerous direct-to-processor backend integrations and includes a powerful routing engine configurable through web service calls. With unified API as your entry point (for both credit card transactions and ACH - Automated Clearing House), you gain access to numerous banks and credit card payment processors across the globe. &#xD;&#xA;http://opensourcepaymentgateway.com/&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB48"/>
+  <properties
+      key="dct:type"
+      value="eira:E-PaymentService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="e-Payment Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of executing payment transactions where the consent of the payer to execute a payment transaction is given by means of any telecommunication, digital or IT device.&#xD;&#xA;&#xD;&#xA;Source: Directive 2007/64/EC&#xD;&#xA;http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007L0064:EN:NOT &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Payment Service ABB is salient for technical interoperability because it enables the possibility of executing payment transactions by any means of telecommunication, digital or IT device as stated in the EIF: &quot;Public administrations need to exploit services delivered outside their organisational boundaries by third parties, such as payment services provided by financial institutions or connectivity services provided by telecommunications providers.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;SEPA&#xD;&#xA;The single euro payments area (SEPA) harmonises the way cashless euro payments are made across Europe. It allows European consumers, businesses and public administrations to make and receive the following types of transactions under the same basic conditions:&#xD;&#xA;-&#x9;credit transfers&#xD;&#xA;-&#x9;direct debit payments&#xD;&#xA;-&#x9;card payments&#xD;&#xA;This makes all cross-border electronic payments in euro as easy as domestic payments.&#xD;&#xA;https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en &#xD;&#xA;&#xD;&#xA;UniPay Payment Gateway&#xD;&#xA;The open source payment transactions processing platform UniPay Payment Gateway is a robust, flexible and scalable payment gateway software.&#xD;&#xA;The platform has a powerful, processor-agnostic payment gateway at its foundation, which supplies numerous direct-to-processor backend integrations and includes a powerful routing engine configurable through web service calls. With unified API as your entry point (for both credit card transactions and ACH - Automated Clearing House), you gain access to numerous banks and credit card payment processors across the globe. &#xD;&#xA;http://opensourcepaymentgateway.com/&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+</archimate:ApplicationService>

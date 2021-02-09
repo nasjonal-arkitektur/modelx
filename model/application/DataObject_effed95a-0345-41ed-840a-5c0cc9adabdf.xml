@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Folkeregisteret projeksjon"
+    id="effed95a-0345-41ed-840a-5c0cc9adabdf">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

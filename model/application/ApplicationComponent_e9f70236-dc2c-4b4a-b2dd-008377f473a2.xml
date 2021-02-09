@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre komponenter"
+    id="e9f70236-dc2c-4b4a-b2dd-008377f473a2">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

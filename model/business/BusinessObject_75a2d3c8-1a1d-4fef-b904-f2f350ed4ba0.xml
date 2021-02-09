@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridisk samhandlings-spesifikasjon"
+    id="75a2d3c8-1a1d-4fef-b904-f2f350ed4ba0"
+    documentation="Avtaler, lover og regler som inngår som føringer eller juridisk bindende avtaler.">
+  <properties
+      key="ID"
+      value="ABB175"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Juridisk samhandlingsspesifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Legal Interoperability Specification"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Legal interoperability covers the broader environment of laws, policies, procedures and cooperation agreements needed to allow the seamless exchange of information between different organisations, regions and countries.&#xD;&#xA;Legal interoperability specifications support interoperability by addressing the core legal interoperability background for solutions.&#xD;&#xA;&#xD;&#xA;Source: How does the EIRA© support interoperability?&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY&#xD;&#xA;The Legal Interoperability Specification ABB  is a key interoperability enabler because it helps achieve legal interoperability by  addressing the core legal interoperability background for solutions.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;e-procurement SAT - Directive 2014/24/EU on public procurement&#xD;&#xA;DIRECTIVE 2014/24/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (Text with EEA relevance). The directive sets out rules on the use of public contracts for the provision of works, supplies or services by companies or individuals and the exemptions which can be applied. The legislation specifies that when national authorities use public procurement to invite tenders to provide works, supplies or services, they must treat all applicants equally and not discriminate between them. They must also be transparent in their dealings. This Directive is considered as a Legal Interoperability Specification, as it shall be transposed in a National or Regional Binding Instrument when designing the solution using the e-procurement Solution Architecture Template.&#xD;&#xA;https://joinup.ec.europa.eu/asset/eia/description&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessObject>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klient"
+    id="id-592b210c4e904bfebcd47ca0c951de83">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

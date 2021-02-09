@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS Fiks"
+    id="5aa98b7a-b9ed-49ba-9e1e-5951778d46ad">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

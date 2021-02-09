@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatorisk samhandlings-spesifikasjon"
+    id="04d25683-a435-4aa6-8f99-4e1ff4363e6c"
+    documentation="Spesifikasjon av  forretningsmessig samhandling. Dette gjøres typisk ved å spesifisere koreografi for meldingsutveksling mellom to eller flere autonome parter. En kan eventuelt spesifisere tilsvarende som en sentralisert orkestrering av partene.&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB176"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Organisatorisk samhandlings-spesifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Organisational Interoperability Specification"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;This aspect of interoperability is concerned with how organisations, such as public administrations in different Member States, cooperate to achieve their mutually agreed goals. In practice, organisational interoperability implies integrating business processes and related data exchange. Organisational interoperability also aims to meet the requirements of the user community by making services available, easily identifiable, accessible and user-focused. &#xD;&#xA;&#xD;&#xA;Organisation interoperability specifications support organisational interoperability by addressing the core organizational interoperability background for solutions.&#xD;&#xA;&#xD;&#xA;Source: How does the EIRA© support interoperability?&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/how_does_eira_support_interoperability_v1_0_0.pdf &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;Memorandum of Understanding on Economic and Financial Statistics between the DG Statistics of the European Central Bank and Eurostat&#xD;&#xA;The purpose of this Memorandum of Understanding is to set out the respective areas of responsibility in economic and financial statistics at the Community level of the ECB (Directorate General Statistics) and the Commission (Eurostat); to provide a framework for the exchange and reproduction of data; to note the forms which co-operation between the Directorate General Statistics (DG Statistics) and Eurostat will take; and to set down a procedure for resolving disagreements.&#xD;&#xA;https://www.ecb.europa.eu/ecb/legal/pdf/en_mou_with_eurostat1.pdf &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessObject>

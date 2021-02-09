@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="meldingsflyt"
+    id="e2af1ba1-87e9-4b11-93f2-9b00f688c69b">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1fa6f431-d0f3-441b-a473-19cccb9152f8.xml#1fa6f431-d0f3-441b-a473-19cccb9152f8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_499badbe-dc23-4d46-8a6b-c6775b4f03be.xml#499badbe-dc23-4d46-8a6b-c6775b4f03be"/>
+</archimate:FlowRelationship>

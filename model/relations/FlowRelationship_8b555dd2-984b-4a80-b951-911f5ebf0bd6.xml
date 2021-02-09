@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsefare"
+    id="8b555dd2-984b-4a80-b951-911f5ebf0bd6">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f6240465-fba8-41f4-af9e-32d45f9fdadd.xml#f6240465-fba8-41f4-af9e-32d45f9fdadd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8994df56-5d03-43ee-841e-65377cee6bef.xml#8994df56-5d03-43ee-841e-65377cee6bef"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å videreutvikle prosessene for deling av data"
+    id="cf995777-4d2f-4224-874a-41677c1cac36"
+    documentation="Forklaring:&#xD;&#xA;For at virksomhetens deling av data skal videreutvikles og møte datakonsumentens behov, må virksomheten evne å endre måten datadeling gjennomføres på&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Personer som er ansvarlige for virksomhetens prosesser for deling av data må behandle tilbakemeldingene. Det må deretter vurderes om det skal gjøres endringer i prosessene ">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å videreutvikle prosessene for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;For at virksomhetens deling av data skal videreutvikles og møte datakonsumentens behov, må virksomheten evne å endre måten datadeling gjennomføres på&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Personer som er ansvarlige for virksomhetens prosesser for deling av data må behandle tilbakemeldingene. Det må deretter vurderes om det skal gjøres endringer i prosessene "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

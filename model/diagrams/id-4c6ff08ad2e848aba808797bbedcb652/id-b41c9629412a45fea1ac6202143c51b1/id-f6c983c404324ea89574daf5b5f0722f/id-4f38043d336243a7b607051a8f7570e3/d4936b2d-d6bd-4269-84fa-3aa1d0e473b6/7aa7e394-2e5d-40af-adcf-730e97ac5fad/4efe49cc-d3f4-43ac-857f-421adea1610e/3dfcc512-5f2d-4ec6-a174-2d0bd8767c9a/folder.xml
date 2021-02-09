@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lag tilknyttet enheter"
+    id="3dfcc512-5f2d-4ec6-a174-2d0bd8767c9a"
+    documentation="Mer spesifikt er det illustrert hvilken enhet emol og enhetsleder tilhører fra hvert lag. Lagene kan ha lagmedlemmer fra andre enheter enn det som vises her.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Folder>

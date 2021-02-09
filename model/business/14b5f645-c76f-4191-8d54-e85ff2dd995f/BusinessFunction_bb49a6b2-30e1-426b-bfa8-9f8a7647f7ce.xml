@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisering og narkotikakontroll"
+    id="bb49a6b2-30e1-426b-bfa8-9f8a7647f7ce"
+    documentation="Våre oppgaver:&#xD;&#xA;* Klassifisere legemidler (humane og veterinære legemidler), dopingmidler, narkotika m.v. &#xD;&#xA;* Forvalte narkotika- og dopingforskriften.&#xD;&#xA;* Gi tillatelser til import og eksport av narkotiske legemidler.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;klassifisering@legemiddelverket.no (humane og veterinære legemidler)&#xD;&#xA;narkotikasertifikater@legemiddelverket.no ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

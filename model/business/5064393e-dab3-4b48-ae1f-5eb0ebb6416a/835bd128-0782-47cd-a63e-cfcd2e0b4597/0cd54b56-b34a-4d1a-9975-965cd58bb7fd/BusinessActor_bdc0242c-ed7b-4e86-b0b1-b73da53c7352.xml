@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk Referrals (lag)"
+    id="bdc0242c-ed7b-4e86-b0b1-b73da53c7352"
+    documentation="Besvare alle henvendelser fra EMA, koordinere saker som utredes, følge opp administrativt alle saker.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

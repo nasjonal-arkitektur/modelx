@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apotekregister (APOS)"
+    id="0c7e94f0-96c6-437b-8e13-54c7a8a6dd68"
+    documentation="WebService som avleverer et register over alle landets apoteker, og avleverer til Reseptformidleren.&#xD;&#xA;Avgir informasjon om hvilke apoteker som skal ha tilgang til Reseptformidleren (e-resept).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å motta et teknisk kall, behandle dette og returnere respons"
+    id="9fef545c-f3ee-4473-a27a-80c8eba7546c"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må ha ønsket tilgjengelighet på sine grensesnitt slik at konsumenter får ønsket respons på forespørsler innen rimelig tid.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Datatilbyder må enten selv ha et modent driftsmiljø som kan levere en tjeneste med rett kvalitet, eller så må man benytte en partner som kan tilby denne tjenesten på vegne av seg. Denne parten er en databehandler på vegne av datatilbyder. ">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å motta et teknisk kall, behandle dette og returnere respons"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må ha ønsket tilgjengelighet på sine grensesnitt slik at konsumenter får ønsket respons på forespørsler innen rimelig tid.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Datatilbyder må enten selv ha et modent driftsmiljø som kan levere en tjeneste med rett kvalitet, eller så må man benytte en partner som kan tilby denne tjenesten på vegne av seg. Denne parten er en databehandler på vegne av datatilbyder. "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sponsor"
+    id="fadd2803-b9dd-4442-b19e-5a554da26ef7"
+    documentation="Søker, som søker om tillatelse til å gjennomføre klinisk utprøving, omtales som &quot;Sponsor&quot;. Dette kan være legemiddelprodusenter eller akademia.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

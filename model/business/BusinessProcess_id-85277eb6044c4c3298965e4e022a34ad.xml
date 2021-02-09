@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestill vigsel"
+    id="id-85277eb6044c4c3298965e4e022a34ad">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessProcess>

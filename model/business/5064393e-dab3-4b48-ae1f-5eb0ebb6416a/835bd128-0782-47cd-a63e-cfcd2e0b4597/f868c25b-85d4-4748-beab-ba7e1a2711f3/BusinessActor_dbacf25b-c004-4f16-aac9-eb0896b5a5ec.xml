@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-sigarett (lag)"
+    id="dbacf25b-c004-4f16-aac9-eb0896b5a5ec"
+    documentation="Etablere prosesser for å kunne implementere nytt regelverk for e- sigaretter.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

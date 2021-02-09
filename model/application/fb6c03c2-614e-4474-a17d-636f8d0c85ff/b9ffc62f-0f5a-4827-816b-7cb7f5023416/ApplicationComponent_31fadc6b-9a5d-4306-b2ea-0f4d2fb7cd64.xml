@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="K2 blackpearl"
+    id="31fadc6b-9a5d-4306-b2ea-0f4d2fb7cd64"
+    documentation="Styrer prosessflyten i SAM">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

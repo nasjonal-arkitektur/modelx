@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre OTC-vurdering (50 dager)"
+    id="2977740c-722f-4d87-adae-60ca0f7d780b"
+    documentation="Over The Counter (OTC) er reseptfrie medikamenter.&#xD;&#xA;Dersom MT-søker søker om OTC, må dette gjennom en egen vurdering. En sentral del av vurderingen er en gjennomgang av om medikamentet kun inneholder virkestoffer som ikke er reseptbelagte.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

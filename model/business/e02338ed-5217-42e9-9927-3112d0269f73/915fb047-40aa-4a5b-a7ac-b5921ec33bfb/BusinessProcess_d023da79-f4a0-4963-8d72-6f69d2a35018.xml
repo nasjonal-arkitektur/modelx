@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om endring av utprøving"
+    id="d023da79-f4a0-4963-8d72-6f69d2a35018"
+    documentation="Saksbehandling av søknader er en forenklet søknadsbehandling. Dokumentasjonen er mindre omfattende (man dokumenterer endringene).&#xD;&#xA;Det 35 dagers frist på behandling av denne typen søknader.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

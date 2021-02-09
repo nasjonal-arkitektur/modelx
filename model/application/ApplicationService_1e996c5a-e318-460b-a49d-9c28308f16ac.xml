@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse og rapportering"
+    id="1e996c5a-e318-460b-a49d-9c28308f16ac">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

@@ -1,0 +1,40 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskningsfinansiering"
+    id="id-3a5efdc5b61940aba1514a56129c00dc"
+    documentation="Alle aktiviteter rettet mot å skaffe og forvalte midler til å gjennomføre forskningsprosjekter.&#xD;&#xA;&#xD;&#xA;EUNIS: Research funding">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forskningsfinansiering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Alle aktiviteter rettet mot å skaffe og forvalte midler til å gjennomføre forskningsprosjekter.&#xD;&#xA;&#xD;&#xA;EUNIS: Research funding"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mangler overvåking"
+    id="5c0aff85-4cef-4477-8e5d-a511a6d87c0d"
+    documentation="Overføring av bivirkningsmelddinger til EMA har tidsfrister tilknyttet (fristene er også knyttet til alvorlighet).&#xD;&#xA;For å sikre at frister overholdes bør det implementeres overvåkingsmekanismer for meldingskøen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

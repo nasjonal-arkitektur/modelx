@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedtak"
+    id="d63e7125-2d5d-4c8e-9f6a-8706d52fab71">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5eafebb3-5036-4c02-987b-abc22995f303.xml#5eafebb3-5036-4c02-987b-abc22995f303"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a144af57-904c-4c25-9838-303c9d80eec9.xml#a144af57-904c-4c25-9838-303c9d80eec9"/>
+</archimate:FlowRelationship>

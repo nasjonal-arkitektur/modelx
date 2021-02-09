@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Pre-Klinikk (lag)"
+    id="b4889642-672f-4b0b-9d40-cbabdaf2f075"
+    documentation="Ad hoc saker, passe på postboksene (utredningssaker går til laget med  vurderingen av innsatsnivået)">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

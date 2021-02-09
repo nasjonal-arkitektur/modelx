@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norsk LegemiddelStandard (NLS)"
+    id="6f2a1f84-2219-42ce-88d8-5a88f9c9a5e1"
+    documentation="Norsk Legemiddel Standard Databasen inneholder fortegnelse over alle standarder for råvarer og farmasøytiske preparater, såkalte farmakopémonografier, som gjelder for Norge.&#xD;&#xA;NLS har en egen database.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utforme reklame"
+    id="4641e9a7-69cb-4af1-a9f8-b3ab350423fd"
+    documentation="Reklamen kan blant annet være skriftlig, muntlig, møteaktivitet eller presentasjoner.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

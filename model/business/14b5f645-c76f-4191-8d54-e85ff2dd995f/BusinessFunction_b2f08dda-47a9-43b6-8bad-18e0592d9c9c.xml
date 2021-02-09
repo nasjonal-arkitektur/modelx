@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privatimport"
+    id="b2f08dda-47a9-43b6-8bad-18e0592d9c9c"
+    documentation="Legemiddelverket forvalter regelverket for privatimport av legemidler og medbringing av legemidler på reise.&#xD;&#xA;&#xD;&#xA;E-postadresse: privatimport@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

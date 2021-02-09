@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilpasse format"
+    id="d90349ea-9455-4084-82f7-a2e95a5388ed">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationFunction>

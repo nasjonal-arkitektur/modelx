@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melde inn svikt på medisinsk utstyr"
+    id="716b6132-f459-4d20-a7e5-3100b2bf2b0f">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

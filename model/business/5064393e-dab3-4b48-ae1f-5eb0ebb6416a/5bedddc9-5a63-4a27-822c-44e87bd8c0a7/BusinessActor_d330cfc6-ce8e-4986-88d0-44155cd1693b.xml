@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tolldirektoratet / Tolletaten"
+    id="d330cfc6-ce8e-4986-88d0-44155cd1693b"
+    documentation="Tolletaten samarbeider med Legemiddelverket om narkotikakontroll.&#xA;Legemiddelverket fører opp stoffer på narkotikalisten i samarbeid med Kripos og Tolletaten, i tillegg til å få innspill om nye stoffer fra Folkehelseinstituttet. Endelig avgjørelse på om stoffene tas opp på narkotikalisten skjer etter ordinær høring og fører til en forskriftsendring.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

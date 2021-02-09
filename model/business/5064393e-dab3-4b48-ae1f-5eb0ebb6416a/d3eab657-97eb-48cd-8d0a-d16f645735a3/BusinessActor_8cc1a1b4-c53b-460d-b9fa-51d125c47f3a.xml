@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Område legemiddelforsyning"
+    id="8cc1a1b4-c53b-460d-b9fa-51d125c47f3a"
+    documentation="Området «legemiddelforsyning» skal bidra til tilstrekkeleg forsyning av sikre legemiddel og forvalte produktregelverket for medisinsk utstyr.">
+  <properties
+      key="Stereotype"
+      value="Område"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

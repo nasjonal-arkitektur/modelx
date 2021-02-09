@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alternativ EPJ"
+    id="e969e033-3897-4018-8879-0cd242908816">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

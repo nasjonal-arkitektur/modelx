@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Familie og barn"
+    id="ded8e1f4-48e2-4b77-90a5-64ae4c3054e7">
+  <properties
+      key="Nivå"
+      value="1"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

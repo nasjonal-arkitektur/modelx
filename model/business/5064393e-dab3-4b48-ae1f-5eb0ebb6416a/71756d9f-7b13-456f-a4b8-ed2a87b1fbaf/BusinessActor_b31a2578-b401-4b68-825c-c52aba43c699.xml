@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne oppdragsgivere"
+    id="b31a2578-b401-4b68-825c-c52aba43c699"
+    documentation="Interne aktører / lag som kan melde inn behov for analyser:&#xD;&#xA;* Kvalitetsvurdering biologiske legemidler til mennesker og dyr. (lag)&#xD;&#xA;* Kvalitetsvurdering kjemisk/syntetiske legemidler - Human og Veterinær (lag)&#xD;&#xA;* Bivirkningssignaler (lag)&#xD;&#xA;* Tilsyn (forsyningskjeden) (lag)&#xD;&#xA;* Ulovlige aktiviter i legemiddelforsyningskjeden inkludert PANGEA-aksjoner (lag)&#xD;&#xA;* ...&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

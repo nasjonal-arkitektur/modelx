@@ -1,0 +1,9 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mangler i søknaden?"
+    id="f1c95194-912a-4d98-b804-84a206ba6ed3"
+    type="or">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Junction>

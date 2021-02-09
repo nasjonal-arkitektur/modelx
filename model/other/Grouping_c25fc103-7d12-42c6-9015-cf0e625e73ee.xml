@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtering av henvendelser"
+    id="c25fc103-7d12-42c6-9015-cf0e625e73ee"
+    documentation="Håndtering av henvendelser">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Håndtering av henvendelser"/>
+  <properties
+      key="difi:name_en"
+      value="Inquiry Management"/>
+  <properties
+      key="difi:description_no"
+      value="Håndtering av henvendelser"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to manage a question, request, feedback, or comment that may exist inside or outside of the organization, which can be received, identified, harvested, disseminated, classified, and tracked."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

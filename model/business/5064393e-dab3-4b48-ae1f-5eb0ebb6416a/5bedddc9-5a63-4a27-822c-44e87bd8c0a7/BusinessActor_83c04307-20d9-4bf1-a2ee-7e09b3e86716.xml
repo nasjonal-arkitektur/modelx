@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fullmektig for MT-innehaver"
+    id="83c04307-20d9-4bf1-a2ee-7e09b3e86716"
+    documentation="En fullmektig kan sende inn søknad (f.eks søkn om MT ved paralellimport) på vegne av MT-innehaver (den som ønsker markedsførsingstillatelse). Dette krever at en «Power of Attorney» (fullmakt) er vedlagt søknaden.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for sikkerhet"
+    id="5bc69639-3ecd-424d-8f5f-94de13e83c71"
+    documentation="Eininga har ansvar for utgreiing av sikkerheitsdokumentasjon før og etter søknad om marknadsføringsløyve og risikominimeringstiltak for marknadsførte legemiddel. Seksjonen representerer Norge i komiteen for legemiddelovervaking (Pharmacovigilance Risk Assessment Committee, PRAC).">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,27 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Management"
+    id="1780298a-8871-4b1b-a5ea-2a14e879b26b">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Idenifisere og tolke datagrunnlag"/>
+  <properties
+      key="difi:name_en"
+      value="Evidence Management"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

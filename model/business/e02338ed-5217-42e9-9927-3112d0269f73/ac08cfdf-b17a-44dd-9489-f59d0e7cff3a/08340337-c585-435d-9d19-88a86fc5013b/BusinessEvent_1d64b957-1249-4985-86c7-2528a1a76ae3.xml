@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding om bivirkning fra pasient / pårørende"
+    id="1d64b957-1249-4985-86c7-2528a1a76ae3"
+    documentation="Pasient eller pårørende logger seg på Altinn og registrerer melding om bivirkning i eget skjema">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstede MT for parallellimporterte legemidler og godkjenne endringer human/vet (lag)"
+    id="1f8b6f59-c2da-4a49-8270-bfc7b7e55ea9"
+    documentation="Utstede MT for parallellimporterte legemidler">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

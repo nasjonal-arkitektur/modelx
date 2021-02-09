@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Yrkestransport"
+    id="f140c9c7-44ab-4a14-b700-831bca7bc4f9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

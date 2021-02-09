@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskning"
+    id="d7615039-3842-4cc4-a6c1-67714964ac3b">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

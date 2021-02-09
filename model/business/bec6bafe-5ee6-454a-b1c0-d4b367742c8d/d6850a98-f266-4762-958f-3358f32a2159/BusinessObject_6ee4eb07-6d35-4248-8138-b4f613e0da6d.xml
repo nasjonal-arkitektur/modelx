@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosedyrenummer:   CC/D/nnnn/sss/X/vvv "
+    id="6ee4eb07-6d35-4248-8138-b4f613e0da6d">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

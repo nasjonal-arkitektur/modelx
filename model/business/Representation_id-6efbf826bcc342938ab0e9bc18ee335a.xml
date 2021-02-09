@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Økosystemer, tjenestekjeder og tverrgående prosesser"
+    id="id-6efbf826bcc342938ab0e9bc18ee335a"
+    documentation="//heidi:&#xD;&#xA;#input fra tjenestedesignprosess rundt muliggjørende økosystem#">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-bakgrunn"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

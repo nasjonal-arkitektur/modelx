@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende inn rapport fra klinisk utprøving"
+    id="d162fd9e-b4b5-435c-9ebc-eb2034fcfa15"
+    documentation="Her vil avviksmeldinger være beskrevet">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

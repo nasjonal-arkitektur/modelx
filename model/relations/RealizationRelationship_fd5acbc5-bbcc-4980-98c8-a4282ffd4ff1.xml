@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="anvender"
+    id="fd5acbc5-bbcc-4980-98c8-a4282ffd4ff1">
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="anvender"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_497bb4b8-8642-44e8-85e0-a4479d5bfe61.xml#497bb4b8-8642-44e8-85e0-a4479d5bfe61"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_cd712899-4c07-4299-91f4-7a715ea9df42.xml#cd712899-4c07-4299-91f4-7a715ea9df42"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hente inn oppdatert søknad / svar på spørsmål"
+    id="1c536804-7f12-4ecb-be27-5b22f75fda84"
+    documentation="Arkiv / dokumentforvaltning sjekker jevnlig mht oppdateringer i Common Repository, laster ned de finner og legger på respektive saker i SAM og Castor.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

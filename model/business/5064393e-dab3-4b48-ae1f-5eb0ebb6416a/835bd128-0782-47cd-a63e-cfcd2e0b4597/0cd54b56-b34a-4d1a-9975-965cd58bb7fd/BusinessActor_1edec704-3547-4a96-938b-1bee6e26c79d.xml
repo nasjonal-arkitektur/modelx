@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningssignaler (lag)"
+    id="1edec704-3547-4a96-938b-1bee6e26c79d"
+    documentation="Arbeid for å oppdage og vurdere signaler om nye bivirkninger (i nasjonal database og EudraVigilance (eRMR)) , og vurdering av hvordan signalene skal følges opp (signalprioritering). Utredning av signaler og PSUR/PSUSA. Større singalutredninger vil kreve eget lag.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

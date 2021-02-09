@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle resultat til EDQM / oppdragsgiver"
+    id="4ea8b585-519f-47df-9e80-20f934434c66"
+    documentation="Resultater av analyser i tilknytning til sentral analyseprosedyre registreres i et eget skjema, og sendes til EDQM&#xD;&#xA;For MRP og DCP registreres resultater av analyser manuelt i CTS (MRP-databsen)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

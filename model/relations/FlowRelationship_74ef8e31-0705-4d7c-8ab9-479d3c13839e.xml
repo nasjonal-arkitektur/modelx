@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varereg"
+    id="74ef8e31-0705-4d7c-8ab9-479d3c13839e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_957af465-0f66-46bd-8425-88a34d16f65a.xml#957af465-0f66-46bd-8425-88a34d16f65a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_954df80e-51e7-4c10-95d2-352cf0ccc37c.xml#954df80e-51e7-4c10-95d2-352cf0ccc37c"/>
+</archimate:FlowRelationship>

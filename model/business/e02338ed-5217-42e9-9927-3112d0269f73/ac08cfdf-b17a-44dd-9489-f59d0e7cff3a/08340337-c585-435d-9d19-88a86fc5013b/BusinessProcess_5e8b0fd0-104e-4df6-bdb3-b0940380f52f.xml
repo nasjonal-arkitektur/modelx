@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende melding til EMA"
+    id="5e8b0fd0-104e-4df6-bdb3-b0940380f52f"
+    documentation="Alle bivirkninger som registreres synkroniseres med den sentrale databasen til EMA, EUDRAVIGILANCE.&#xD;&#xA;Det er definert tidsfrister for innregistrering av bivirkningsmeldinger til EMA på 15 eller 90 dager, avhengig av alvorlighetsgrad.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere indikasjon mot Originalprodukt og sette evt refusjonsgruppe"
+    id="58162d81-6575-4529-a2d1-949fc83ffb79"
+    documentation="Sjekker indikasjonen i preparatomtalen, for å se om den er lik originalen. Er den det, knyttes den til den samme refusjonsgruppen som originalproduktet (i Athene).&#xD;&#xA;Det fattes et kombinert pris- og refusjonsvedtak.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

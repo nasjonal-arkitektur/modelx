@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsforvaltningsdomener"
+    id="id-3d1e418d46ce4be0b99c25d1cfbbf3af">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-3b92345f88bd44ce8224c6f19063a5ea"/>
+  <properties
+      key="drill down"
+      value="id-3b92345f88bd44ce8224c6f19063a5ea"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

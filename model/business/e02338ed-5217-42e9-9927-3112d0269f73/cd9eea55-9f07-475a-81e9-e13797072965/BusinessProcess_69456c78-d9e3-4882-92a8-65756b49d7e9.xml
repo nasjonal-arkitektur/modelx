@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ide til produkt"
+    id="69456c78-d9e3-4882-92a8-65756b49d7e9"
+    documentation="Medisinsk utstyr er en omfattende kategori, og produsenter av utstyr kan ha ideer til nyutvikling innen for følgende områder&#xA;-----------------&#xA;instrumenter, apparater, utstyr, programvare, materiale eller andre gjenstand som brukes alene eller i kombinasjon,og som er ment å skulle brukes på mennesker med sikte på:&#xA;-&#x9;diagnostisering, forebygging, overvåkning, behandling eller lindring av sykdom,&#xA;-&#x9;diagnostisering, kontroll, behandling, lindring eller kompensasjon for skade eller handikap,&#xA;-&#x9;undersøkelse, utskifting eller endring av anatomien eller av en fysiologisk prosess,&#xA;-&#x9;svangerskapsforebyggelse,&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

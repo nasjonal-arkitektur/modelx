@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farmakologi"
+    id="eb1c2a08-14bd-4691-9206-63b92d75a8f9"
+    documentation="Legemiddelverket utreder legemidlers farmakologi (bioekvivalens, farmakokinetikk, farmakodynamikk, modellering) ved søknader om markedsføringstillatelse og endringer.&#xD;&#xA;* Delta i det europeiske samarbeidet på legemiddelområdet.&#xD;&#xA;* Informasjonsarbeid, undervisning og foredrag.&#xD;&#xA;&#xD;&#xA;aktuelle epost-adresser:&#xD;&#xA;farmakologi_postboks@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

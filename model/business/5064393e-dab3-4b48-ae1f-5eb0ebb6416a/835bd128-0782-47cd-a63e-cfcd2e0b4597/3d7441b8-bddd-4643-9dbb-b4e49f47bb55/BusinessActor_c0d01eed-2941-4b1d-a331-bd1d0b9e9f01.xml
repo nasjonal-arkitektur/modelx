@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medisinsk utstyr (lag)"
+    id="c0d01eed-2941-4b1d-a331-bd1d0b9e9f01"
+    documentation="Ivareta rollen som fag- og tilsynsmyndighet for medisinsk utstyr i Norge. Forvaltning og rådgivning. Regelverksutvikling og fortolkning. Informasjonsvirksomhet og bransjekontakt. Markedsovervåking (tilsyn med produsenter, omsettere, produsenter av medisinsk utstyr. Oppfølging av meldinger om svikt og uhell. Register over norske produsenter, utstyrsregisteret/EUDAMED. Utpeking av og tilsyn med teknisk kontrollorgan. Registrere sertifikater fra norsk teknisk kontrollorgan, EUDAMED). Klassifisere medisinsk utstyr. Behandle meldinger om klinisk utprøving. Samarbeid med &quot;tilstøtende etater&quot;/virksomheter nasjonalt. Deltakelse i EU-samarbeid, komitéer og arbeidsgrupper.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk og pre-klinisk farmakologi - kompetansenettverk"
+    id="f49914e5-a20c-441f-9803-45ecddd684bd"
+    documentation="Kompetansedeling farmakodynamikk og farmakokinetikk">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

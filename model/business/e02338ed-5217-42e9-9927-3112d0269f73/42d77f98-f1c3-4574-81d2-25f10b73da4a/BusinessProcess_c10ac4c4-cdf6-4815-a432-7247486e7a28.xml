@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ide til medikament"
+    id="c10ac4c4-cdf6-4815-a432-7247486e7a28"
+    documentation="Grunnlaget for et nytt medikament kan ofte være basert på modellering av egenskapene til grunnelementene i medikamentet (datamodellering). Det kan utføres en god del tester før man begynner å se på medikamentet i fysisk form.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

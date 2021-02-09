@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF tildel rettigheter til klienter"
+    id="id-82e46134305b4431ae3c203c436bf2bb">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

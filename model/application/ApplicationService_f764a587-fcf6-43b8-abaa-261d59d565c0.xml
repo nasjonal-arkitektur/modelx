@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skole"
+    id="f764a587-fcf6-43b8-abaa-261d59d565c0">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

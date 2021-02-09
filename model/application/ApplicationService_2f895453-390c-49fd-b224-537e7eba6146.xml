@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks IO"
+    id="2f895453-390c-49fd-b224-537e7eba6146"
+    documentation="FIKS IO tilsvarende meldings-plattform">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

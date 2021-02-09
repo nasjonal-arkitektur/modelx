@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagsystem barnevern andre kommuner"
+    id="70a0ae7d-9f7e-469b-841c-14e0002d2c4b">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

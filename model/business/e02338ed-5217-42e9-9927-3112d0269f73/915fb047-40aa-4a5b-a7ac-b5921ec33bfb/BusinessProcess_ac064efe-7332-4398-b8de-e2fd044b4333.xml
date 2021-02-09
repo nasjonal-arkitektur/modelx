@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melde inn standpunkt til prosedyren"
+    id="ac064efe-7332-4398-b8de-e2fd044b4333"
+    documentation="Hvert enkelt medlemsland har mulighet til å melde inn om de ønsker at søknaden om klinisk utprøving skal godkjennes eller avslås.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratorieanalyse"
+    id="ae90cdf7-9963-4b37-8791-e7f4dbf35e38"
+    documentation="Våre oppgaver:&#xD;&#xA;* Gjennomføre kontrollanalyser av legemiddel, både nasjonalt og i europeisk sammenheng.&#xD;&#xA;* Gjennomføre batch release.&#xD;&#xA;* Teste og godkjenne desinfeksjonsmidler.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

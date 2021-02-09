@@ -1,0 +1,9 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Junction"
+    id="e6c7d498-48fd-468f-b8a3-7840abe324c1"
+    type="or">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Junction>

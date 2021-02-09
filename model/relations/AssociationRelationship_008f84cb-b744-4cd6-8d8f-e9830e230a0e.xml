@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="008f84cb-b744-4cd6-8d8f-e9830e230a0e"
+    documentation="VigiNord henter inn data fra Athene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9635ca50-9cf6-480b-8bc9-0222418bfe2f.xml#9635ca50-9cf6-480b-8bc9-0222418bfe2f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ce55f2af-98ff-4612-befa-76440410f1e8.xml#ce55f2af-98ff-4612-befa-76440410f1e8"/>
+</archimate:AssociationRelationship>

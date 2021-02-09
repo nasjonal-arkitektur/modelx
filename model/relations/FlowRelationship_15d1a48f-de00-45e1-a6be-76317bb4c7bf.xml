@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenningsfritak"
+    id="15d1a48f-de00-45e1-a6be-76317bb4c7bf">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3341fe1b-2413-4135-a28c-893567441052.xml#3341fe1b-2413-4135-a28c-893567441052"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_954df80e-51e7-4c10-95d2-352cf0ccc37c.xml#954df80e-51e7-4c10-95d2-352cf0ccc37c"/>
+</archimate:FlowRelationship>

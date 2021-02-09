@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Registry Service"
+    id="2b551b72-cad4-4928-a7bb-f55c94168434"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of the discovery of essential information about e.g. supervised/accredited trust service providers issuing certificates for electronic signatures, for electronic seals or for website authentication; supervised/accredited trust services for eSignature, eSeal or TimeStamp creation and validation; supervised/accredited trust services for eSignature or eSeal preservation; supervised/accredited trust services for electronic registered delivery.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Trusted List Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Trust Registry Service ABB  is salient for technical interoperability because it provides the functionalities of the discovery of essential information about accredited service providers. &#xD;&#xA; &#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;BE:Trusted&#xD;&#xA;BE:Trusted list including information related to the qualified trust service providers which are supervised by the issuing Member State, together with information related to the qualified trust services provided by them, in accordance with the relevant provisions laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market.&#xD;&#xA;https://tsl.belgium.be/archive/TSL-BE-2016-T3_vi5_sn27%20SPF%20Economie_signed.pdf &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB145"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Trust Registry Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of the discovery of essential information about e.g. supervised/accredited trust service providers issuing certificates for electronic signatures, for electronic seals or for website authentication; supervised/accredited trust services for eSignature, eSeal or TimeStamp creation and validation; supervised/accredited trust services for eSignature or eSeal preservation; supervised/accredited trust services for electronic registered delivery.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. Trusted List Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Trust Registry Service ABB  is salient for technical interoperability because it provides the functionalities of the discovery of essential information about accredited service providers. &#xD;&#xA; &#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;BE:Trusted&#xD;&#xA;BE:Trusted list including information related to the qualified trust service providers which are supervised by the issuing Member State, together with information related to the qualified trust services provided by them, in accordance with the relevant provisions laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market.&#xD;&#xA;https://tsl.belgium.be/archive/TSL-BE-2016-T3_vi5_sn27%20SPF%20Economie_signed.pdf &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

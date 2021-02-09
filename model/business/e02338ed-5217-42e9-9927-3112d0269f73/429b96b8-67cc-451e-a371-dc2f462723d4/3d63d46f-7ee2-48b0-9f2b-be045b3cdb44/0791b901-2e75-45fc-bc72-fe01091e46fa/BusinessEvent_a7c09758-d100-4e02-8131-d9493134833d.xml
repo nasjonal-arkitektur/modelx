@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT-Søkers tilsvar på dag120-rapporten mottat"
+    id="a7c09758-d100-4e02-8131-d9493134833d">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

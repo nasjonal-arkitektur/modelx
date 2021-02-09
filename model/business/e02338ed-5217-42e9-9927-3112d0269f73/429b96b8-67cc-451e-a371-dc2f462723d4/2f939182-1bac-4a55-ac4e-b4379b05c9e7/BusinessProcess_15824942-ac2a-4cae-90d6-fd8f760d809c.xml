@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sjekke validering fra de berørte landene/medlemslandene (MS)"
+    id="15824942-ac2a-4cae-90d6-fd8f760d809c"
+    documentation="Dersom medlemslandene registrerer at validering er ok eller ikke registrerer noe i CTS, settes søknad som valid.&#xA;Dersom de registrerer at søknad ikke er valid må søker utdype dokumentasjonen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

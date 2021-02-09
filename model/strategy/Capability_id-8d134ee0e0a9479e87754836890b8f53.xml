@@ -1,0 +1,40 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsforvaltning"
+    id="id-8d134ee0e0a9479e87754836890b8f53"
+    documentation="Aktiviteter og tiltak for å sikre best mulig kvalitet, utnytting og sikring av informasjon i en virksomhet [kilde data.norge.no]. Administrert Informasjon inkluderer strukturerte og ustrukturerte data med omfang som definert av retningslinjene for datasikkerhet og datahåndtering.&#xD;&#xA;&#xD;&#xA;EUNIS: Information management&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Informasjonsforvaltning"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Aksjonspunkt Heidi - foreslå ny første setning. Se til Digdir her. Mangler noe om oversikt og tilgjengeliggjøring.&#xD;&#xA;&#xD;&#xA;Alle aktiviteter rettet mot å skaffe, lagre, utnytte, arkivere og slette informasjon i organisasjonen. Administrert Informasjon inkluderer strukturerte og ustrukturerte data med omfang som definert av retningslinjene for datasikkerhet, datasikkerhet og datahåndtering.&#xD;&#xA;&#xD;&#xA;EUNIS: Information management&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

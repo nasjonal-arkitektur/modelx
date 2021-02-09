@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rådata for analysen"
+    id="a035b731-8721-4d9a-a0fd-40678fb02a11"
+    documentation="har een egen mal for rådata for en analyse, som Word-malen for analyse plan benytter. På denne måten unngår man å måtte taste inn samme data mange ganger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

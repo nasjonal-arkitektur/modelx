@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utfasing av R2-format"
+    id="96de9ae3-7551-49c0-8128-3d50c1e233c3"
+    documentation="Kommunikasjon mellom EUDRAVIGILANCE og Viginor forkommer på både R2 og R3 format. &#xD;&#xA;R2 skal fases ut.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

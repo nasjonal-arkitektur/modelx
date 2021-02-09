@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetssikring"
+    id="e0d3dd7d-812b-45a2-b0f3-030031162230"
+    documentation="Dokumetnasjon/rapport sendes til kvalitetssikring hos både klinikere og internt. Det er mulig å sette prosessen i clockstop.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide og sende &quot;List of questions&quot;"
+    id="8babdebd-c0cb-4c7a-b0b5-a4e2f0bb83e8"
+    documentation="CP Human: Utarbeide og sende &quot;List of questions&quot; - dag 101-120&#xD;&#xA;&#xD;&#xA;Med bakgrunn i rapporter og kommentarer fra ko-rapportør og member states, lages det en sammenstilt vurderingsrapport som inkluderer List of Questions (LoQ) som søker skal besvare. Dette sendes til søker.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

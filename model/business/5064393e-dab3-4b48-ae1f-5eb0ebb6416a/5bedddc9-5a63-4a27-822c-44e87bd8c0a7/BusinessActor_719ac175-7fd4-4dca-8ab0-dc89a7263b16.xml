@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Committee for Medicinal Products for Human Use (CHMP)"
+    id="719ac175-7fd4-4dca-8ab0-dc89a7263b16"
+    documentation="Vitenskapelig utvalg for humane preparater i London, faglig komité for EU-kommisjonen.&#xD;&#xA;Alle land i EU/EØS er representert i denne komiteen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

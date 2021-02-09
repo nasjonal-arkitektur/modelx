@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overtredelsesgebyr, oppdrag 2018 (lag)"
+    id="fb847653-3f17-4ee4-a18f-97747276e769"
+    documentation="Legemiddelverket har i tildelingsbrevet for 2018 fått følgende oppdrag (pkt. 2.16): &#xD;&#xA;&#xD;&#xA;Legemiddelverket skal videre bistå departementet med utarbeidelsen av høringsnotat om overtredelsesgebyr på resterende områder av legemiddelloven og apotekloven [som ikke omfattes av Prop. 60 L som er til behandling i Stortinget per dags dato ]. Innspill til høringsnotat basert på ovennevnte utredning skal være departementet i hende innen 1. juli 2018.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

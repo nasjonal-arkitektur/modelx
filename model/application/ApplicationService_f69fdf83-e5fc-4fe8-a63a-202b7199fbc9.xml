@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkiv"
+    id="f69fdf83-e5fc-4fe8-a63a-202b7199fbc9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

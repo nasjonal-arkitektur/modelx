@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NDS - Under innfasing"
+    id="e59935bb-2d62-40f8-a538-25becd03ed7e"
+    documentation="NDS er den nye løsningen for å produsere import-/eksportsertifikater for alle typer Narkotika som sendes og mottas til og fra Norge.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

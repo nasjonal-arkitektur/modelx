@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EUDAMED (light-versjon)"
+    id="b599d99e-c880-4cb3-a85a-c1e715e46867"
+    documentation="EUDAMED (EUropean DAtabase for MEdical Devices) - alle land I Europa kan se sertifiseringer som teknisk kontrollorgan har utstedt&#xD;&#xA;Dette er EMAs database for medisinsk utstyr - skal være klar 2020.&#xD;&#xA;&#x9;• En light-versjon finnes I dag&#xD;&#xA;Må legge inn dette manuelt">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

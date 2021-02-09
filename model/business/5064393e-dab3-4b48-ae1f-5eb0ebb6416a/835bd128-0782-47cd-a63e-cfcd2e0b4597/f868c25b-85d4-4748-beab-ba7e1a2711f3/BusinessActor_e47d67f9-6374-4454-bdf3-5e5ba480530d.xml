@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEN - Sikkerhet og Effekt for Nye virkestoff  (lag)"
+    id="e47d67f9-6374-4454-bdf3-5e5ba480530d"
+    documentation="Fordele utredning av klinisk dokumentasjon for SA, CP, MRP, DCP, Ask-us og ad hoc">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU-CEG"
+    id="a10155da-bf28-4271-915a-ca2de28a092c"
+    documentation="EUCEG er innsendingmodul for dokumentasjon knyttet til eSigaretter:&#xD;&#xA;&#xD;&#xA;Under the Tobacco Products Directive (2014/40/EU), manufacturers and importers of tobacco products, e-cigarettes and refill containers have to submit key information to the authorities in the Member States in which they plan to market the products.&#xD;&#xA;&#xD;&#xA;This includes information on:   &#xD;&#xA;* ingredients&#xD;&#xA;* emissions&#xD;&#xA;* toxological data.&#xD;&#xA;&#xD;&#xA;The IT tool for providing this information is called the EU Common Entry Gate (EU-CEG).&#xD;&#xA;Other products&#xD;&#xA;In some EU countries, EU-CEG can be used to provide information on other products, such as:&#xD;&#xA;* novel tobacco products&#xD;&#xA;* herbal smoking products&#xD;&#xA;* nicotine-free e-cigarettes.&#xD;&#xA;&#xD;&#xA;Information requirements&#xD;&#xA;The information manufacturers and importers need to provide is set out in 2 implementing decisions:&#xD;&#xA;* tobacco products – implementing decision&#xD;&#xA;* e-cigarettes and refill containers – implementing decision&#xD;&#xA;&#xD;&#xA;About EU-CEG&#xD;&#xA;EU-CEG is designed to reduce administrative burden for companies and regulators, and make it easier to compare data. The tool was developed by the European Commission, working closely with Member States and industry stakeholders. It became operational in May 2016.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

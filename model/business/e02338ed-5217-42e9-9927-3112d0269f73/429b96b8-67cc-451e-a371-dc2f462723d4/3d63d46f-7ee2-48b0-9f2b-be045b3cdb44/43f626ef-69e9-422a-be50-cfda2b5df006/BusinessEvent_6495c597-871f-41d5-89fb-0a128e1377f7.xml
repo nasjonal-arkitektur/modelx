@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad sendt"
+    id="6495c597-871f-41d5-89fb-0a128e1377f7"
+    documentation="MT-Søker sender inn søknad via CESP, slik at den er tilgjengelig for alle involverte parter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

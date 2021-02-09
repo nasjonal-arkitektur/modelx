@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dekryptering"
+    id="a3e776ca-38ef-404f-a466-eaad4e97da86">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationFunction>

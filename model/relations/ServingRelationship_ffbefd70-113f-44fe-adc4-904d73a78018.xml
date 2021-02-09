@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="brukes av"
+    id="ffbefd70-113f-44fe-adc4-904d73a78018">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="brukes av"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_6f408638-df68-4c35-8f93-cdc78e617324.xml#6f408638-df68-4c35-8f93-cdc78e617324"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_131072ef-75fa-457f-aa2e-19d9b5601990.xml#131072ef-75fa-457f-aa2e-19d9b5601990"/>
+</archimate:ServingRelationship>

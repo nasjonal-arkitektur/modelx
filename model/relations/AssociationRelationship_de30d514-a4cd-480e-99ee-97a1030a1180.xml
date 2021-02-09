@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelinformasjon"
+    id="de30d514-a4cd-480e-99ee-97a1030a1180"
+    documentation="Eyra sørger for nattlige oppdateringer av legemiddelinformasjon fra Athene til SAM">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f9119928-4582-47b0-b22c-d2803c036208.xml#f9119928-4582-47b0-b22c-d2803c036208"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9635ca50-9cf6-480b-8bc9-0222418bfe2f.xml#9635ca50-9cf6-480b-8bc9-0222418bfe2f"/>
+</archimate:AssociationRelationship>

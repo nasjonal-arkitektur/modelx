@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukerinvolvering"
+    id="1fdca377-d803-4a7d-a895-e716232ee757"
+    documentation="Laget skal utarbeide en enhetlig prosess som bidrar til større åpenhet rundt våre beslutninger og arbeidsprosesser for ulike arbeidsoppgaver ved Legemiddelverket.&#xD;&#xA;&#xD;&#xA;Brukerinvolveringen er begrenset til pasienter og pasientorganisasjoner">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Videre vurdering"
+    id="e9a4e41a-9232-44f0-8740-12a62f7b2e43"
+    documentation="Ny gjennomgang av sjekkliste">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

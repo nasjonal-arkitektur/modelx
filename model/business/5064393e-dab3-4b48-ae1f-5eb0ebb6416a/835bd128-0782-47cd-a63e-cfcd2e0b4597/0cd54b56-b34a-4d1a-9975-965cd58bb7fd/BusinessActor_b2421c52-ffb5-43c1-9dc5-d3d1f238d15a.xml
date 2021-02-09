@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virkestofforskrivning (lag)"
+    id="b2421c52-ffb5-43c1-9dc5-d3d1f238d15a"
+    documentation="Tilrettelegge for virkestofforskrivning">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

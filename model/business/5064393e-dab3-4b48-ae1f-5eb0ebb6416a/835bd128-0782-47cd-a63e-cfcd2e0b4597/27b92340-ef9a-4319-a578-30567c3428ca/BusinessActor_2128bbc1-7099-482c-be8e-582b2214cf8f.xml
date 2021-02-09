@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klagesak - Destruksjon, privatimport (lag)"
+    id="2128bbc1-7099-482c-be8e-582b2214cf8f"
+    documentation="360: 18/07028">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

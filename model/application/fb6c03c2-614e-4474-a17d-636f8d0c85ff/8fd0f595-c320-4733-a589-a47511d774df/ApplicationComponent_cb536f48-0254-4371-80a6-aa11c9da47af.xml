@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CTS"
+    id="cb536f48-0254-4371-80a6-aa11c9da47af"
+    documentation="Communication and Tracking System (CTS) (H+V) &#xD;&#xA;CTS systemet er en applikasjon som gir oversikt over hvilke preparater som er godkjent i hvilke land og hvem som har godkjent preparatet. Benyttes i sentral prosedyre, MRP og DCP. Systemet er ikke en del av porteføljen til EMA.&#xD;&#xA;Systemet vedlikeholdes og driftes av det tyske legemiddelverket BfArM.&#xD;&#xA;CTS er en tjeneste levert av det tyske legemiddelverket. Tjenesten benyttes under saksbehandling av søknader i MRP og DCP for effektivt å kommunisere med alle involverte land og til enhver tid ha oversikt over pågående og avsluttede prosedyrer for godkjenning av legemidler i EU/EØS.&#xD;&#xA;CTS lagrer også enkelte fellesdokumenter og fra dataene lagt inn i CTS lastes noe av informasjonen over til MRI Product Index, som er en offentlig tilgjengelig database. &#xD;&#xA;Når nye versjoner skal installeres er rutinen å bytte ut exe-fil (CTS-Client.exe) på fellesområdet P:\CTS. Vanlig rutine fra BfArM er at gammel programfil fungerer noen uker parallelt med ny versjon. &#xD;&#xA;Beskjed om at ny versjon må installeres, gis av Produkteier som får epost fra BfArM når det er aktuelt.&#xD;&#xA;&#xD;&#xA;&quot;CTS  is  a  single  European  Communication  and  Tracking  System  that  supports  regulatory  activities  and  which contains  a  harmonised  set  of  information  on  human mutual recognition procedures and products.&quot;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

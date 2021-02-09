@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generere MT-brev"
+    id="a3e49e06-dc12-412b-b623-4cb12f563961"
+    documentation="MT-brev genereres i henhold til om markedsføringstillatelsen er med norsk produktinformasjon eller ikke.&#xD;&#xA;Dette skjer etter at PI er godkjent, og går videre til enhetsleder eller den som har signaturfullmakt">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgangsstyring"
+    id="f94c6cd5-d197-4e21-8976-1eb0e745309d">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flere skjemaer kommer på papir!"
+    id="2d1958d5-55db-4d2a-a603-18de73ce218c"
+    documentation="Meldinger knytttet til Vaksiner kommer på papir. Det er også mulig å sende inn øvrige bivirkningsmeldinger på papir foreløpig.&#xD;&#xA;Meldinger som mottas på papir må registreres manuelt.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

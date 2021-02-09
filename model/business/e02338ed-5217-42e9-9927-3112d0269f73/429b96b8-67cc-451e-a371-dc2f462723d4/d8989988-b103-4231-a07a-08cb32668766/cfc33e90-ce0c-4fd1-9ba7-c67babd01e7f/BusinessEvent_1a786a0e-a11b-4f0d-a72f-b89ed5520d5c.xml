@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dag120-rapport foreligger fra RMS"
+    id="1a786a0e-a11b-4f0d-a72f-b89ed5520d5c">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

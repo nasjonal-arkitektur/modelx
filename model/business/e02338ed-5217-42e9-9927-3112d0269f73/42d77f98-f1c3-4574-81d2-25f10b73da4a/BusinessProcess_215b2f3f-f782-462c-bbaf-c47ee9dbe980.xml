@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk utprøving fase 4"
+    id="215b2f3f-f782-462c-bbaf-c47ee9dbe980"
+    documentation="Fase 4-studier av klinisk utprøving foregår etter at legemiddelet er sluppet på markedet for å forske videre på og overvåke effekten mens det er i bruk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST-data v 2.5.1"
+    id="4ff8c7b8-5471-469e-bb70-94ce8a2fffa4">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6b21ad58-13bd-4e00-b7c7-481ddc44fc71.xml#6b21ad58-13bd-4e00-b7c7-481ddc44fc71"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a78779ab-7515-4102-817c-4250cb1299a9.xml#a78779ab-7515-4102-817c-4250cb1299a9"/>
+</archimate:FlowRelationship>

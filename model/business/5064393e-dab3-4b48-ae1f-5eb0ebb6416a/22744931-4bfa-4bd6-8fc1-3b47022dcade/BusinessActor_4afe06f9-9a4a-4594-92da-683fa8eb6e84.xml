@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for legemiddelmangel"
+    id="4afe06f9-9a4a-4594-92da-683fa8eb6e84"
+    documentation="Ansvarsområde:&#xD;&#xA;* Førebygge legemiddelmangel og koordinere tiltak i samband med akutte mangelsituasjonar">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

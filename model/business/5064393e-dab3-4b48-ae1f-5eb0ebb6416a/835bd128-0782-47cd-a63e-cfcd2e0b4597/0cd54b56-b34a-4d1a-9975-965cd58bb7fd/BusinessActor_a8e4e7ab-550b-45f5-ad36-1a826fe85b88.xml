@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesbarhetstesting av produktinformasjon (lag)"
+    id="a8e4e7ab-550b-45f5-ad36-1a826fe85b88"
+    documentation="Saksbehandle lesbrhetstester. Det er krav om lesbarhetstest for søknad om markedsføringstillatelse for legemidler til mennesker i samtlige prosedyrer. I tillegg er det krav ved endring av legal status dvs. søknad om OTC. &#xD;&#xA;Legemiddelverket utreder lesbarhetstester ved MT søknader når vi er rapportør i sentral prosedyre, som RMS i MRP/DCP og for nasjonale søknader. I tillegg utreder vi lesbarhetstest ved nasjonale OTC –endringer.  Som korapportør utreder vi lesbarhetstest dersom den er vedlagt ved innsendelse av søknaden. ">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

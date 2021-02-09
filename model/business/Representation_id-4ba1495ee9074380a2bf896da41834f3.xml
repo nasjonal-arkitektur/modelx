@@ -1,0 +1,38 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitektur for deling av data i høyere utdanning og forsking"
+    id="id-4ba1495ee9074380a2bf896da41834f3">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="Bøker"/>
+  <properties
+      key="dct:type"
+      value="modelx:book"/>
+  <properties
+      key="modelx:book_back_cover_image"
+      value="image11.png"/>
+  <properties
+      key="modelx:book_front_cover_image"
+      value="image1.jpeg"/>
+  <properties
+      key="modelx:site_url"
+      value="https://modelx-no.github.io/"/>
+  <properties
+      key="modelx:antora_update_script"
+      value="C:\antora\modelx-no\modelx-no-playbook\update.sh"/>
+  <properties
+      key="modelx:author_name"
+      value="Erik Hagen"/>
+  <properties
+      key="modelx:author_email"
+      value="erik.hagen@digdir.no"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

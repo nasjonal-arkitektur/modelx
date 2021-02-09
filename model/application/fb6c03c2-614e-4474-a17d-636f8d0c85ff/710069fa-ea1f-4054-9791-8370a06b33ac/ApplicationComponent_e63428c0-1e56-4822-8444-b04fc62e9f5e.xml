@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Femstjerners FEST (F5)"
+    id="e63428c0-1e56-4822-8444-b04fc62e9f5e"
+    documentation="F5 håndterer kun varsler.&#xD;&#xA;Denne løsningen ble laget som en Proof of Concept på 5-stjernersmodellen (Tim Berners Lee), og satt i produksjon.&#xD;&#xA;&#xD;&#xA;Det er en del eksterne aktører som har hektet seg på tjenesten.&#xD;&#xA;Den skal fases ut på sikt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

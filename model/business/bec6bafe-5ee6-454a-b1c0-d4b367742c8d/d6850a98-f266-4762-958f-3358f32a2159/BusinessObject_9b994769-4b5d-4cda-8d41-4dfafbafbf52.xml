@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vvv - Varsler/endringer, fornyelse, repeat-use"
+    id="9b994769-4b5d-4cda-8d41-4dfafbafbf52"
+    documentation="Sekvensielt nummer (3 sifre) for varslinger / variasjoner, fornyelser eller gjentatte bruksprosedyrer. Gjelder kun for en bestemt type prosedyre (varsler / variasjoner eller fornyelser eller gjentatt bruk), og danner dermed tre uavhengige formasjoner med sekvensielle tall.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

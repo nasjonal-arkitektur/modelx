@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRP, DCP, NP"
+    id="f2857517-cc04-49ff-9b36-2c1dc9f39de6">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_1024c3fb-bb92-45dc-ac47-bc8f72beb5ad.xml#1024c3fb-bb92-45dc-ac47-bc8f72beb5ad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b8582f18-7dac-480a-851c-c45c1c8ee15b.xml#b8582f18-7dac-480a-851c-c45c1c8ee15b"/>
+</archimate:FlowRelationship>

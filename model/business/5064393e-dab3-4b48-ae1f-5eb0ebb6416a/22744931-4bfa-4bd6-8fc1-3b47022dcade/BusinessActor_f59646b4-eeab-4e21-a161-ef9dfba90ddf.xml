@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for HR og organisasjonsutvikling"
+    id="f59646b4-eeab-4e21-a161-ef9dfba90ddf"
+    documentation="Enheten har ansvar for HR og organisasjonsutvikling og arbeider blant anna med rekruttering, personal og leiarutvikling.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

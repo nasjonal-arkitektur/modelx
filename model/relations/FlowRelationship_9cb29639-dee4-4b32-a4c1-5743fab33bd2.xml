@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedtak positiv"
+    id="9cb29639-dee4-4b32-a4c1-5743fab33bd2">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6a30cb7b-eb81-4192-bff6-f290fdd1622d.xml#6a30cb7b-eb81-4192-bff6-f290fdd1622d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_690aa24f-de52-4310-9fe4-5cdd88879069.xml#690aa24f-de52-4310-9fe4-5cdd88879069"/>
+</archimate:FlowRelationship>

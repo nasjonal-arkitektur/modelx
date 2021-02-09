@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Høring - Innføring av overtredelsesgebyr mv. i flere lover med folkehelseformål mv. (lag)"
+    id="597b6052-9fff-48f1-ac93-94719efc319d"
+    documentation="Gi innspill på regelverksforslag som HOD har sendt på høring.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

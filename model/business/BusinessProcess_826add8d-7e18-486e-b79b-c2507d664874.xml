@@ -8,7 +8,7 @@
       value="archi:business-process"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="sbb"/>
@@ -32,11 +32,4 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="826add8d-7e18-486e-b79b-c2507d664874"/>
 </archimate:BusinessProcess>

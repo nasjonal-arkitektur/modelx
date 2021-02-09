@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melde inn standpunkt i prosedyren"
+    id="1ea470df-0a34-4eba-80c0-fe7663f9b96f"
+    documentation="De berørte landene (MS) melder inn om de ønsker at MT-søknad skal innvilges eller avslås. Man er avhengig av at alle berørte land (inkludert RMS) kommer til konsensus.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

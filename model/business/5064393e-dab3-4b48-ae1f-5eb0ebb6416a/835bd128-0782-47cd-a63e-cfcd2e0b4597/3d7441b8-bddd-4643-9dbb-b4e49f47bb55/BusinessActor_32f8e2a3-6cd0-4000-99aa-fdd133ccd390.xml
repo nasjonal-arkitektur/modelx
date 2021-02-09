@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgang av grossistforskriften (lag)"
+    id="32f8e2a3-6cd0-4000-99aa-fdd133ccd390"
+    documentation="Legemiddelverket skal bistå departementet med å revidere regelverket om grossistvirksomhet med legemidler. Revisjonen skal omfatte behov for både lov- og forskriftsendringer. Legemiddelverkets utredning av 20. desember 2012 ”Gjennomgang av grossistforskriften” og etatens utredning om direkteleveranser vil danne grunnlag for arbeidet (jf tildelingsbrevet pkt 2. 11)">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

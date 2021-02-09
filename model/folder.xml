@@ -11,8 +11,14 @@
       value="no"/>
   <properties
       key="difi:antoraComponentsPath"
-      value="Update value according to your local installation"/>
+      value="C:\antora\modelx-no\components"/>
   <properties
       key="modelx:guid"
       value="id-47cab0b6afa149a783d217a0fa229ff0"/>
+  <properties
+      key="modelx:web_browser_app"
+      value="C:\Program Files\Google\Chrome\Application\chrome.exe"/>
+  <properties
+      key="modelx:cmd_line_app"
+      value="C:\Program Files\Git\git-bash.exe"/>
 </archimate:ArchimateModel>

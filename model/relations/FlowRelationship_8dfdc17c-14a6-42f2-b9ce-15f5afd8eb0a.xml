@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aksepterer ikke oppdraget"
+    id="8dfdc17c-14a6-42f2-b9ce-15f5afd8eb0a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_9fec3a4c-2b01-4753-abd8-8db5d9beb8e2.xml#9fec3a4c-2b01-4753-abd8-8db5d9beb8e2"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_547ab693-ff8e-423b-b264-ebed633d9f29.xml#547ab693-ff8e-423b-b264-ebed633d9f29"/>
+</archimate:FlowRelationship>

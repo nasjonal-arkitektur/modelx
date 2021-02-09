@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrepskatalog"
+    id="493bc728-338e-4a31-a529-eb9c28ae6943">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

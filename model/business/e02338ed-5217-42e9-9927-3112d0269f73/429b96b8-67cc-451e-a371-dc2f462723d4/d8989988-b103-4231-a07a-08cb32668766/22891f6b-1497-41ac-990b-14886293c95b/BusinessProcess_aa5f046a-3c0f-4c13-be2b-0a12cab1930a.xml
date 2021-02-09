@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laste ned dokumenter fra ePost"
+    id="aa5f046a-3c0f-4c13-be2b-0a12cab1930a"
+    documentation="Dokumentene som mottas fra RMS overføres fra ePost til SAM for videre saksbehandling.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

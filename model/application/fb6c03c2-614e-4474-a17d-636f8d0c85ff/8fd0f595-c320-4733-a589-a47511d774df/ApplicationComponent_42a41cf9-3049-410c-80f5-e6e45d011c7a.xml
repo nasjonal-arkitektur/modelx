@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPOR"
+    id="42a41cf9-3049-410c-80f5-e6e45d011c7a"
+    documentation="SPOR-programmet (EMA) har som mål å lage felles løsninger&#xD;&#xA;S=Substance&#xD;&#xA;P=Product&#xD;&#xA;O=Organsization&#xD;&#xA;R=Referentials&#xD;&#xA;Programmet kan bl.a. erstatte / slå sammen Article 57 og EudraPharm&#xD;&#xA;CESP benytter seg av Oen i SPOR&#xD;&#xA;&#xD;&#xA;https://spor.ema.europa.eu/sporwi/">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

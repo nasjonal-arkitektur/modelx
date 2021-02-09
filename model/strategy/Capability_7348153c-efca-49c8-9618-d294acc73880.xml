@@ -1,0 +1,39 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegere rettigheter til databehandler"
+    id="7348153c-efca-49c8-9618-d294acc73880"
+    documentation="Evnen til å delegere rettigheter til databehandler som utfører oppgaver på vegne av behandlingsansvarlig.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Delegere rettigheter til databehandler"/>
+  <properties
+      key="difi:description_no"
+      value="Evnen til å delegere rettigheter til databehandler som utfører oppgaver på vegne av behandlingsansvarlig."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="drill down"
+      value="7ad70658-c174-4da3-95e1-b0628688bcc1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

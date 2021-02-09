@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pårørende"
+    id="57270905-e6fa-4303-a27b-ff7ef5174915"
+    documentation="Pårørende til en pasient kan ha flere roller i form av å hente ut medisin på vegne av pasienten, motta informasjon, være i kontakt med helsevesenet, melde inn bivirkninger, være verge osv">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsere notifikasjon"
+    id="id-e63950f9530e4887a4a19155d38363d3">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

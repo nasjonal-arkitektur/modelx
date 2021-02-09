@@ -1,0 +1,50 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantisk samhandlingsavtale"
+    id="f40a6503-8f5d-4a86-bc38-68b2e8bb918a"
+    documentation="DESCRIPTION:&#xD;&#xA;Semantic Interoperability Agreement is the consensus among a group of co-operation partners on the model and data entities that support common services. Apart from the typology of the data entities, the consensus also covers the characteristics of the data entities as expressed in metadata and the use of common controlled vocabularies.&#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/document/2015-03/Process&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Semantic Interoperability Agreement ABB is salient for semantic interoperability because it provides a common and agreed procedure for solution building blocks used in an information exchange context as stated in the EIF recommendation n°32: &quot;Support the establishment of sector-specific and cross-sectoral communities that aim to create open information specifications and encourage relevant communities to share their results on national and European platforms.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;e-Invoicing Semantic Data Model&#xD;&#xA;The semantic data model includes only the essential information elements that an electronic invoice needs to ensure legal (including fiscal) compliance and to enable interoperability for cross-border, cross-sector and for domestic trade. The semantic data model may be used by public and private sector organisations for public procurement invoicing and took into account the physical and financial supply chain perspective, reflecting both private and public sector requirements, with a view to allowing the full straight-through processing of an electronic invoice.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2017/06/28/CEN+Publishes+eInvoicing+Semantic+Data+Model">
+  <properties
+      key="ID"
+      value="ABB232"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilityAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Semantisk samhandlingsavtale"/>
+  <properties
+      key="difi:name_en"
+      value="Semantic Interoperability Agreement"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Semantic Interoperability Agreement is the consensus among a group of co-operation partners on the model and data entities that support common services. Apart from the typology of the data entities, the consensus also covers the characteristics of the data entities as expressed in metadata and the use of common controlled vocabularies.&#xD;&#xA;&#xD;&#xA;Source:&#xD;&#xA;https://joinup.ec.europa.eu/sites/default/files/document/2015-03/Process&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Semantic Interoperability Agreement ABB is salient for semantic interoperability because it provides a common and agreed procedure for solution building blocks used in an information exchange context as stated in the EIF recommendation n°32: &quot;Support the establishment of sector-specific and cross-sectoral communities that aim to create open information specifications and encourage relevant communities to share their results on national and European platforms.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;e-Invoicing Semantic Data Model&#xD;&#xA;The semantic data model includes only the essential information elements that an electronic invoice needs to ensure legal (including fiscal) compliance and to enable interoperability for cross-border, cross-sector and for domestic trade. The semantic data model may be used by public and private sector organisations for public procurement invoicing and took into account the physical and financial supply chain perspective, reflecting both private and public sector requirements, with a view to allowing the full straight-through processing of an electronic invoice.&#xD;&#xA;https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2017/06/28/CEN+Publishes+eInvoicing+Semantic+Data+Model"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Contract>

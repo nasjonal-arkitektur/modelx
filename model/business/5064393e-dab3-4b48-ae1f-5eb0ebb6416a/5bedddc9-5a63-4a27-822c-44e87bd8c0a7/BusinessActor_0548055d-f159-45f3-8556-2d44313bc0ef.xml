@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Medicines Agency (EMA)"
+    id="0548055d-f159-45f3-8556-2d44313bc0ef"
+    documentation="Formålet til EMA er å fremme vitenskapelig ekspertise i evaluering og tilsyn med medisiner, til fordel for folkehelsen og dyrs helse i EU.&#xD;&#xA;Dette gjør EMA:&#xD;&#xA;* Fasiliterer utvikling av og tilgang til medisiner&#xD;&#xA;* Behandler søknader om markedsføringstillatelse&#xD;&#xA;* Overvåker trygghet ved medisinbruk gjennom medikamentenes fulle livssyklus&#xD;&#xA;* Sørger for pålitelig informasjon om medisiner til mennesker og dyr, i et språk som er forståelig for folk flest">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

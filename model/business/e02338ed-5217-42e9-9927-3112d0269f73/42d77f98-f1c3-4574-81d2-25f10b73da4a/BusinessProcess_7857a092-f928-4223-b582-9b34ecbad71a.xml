@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruk av medikament"
+    id="7857a092-f928-4223-b582-9b34ecbad71a"
+    documentation="Pasienter tar i bruk legemiddelet for behandling. Dette kan enten være privat eller i regi av behandling på sykehus/andre instutisjoner.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sykehusfinansiering"
+    id="6a45069a-717e-4aac-b857-2131ca199c65">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_37edb045-000d-42ec-acc0-446072af51c0.xml#37edb045-000d-42ec-acc0-446072af51c0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d1e35568-408e-4b62-afa3-3e3ee4663c49.xml#d1e35568-408e-4b62-afa3-3e3ee4663c49"/>
+</archimate:TriggeringRelationship>

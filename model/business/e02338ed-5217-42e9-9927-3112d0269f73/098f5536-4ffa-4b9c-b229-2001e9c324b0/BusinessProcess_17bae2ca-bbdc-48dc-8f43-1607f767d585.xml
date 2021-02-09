@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gi signal om utsteding av sertifikat"
+    id="17bae2ca-bbdc-48dc-8f43-1607f767d585"
+    documentation="Sertifikat utstedes av andre hos legemiddelverket (se egen prosess)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

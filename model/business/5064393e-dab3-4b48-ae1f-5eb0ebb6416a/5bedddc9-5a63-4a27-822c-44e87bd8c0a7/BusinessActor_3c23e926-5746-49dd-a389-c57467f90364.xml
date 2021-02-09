@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Member State(MS) / Concerned Member State(CMS)"
+    id="3c23e926-5746-49dd-a389-c57467f90364"
+    documentation="Member State i CP (sentral prosedyre) eller Concerned Member State i DCP/MRP (desentralisert prosedyre/gjensidig annerkjennelsesprosedyre) er rollen et lands legemiddelverk har når det ikke har hovedansvaret for utredningen/saksbehandlingen av en MT-søknad. &#xA;&#xA;Dette innebærer i praksis at man har mulighet til å kommentere på utredningen som gjennomføres. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

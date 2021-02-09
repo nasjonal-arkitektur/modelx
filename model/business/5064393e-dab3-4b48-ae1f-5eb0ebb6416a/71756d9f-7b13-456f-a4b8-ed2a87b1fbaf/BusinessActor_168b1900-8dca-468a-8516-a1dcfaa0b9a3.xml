@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategisk ledelse"
+    id="168b1900-8dca-468a-8516-a1dcfaa0b9a3"
+    documentation="Ansvarsområder og oppgaver:&#xD;&#xA;&#xD;&#xA;Ansvar for Legemiddelverkets utvikling og drift på et overordnet strategisk nivå.&#xD;&#xA;Sørge for at Legemiddelverket har prosesser som tar hensyn til politiske føringer.&#xD;&#xA;Sette rammer for kvalitetsstyring, herunder risikohåndtering.&#xD;&#xA;Direktør og områdedirektører&#xD;&#xA;&#xD;&#xA;Overordnet ansvar for riktig ressursbruk.&#xD;&#xA;Følger vedtatt forretningsorden - se lenke&#xD;&#xA;Være styringsgruppe for prosjekter og ta beslutninger om bruk av økonomiske tilleggsbevilgninger.&#xD;&#xA; &#xD;&#xA;Områdedirektørenes ansvarsområder og oppgaver:&#xD;&#xA;Har ansvar for hver sin hovedprosess i strategien. Denne ivaretas gjennom T-ledelse. T-ledelse betyr at lederen har ansvar både i egen linje og på tvers av organisasjonen.&#xD;&#xA;Har et spesielt ansvar for å ivareta eksterne interessenter.&#xD;&#xA;Er personalleder for enhetsledere i eget område">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

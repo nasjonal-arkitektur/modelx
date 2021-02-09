@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e4c6cdf1-5135-4743-9935-b6d8ab6ad6fb"
+    documentation="eSubmission Gateway er innfallsport for input til Common Repository">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_77c97ae0-4512-480c-b261-eb4e5e60dd07.xml#77c97ae0-4512-480c-b261-eb4e5e60dd07"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5e768bae-c1e7-4530-be1a-f6ec1df636be.xml#5e768bae-c1e7-4530-be1a-f6ec1df636be"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Byttegruppa m/sekretariat (lag)"
+    id="d3a35898-3993-4723-82b4-487344150556"
+    documentation="Behandle spørsmål om opptak på liste for generisk bytte og virkestofforskrivning.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

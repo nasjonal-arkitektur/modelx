@@ -12,31 +12,8 @@
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
-      key="dct:type"
-      value="archi:specialization-relationship"/>
-  <properties
       key="difi:namespace"
-      value="-"/>
-  <properties
-      key="difi:abstractionLevel"
-      value="undefined"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="difi:language"
-      value="no"/>
-  <properties
-      key="difi:description_en"/>
-  <properties
-      key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="872895be-313d-4658-b8bc-afb0dab9c328"/>
+      value="digdir"/>
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_4f1acd78-05ec-49fa-a9b1-8d49d8fa751d.xml#4f1acd78-05ec-49fa-a9b1-8d49d8fa751d"/>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingen invalidering innen 14 dager"
+    id="3086b4f5-c7c0-431e-8038-74b9ab184e71"
+    documentation="Dersom ingen av involverte land registrerer søknaden som invalid innen fristen på 14 dager, er den automatisk valid.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_b50cf58a-5e31-46f0-95d3-cec046933471.xml#b50cf58a-5e31-46f0-95d3-cec046933471"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_05d2ab7b-fb5d-4905-8252-e6e9f6b577ae.xml#05d2ab7b-fb5d-4905-8252-e6e9f6b577ae"/>
+</archimate:FlowRelationship>

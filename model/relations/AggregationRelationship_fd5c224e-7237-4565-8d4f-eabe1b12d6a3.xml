@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan være"
+    id="fd5c224e-7237-4565-8d4f-eabe1b12d6a3">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a07982a9-2c18-4472-bfe4-44d4061ca208.xml#a07982a9-2c18-4472-bfe4-44d4061ca208"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_1a4bafcf-0821-448d-9d16-79928f4b12b5.xml#1a4bafcf-0821-448d-9d16-79928f4b12b5"/>
+</archimate:AggregationRelationship>

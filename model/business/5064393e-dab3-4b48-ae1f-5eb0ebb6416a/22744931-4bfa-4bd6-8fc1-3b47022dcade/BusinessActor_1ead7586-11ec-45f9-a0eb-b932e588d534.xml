@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for kommunikasjon"
+    id="1ead7586-11ec-45f9-a0eb-b932e588d534"
+    documentation="Enhet for kommunikasjon har ansvar for strategisk og operativt kommunikasjonsarbeid og intern service, blant anna sentralbordfunksjon og møteorganisering. Kommunikasjonsarbeidet omfattar blant anna&#xD;&#xA;&#xD;&#xA;* omdømmearbeid&#xD;&#xA;* bruk av sosiale medium og overordna drift og utvikling av nettstaden til Legemiddelverket&#xD;&#xA;* medieovervaking og mediekoordinering&#xD;&#xA;* grafisk profil og trykksakproduksjon&#xD;&#xA;* bibliotektenester.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

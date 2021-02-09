@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GVP-audit (Good Vigilance Practice) (lag)"
+    id="4231ae91-00af-4e82-b8c2-d59b8a0a6c42"
+    documentation="Planlegge, gjennomføre og rapportere intern revisjon av phamacovigilance-regelverk iht. krav fra EU-kommisjonen. Revisjonene gjennomføres årlig. Rapport sendes til EU-kommisjonen annethvert år (ulike år). Årlig skal audit-strategien gjennomgås og oppdateres. Det skal gjennomføres en risikovurdering hvor man skal velge ut hvilke moduler som skal være gjenstand for årets audit. Alle moduler skal gjennomgås i løpet av fem år.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

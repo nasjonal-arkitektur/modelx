@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sykehusavdeling / Institusjon / Legekontor"
+    id="0bef77e3-31d9-4bd3-8021-7bf4204f0e97">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

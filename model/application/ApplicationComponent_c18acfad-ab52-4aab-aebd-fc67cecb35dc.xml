@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kjernejournal"
+    id="c18acfad-ab52-4aab-aebd-fc67cecb35dc">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

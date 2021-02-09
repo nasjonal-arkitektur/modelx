@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukerstøtte  - Dokumentforvaltning (lag)"
+    id="c10e7a43-3c8b-46d3-943c-92a0ec17ddbc"
+    documentation="• Arkivservice &#xD;&#xA;• Koordinering av innsynsbegjæringer &#xD;&#xA;• Brukeradministrasjon i 360⁰  &#xD;&#xA;• Kontaktregister &#xD;&#xA;• Informasjon om dokumentasjonsforvaltning på intranett &#xD;&#xA;• Nøkkelbrukerfunksjonen &#xD;&#xA;• Opplæring &#xD;&#xA;• Drop-in">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

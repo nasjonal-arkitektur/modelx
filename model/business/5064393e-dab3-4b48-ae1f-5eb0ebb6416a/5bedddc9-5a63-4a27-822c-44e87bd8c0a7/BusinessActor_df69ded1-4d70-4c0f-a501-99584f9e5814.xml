@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Committee for Medicinal Products for X Use (CXMP)"
+    id="df69ded1-4d70-4c0f-a501-99584f9e5814"
+    documentation="Vitenskapelig utvalg for humane / veterinære preparater, faglig komité for EU-kommisjonen.&#xD;&#xA;Alle land i EU/EØS er representert i denne komiteen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

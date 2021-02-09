@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth2 authorization code flow"
+    id="id-51fbe853a931408d94ab76cddfab12b7"
+    documentation="Bygger infomodell  for autorisasjon inn i tokenstrukturen&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-96514499518349619a8e277dfafc274b.xml#id-96514499518349619a8e277dfafc274b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-790edbc925b24187adbccb11b66a37b4.xml#id-790edbc925b24187adbccb11b66a37b4"/>
+</archimate:AssociationRelationship>

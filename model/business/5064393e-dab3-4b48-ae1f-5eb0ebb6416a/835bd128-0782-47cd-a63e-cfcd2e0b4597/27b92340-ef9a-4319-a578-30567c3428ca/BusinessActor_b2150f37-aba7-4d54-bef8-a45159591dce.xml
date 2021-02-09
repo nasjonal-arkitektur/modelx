@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rasjonering og prioritering ved truende eller etablert svikt i legemiddelforsyningen (lag)"
+    id="b2150f37-aba7-4d54-bef8-a45159591dce"
+    documentation="Veterinærer og leger kan allerede fra 1. januar sette ti dagers gyldighet på reseptene">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

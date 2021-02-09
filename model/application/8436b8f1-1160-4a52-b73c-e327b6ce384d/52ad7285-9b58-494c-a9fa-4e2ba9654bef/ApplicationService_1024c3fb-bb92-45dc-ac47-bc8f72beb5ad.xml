@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eAf - Marketing authorization (H)"
+    id="1024c3fb-bb92-45dc-ac47-bc8f72beb5ad">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

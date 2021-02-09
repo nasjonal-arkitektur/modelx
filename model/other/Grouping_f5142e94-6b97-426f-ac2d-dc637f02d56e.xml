@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stedsadministrasjon"
+    id="f5142e94-6b97-426f-ac2d-dc637f02d56e"
+    documentation="Ability to define, calculate, articulate, determine, disseminate or otherwise track a position or site of any given entity.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Stedsadministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Location Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, calculate, articulate, determine, disseminate or otherwise track a position or site of any given entity."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, calculate, articulate, determine, disseminate or otherwise track a position or site of any given entity."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

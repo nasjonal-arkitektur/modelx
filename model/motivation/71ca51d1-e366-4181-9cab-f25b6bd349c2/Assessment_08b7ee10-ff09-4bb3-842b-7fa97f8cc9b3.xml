@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell supplering av mottatt melding"
+    id="08b7ee10-ff09-4bb3-842b-7fa97f8cc9b3"
+    documentation="Siden pasient / pårørende ikke er i stand til å registrere all nødvendig informasjon (pga. manglende fagkompetanse - feltene er derfor utelatt fra registreringsskjemaene), må en del informasjon avgjøres ut fra den registrerte informajsonen og suppleres bivirkningsmeldingen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

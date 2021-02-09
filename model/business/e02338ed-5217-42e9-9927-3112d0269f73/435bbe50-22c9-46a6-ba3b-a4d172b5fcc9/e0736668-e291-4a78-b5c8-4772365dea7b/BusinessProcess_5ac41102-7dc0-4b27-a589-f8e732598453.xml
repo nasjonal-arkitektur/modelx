@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre tilsyn med produsent (lokal) ved funn av signal"
+    id="5ac41102-7dc0-4b27-a589-f8e732598453"
+    documentation="Dersom produsenten er lokal, gjennomføres tilsyn med produsenten og/eller produkt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage tidtabell for videre søknadsbehandling"
+    id="d22faf24-d929-40d4-a658-8fbc1f50bfda"
+    documentation="Når svar mottas fra MT-søker setter RMS opp tidtabell med frister for den resterende delen av søknadsbehandlingen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslutningsstøtte"
+    id="0baea251-de8a-4e7c-a75a-ac28fa72840c">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

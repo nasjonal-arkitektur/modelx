@@ -1,0 +1,36 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="36b6f128-d7e1-4bbe-ab74-225d96532ed3"
+    documentation="For ensuring solutions appropriately protect the security of data, whether it is persistent, virtual, or in motion between applications and organizations">
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="For ensuring solutions appropriately protect the security of data, whether it is persistent, virtual, or in motion between applications and organizations"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_6322fb3a-788a-4430-8269-611c90cb7c36.xml#6322fb3a-788a-4430-8269-611c90cb7c36"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_01d83735-595d-4f7b-8b29-594326bee620.xml#01d83735-595d-4f7b-8b29-594326bee620"/>
+</archimate:ServingRelationship>

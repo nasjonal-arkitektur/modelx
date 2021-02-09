@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksterne-eksperter (lag)"
+    id="d03bcb0a-76b8-4593-8d60-6b21ae39d14d"
+    documentation="Opprettelse av en eksterne -ekspertgruppe- kjernegruppe">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

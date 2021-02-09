@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentiseringsdata"
+    id="3991d490-8210-4185-9f8a-0d50d7093d8b"
+    documentation="Data som autentiserer konsument, f.eks. digitalt sertifikat eller sikkerhetsbillett.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessObject>

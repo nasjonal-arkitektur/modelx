@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST v20Service"
+    id="edb98a92-8c36-4a4d-bddf-c0521e86e049"
+    documentation="Database for logging av alle kall til FEST-tjenesten">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

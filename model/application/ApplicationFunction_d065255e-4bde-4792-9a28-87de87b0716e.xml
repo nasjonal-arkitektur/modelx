@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event"
+    id="d065255e-4bde-4792-9a28-87de87b0716e"
+    documentation="Captures critical case details in line-listing format">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,8 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identitetsforvaltning RA"
+    id="0f181739-4649-4879-9ca5-f01f72e739f0">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:Resource>

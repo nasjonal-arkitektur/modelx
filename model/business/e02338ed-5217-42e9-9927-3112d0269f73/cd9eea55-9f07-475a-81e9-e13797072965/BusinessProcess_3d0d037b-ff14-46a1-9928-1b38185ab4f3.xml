@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om sertifisering"
+    id="3d0d037b-ff14-46a1-9928-1b38185ab4f3"
+    documentation="CE-serifisering av medisinsk utstyr utføres av Tenkisk Kontrollorgan oppnevnt av SLV.&#xD;&#xA;Sertifiseringen består i stor grad av gjennomgang av dokumentasjon knyttet til produktet (rapporter fra klinisk utprøving osv.)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

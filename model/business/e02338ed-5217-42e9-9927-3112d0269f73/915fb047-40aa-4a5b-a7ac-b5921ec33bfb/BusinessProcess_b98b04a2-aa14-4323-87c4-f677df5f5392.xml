@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REK - Fatte vedtak"
+    id="b98b04a2-aa14-4323-87c4-f677df5f5392"
+    documentation="REK fatter sitt vedtak uavhengig av SLVs vedtak.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

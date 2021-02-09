@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vigsler"
+    id="30d74592-3fe8-4057-8cac-cf65a9d402c3">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessObject>

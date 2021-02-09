@@ -7,7 +7,7 @@
       value="archi:artifact"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="sbb"/>
@@ -32,11 +32,4 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="b7e5d1be-4817-4d32-8ed1-69ba642ef03e"/>
 </archimate:Artifact>

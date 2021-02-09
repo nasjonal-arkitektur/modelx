@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST-Generator"
+    id="49bbb914-924a-4104-86f1-bff98c874f24"
+    documentation="FEST-generator er en applikasjon uten brukergrensesnitt som bygger FEST-melding basert på data som er importert inn i Apollon. Apollon benyttes til å styre når FEST generatorene skal kjøres. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peer Reviewer"
+    id="0a94c8ec-fa5a-471f-8171-cd51f9443079"
+    documentation="Rollen som Peer Reviewer tildeles av EMA, som en del av oppgavefordelingen ved behandling av en søknad.&#xD;&#xA;Rollen tildeles et land som ikke er nominert som Rapportør(R) eller Ko-rapportør(CoR)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

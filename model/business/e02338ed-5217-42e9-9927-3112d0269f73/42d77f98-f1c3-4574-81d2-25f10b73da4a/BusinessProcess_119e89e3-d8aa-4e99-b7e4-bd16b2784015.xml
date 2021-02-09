@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samle og dokumentere resultater"
+    id="119e89e3-d8aa-4e99-b7e4-bd16b2784015"
+    documentation="All dokumentasjon rundt medikamentet samles sammen og struktureres før man sender inn søknad om markedsføringstillatelse. Utredningen av søknaden er avhangig av at all relevant informasjon om produktet og forskningsresultater er på plass.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

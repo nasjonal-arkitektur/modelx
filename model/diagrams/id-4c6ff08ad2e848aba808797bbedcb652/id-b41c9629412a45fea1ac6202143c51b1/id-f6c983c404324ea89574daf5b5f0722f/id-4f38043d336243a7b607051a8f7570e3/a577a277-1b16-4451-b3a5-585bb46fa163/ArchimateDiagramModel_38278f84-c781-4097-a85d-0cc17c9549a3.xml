@@ -1,0 +1,47 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknologimodeller - oversikt"
+    id="38278f84-c781-4097-a85d-0cc17c9549a3">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="901b6296-7883-42c3-bba5-288a75670467"
+      font="1|Segoe UI|10.125|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#75c8d2"
+      content="Teknologimodellene representerer område &quot;D. Technology Architecture&quot; i TOGAF">
+    <bounds
+        x="216"
+        y="60"
+        width="493"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="89d14f6f-645c-47bd-9398-7f949d1c673f">
+    <bounds
+        x="12"
+        width="169"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_fe3c5430-3bd8-4e0e-9e51-2dc1efa046f0.xml#fe3c5430-3bd8-4e0e-9e51-2dc1efa046f0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4fb7bd32-75b2-437d-8e71-a4e96baba4af"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Teknologimodeller"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="216"
+        width="493"
+        height="43"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent avgir notifikasjon"
+    id="id-678a43e46063414793067b8edb0916bf">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

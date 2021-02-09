@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helseplattform - Midt-Norge"
+    id="95ce352a-c93d-4e82-a890-6fe9664ddb8e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraPharm for Human medicinal products (H)"
+    id="cf9bf329-c96f-4683-945e-3df650deba81"
+    documentation="EudraPharm is intended to be a source of information on all medicinal products for  human  use  that  have  been  authorised  in  the  European  Union  and  the  European   Economic   Area   and   information   on   clinical   trials   of   medicinal   products including products with or without a marketing authorization.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

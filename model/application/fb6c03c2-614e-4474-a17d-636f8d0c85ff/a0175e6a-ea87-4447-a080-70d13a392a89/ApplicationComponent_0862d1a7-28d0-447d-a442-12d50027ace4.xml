@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AD Connect"
+    id="0862d1a7-28d0-447d-a442-12d50027ace4"
+    documentation="Oppgi enkelt tegn og passord Synkronisering til SLV Office 365 (portal.microsoftonline.com)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

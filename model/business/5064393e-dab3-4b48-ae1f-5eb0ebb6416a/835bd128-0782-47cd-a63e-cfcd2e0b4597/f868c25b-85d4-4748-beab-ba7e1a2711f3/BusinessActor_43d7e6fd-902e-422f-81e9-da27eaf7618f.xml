@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nivåvurderingslaget (lag)"
+    id="43d7e6fd-902e-422f-81e9-da27eaf7618f"
+    documentation="Nivåvurdering  av søknader i CHMP/CVMP-CP/PIP/Artikkel 45,46/MRP/DCP/NP.&#xD;&#xA;Vurdere innsatsnivå av søknader hvor Norge er MS etter etter PM sine føringer. Løpende behandling/fordeling  av ad hoc saker. Forslag til regelverksfortolkning og utvikling. Forslag til prosessutvikling. Innhente eksterne eksperter ved behov.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

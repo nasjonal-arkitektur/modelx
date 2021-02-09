@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk humanmedisin - kompetansenettverk"
+    id="2ad1be90-03f4-4a82-a076-e8d94214ba41"
+    documentation="Følge med på trender innen legemiddelbehandling, særlig innenfor store sykdomsgrupper">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

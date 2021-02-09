@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Access"
+    id="d0386ef3-d96d-408b-920b-443b5d07637c"
+    documentation="Microsoft Access er et databasehåndteringsprogram som er utviklet av Microsoft, og som kombinerer en relasjonsdatabase og Microsoft Jet Database Engine med utviklingsverktøy og et grafisk brukergrensesnitt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjon og veiledning"
+    id="e1f3b6bf-67e6-4a2d-9c80-42eb990add33"
+    documentation="Rådgiving knyttet til forskning og utvikling av legemidler og medisinsk utstyr&#xD;&#xA;* Gi leger og andre forskrivere veiledning i medisinsk trygg og samfunnsøkonomisk riktig bruk av legemidler&#xD;&#xA;* Gi apotek/utsalgssteder, legemiddelgrossister, -importører, og -industri informasjon om regelverk og saksbehandling&#xD;&#xA;* Informere allmennheten om trygg bruk av legemidler ved å informere om sikkerhet/bivirkninger, refusjonsordningen (blå resept), nye legemidler og nye opplysninger om eksisterende legemidler&#xD;&#xA;* Gi innovasjonsstøtte gjennom veiledning ved legemiddelutvikling&#xD;&#xA;* Veilede og informere om produktregelverket for medisinsk utstyr&#xD;&#xA;* Yte forvaltningsstøtte primært til Helse- og omsorgsdepartementet med underliggende etater, men også til andre departementer og deres underliggende etater">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

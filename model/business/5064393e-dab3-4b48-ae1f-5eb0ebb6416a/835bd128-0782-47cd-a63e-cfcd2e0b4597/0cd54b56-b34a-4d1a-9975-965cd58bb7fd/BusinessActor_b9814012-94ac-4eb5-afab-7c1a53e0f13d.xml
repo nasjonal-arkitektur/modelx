@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenningsfritak humane og veterinære legemidler (Langvarig lag)"
+    id="b9814012-94ac-4eb5-afab-7c1a53e0f13d"
+    documentation="Vurdering av søknader om godkjenningsfritak. Veiledning. (Gjennomgang av rutiner med tanke på forenkling).">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

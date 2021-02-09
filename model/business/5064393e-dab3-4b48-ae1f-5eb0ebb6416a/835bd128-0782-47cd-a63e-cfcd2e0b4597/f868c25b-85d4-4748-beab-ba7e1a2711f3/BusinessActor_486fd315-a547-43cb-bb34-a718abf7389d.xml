@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidler til Fisk (lag)"
+    id="486fd315-a547-43cb-bb34-a718abf7389d"
+    documentation="&quot;Dele kompetanse og erfaring innen området «legemidler til fisk»&#xD;&#xA;&#x9;Bidra til ekstern og intern kommunikasjon om legemidler til fisk&#xD;&#xA;&#x9;Diskutere problemstillinger som omhandler legemidler til fisk på tvers av Legemiddelverkets områder/lag dette gjelder blant annet MT, unntak for krav om markedsføringstillatelse for nasjonale preparater, tilbakekalling av markedsføringstillatelser, suspendere markedsføringstillatelser, nedsette omsetningsforbud.&quot;">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere forespørsel"
+    id="bd6633dc-eeb6-448d-87df-cdcbaf853632"
+    documentation="Foresprøsel fra MT-søker om å gjennomføre søknadsutredning som RMS vurderes mht tilgjengelig kompetanse / kapasitet. Alle forespørsler behandles så raskt som mulig, normalt innen tre uker etter mottak.&#xD;&#xA;Vurderingen gjøres i MT-møte, hvord det også besluttes opprettet lag for søknadsbehandlingbehandling/-utredning.&#xD;&#xA;&#xD;&#xA;Beslutning om man skal godta forespørsel gjøres i EU beslutningsmøte (møter hver 14. dag)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

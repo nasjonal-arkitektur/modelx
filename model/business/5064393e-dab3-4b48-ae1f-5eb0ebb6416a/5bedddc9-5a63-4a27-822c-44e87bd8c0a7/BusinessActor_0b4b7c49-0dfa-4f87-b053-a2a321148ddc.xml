@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsemyndigheter"
+    id="0b4b7c49-0dfa-4f87-b053-a2a321148ddc"
+    documentation="Helsemyndigheter omfatter:&#xD;&#xA;* Helsedirektoratet&#xD;&#xA;* ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

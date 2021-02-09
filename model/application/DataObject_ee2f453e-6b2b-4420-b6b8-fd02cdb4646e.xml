@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjon om status og restanser"
+    id="ee2f453e-6b2b-4420-b6b8-fd02cdb4646e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

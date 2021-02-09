@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta underskrift på observasjonsliste"
+    id="d04ec1d5-d8ba-441b-b371-3fa7dd45dee9"
+    documentation="Observasjonslisten utformes basert på noen standardkomponenter og noe som varierer fra tilsyn til tilsyn. &#xA;Når listen er underskrevet tilsvarer dette at det er en enighet mellom tilsynsobjekt og observatør på de punktene som har kommet frem.&#xA;Listen danner grunnlaget for tilsynsrapporten.&#xA;Punktene er ikke endelige (enkeltvedtak) før rapport er ferdigstilt. Tilsynsobjekt kan klage på enkeltvedtak, men ikke observasjonspunkter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

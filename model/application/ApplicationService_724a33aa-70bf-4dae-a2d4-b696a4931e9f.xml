@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SvarInn"
+    id="724a33aa-70bf-4dae-a2d4-b696a4931e9f">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

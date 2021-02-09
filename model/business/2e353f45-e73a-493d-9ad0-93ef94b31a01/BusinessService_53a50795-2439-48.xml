@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farlig avfall"
+    id="53a50795-2439-48"
+    documentation="Farlig avfall leveres til kommunale mottaksordninger.">
+  <properties
+      key="Engelsk navn"
+      value="Hazardous waste"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

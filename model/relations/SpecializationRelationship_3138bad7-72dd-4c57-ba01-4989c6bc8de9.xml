@@ -8,7 +8,7 @@
       value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="metamodel"/>
@@ -32,13 +32,6 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="3138bad7-72dd-4c57-ba01-4989c6bc8de9"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_7a080413-7407-461a-ac95-795c0988c271.xml#7a080413-7407-461a-ac95-795c0988c271"/>

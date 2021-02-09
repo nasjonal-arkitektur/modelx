@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende samlet rapport inkl. List of Questions til Søker"
+    id="62f21f67-6a3e-42de-925c-7aee8ab7b0a0">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

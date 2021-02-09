@@ -1,0 +1,8 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mandat fra fylkesmannen"
+    id="087c76b8-b7b2-4b33-9cc0-7523be6ae832">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Contract>

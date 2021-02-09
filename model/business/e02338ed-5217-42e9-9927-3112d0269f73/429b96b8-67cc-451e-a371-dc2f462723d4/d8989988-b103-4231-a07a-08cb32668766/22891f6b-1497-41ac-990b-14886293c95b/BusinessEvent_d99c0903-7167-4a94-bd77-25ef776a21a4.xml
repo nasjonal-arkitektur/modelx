@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dag70-rapport mottatt"
+    id="d99c0903-7167-4a94-bd77-25ef776a21a4"
+    documentation="Dag70-rapporten mottas i funksjonell epostkasse. Koordinator / konsulent blir automatisk varlset om innkommet rapport..">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

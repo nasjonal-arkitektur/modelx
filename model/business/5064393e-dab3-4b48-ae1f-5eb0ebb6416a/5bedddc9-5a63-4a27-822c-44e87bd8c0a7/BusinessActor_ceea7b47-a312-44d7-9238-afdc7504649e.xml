@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pharmacovigilance Risk Assessment Committee (PRAC)"
+    id="ceea7b47-a312-44d7-9238-afdc7504649e"
+    documentation="The Pharmacovigilance Risk Assessment Committee (PRAC) is the European Medicines Agency's (EMA) committee responsible for assessing and monitoring the safety of human medicines.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

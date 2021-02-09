@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgå kommentarer (rapportør/ko-rapportør/peerreviewer/EMA) i telefonkonferanse"
+    id="5f6dbf0a-2ced-487d-bcf0-6f57b01e661d"
+    documentation="Kommentarene fra memberstates  og peer revviewers gjennomgås i telefonkonferanse mellom rapportør/ko-rapportør/peerreviewer/EMA.&#xD;&#xA;I telefonkonferansen blir man enige om spørsmålslisten som skal sendes til CXMP.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

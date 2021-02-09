@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D - Human (H) / Vetrinær (V)"
+    id="013014f2-51d2-4654-8358-dc4496e82deb"
+    documentation="Tegn nr 3 forteller om legemiddelet er ment til bruk på mennesker (Human - H), eller dyr (Vetrinær - V)&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

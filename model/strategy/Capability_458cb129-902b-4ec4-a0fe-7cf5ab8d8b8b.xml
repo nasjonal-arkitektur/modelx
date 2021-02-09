@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å tilrettelegge data for deling"
+    id="458cb129-902b-4ec4-a0fe-7cf5ab8d8b8b"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å utvikle eller bruke tekniske løsninger for deling av data med konsumenten. Eventuell tilgangsstyring må tilrettelegges&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Virksomheten bør ha beste praksis for hvordan data skal tilrettelegges for deling.&#xD;&#xA;&#xD;&#xA;Teknisk løsning for datadeling bør være på plass slik at data effektivt kan tilrettelegges for å konsumentens behov.&#xD;&#xA;&#xD;&#xA;Bruk av fellesfunksjonalitet som Maskinporten og Altinn Autorisasjon er kjent og kan benyttes i henhold til beste praksis.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å tilrettelegge data for deling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må evne å utvikle eller bruke tekniske løsninger for deling av data med konsumenten. Eventuell tilgangsstyring må tilrettelegges&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Virksomheten bør ha beste praksis for hvordan data skal tilrettelegges for deling.&#xD;&#xA;&#xD;&#xA;Teknisk løsning for datadeling bør være på plass slik at data effektivt kan tilrettelegges for å konsumentens behov.&#xD;&#xA;&#xD;&#xA;Bruk av fellesfunksjonalitet som Maskinporten og Altinn Autorisasjon er kjent og kan benyttes i henhold til beste praksis."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fakturaunderlag (PDF)"
+    id="50786e56-881e-40ad-bb97-7bf764810f33"
+    documentation="Fakturaunderlag som tastes inn manuelt i Agresso">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2a2e3521-dcbd-4c57-87be-ba157dafc480.xml#2a2e3521-dcbd-4c57-87be-ba157dafc480"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e00c6b80-4573-4004-ab47-a0576677995d.xml#e00c6b80-4573-4004-ab47-a0576677995d"/>
+</archimate:FlowRelationship>

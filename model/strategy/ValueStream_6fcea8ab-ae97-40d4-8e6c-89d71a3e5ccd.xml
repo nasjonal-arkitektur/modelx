@@ -1,0 +1,35 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forbedre løsninger, sikkerhet og datakvalitet (tilbyder)"
+    id="6fcea8ab-ae97-40d4-8e6c-89d71a3e5ccd"
+    documentation="&quot;Kontinuerlig forbedring av opplegg for deling av data&quot; handler om aktiv forvaltning av operative løsninger for deling av data gjennom kontakt med datakonsumenter og tilpasning til nye behov, krav og teknologi.&#xD;&#xA;&#xD;&#xA;Kan også omfatte tilbakemeldinger på kvalitet på data og forbedring av datagrunnlaget.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kontinuerlig forbedring av opplegg for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

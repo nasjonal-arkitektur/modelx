@@ -10,7 +10,7 @@
       value="archi:business-role"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
@@ -32,11 +32,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="77e1a2cf-8685-4d20-8450-33fbe2fbd565"/>
 </archimate:BusinessRole>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbakemelding"
+    id="2d2a7839-4dff-4028-b112-988ad4046f7a"
+    documentation="FHI sender tilbakemelding til rapportør direkte. SLV får ingen melding om dette, men kan se i VigiNor at det er gjort, og tidspunktet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_6898d8e1-2b93-43bd-b53e-84286c835a6d.xml#6898d8e1-2b93-43bd-b53e-84286c835a6d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_be3ce0d5-6302-4667-b78c-7f3ee37c2dea.xml#be3ce0d5-6302-4667-b78c-7f3ee37c2dea"/>
+</archimate:FlowRelationship>

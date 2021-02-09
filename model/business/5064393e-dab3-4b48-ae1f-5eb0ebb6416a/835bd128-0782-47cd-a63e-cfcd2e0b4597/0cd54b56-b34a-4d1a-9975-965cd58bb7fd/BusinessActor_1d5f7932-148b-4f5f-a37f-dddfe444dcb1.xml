@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruk av Godkjenningsfritak (lag)"
+    id="1d5f7932-148b-4f5f-a37f-dddfe444dcb1"
+    documentation="Midlertidig lag for å analysere bruken av Godkjenningsfritak">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

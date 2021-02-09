@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-sigaretter"
+    id="3668da16-855f-453f-b025-ac285f7b6e4b">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f10d9bab-a944-4cec-b663-7ee5ee5ba75f">
+    <bounds
+        x="24"
+        y="24"
+        width="181"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="79a8143a-b46c-4cdc-a8ca-0ff842cfeaac"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="E-sigaretter og medikamentreisen"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="300"
+        y="27"
+        width="589"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="23b95cce-0cac-4911-8efd-840daeea7ca5"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Prosesser knyttet til E-sigaretter er ikke kartlagt ennå">
+    <bounds
+        x="422"
+        y="104"
+        width="185"
+        height="80"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

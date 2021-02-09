@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta søknad om makspris og arkivere"
+    id="77f2a75d-cd4a-4fec-a274-7541f471c35c"
+    documentation="Det kommer søknad inn I felles e-postkasse - dette sendes til arkiv for føring I 360. Da føres den på pris sin enhet, blir ikke tildelt noen saksbehandler. &#xD;&#xA;&#xD;&#xA;Søknad om refusjon kan komme samtidig, men ikke alle som søker om dette. Behandler dette for generika, men ikke for originalmedisinen. Årsaken til dette er at generika automatisk får samme refusjonsordning som originalen.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

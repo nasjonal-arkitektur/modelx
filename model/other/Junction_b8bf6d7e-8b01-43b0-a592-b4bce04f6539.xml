@@ -1,0 +1,9 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgrensninger"
+    id="b8bf6d7e-8b01-43b0-a592-b4bce04f6539"
+    type="or">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Junction>

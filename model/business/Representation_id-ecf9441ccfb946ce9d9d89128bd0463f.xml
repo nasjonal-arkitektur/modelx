@@ -1,0 +1,20 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling ved publisering – konsumering (hendelsesbasert)"
+    id="id-ecf9441ccfb946ce9d9d89128bd0463f">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIAMED"
+    id="aee87726-bfa3-471f-807b-1f6aed4afee9"
+    documentation=" EMA's  centrally maintained procedure management tracking database: SIAMED - EMA Product information and tracking system.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

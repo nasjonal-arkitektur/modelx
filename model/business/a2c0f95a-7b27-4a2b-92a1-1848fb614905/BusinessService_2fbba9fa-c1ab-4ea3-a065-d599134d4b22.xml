@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtere meldinger og signaler om bivirkninger"
+    id="2fbba9fa-c1ab-4ea3-a065-d599134d4b22"
+    documentation="Overvåke bivirkninger og andre utilsiktede effekter av legemiddelbruk&#xD;&#xA;Registrering, behandling og videreformidling av innkomne meldinger om bivirkninger som kommer fra pasienter/pårørende, helsepersonell eller EMA.&#xD;&#xA;&#xD;&#xA;En referral henviser til en situasjon hvor det er oppdaget en bivirkning som det ikke er opplyst om i pakningsvedlegget, og som produsenten på oppdatere pakningsvedlegget med.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

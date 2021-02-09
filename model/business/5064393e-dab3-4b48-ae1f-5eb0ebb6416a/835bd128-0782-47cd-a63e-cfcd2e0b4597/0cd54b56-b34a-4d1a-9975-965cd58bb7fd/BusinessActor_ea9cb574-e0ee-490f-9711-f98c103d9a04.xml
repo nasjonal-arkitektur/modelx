@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varsler i FEST (lag)"
+    id="ea9cb574-e0ee-490f-9711-f98c103d9a04"
+    documentation="Utvikling og drift av varsler fra Athene, redaksjonelt ansvar for Legemiddelverkets varsler og arbeidet i varselgruppa (varsel i FEST, EPJ, Felleskatalogen)">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,58 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRAC-Oppdrag - fagområder"
+    id="879ece03-6062-462a-bfe6-b2599c3d4e65">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5634cc40-6879-41aa-8cbb-b4d5d1121024">
+    <bounds
+        x="179"
+        y="156"
+        width="169"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_25c99fa5-7408-4538-9d40-0ad2ca9f811e.xml#25c99fa5-7408-4538-9d40-0ad2ca9f811e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d3eb7a74-20e9-438a-bac4-a907e0aafff0"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="PRAC-oppdrag - fagområder"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="204"
+        width="457"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="71a74c24-d86a-4379-8a55-d0f889ae72bd">
+    <bounds
+        x="12"
+        width="169"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="029e9b3c-a2f7-4a30-bd7e-94aaae1bda82">
+    <bounds
+        x="12"
+        y="42"
+        width="169"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_66d256b6-48fe-4bf9-84a3-74496a54fa41.xml#66d256b6-48fe-4bf9-84a3-74496a54fa41"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenner brev/utsteder tillatelse"
+    id="4f84aebe-f3a9-464d-8ebc-187f7711bc4c">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

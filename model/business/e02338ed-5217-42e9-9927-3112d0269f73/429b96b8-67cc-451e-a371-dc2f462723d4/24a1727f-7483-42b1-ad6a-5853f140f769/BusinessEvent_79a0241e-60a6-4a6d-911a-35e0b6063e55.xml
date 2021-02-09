@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsending av søknad"
+    id="79a0241e-60a6-4a6d-911a-35e0b6063e55"
+    documentation="Søker sender inn søknad til EMA. Søknaden sendes kun inn i engelsk utgave.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

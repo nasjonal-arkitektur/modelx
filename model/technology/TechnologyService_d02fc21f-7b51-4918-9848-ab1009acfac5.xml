@@ -10,7 +10,7 @@
       value="archi:technology-service"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
@@ -32,11 +32,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="d02fc21f-7b51-4918-9848-ab1009acfac5"/>
 </archimate:TechnologyService>

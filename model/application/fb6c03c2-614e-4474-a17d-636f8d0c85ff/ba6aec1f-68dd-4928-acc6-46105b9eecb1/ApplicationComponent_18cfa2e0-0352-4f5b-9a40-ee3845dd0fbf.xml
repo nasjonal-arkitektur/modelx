@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TestaNG"
+    id="18cfa2e0-0352-4f5b-9a40-ee3845dd0fbf"
+    documentation="TestaNG er et internasjonalt nettverk for helsetjenester. &#xD;&#xA;Dette er en av EU-kommisjonens løsninger for å sende data på en sikker måte i EU-nettverket.&#xD;&#xA;SLV bruker den til esigaretter.&#xD;&#xA;&#xD;&#xA;SLV er pålagt å publisere data for fagsiden. Dette er kun tilgjengelig for de som har tilgang via testaNG. Ikke så mange rapporter på E-sigaretter ennå.&#xD;&#xA;&#xD;&#xA;(Trans European Services for Telematics between Administrations)is a communication platform to exchange electronic data between European and Member States administrations in a secure, reliable and efficient way&#xD;&#xA;&#xD;&#xA;Denne løsningen er i praksis en sikker nettverksforbindelse for utveksling av data knyttet til nikotinprodukter. SLV betaler for å opprettholde denne koblingen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

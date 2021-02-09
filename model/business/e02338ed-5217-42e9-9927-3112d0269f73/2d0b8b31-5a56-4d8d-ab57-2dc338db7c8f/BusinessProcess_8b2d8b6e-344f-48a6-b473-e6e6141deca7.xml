@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Importere underlag til Athene"
+    id="8b2d8b6e-344f-48a6-b473-e6e6141deca7"
+    documentation="For å kunne beregne makspris må søknadsskjemaet importeres til Athene. Saksbehandler utfører denne handling ved hjelp av funksjonalitet i Athene. Søknadsskjemaet er et Excel-regneark med underlagsdata for beregningene.&#xD;&#xA;Det kan forekomme at man får en søknad hvor man ikke har noen referansepriser.&#xD;&#xA;Firmaet velger selv en pris og det er stort sett den prisen de får. Da legges dette inn manuelt i Athene. I de senere år har Norge ofte blitt det første landet som har fått en pris (politikk). Dersom man begynner her kan man presse opp prisene.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

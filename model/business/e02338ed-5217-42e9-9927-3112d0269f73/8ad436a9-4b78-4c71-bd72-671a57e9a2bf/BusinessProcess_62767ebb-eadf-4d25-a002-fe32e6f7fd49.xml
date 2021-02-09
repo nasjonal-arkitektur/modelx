@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skaffe dokumentasjon og standarder"
+    id="62767ebb-eadf-4d25-a002-fe32e6f7fd49"
+    documentation="MT-innehaver må skaffe til veie all dokumentasjon om legemiddelet, som underlag til laboratorieanalysen.&#xD;&#xA;Produsenten har en frist på 8 uker til å framskaffe nødvendig dokumentasjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

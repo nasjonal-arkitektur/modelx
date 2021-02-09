@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdering OK"
+    id="84fd4387-8b91-4edb-8e20-ea4119c21e56">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_198cc9a2-8eb1-446d-a709-13ad38c0f6ba.xml#198cc9a2-8eb1-446d-a709-13ad38c0f6ba"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4fd38f07-b18a-46bf-8589-b98994f3f95b.xml#4fd38f07-b18a-46bf-8589-b98994f3f95b"/>
+</archimate:FlowRelationship>

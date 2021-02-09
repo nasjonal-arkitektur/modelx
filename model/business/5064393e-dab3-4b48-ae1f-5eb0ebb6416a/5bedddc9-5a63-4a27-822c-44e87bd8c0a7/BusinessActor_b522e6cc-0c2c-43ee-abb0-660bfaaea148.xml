@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordination Group for Mutual recognition and Decentralised Procedure (CMD)"
+    id="b522e6cc-0c2c-43ee-abb0-660bfaaea148"
+    documentation="CMD (CMDh og CMDv) er et koordineringsorgan knyttet til desentralisert prosedyre (DCP), som har til hensikt å koordinere og sikre at medlemsland kommer til enighet i situasjoner hvor det er uenighet om vurderingen av en MT-søknad.&#xD;&#xA;CMDh håndterer human medisin&#xD;&#xA;CMDv håndterer veterinærmedisin">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

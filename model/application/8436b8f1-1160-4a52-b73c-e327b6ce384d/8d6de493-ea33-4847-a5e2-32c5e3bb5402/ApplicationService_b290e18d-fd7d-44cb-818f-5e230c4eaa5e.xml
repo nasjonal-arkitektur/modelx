@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intranett - Nettverket"
+    id="b290e18d-fd7d-44cb-818f-5e230c4eaa5e"
+    documentation="Nettsider for intern informasjon i Legemiddelverket.&#xD;&#xA;Intranettet er driftet internt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

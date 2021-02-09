@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hente supplerende data på bakgrunn av notifikasjon"
+    id="id-f00712bb250749c6ad5cf991be99dd36">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

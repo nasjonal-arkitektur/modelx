@@ -1,0 +1,8 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedtak"
+    id="6b3f399e-d27d-4f0c-afc2-7c01dfd54465">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationEvent>

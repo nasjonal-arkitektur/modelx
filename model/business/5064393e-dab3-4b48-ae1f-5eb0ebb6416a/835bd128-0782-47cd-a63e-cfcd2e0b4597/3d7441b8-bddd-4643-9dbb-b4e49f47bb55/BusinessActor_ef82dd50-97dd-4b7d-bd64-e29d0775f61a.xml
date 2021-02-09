@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratorieanalyse - planlagte analyser (lag)"
+    id="ef82dd50-97dd-4b7d-bd64-e29d0775f61a"
+    documentation="Analyse av legemidler (kjemiske og biologiske) på årsplan. Oppdrag og analyse i regi av EDQM, OMCL samt Farmakopéarbeid. Ananlyse innbefatter CAP, MRP/DCP, Nasjonale planlagt analyser, PTS, CRS, BSP, SUP, MSS. Sampling og prøveutveksling i EU.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store, uavklarte spørsmål"
+    id="36bcea02-ecc1-4c20-ae27-2174b15e4c3a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4637bc62-0c7c-4d5f-8767-8ab45f376eb9.xml#4637bc62-0c7c-4d5f-8767-8ab45f376eb9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_72638cea-9960-4f76-b16d-504aa80f1fd1.xml#72638cea-9960-4f76-b16d-504aa80f1fd1"/>
+</archimate:FlowRelationship>

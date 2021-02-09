@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsjekk og validering av søknad - MRP as MS (gjenisidg annerkjenelsesprosedyre som berørt land)"
+    id="1359c911-b5ad-4331-b6b8-6310ccb62c06">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

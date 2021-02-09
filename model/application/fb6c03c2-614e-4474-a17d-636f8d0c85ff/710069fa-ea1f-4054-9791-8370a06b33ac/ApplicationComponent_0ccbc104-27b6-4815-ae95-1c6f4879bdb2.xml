@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Samhandling_DB"
+    id="0ccbc104-27b6-4815-ae95-1c6f4879bdb2"
+    documentation="Database i SAM som lagrer data som er nødvendig for automatisering av saksflyt og synkronisering av data fra Athene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

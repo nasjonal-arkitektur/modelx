@@ -1,0 +1,40 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridiske tjenester"
+    id="id-6107c0b36d0547e3864e2ef84970c165"
+    documentation="Alle aktiviteter som har som mål å sikre tilgjengeligheten av effektive juridiske tjenester.&#xD;&#xA;&#xD;&#xA;EUNIS: Legal services">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Juridiske tjenester"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Alle aktiviteter som har som mål å sikre tilgjengeligheten av effektive juridiske tjenester.&#xD;&#xA;&#xD;&#xA;EUNIS: Legal services"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

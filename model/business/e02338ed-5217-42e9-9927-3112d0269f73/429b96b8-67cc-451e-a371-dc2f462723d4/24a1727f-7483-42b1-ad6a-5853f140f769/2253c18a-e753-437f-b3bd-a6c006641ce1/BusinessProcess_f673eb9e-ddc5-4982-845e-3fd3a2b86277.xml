@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette sak lokalt for søknaden"
+    id="f673eb9e-ddc5-4982-845e-3fd3a2b86277"
+    documentation="Det opprettes sak for alle søknader som kommer inn. Legemiddelverkets rolle i saken registreres, slik at behandlingen følges opp i henhold til rolle.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

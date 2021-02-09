@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisere metodevarsel"
+    id="5e6a883f-2a3a-462a-beec-41ee53de22fb"
+    documentation="Skjer på Dag 120 av prosedyren ved ny MT-søknad for nye legemidler&#xA;Skjer på Dag 0 av prosedyren ved ny MT-søknad for nye indikasjoner">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende mistanke om bivirkningsignal"
+    id="0218bc77-86e7-404f-89f8-bc7d60836445"
+    documentation="Signaler om mistanke om bivirkningssignaler kan komme fra ulike kilder, og ligger til grunn for igangsetting av undersøkelser">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

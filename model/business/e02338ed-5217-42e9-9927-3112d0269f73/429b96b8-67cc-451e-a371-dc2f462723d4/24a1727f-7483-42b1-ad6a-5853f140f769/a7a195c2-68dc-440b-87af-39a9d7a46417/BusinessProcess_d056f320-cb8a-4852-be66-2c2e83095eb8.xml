@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hente oppdatert søknad"
+    id="d056f320-cb8a-4852-be66-2c2e83095eb8"
+    documentation="Arkiv / dokumentforvaltning sjekker med jevne mellomrom om det har kommet oppdateringer på søknader. Dersom det har kommet noe, lastes det ned og registreres i saken.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

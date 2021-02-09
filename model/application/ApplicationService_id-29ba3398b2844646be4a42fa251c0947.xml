@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvikle og vedlikeholde API"
+    id="id-29ba3398b2844646be4a42fa251c0947">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

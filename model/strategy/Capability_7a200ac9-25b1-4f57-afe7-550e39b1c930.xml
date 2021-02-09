@@ -1,0 +1,37 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Garantere versjon, kilde og integritet for utvekslede data"
+    id="7a200ac9-25b1-4f57-afe7-550e39b1c930"
+    documentation="Garanti for versjon, kilde og integritet">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Garantere versjon, kilde og integritet for utvekslede data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Garanti for versjon, kilde og integritet"/>
+  <properties
+      key="difi:description_en"
+      value="Legal admissibility of electronic documents to ensure their authenticity and integrity"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

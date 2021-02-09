@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bekymringsmelding"
+    id="aa6dd9d6-071a-4a16-adca-3e6b9737696f"
+    documentation="Bekymringsmeldinger kan kommer fra ulike typer kilder&#xD;&#xA;&#x9;• Brev&#xD;&#xA;&#x9;• Epost&#xD;&#xA;&#x9;• Rykter osv.&#xD;&#xA;Et vanlig scenario er en pasient henvender seg til legen sin som videreformidler til fylkeslegen, som i sin tur rapporterer til legemiddelverket.&#xD;&#xA;Det er primært ønske om skriftlig innrapportering. Det kan også forekomme telefonhenvendelser dersom det er viktig, men ber om skriftlig dokumentasjon. &#xD;&#xA;I tilfeller med interne varslere f.eks. apotekansatte som ikke ønsker å stå fram, forespørres de om de er villige til å stå fram. Man finner uansett måter å gå fram slik at man kan foreta tilsyn.&#xD;&#xA;Det følges årlig opp 30-50 bekymringsmeldinger - oftest apotek, kan være grossist.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

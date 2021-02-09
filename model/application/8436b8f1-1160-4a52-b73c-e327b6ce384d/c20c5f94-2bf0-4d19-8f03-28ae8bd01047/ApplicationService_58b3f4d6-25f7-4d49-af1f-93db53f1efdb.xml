@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PSUR - Brukergrensesnitt"
+    id="58b3f4d6-25f7-4d49-af1f-93db53f1efdb">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

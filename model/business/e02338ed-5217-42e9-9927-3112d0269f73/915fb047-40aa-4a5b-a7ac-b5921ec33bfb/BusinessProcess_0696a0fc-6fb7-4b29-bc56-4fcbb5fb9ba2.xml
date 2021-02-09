@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og registrere søknad"
+    id="0696a0fc-6fb7-4b29-bc56-4fcbb5fb9ba2"
+    documentation="Arkiv mottar søknaden og legger dette inn i 360 og melder videre til klinisk utprøving ved hjelp av en postkassefunksjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farmakologi (lag)"
+    id="8f466350-5ded-4444-a457-79ed9cabb3ec"
+    documentation="oversikt over og best mulig utnytte tilgjengelig intern kompetanse innen PK.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

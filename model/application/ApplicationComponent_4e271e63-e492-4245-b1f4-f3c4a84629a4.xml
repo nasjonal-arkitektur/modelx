@@ -1,0 +1,37 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles Datakatalog"
+    id="4e271e63-e492-4245-b1f4-f3c4a84629a4"
+    documentation="[Torget]&#xD;&#xA;Felles Datakatalog er en oversikt over hvilke data de ulike offentlige virksomhetene har, hvordan de henger sammen og hva de betyr. Datakatalogen gjør det mulig for deg å søke i opplysningene hos offentlige virksomheter og bruke de til for eksempel analyseformål.&#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;Felles Datakatalog gir en oversikt over hvilke data de ulike offentlige virksomhetene har, hvordan de henger sammen og hva de betyr. Videre tilbyr den en registeringsløsning for datasett, begreper og API.&#xD;&#xA;&#xD;&#xA;Oversikt over datasett øker organisatorisk og juridisk samhandlingsevne ved at datasett som finnes tilgjengeliggjøres og juridiske aspekter ved datasettene beskrives.&#xD;&#xA;&#xD;&#xA;Oversikt over informasjonsmodeller øker organisatorisk og semantisk samhandlingsevne ved at&#xD;&#xA;informasjonsmodeller tilgjengeliggjøres og at data som utveksles beskrives med informasjonsmodeller.&#xD;&#xA;&#xD;&#xA;Oversikt over begreper øker semantisk samhandlingsevne ved at felles begrepsbruk og&#xD;&#xA;definisjoner er lett tilgjengelige.&#xD;&#xA;&#xD;&#xA;Oversikt over APIer øker teknisk samhandlingsevne og muliggjør maskinell utveksling av data.&#xD;&#xA;&#xD;&#xA;Mer om Felles datakatalog:&#xD;&#xA;https://data.norge.no/">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Felles datakatalog"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;«Er det sikkert?» - E-læringskurs om informasjonssikkerhet for ledere for å få økt forståelse for leders ansvar for informasjonssikkerhet og hvorfor det lønner seg å ta informasjonssikkerhet på alvor.&#xD;&#xA;Vi ønsker å bruke den og oppdatere den. Den står her med forbehold om økonomiske og ressursmessige prioriteringer som ikke er helt avklart pr nå mtp tildelingsbrev (6.12.19).&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="Analyse data"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

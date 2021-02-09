@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manglende sikkerhet for sensitiv informasjon"
+    id="aac2392f-bc04-4671-873b-4513f6281fa9"
+    documentation="Mna har ikke noen sikker kanal å formidle sensitive opplysninger i. Alt sendes på epost.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

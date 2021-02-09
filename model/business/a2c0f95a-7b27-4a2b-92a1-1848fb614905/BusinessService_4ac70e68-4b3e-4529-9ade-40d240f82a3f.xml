@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privatimport"
+    id="4ac70e68-4b3e-4529-9ade-40d240f82a3f"
+    documentation="​Ved reiser innenfor EØS-området kan privatpersoner ta med en mengde legemidler til personlig medisinsk bruk som tilsvarer maksimalt ett års forbruk. Ved reiser fra land utenfor EØS-området kan du ta med en mengde legemidler til personlig bruk som tilsvarer maksimalt tre måneders forbruk. Man må alltid kunne dokumentere at du eier reseptpliktige medisiner som du har med til eget bruk. Hvor mye du har lov til å ta med varierer med type legemiddel, hvor du skal reise og hvor lenge.&#xA;&#xA;Postforsendelser med legemidler fra utlandet er ikke tillatt og kan bli stoppet i tollkontroll. Hensikten med et strengt regelverk er å hindre feil bruk og beskytte forbrukere mot falske og ulovlige legemidler.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

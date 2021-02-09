@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="På positivlisten / notifiseringsordningen"
+    id="9c6ca69b-e575-45f4-836d-862b9b05c567">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_03c0f782-7fe7-44b9-a55f-db7db1ba6051.xml#03c0f782-7fe7-44b9-a55f-db7db1ba6051"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b993e693-e52d-4cbc-9e6f-287f6b659fda.xml#b993e693-e52d-4cbc-9e6f-287f6b659fda"/>
+</archimate:FlowRelationship>

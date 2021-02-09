@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samarbeidsportalens registereringstjeneste"
+    id="2c98b77d-3a5e-46ec-837f-220d29698d9a">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationService>

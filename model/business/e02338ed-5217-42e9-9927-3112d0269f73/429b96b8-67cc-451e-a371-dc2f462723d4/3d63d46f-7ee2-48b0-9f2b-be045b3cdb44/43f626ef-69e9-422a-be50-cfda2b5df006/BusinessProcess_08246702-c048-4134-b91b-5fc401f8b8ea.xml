@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette MT-nummer"
+    id="08246702-c048-4134-b91b-5fc401f8b8ea"
+    documentation="Som siste del av innsjekk av søknaden opprettes det MT-nummer i Athene. Status på MT-nummeret settes til &quot;Søkt om MT&quot;. på denne måten er det tilgjengelig informasjon om at medikatmentet er under behandling for MT-tillatelse.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

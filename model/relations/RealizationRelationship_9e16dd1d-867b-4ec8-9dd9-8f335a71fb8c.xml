@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="støtter"
+    id="9e16dd1d-867b-4ec8-9dd9-8f335a71fb8c">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_498807eb-78ef-450b-9398-7630f30f221e.xml#498807eb-78ef-450b-9398-7630f30f221e"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_2c1f8f14-0096-49d1-8e0c-54458803b147.xml#2c1f8f14-0096-49d1-8e0c-54458803b147"/>
+</archimate:RealizationRelationship>

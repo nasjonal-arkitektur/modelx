@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta Assessment Rapporter"
+    id="1614c527-5580-4b26-b8c7-ab5419a2daf5"
+    documentation="Peer revirewer mottar assessmentrapporter fra Rapportør og Ko-Rapportør">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

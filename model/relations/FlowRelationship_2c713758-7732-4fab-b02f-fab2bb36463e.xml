@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommentarer til rapport"
+    id="2c713758-7732-4fab-b02f-fab2bb36463e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_3c23e926-5746-49dd-a389-c57467f90364.xml#3c23e926-5746-49dd-a389-c57467f90364"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8f893880-a954-4d86-85cd-e744b952a412.xml#8f893880-a954-4d86-85cd-e744b952a412"/>
+</archimate:FlowRelationship>

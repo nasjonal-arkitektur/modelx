@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ekstrahjelp"
+    id="ff3bfc80-b752-4592-97f3-2a115d34f0a6"
+    documentation="Ekstrahjelp som leies inn i forbindelse med ATC-koding av bivirkningsmeldinger - f.eks. medisinstudenter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

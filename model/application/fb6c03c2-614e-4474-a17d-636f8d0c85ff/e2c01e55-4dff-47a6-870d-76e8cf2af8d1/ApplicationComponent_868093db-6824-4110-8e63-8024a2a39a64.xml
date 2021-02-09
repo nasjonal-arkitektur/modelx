@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingshenter"
+    id="868093db-6824-4110-8e63-8024a2a39a64"
+    documentation="Egen komponent / program laget av SopraSteria, som henter filer fra mappene hvor EnVeiInn og Altinn leverer meldinger / filer.&#xD;&#xA;Løsningen henter meldingene og laster dem opp i VigiNor.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

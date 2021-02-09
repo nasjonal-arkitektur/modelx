@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRAC-oppdrag (lag)"
+    id="051f6937-4c91-4093-8aed-a80cf73a73de"
+    documentation="MT-søknader, fornyelser, RMP-endringssøknader, PASS, PSUR, referrals 107, 20, 31, håndtere Pharmacovigilance-postkassen.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

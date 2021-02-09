@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Årsrapport 2017 - midlertidig lag (lag)"
+    id="832d2cba-c6ef-4df0-be81-1a87906b4309"
+    documentation="Levere årsrapport til HOD innen 1. mars">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

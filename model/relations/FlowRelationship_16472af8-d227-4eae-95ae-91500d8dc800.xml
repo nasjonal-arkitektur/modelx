@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pakningavedlegg"
+    id="16472af8-d227-4eae-95ae-91500d8dc800">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2a3e41d9-3a07-4bfb-86e5-22c299107d2d.xml#2a3e41d9-3a07-4bfb-86e5-22c299107d2d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2198f41d-9980-4b99-9039-d613f5679e8a.xml#2198f41d-9980-4b99-9039-d613f5679e8a"/>
+</archimate:FlowRelationship>

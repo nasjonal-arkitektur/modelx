@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataforvaltning"
+    id="b85c9319-fad4-40e8-b3a3-440995f1386b">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Dataforvaltning"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="drill down"
+      value="6ba2856a-47dd-4972-998f-b2feec678139"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+</archimate:Capability>

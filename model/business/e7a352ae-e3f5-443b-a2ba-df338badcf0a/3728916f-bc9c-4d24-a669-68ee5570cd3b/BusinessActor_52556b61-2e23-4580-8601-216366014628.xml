@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barn"
+    id="52556b61-2e23-4580-8601-216366014628">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

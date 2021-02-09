@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF definer rettighetter knyttet til APIer"
+    id="id-a5857bbbb6e948fea43c09eb04869c0c"
+    documentation="UHF sentralisert selvbetjeningstjeneste for administrasjon av integrasjoner og APIer.&#xD;&#xA;Tjeneste &quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen&#xD;&#xA;Definere hvilke scopes finnes koblet til et API">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

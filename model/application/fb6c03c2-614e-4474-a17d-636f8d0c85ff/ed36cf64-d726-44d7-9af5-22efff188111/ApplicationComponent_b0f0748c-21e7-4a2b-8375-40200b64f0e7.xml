@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stata"
+    id="b0f0748c-21e7-4a2b-8375-40200b64f0e7"
+    documentation="Stata er en komplett og kraftig statistikkpakke som er lagd for forskere fra alle disipliner. Det er en samlet pakke, uten årlige lisenskostnader. Med et enkelt pek-og-klikk brukermiljø, intuitivt kommandospråk og online hjelp, er du raskt i gang med å utnytte dette avanserte verktøyet. Alle statistiske metoder, analyser og resultater kan reproduseres og dokumenteres for dine publikasjoner.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

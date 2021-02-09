@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fylkeslege"
+    id="07184270-df96-485a-895f-6a88b1933597"
+    documentation="Fylkeslegen er leder for Fylkesmannens virksomhet overfor helse- og omsorgstjenestene, noe som blant annet medfører ledelse av Fylkesmannens tilsyn med alt helsevesen og alt helsepersonell i fylket. Lov om statlig tilsyn med helse- og omsorgstjenesten fastsetter at det i hvert fylke skal være en fylkeslege. &#xA;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

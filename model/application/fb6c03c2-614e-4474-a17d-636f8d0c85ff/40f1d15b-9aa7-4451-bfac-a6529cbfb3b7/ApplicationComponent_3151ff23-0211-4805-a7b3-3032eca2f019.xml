@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samhandlingsrom"
+    id="3151ff23-0211-4805-a7b3-3032eca2f019"
+    documentation="Samhandlingsløsning fra Helsedirektoratet. Rapporter i forbindelse med metodevurdering legges inn her av Legemiddelverket">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

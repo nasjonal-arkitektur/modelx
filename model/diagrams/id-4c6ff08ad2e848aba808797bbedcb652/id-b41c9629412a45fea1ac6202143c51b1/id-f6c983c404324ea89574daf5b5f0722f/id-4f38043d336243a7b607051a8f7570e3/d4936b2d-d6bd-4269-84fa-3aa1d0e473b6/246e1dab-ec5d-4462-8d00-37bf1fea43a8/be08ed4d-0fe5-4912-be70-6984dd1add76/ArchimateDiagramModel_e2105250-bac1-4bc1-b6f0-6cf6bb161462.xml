@@ -1,0 +1,68 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refusjon - fagområder"
+    id="e2105250-bac1-4bc1-b6f0-6cf6bb161462"
+    viewpoint="business_process_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b2371939-8458-4fcb-a500-ce20b12a00d4">
+    <bounds
+        x="108"
+        y="189"
+        width="169"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_eac109e2-34ff-4c3a-b224-27fdd3d48fb2.xml#eac109e2-34ff-4c3a-b224-27fdd3d48fb2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="dd119fbc-d82c-46b9-972d-f502301643b3"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Refusjon - fagområder"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="204"
+        width="469"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="5d35db30-94c5-4581-aeaa-1149f949169d">
+    <bounds
+        width="169"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="09258b8b-a94f-43e9-a17c-82ab6120fc60"
+      textAlignment="1"
+      content="Er det riktig at det skal stå søknad her?&#xA;Et legemiddelfirma vil ikke søke om refusjon. Metodevurdering er noe som skjer med alle nye metoder ved søknad om ny MT for et legemiddel.&#xA;&#xA;Man kan søke om refusjon for enkeltpasienter dersom medisinen ikke er dekket av blåreseptordningen. Men dette er i så fall en søknad som behandles av Helfo.">
+    <bounds
+        x="552"
+        y="180"
+        width="264"
+        height="175"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="99f9f7dc-bc4f-47e8-a671-8f6532e321ff">
+    <bounds
+        y="42"
+        width="169"
+        height="43"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_66d256b6-48fe-4bf9-84a3-74496a54fa41.xml#66d256b6-48fe-4bf9-84a3-74496a54fa41"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

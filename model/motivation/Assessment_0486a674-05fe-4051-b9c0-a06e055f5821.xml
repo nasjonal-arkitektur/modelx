@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Problemer med å overholde frister"
+    id="0486a674-05fe-4051-b9c0-a06e055f5821"
+    documentation="Det er vanskelig å overholde frister - det er store dokumentmengder som skal vurderes, og man har ingen påvirkning på hva som kommer (må bare ta det som kommer).&#xD;&#xA;Et kapasitetsproblem. En saksbehandler som har hovedansvaret for sin sak.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

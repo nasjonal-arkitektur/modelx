@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ko-rapportør (CoR)"
+    id="d979cde4-e077-4a20-b51f-b89d0da8368b"
+    documentation="I Sentral Prosedyre (CP) er ko-rapportør(CoR) medansvarlig for utredning av søknaden av markedsføringstillatelse sammen med rapportør(R).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

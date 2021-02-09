@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forankring"
+    id="id-239051e6402244fcaafee61373157e5a"
+    documentation="Referansearkitekturen er utarbeidet i et samarbeidsprosjekt Datadeling&#xD;&#xA;med prosjektdeltagelse fra Unit, NTNU, UiO og Uninett. Styringsgruppen&#xD;&#xA;består av medlemmer fra Unit, UiB, OsloMet, USIT, NMBU og Uninett.&#xD;&#xA;&#xD;&#xA;Noe om forankring av referansearkitekturen">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-bakgrunn"/>
+  <properties
+      key="modelx:antora_master"
+      value="view"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalledelse"
+    id="52501522-9639-49bd-83ce-ec84d5edc97c"
+    documentation="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Personalledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Human Resource Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to assess, mentor, compensate, terminate, and otherwise coordinate individuals who are or have been incorporated under a legal agreement that includes compensation and other benefits, on a temporary or permanent basis."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

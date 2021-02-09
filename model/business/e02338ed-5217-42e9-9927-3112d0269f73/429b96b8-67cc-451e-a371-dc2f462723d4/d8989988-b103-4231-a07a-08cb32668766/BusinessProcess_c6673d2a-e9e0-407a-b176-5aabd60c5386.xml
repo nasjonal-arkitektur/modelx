@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere MT-søkers respons"
+    id="c6673d2a-e9e0-407a-b176-5aabd60c5386"
+    documentation="MT-søker respons gjennomgås mht om alle spørsmål og kommentarer man har stilt / kommet med, er besvart.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksdokumenter"
+    id="b3e44ef6-b56a-4f8d-aaf5-f1f440e649c4"
+    documentation="SAM-T laster opp og oppdaterer saksdokumenter knyttet til en sak, til l360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_98b26528-1a59-4209-b864-be37fa3ab41e.xml#98b26528-1a59-4209-b864-be37fa3ab41e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eca9ad78-84a7-4212-8396-876bcb6a0cd5.xml#eca9ad78-84a7-4212-8396-876bcb6a0cd5"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avtale tilsyn med tilsynsobjekt"
+    id="b248791c-8a69-4fd4-abba-eb88484d1ebb"
+    documentation="Dersom det ikke skal gjennomføres et uanmeldt tilsyn, gjør man avtale om tilsyn med tilsynsobjektet. Det er ikke mulig å motsette seg tilsyn.&#xA;Tilsyn varsles normalt 2-4 uker i forveien.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

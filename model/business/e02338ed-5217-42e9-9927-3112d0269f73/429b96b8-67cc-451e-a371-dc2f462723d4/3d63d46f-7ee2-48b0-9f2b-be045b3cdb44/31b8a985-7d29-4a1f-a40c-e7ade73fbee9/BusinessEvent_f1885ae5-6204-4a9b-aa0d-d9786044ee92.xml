@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svar på kommentarer og spørsmål mottatt fra MT-søker"
+    id="f1885ae5-6204-4a9b-aa0d-d9786044ee92"
+    documentation="MT-søker har &quot;ubegrenset&quot; tid på seg til å svare på kommentarer og spørsmål fra RMS/CMS. Når tilsvaret mottas starter saksbehandlingsklokken igjen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

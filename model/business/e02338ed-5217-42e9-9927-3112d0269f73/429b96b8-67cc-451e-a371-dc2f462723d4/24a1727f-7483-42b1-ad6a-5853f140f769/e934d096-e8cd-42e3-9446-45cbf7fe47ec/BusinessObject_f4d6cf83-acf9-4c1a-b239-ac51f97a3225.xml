@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Positiv opinion"
+    id="f4d6cf83-acf9-4c1a-b239-ac51f97a3225"
+    documentation="Positiv opinion innebærer at man har en søknad og tilhørende avklaringer som samlet vurderes til å være tilstrekkelig for å tillate markedsføring av medikamentet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

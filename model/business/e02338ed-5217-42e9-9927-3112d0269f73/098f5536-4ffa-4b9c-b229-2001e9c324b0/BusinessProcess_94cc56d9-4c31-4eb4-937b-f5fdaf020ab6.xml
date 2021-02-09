@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forhåndsvarsle firma om tilsynsrapport"
+    id="94cc56d9-4c31-4eb4-937b-f5fdaf020ab6"
+    documentation="Tilsynsrapporten vil offentliggjøres, og legemiddelfirma vil derfor varsles om regelbrudd som er oppdaget før tilsynsrapporten publiseres.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

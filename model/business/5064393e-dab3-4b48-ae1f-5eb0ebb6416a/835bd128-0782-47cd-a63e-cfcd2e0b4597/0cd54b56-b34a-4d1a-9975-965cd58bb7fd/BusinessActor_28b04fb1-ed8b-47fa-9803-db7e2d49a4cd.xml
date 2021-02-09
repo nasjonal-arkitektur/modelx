@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk endringer og fornyelser (MRP/nasjonale) (lag)"
+    id="28b04fb1-ed8b-47fa-9803-db7e2d49a4cd"
+    documentation="Regulatoriske oppgaver fra journalført søknad til prosedyreslutt, RMS og CMS, Type Ia/ Ia(in) som RMS, Ib, II, OTC, indikasjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

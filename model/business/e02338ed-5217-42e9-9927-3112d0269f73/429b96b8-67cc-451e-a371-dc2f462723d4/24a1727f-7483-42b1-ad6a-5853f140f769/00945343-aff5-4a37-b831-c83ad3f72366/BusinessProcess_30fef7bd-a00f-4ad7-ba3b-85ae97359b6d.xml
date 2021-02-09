@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette MT med status &quot;Har ikke MT&quot;"
+    id="30fef7bd-a00f-4ad7-ba3b-85ae97359b6d"
+    documentation="legemiddelet det søkes om markedsføringstillatelse (MT) for skal være registrert i Athene, med status som forteller at legemiddelet ikke har MT.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omdømmeforvaltning"
+    id="9bf217ba-756f-4512-836e-95937b806a73"
+    documentation="Ability to establish, organize, analyze, administer, and report on all aspects of a product or offering, a category of products or offerings, or an organizational identity, representing it by a unique name, symbol, mark or logo, and value proposition, and cultural identity that distinguishes it from other products, offerings, or organizational identities in the market.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Omdømmeforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Brand Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to establish, organize, analyze, administer, and report on all aspects of a product or offering, a category of products or offerings, or an organizational identity, representing it by a unique name, symbol, mark or logo, and value proposition, and cultural identity that distinguishes it from other products, offerings, or organizational identities in the market."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, organize, analyze, administer, and report on all aspects of a product or offering, a category of products or offerings, or an organizational identity, representing it by a unique name, symbol, mark or logo, and value proposition, and cultural identity that distinguishes it from other products, offerings, or organizational identities in the market."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

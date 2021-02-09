@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skype for Business"
+    id="6142be30-73bd-41f3-9d8a-bd272174bdb9"
+    documentation="Skype for Business het tidligere Lync og ble innført i forbindelse med Eyra prosjektet som hadde planlagt å integrere Lync som en tjeneste i SAM med Lync-status for saksbehandlerne. &#xD;&#xA;&#xD;&#xA;Dagens løsning heter Skype for Business og kjører både lokalt og på Citrix SLV-Desktop. Et meget viktig prinsipp er at eksterne kommunikasjonspartnere må være godkjent for at tekst, lyd, video og filer skal kunne utveksles mellom organisasjonene. &#xD;&#xA;&#xD;&#xA;Federering er forutsetningen for at ansatte i to forskjellige organisasjoner skal kommunisere på Skype for Business. Installasjon hos 99X er konfigurert med åpen federering - men det forutsetter at andre organisasjoner har godkjent 99X som SIP provider. Det var ikke tilfelle for SopraSteria og ARISg som begge måtte åpne opp for toveis kommunikasjon mot Legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

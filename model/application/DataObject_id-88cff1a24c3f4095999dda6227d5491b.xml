@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strøm"
+    id="id-88cff1a24c3f4095999dda6227d5491b"
+    documentation="Mengde notifikasjoner som publiseres i strømmen, og hentes ut. Publiserte notifikasjoner kan være &quot;tykke&quot; eller &quot;tynne&quot; med hensyn på hvor mye informasjon om en hendelse de inneholder.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

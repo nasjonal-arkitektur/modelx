@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finansiering"
+    id="b8eb7397-9ff1-4643-9784-48acbb77272c"
+    documentation="Finansiering kan komme fra ulike kilder:&#xD;&#xA;* Private investorer&#xD;&#xA;* Egenkapital&#xD;&#xA;* Offentlig støtte (f.eks. gjennom Forskningsrådet)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

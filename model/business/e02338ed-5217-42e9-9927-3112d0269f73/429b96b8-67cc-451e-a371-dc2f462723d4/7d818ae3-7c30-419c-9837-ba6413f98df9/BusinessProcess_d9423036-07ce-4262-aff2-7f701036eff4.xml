@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommentarer til Assessment Report"
+    id="d9423036-07ce-4262-aff2-7f701036eff4"
+    documentation="CP Human: Dag90-Kommentarer - dag 81- 100&#xD;&#xA;&#xD;&#xA;Medlemslandene gjennomgår utredningsrapportene til både rapportør og korapportør, og kommer med sine kommentarer og spørsmål. Dette skal rapporteres inn før dag 90 i søknadsprosessen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapportere til tilsyn"
+    id="03023689-c75f-4e3d-9921-dea7676d35d7"
+    documentation="Dersom man finner høy frekvens av feilekspederinger, rapporteres dette til Tilsyn, som følger opp med kontroll.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,50 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataobjekt"
+    id="61f29d88-8878-4674-aeec-d8062bd684c4"
+    documentation="DESCRIPTION:&#xD;&#xA;Data is a reinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing &#xD;&#xA;This ABB is a key interoperability enabler (*) enabling for sharing/PROVISIONING and reusing/CONSUMING Data.&#xD;&#xA;&#xD;&#xA;Source: ISO-IEC-2382-1 * 1993 * &#xD;&#xA;https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015  establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;Syn. Information&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data ABB is salient for semantic interoperability because it represents the most important mean of interaction between ICT systems of organisations in order to ensure interoperability as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;ETS - Aggregated data&#xD;&#xA;The EU ETS data viewer provides an easy access to emission trading data contained in the European Union Transaction Log (EUTL). The EUTL is a central transaction log, run by the European Commission, which checks and records all transactions taking place within the trading system. The EU ETS data viewer provides aggregated data by country, by main activity type and by year on the verified emissions, allowances and surrendered units of the more than 12 000 stationary installations reporting under the EU emission trading system, as well as 1400 aircraft operators.&#xD;&#xA;https://www.eea.europa.eu/data-and-maps/dashboards/emissions-trading-viewer-1 &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB22"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dataobjekt"/>
+  <properties
+      key="difi:name_en"
+      value="Data"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Data is a reinterpretable representation of information in a formalized manner suitable for communication, interpretation, or processing &#xD;&#xA;This ABB is a key interoperability enabler (*) enabling for sharing/PROVISIONING and reusing/CONSUMING Data.&#xD;&#xA;&#xD;&#xA;Source: ISO-IEC-2382-1 * 1993 * &#xD;&#xA;https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015  establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector&#xD;&#xA;&#xD;&#xA;Syn. Information&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data ABB is salient for semantic interoperability because it represents the most important mean of interaction between ICT systems of organisations in order to ensure interoperability as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;ETS - Aggregated data&#xD;&#xA;The EU ETS data viewer provides an easy access to emission trading data contained in the European Union Transaction Log (EUTL). The EUTL is a central transaction log, run by the European Commission, which checks and records all transactions taking place within the trading system. The EU ETS data viewer provides aggregated data by country, by main activity type and by year on the verified emissions, allowances and surrendered units of the more than 12 000 stationary installations reporting under the EU emission trading system, as well as 1400 aircraft operators.&#xD;&#xA;https://www.eea.europa.eu/data-and-maps/dashboards/emissions-trading-viewer-1 &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

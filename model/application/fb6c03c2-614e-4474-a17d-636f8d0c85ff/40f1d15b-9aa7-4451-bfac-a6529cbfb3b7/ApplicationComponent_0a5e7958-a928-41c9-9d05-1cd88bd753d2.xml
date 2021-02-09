@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filshare - X:"
+    id="0a5e7958-a928-41c9-9d05-1cd88bd753d2"
+    documentation="Felles filområde for legemiddelverkets ansatte.&#xD;&#xA;Tilganger gis på mappenivå.&#xD;&#xA;x: brukes mye til samskriving og arbeid underveis i utredningsarbeid i mangelen av bedre alternativ.&#xD;&#xA;&#xD;&#xA;NB! FEST-fila (XML) legges i egen mappe på X: ved publisering. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

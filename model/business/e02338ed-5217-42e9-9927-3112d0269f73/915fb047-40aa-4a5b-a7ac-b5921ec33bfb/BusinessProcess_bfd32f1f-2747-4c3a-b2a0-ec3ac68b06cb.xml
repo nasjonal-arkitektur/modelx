@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fordele oppgaver"
+    id="bfd32f1f-2747-4c3a-b2a0-ec3ac68b06cb"
+    documentation="Nye søknader til behandling registreres i et eget regneark, som brukes som underlag for fordeling av oppgaver. Regnearket oppdateres fortløpende ettersom det kommer inn nye søknader til behandling.&#xD;&#xA;I regnearket ligger det detaljinformasjon om søknaden, slik som frister og hvem som har fått saken tildelt.&#xD;&#xA;Det opprettes nytt regneark hvert år.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F5- Brukergrensesnitt"
+    id="63d8d929-575d-4bc1-af09-39e5dee8b915"
+    documentation="Brukergrensesnitt for visning av varsler">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

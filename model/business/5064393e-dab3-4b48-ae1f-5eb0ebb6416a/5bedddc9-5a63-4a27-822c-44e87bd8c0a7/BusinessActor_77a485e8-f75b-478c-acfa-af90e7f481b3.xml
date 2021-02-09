@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representanter for EU-Kommisjonen"
+    id="77a485e8-f75b-478c-acfa-af90e7f481b3"
+    documentation="Representanter for EU-kommisjonen deltar i tilsyn med Teknisk Kontrollorgan">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

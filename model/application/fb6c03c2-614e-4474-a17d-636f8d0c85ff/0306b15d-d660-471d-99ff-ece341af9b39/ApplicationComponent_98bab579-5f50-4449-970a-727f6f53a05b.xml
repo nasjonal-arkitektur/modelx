@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CESSP (er under utvikling)"
+    id="98bab579-5f50-4449-970a-727f6f53a05b"
+    documentation="CESSP er den nye felles innsendingsløsningen, som også skal dekke CP.&#xD;&#xA;Løsningen skal erstatte CESP og eSubmission. Den skal også erstatte eAf og &quot;Cover Letter&quot;.&#xD;&#xA;På sikt er det også tenkt at produktinformasjonen skal inn i løsningen. Den skal med andre ord inneholde all sentral informasjon nødvendig for å validere og behandle en søknad.&#xD;&#xA;&#xD;&#xA;CESSP for MT-søknad H+V skal være klar Q4-2019&#xD;&#xA;&#xD;&#xA;http://esubmission.ema.europa.eu/cessp/cessp.htm">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

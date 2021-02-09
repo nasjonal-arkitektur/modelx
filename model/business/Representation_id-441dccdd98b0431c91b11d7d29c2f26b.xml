@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felleskomponenter"
+    id="id-441dccdd98b0431c91b11d7d29c2f26b"
+    documentation="#(i sektoren hittil har «felles» betyd både at alle bruker samme instans,&#xD;&#xA;eller at alle har identiske instanser – vi må presisere hva som er&#xD;&#xA;hva etter hvert)#&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;Innledende tekst om hva slags funksjonalitet vi trenger i&#xD;&#xA;felleskomponenter og hvorfor, motivert fra kapabilitetene over.&#xD;&#xA;&#xD;&#xA;//Erik&#xD;&#xA;#Jeg har laget et Archimate view som heter «Felleskomponenter»,&#xD;&#xA;men jeg vil ikke ha bildet, bare teksten som står i beskrivelse av&#xD;&#xA;kompontenene#&#xD;&#xA;&#xD;&#xA;* Autentiseringstjeneste​&#xD;&#xA;* API manager​&#xD;&#xA;* API katalog / datakatalog ​&#xD;&#xA;* API gateway​&#xD;&#xA;* Autorisasjonstjeneste / Nøkkelutsteder ​&#xD;&#xA;* Klient register​&#xD;&#xA;* Identity Governance Administration (IGA)​&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;#Heidi NB: mangler komponenter for hendelsesstrømming/-publisering#">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

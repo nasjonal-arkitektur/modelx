@@ -1,0 +1,46 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadatahåndtering"
+    id="cd890a14-efc9-461d-9c92-5f8737320cbd"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Metadata management Service ABB  is salient for interoperability  because it provides and shares the functionalities to manage metadata. EIF recommends to prioritise it: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Eurostat SDMX repository&#xD;&#xA;The Euro SDMX Registry is Eurostat’s implementation of an SDMX registry to facilitate the exchange of statistical data and metadata by serving as a metadata repository. It stores the SDMX artefacts needed for the parties to access and interpret the content of the exchanged statistical data and metadata sets.&#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-registry &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB52"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Metadatahåndtering"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionalities for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Metadata management Service ABB  is salient for interoperability  because it provides and shares the functionalities to manage metadata. EIF recommends to prioritise it: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Eurostat SDMX repository&#xD;&#xA;The Euro SDMX Registry is Eurostat’s implementation of an SDMX registry to facilitate the exchange of statistical data and metadata by serving as a metadata repository. It stores the SDMX artefacts needed for the parties to access and interpret the content of the exchanged statistical data and metadata sets.&#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-registry &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"
+      value="Metadata Management Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionalities for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata.&#xD;&#xA;&#xD;&#xA;Based on DAMA&#xD;&#xA;http://www.dama.org/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Metadata management Service ABB  is salient for interoperability  because it provides and shares the functionalities to manage metadata. EIF recommends to prioritise it: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised&quot;.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;Eurostat SDMX repository&#xD;&#xA;The Euro SDMX Registry is Eurostat’s implementation of an SDMX registry to facilitate the exchange of statistical data and metadata by serving as a metadata repository. It stores the SDMX artefacts needed for the parties to access and interpret the content of the exchanged statistical data and metadata sets.&#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-registry &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

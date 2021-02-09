@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidler"
+    id="6605a343-1696-4331-8360-a68de3405499">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

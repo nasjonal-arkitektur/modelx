@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentral Prosedyre (CP)"
+    id="6bb5c1e9-6cf7-4789-8d7a-bb3851a2d8a0"
+    documentation="Sentral prosedyre styres fra EMA.&#xD;&#xA;Prosedyren varer i 277 dager - 210 dager preopinion og 66 dager postopinion.&#xD;&#xA;&#xD;&#xA;Preopinion er delt opp i først 120 dager, så &quot;clockstop&quot; så lenge søker trenger for å oppdatere søknad. Deretter 90 Dager.&#xD;&#xA;&#xD;&#xA;Dagene regnes som antall virkedager">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

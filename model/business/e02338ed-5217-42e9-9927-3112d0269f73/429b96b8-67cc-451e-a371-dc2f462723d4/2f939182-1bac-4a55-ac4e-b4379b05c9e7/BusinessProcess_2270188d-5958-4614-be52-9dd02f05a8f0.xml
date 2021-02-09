@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRP - som Reference Member State (RMS)"
+    id="2270188d-5958-4614-be52-9dd02f05a8f0"
+    documentation="Alle land som berøreres av MT-søknaden vil være medlemsland. Et land tar på seg rollen som referanseland (RMS), og er ansvarlig for utredningen av søknaden.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

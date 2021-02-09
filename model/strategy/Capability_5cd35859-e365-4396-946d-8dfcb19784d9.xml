@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etablere løsninger for innhenting og mottak av data"
+    id="5cd35859-e365-4396-946d-8dfcb19784d9"
+    documentation="Etablere egne løsninger for å forespørre, abonnere  og motta data">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Etablere egne løsninger for innhenting og mottak av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Etablere egne løsninger for å forespørre, abonnere  og motta data"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

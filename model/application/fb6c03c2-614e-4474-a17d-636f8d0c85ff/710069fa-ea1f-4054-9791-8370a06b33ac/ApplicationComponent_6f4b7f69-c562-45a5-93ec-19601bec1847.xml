@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apollon - Database"
+    id="6f4b7f69-c562-45a5-93ec-19601bec1847"
+    documentation="Apollon-databasen inneholder:&#xD;&#xA;- Logginformasjon for aksess til FEST-tjenesten&#xD;&#xA;- Tidsstyringsinformsjon for&#xD;&#xA;* Import&#xD;&#xA;* Bygg&#xD;&#xA;* Kandidat&#xD;&#xA;* Publisering&#xD;&#xA;&#xD;&#xA;Tidsstyring for når det skal lages data for 5-stjerners FEST (F5)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

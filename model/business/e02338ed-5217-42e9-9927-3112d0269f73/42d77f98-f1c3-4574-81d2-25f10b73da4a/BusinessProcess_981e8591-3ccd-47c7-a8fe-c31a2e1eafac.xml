@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parallellimport"
+    id="981e8591-3ccd-47c7-a8fe-c31a2e1eafac"
+    documentation="Parallellimport av legemidler til Norge skjer når et legemiddel som har gyldig MT i et EU/EØS-land, importeres til Norge, og markedsføres i konkurranse med et tilsvarende preparat med gyldig markedsføringstillatelse i Norge.&#xA;&#xA;Legemiddelverket stiller normalt følgende vilkår for parallellimport av legemidler til Norge:&#xA;* Det importerte legemidlet skal ha MT i eksportlandet. &#xA;* Samme legemiddel (direkteimportert legemiddel/referanseprodukt) har MT i Norge.&#xA;* Legemidlet inneholder samme virkestoff og har samme terapeutiske effekt som det direkteimporterte legemidlet/referanseproduktet.&#xA;&#xA;Statens legemiddelverk vurderer i hvert enkelt tilfelle om parallellimport skal tillates.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

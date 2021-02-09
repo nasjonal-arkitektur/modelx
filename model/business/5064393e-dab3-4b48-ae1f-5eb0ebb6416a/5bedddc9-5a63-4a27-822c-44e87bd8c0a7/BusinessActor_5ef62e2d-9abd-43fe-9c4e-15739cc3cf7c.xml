@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Importør"
+    id="5ef62e2d-9abd-43fe-9c4e-15739cc3cf7c"
+    documentation="Firma som importerer legemidler til Norge">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

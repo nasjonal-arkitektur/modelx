@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST-Melding v2.5.0"
+    id="9ce55b7d-d8fe-4ede-aa28-e77465ea3232">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

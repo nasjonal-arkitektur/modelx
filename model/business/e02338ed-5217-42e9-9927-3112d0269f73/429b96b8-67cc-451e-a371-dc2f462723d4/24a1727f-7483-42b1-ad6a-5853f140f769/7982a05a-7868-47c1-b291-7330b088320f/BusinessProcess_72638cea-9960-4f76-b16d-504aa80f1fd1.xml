@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Muntlig forsvar av søknad"
+    id="72638cea-9960-4f76-b16d-504aa80f1fd1"
+    documentation="Muntlig forsvar av en søknad skjer kun i tilfeller hvor det er utestående srpørsmål av en slik karakter at det kan resultere i at søknaden blir avslått.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CESP"
+    id="b8582f18-7dac-480a-851c-c45c1c8ee15b"
+    documentation="CESP (Common European Submission Platform) er en innsendingstjeneste for søknader om markedsføringstillatelser som leveres av Heads of Medicine Agencies (HMA). Tjenesten benyttes både til Human og Vet.&#xD;&#xA;Legemiddelindustrien logger seg på CESP og laster opp søknaden og dokumentasjon, angir mottakerland og sender inn. CESP sørger deretter for å overføre filene via SFTP til korrekt legemiddelverk.&#xD;&#xA;&#xD;&#xA;Denne løsningen benyttes til MRP, DCP og Nasjonale prosedyrer, i tillegg til en del annen dokumentasjon slik som PSUR og tilleggsdokumentasjon til ulike typer saker.&#xD;&#xA;&#xD;&#xA;This system provides a simple and secure mechanism for exchange of information between applicants and regulatory agencies.&#xD;&#xA;The purpose of the system is to:&#xD;&#xA;* Provide a secure method of communicating with the Regulatory Agencies via one platform&#xD;&#xA;* Allow submission of an application once to reach all required Agencies&#xD;&#xA;* Reduce the burden for both Industry and Regulators of submitting/handling applications on CD-ROM and DVD">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltning av datakvalitet"
+    id="id-067e4502027646868e9f7e036edf5a8a"
+    documentation="Hva organisasjonen gjør for å sikre at data er korrekte, komplette, oppdaterte og konsistente og har evnen til å støtte de informasjonsformål de brukes til.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

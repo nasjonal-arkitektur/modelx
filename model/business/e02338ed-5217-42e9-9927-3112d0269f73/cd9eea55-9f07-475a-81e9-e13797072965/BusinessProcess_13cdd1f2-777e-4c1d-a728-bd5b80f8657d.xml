@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Markedsføre produkt med CE-merking"
+    id="13cdd1f2-777e-4c1d-a728-bd5b80f8657d"
+    documentation="Leverandøren er selv ansvarlig for at produktet er i henhold til standarden som kreves for å kunne være CE-merket">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

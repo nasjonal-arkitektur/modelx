@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forhåndsmelding av søknad"
+    id="931e774d-8903-474b-adc7-0fbf66aad548"
+    documentation="Søker forhåndsmelder at de har intensjon om å søke. Dette kan skje 6-7 måneder før søknaden sendes inn. På bakgrunn av forhåndsinnmelding av søknader, gjøres tildeling av roller i søknadsbehandlingen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

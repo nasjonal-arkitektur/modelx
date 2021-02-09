@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forespør dataeier"
+    id="id-78c78bb84eaa4268ac23b66e5f1e7f8f"
+    documentation="Harmoniserers med rolledefinisjoner.&#xD;&#xA;&#xD;&#xA;Kan en databehandler besvare forespørselen automatisk på grunnlag av forhåndsdefinerte instruks?&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

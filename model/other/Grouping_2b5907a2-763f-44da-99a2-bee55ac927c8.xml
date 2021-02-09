@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kompetansestyring"
+    id="2b5907a2-763f-44da-99a2-bee55ac927c8"
+    documentation="Kompetansestyring">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kompetansestyring"/>
+  <properties
+      key="difi:name_en"
+      value="Competency Management"/>
+  <properties
+      key="difi:description_no"
+      value="Kompetansestyring"/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, design, profile, rate, and validate the skills and knowledge necessary to do something."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

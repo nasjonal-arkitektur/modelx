@@ -1,0 +1,40 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjons-registrering, rettighetsklarering og publisering"
+    id="id-ef2141cd89b440e58933700dbcf4169f"
+    documentation="AKSJON:  NTNU foreslår definisjon&#xD;&#xA;&#xD;&#xA;Hva organisasjonen gjør for å skaffe, vedlikeholde og administrere innhold på tvers av både digitale og fysiske plattformer.&#xD;&#xA;&#xD;&#xA;EUNIS: Enterprise Content Management">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Informasjons-registrering, rettighetsklarering og publisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Aksjonspunkt - NTNU foreslår definisjon&#xD;&#xA;&#xD;&#xA;Hva organisasjonen gjør for å skaffe, vedlikeholde og administrere innhold på tvers av både digitale og fysiske plattformer.&#xD;&#xA;&#xD;&#xA;EUNIS: Enterprise Content Management"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

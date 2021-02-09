@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataprodusent"
+    id="f097ed12-a32e-4437-a828-1fc807273907"
+    documentation="En dataprodusent skaper eller oppdaterer datasett. Aktuelle datasett kan gjøres tilgjengelig for andre via en eler flere datatilbydere. Samme aktør kan oppter som både dataprodusent og datatilbyder.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

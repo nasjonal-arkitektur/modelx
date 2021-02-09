@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om hastevedtak til enkeltpasient"
+    id="b07563d6-9824-4f01-bd64-0b02a7b23d57"
+    documentation="Hastesøknad gjelder for papirsøknader om godkjenning for enkeltpasient.&#xD;&#xA;Frist for svar er innen påfølgende virkedag.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

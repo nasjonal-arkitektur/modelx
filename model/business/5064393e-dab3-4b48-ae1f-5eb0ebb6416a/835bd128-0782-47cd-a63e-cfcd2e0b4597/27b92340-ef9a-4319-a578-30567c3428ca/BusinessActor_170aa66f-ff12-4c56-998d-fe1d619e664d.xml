@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementere felleseuropeisk logo på alle norske nettapotek/LUA (lag)"
+    id="170aa66f-ff12-4c56-998d-fe1d619e664d"
+    documentation="I EU var det fra 1. juli 2015 et krav at nettapotek skal ha synlig bevis for at de driver lovlig. Logoen skal lenke til nasjonale legemiddelmyndigheters liste over godkjente nettapotek. Dette er nå en del av EØS-avtalen og det er et krav om å bruke denne logoen også på norske nettapotek. Legemiddelverket må nå lage system for implementering/distribusjon og kontroll av ny logo.  I tillegg må ordningen informeres om.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

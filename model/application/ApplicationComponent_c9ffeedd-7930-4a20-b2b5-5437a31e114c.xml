@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks folkeregister konfigurasjon"
+    id="c9ffeedd-7930-4a20-b2b5-5437a31e114c">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skjema for innmelding av svikt på medisinsk utstyr"
+    id="aacaeaa4-aee3-48c4-8853-e221dacfdde1"
+    documentation="Denne tjenesten benyttes av helsepersonell for å rapportere om avvik på medisinsk utstyr.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

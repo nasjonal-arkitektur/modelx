@@ -1,0 +1,14 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9c1eea1d-47fa-4f21-a11e-44edebd87b6a">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_4cf27c2f-8b08-4b68-84ee-8f5e6a0b8c72.xml#4cf27c2f-8b08-4b68-84ee-8f5e6a0b8c72"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_0b923794-5a20-4b80-a018-5fee44af9fc7.xml#0b923794-5a20-4b80-a018-5fee44af9fc7"/>
+</archimate:AggregationRelationship>

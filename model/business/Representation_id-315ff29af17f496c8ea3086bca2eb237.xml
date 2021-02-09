@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definisjoner"
+    id="id-315ff29af17f496c8ea3086bca2eb237"
+    documentation="*  *Datakvalitet*:&#xD;&#xA;+&#xD;&#xA;Datakvalitet innebærer at data skal være korrekte, komplette,&#xD;&#xA;oppdaterte og konsistente og har evnen til å støtte de&#xD;&#xA;informasjonsformål de brukes til [kilde: data.norge.no, SKATTEETATEN]&#xD;&#xA;&#xD;&#xA;* *Masterdata*: &#xD;&#xA;+&#xD;&#xA;Master data is the consistent and uniform set of&#xD;&#xA;identifiers and extended attributes that describes the core entities of&#xD;&#xA;the enterprise including customers, prospects, citizens, suppliers,&#xD;&#xA;sites, hierarchies, and chart of accounts.  footnote:[Gartner definisjon hentet fra https://www.gartner.com/en/information-technology/glossary/master-data-management-mdm&#xD;&#xA;2021.01.07]">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-definisjoner"/>
+  <properties
+      key="modelx:antora_section_header"
+      value="no"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

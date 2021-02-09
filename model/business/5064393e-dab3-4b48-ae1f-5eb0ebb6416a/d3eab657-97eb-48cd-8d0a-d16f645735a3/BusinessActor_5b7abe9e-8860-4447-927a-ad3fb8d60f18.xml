@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Område virksomhetsstøtte"
+    id="5b7abe9e-8860-4447-927a-ad3fb8d60f18"
+    documentation="Området består av funksjonar som blir brukt av heile organisasjonen: arkiv, jus, økonomi, reknskap, lønn, IT, kvalitetsstyring, beredskap, kommunikasjon og HR.&#xD;&#xA;&#xD;&#xA;Området har eit ekstra ansvar for å bidra til at Legemiddelverket står fram som ein tydeleg og open fagetat på legemiddelområdet. Området er delt inn i fire einingar og ein stabsfunksjon under områdedirektør.">
+  <properties
+      key="Stereotype"
+      value="Område"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

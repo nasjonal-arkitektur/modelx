@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EasyCruit"
+    id="025c7617-08c0-4521-9405-cf54fee94054"
+    documentation="Easycruit brukes i ansettelsesprosesser i Legemiddelverket. I forbindelse med tilsettingsprosessen benytter Legemiddelverket et elektronisk rekrutteringsverktøy – Easycruit (http://www.easycruit.no/ ) – som administreres av Personalseksjonen. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

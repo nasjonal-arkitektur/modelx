@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronisk utfakturering (lag)"
+    id="ffe24acc-beb2-4133-9f51-b87517ab45f5"
+    documentation="Overgang fra papirfaktura til EHF-format">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

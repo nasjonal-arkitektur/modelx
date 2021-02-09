@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldinger til søkere"
+    id="9d479539-1b92-4192-8372-d22b13314a97"
+    documentation="Altinn meldingfunksjonalitet for kommunikasjon med søker">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_98b26528-1a59-4209-b864-be37fa3ab41e.xml#98b26528-1a59-4209-b864-be37fa3ab41e"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2aa5134d-fab8-487f-8089-c26e3ae2c200.xml#2aa5134d-fab8-487f-8089-c26e3ae2c200"/>
+</archimate:FlowRelationship>

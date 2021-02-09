@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvalte utstyrsregister"
+    id="d8e24359-4335-43fb-9580-c8791cf841b8"
+    documentation="Register over norske produsenter av medisinsk utstyr (Utstyrsregisteret)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvittere for mottat søknad og formidle resultat av validering"
+    id="b65b85f0-0bca-4b28-89d0-69f8ab599320"
+    documentation="Hvis / når søknaden vurderes som valid sender man en epost / kvittering til søker og beskriver tidsforløpet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

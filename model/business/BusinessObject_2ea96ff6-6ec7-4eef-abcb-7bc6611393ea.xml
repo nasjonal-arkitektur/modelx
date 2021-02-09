@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samhandlings-spesifikasjon"
+    id="2ea96ff6-6ec7-4eef-abcb-7bc6611393ea"
+    documentation="Samhandlingsspesifikasjoner inneholder normative uttalelser for oppførselen til deltakere og komponenter involvert i datautveksling og arbeidsprosesser, eventuelt gjennom henvisning til eksisterende standarder og spesifikasjoner.">
+  <properties
+      key="ID"
+      value="ABB162"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Samhandlings-spesifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Interoperability Specification"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;An Interoperability Specification is a document  containing agreed  normative statements for solution building blocks used in an information exchange context.  It  can refer to existing  standards or  specifications. &#xD;&#xA;&#xD;&#xA;Source: ISA2 – EIA Action"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessObject>

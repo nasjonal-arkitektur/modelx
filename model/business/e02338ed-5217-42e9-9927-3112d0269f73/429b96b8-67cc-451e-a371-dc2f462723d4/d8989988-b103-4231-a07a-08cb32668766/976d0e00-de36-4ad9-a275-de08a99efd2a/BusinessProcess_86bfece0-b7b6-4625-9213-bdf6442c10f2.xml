@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle kommentarer og beslutning"
+    id="86bfece0-b7b6-4625-9213-bdf6442c10f2"
+    documentation="På bakgrunn av gjennomgangen av MT-søkers tilsvar på kommentarer og en helhetlig vurdering av søknaden og tilhørende utredningsrapporter, formidles konklusjon (positiv/negativ) til RMS og MT-søker, i tillegg til å registreres i CTS.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innspill til positivlisten"
+    id="f0ad7f3d-f669-4d6e-bada-418bbde114f6"
+    documentation="Dersom man ser at man har behandlet mange søknader om samme legemiddel med samme resultat, spiller man legemiddelet inn som kandidat til positivlisten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

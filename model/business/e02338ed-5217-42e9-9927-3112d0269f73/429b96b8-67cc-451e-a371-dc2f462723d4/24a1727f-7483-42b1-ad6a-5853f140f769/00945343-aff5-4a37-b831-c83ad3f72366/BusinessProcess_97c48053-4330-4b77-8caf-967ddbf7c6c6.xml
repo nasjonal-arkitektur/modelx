@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide Asessment Report (AR)"
+    id="97c48053-4330-4b77-8caf-967ddbf7c6c6"
+    documentation="CP Human: Utarbeide Asessment Report (AR) - dag 0-80&#xD;&#xA;&#xD;&#xA;Rapportør og ko-rapportør utarbeider sine utredningsrapporter (Assessment Reports - AR) fra dag 0 til dag 80.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

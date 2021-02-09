@@ -1,0 +1,37 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronisk mottakerregister (ELMA)"
+    id="949ec5f8-d06f-4d48-978a-c90dcf651980"
+    documentation="[Torget]&#xD;&#xA;Med ELMA får brukerne dine oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden. &#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;ELMA er et register som inneholder aksesspunktadresser til virksomhetenes og hvilke&#xD;&#xA;dokumenttyper, som elektroniske fakturaer, ordre, kataloger m.fl. mottakersystemet kan ta imot.&#xD;&#xA;&#xD;&#xA;Aksesspunktet formidler meldinger til og fra andre aksesspunkter og til og fra avsender/mottaker maskin til maskin. Dette gir teknisk og organisatorisk samhandlingsevene.&#xD;&#xA;&#xD;&#xA;Mer om ELMA:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/elektronisk-mottakerregisterelma/784">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Elektronisk mottakerregister (ELMA)"/>
+  <properties
+      key="difi:name_en"
+      value="Access Point Provider"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Skate består av direktørane i ni statlege verksemder og to toppleiarrepresentantar frå kommunesektoren. Medlemmane i Skate er oppnemnde av Kommunal- og moderniseringsdepartementet (KMD). Siste oppnemning skjedde 1.1.2018 og gjeld for tre år.&#xD;&#xA;Skate er leia av Difi, som og har Skatesekretariatet.&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

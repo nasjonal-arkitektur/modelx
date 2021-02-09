@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kritisk informasjon"
+    id="cdece812-1537-42ef-9476-c5be803651d3">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

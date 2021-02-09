@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle kommentarer og spørsmål"
+    id="4bfe055e-5a8b-4b33-aca6-0658205ecf94"
+    documentation="Kommentarene og spørsmål sendes på epost til søker og RMS.&#xD;&#xA;Det registreres også i CTS at man har lagt inn kommentarer (men man laster ikke opp kommentarene i CTS...)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

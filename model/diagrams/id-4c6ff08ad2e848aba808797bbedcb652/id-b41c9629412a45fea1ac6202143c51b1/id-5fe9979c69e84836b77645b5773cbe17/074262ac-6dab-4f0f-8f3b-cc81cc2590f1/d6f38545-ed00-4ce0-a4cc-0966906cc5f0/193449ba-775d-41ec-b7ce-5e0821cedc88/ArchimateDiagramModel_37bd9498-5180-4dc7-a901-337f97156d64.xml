@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngangsport - referansearkitekturer"
+    id="37bd9498-5180-4dc7-a901-337f97156d64">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="0950d84a-30ec-4e34-bbbe-2a7309319cb6"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="48"
+        y="60"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_c369a1ce-cb80-4ffc-a30e-fe90a864ed53.xml#c369a1ce-cb80-4ffc-a30e-fe90a864ed53"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngangsport - referansearkitekturer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ArchimateDiagramModel>

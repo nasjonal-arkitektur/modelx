@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrasjon av erstatningssaker"
+    id="6826655f-a2eb-41b7-9238-f942a59fb459"
+    documentation="Ability to identify, track, and respond to a demand for or request to indemnify customers under the terms of an agreement.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Administrasjon av erstatningssaker"/>
+  <properties
+      key="difi:name_en"
+      value="Claim Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, track, and respond to a demand for or request to indemnify customers under the terms of an agreement."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, track, and respond to a demand for or request to indemnify customers under the terms of an agreement."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

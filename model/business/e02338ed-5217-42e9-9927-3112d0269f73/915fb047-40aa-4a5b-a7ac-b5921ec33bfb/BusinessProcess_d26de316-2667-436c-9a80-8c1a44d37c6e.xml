@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stoppe utprøving"
+    id="d26de316-2667-436c-9a80-8c1a44d37c6e"
+    documentation="Dersom dokumenterte funn i statusrapport eller innmeldte SUSAR tilsier at det er uforsvalig å fortsette studien ut fra de kriteriene søknaden ble vurdert ut fra (etikk, sikkerhet og kvalitet), pålegger Legemiddelverket stopp i den kliniske utprøvingen.&#xD;&#xA;&#xD;&#xA;NB! Pålegg om stopp av klinisk utprøving er noe som skjer i ytterste konsekvens, og som skjer svært sjelden.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

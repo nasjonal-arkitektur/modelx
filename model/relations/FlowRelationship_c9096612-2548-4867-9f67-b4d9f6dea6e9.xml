@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="På negativlisten"
+    id="c9096612-2548-4867-9f67-b4d9f6dea6e9">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_03c0f782-7fe7-44b9-a55f-db7db1ba6051.xml#03c0f782-7fe7-44b9-a55f-db7db1ba6051"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_f1076b0b-a679-41b5-96d0-187b20e61d6c.xml#f1076b0b-a679-41b5-96d0-187b20e61d6c"/>
+</archimate:FlowRelationship>

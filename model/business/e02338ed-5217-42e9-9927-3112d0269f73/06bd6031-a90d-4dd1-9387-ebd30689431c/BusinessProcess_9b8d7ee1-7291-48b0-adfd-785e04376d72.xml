@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisering av legemiddel"
+    id="9b8d7ee1-7291-48b0-adfd-785e04376d72"
+    documentation="Klassifisering avgjør om et produkt skal regnes som legemiddel, slik at krav til kvalitet, sikkerhet og effekt må oppfylles.&#xA;&#xA;Klassifisering er en nasjonal avgjørelse, og det kan derfor variere fra land til land hvordan et produkt er regulert. Et produkt kan derfor være legemiddel i et land og ikke-legemiddel i et annet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

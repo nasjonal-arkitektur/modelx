@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitet  - Dokumentforvaltning (lag)"
+    id="88bdbd57-f013-49fd-8298-9de2251d9a7c"
+    documentation="• OEP &#xD;&#xA;• Kvalitetskontroll og journalføring av F'er og S'er  &#xD;&#xA;• Avslutning av saker i elektronisk arkiv &#xD;&#xA;• Avslutning av saker i papirarkiv &#xD;&#xA;• Personalarkiv &#xD;&#xA;• Arkivplan &#xD;&#xA;• Arkivnøkkel &#xD;&#xA;• Bevaring og kassasjon &#xD;&#xA;• Systemadministrasjon i 360⁰">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

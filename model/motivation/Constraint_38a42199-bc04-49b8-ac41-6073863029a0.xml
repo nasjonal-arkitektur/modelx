@@ -1,0 +1,26 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Føringer og premisser"
+    id="38a42199-bc04-49b8-ac41-6073863029a0">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Føringer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:constraint"/>
+  <properties
+      key="label"
+      value="Føringer \nog premisser"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+</archimate:Constraint>

@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adressergistering"
+    id="09d7d587-6401-47d0-89ab-b2f6a4491bf4">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationFunction>

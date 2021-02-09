@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentere resultat av vurderingen"
+    id="6e2f0d86-0a6d-423f-958b-69fa991c6485"
+    documentation="Resultat av vurderingen av mottatte rapporter eller SUSAR-meldinger dokumenteres og journalføres på saken i P360&#xD;&#xA;&#xD;&#xA;Dersom det ikke er noen observsjoner eller andre forhold som det må gjøres noe med, stopper prosessen uten videre handlinger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berit Barnevern"
+    id="dadd9539-37d4-4395-b2c4-8b48632a03af">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

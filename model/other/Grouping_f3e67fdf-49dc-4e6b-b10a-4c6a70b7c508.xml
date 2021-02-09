@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tvistesaker"
+    id="f3e67fdf-49dc-4e6b-b10a-4c6a70b7c508"
+    documentation="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tvistesaker"/>
+  <properties
+      key="difi:name_en"
+      value="Dispute Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to create, track, and resolve an official argument or disagreement among interested parties, or provide a formal written petition for the redress of an injustice."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

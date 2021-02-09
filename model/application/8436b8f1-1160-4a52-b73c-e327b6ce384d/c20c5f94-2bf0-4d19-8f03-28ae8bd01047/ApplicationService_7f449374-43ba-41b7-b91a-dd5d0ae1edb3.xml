@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraVigilance Human Data Warehouse (H)"
+    id="7f449374-43ba-41b7-b91a-dd5d0ae1edb3"
+    documentation="The EudraVigilance Human Data Wharehouse, also known as the EudraVigilance data analysis system (EVDAS) supports EU pharmacovigilance safety monitoring activities with the main focus on signal detection and evaluation of ICSRs.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

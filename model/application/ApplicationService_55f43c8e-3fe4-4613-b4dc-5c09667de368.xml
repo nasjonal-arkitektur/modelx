@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenetse for spøriing og oppslag mot datakonsumenter"
+    id="55f43c8e-3fe4-4613-b4dc-5c09667de368">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

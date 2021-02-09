@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilleggstjenester"
+    id="a7255f82-279f-4536-aa05-b015a58abdff">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

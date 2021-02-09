@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedtak"
+    id="0bfc7ca7-def8-46ff-ae0b-a678197e9dbc"
+    documentation="SLV mottar vedtaket til REK enten direkte fra REK eller fra sponsor, og sørger for å registrere i EudraCT">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b98b04a2-aa14-4323-87c4-f677df5f5392.xml#b98b04a2-aa14-4323-87c4-f677df5f5392"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a88eb42f-5dc5-4fa3-8e9e-3170f2224361.xml#a88eb42f-5dc5-4fa3-8e9e-3170f2224361"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,8 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding"
+    id="fa1f631b-f56c-435a-8b29-2d1eca8d2962">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:Artifact>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsjekk av søknad"
+    id="3355e9a9-fa21-4c1a-a44e-bca1284df875"
+    documentation="Innsjekk av søknad skjer lokalt, og innebærer at arkivfunksjonen laster ned alt søknadsmaterialet og oppretter sak for behandlingen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

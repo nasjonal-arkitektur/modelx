@@ -1,0 +1,44 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngangsport RA Forespørsel"
+    id="ddd93a04-2278-4355-b7bb-79e1d1aa5717">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="01138b3f-41ca-4dde-8915-5e3528093bfa"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="60"
+        y="72"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_56cb3ef1-7b1c-470c-af33-c91716fc0dfd.xml#56cb3ef1-7b1c-470c-af33-c91716fc0dfd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="66c07ec8-03ea-49d0-8281-a69fd14c85c4"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="228"
+        y="72"
+        width="133"
+        height="71"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_625cee47-008b-42da-9912-f18ddbec9658.xml#625cee47-008b-42da-9912-f18ddbec9658"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ArchimateDiagramModel>

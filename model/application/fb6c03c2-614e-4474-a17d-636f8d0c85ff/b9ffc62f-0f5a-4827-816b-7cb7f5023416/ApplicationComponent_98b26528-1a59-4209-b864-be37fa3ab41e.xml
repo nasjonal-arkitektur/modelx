@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAM-T"
+    id="98b26528-1a59-4209-b864-be37fa3ab41e"
+    documentation="Løsningen gjelder forvaltning av apotekdriftstillatelser.&#xD;&#xA;&#xD;&#xA;SAM-T er en erstatning for dagens apotekdatabase og virksomhetsdatabase. &#xD;&#xA;Basen består foreløpig av apotekforvaltning, som er planlagt skal produksjonsettes i mars 2017. Det vil etter hvert bli utviklet løsning for virksomhetstillatelser og tilsynsplanlegging i samme database.&#xD;&#xA;&#xD;&#xA;All dokumenter vedlikeholdes i et egne Sahrepoint-bibliotek, til dokumentene evt er klare til journalføring i P360.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

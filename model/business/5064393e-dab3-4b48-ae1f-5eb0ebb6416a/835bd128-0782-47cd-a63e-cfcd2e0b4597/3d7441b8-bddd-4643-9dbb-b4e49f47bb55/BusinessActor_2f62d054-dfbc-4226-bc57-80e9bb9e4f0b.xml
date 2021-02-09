@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratorieanalyse - ad hoc oppdrag (lag)"
+    id="2f62d054-dfbc-4226-bc57-80e9bb9e4f0b"
+    documentation="Analyser på bakgrunn av akutte situasjoner eller andre ad hoc situasjoner. Analyser for eksterne norske aktører. Deltakelse Pangea.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

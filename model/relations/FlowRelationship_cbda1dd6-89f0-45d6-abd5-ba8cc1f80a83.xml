@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AR Positiv"
+    id="cbda1dd6-89f0-45d6-abd5-ba8cc1f80a83">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_001a49f4-59dd-4ce2-96cb-cc6763f6c27a.xml#001a49f4-59dd-4ce2-96cb-cc6763f6c27a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6862f194-e4f7-4530-9383-777adf19912d.xml#6862f194-e4f7-4530-9383-777adf19912d"/>
+</archimate:FlowRelationship>

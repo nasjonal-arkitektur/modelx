@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spore datakilder"
+    id="ba1f7c91-9c0b-4033-a889-8ee6310a3239"
+    documentation="Evnen til å spore opphavet til data og senere håndtering og hendelser.&#xD;&#xA;I arkivsammenheng benyttes ofte begrepet proveniens.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Spore datakilder (data lineage)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evnen til å spore opphavet til data og senere håndtering og hendelser.&#xD;&#xA;I arkvisammenheng benyttes ofte begrepet proveniens."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetssikre Athene mht mottatt produktinformasjon"
+    id="96e8efa8-834e-4025-817e-d4c5911b5245">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

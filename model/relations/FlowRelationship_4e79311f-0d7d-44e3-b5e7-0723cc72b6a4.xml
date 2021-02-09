@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for etterkontroll"
+    id="4e79311f-0d7d-44e3-b5e7-0723cc72b6a4">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8a1a4f88-a38d-4535-99bb-ca82cafa4ba6.xml#8a1a4f88-a38d-4535-99bb-ca82cafa4ba6"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_dd72ecb3-e94c-42df-b3ee-2901a1919334.xml#dd72ecb3-e94c-42df-b3ee-2901a1919334"/>
+</archimate:FlowRelationship>

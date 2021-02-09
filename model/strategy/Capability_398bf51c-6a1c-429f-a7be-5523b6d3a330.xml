@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kjøp og salg"
+    id="398bf51c-6a1c-429f-a7be-5523b6d3a330">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FARMASTAT"
+    id="a4d094e3-c6a0-412f-b747-00b006de798f"
+    documentation="FARMASTAT Norsk legemiddelstatistikk AS, kjent som Farmastat, har som formål å tilby legemiddelfirma, organisasjoner og myndigheter et pålitelig og godt utvalg av produkter og tjenester innen legemiddelstatistikk.&#xD;&#xA;&#xD;&#xA;Totalstatistikk inneholder salgstall for registrerte og uregistrerte legemidler solgt i Norge. Statistikken er spesifisert på pakningsnivå, og hver pakning kan identifiseres med nordiske varenummer. Videre finnes informasjon om AT, ATC og NFC koding, prisinformasjon, DDD tall og OTC og Rx, med mer. Parallellimporterte- og generiske produkter er også kodet, slik at det er enkelt å analysere disse. Totalstatistikken inneholder to års historikk for månedstall, fem års historikk for kvartalstall og 6 års historikk for årstall.&#xD;&#xA;&#xD;&#xA;Det vi har består av Fs Totalstatistikk og Fs MO/HO statistikk som gir tallgrunnlaget. I tillegg har vi 5 lisenser av Cognos med supportavgift. Tilleggstjeneste gir oss også distribusjon av data.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Farmastats database omfatter totalstatistikk over salg av legemidler i Norge, samt beskrivende data (registerdata).&#xD;&#xA;&#xD;&#xA;Databasen oppdateres månedsvis og inneholder to års historikk pr. måned og fem års historikk pr. kvartal. Denne database utgjør grunnabonnementet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

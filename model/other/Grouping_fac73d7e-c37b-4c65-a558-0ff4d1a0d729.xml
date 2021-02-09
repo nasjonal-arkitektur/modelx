@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastruktur-administrasjon"
+    id="fac73d7e-c37b-4c65-a558-0ff4d1a0d729"
+    documentation="Ability to define, design, maintain, describe, and administer a physical structure or facility, which may include power grids, communication lines, railways, roadways, bridges, tunnels, and pipelines or conduits for water, gas, and power.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Infrastruktur-administrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Infrastructure Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, design, maintain, describe, and administer a physical structure or facility, which may include power grids, communication lines, railways, roadways, bridges, tunnels, and pipelines or conduits for water, gas, and power."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, design, maintain, describe, and administer a physical structure or facility, which may include power grids, communication lines, railways, roadways, bridges, tunnels, and pipelines or conduits for water, gas, and power."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

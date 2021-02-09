@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere rapport fra klinisk utprøving"
+    id="f6240465-fba8-41f4-af9e-32d45f9fdadd"
+    documentation="Det vurderes om avikkene krever tiltak">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjeneste som støtter prosess"
+    id="5d954be1-8ee1-47a1-9765-7b7b2fb695a6">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationService>

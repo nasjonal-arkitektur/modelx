@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apollon"
+    id="7479c10e-23d8-4cb5-a1aa-70ecd95763f5"
+    documentation="Apollon er Legemiddelverkets verktøy for å kvalitetssikre og koble sammen data fra ulike kilder. Apollon publiserer dataene i databasen FEST (forskrivning og ekspedisjonsstøtte).&#xD;&#xA;&#xD;&#xA;Herfra publiserer Apollon data til FEST-tjenestene. Data fra FEST-tjenestene brukes blant annet i legenes journalsystem, bandasjistenes og apotekenes ekspederingssystem, av Mattilsynet samt NAVs oppgjørssystem.&#xD;&#xA;&#xD;&#xA;Apollon gir kalenderstyrt oppgavestyring over flere arbeidsflyter i Legemiddelverket og viser logg av FEST-tjenesten.&#xD;&#xA;&#xD;&#xA;Oppgaver som validerings- og importfunksjon for produksjon og utsendelse av FEST M30-meldinger legges inn Apollon verktøyet. Apollon har ulike oppgaver, import av data fra Athene og HELFO, bygg av FEST-filer, sette kandidat for publisering, eksport av filer til publisering og mottak av meldinger fra NAV/HELFO og applikasjonskvitteringer.&#xD;&#xA;&#xD;&#xA;Import av fil med informasjon i bygg-filene og leverer informasjon om avvik og valideringsfeil.&#xD;&#xA;&#xD;&#xA;Validering sjekker både konsistens internt i en byggfil, og sjekker mot data i Athene.&#xD;&#xA;&#xD;&#xA;Logg for eksterne brukeres nedlasting av M30 kan også leses av i Apollon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottakeradresse"
+    id="4bb8940f-fe14-4870-bd2d-6ff3f556e4b2"
+    documentation="Teknisk adresse for hvor meldinger skal sendes. Dette kan være adressen til mottaker direkte eller mottakers integrasjonspunkt.">
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Mottakeradresse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

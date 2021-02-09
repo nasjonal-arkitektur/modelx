@@ -1,0 +1,19 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="da8a1544-8169-46d1-a6a6-d4abed435928">
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1fa6f431-d0f3-441b-a473-19cccb9152f8.xml#1fa6f431-d0f3-441b-a473-19cccb9152f8"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_427f017f-1edb-47fc-b915-9f7ac9f863b5.xml#427f017f-1edb-47fc-b915-9f7ac9f863b5"/>
+</archimate:CompositionRelationship>

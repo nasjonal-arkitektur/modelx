@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beskrivelse av aktør som kan innhente samtykke"
+    id="05ac791f-056e-41c8-9019-d03e91c76c31"
+    documentation="Dataobjekt som beskriver en datakonsument som har rett til å innhente samtykke om å slå opp data.&#xD;&#xA;Viktig innholde er bl.a. URL">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Beskrivelse av aktør som kan innhente samtykke"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Bl.a. URL"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

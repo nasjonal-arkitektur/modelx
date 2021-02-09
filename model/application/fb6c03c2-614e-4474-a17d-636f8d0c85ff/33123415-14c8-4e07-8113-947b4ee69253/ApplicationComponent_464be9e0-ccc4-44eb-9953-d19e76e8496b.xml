@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plenario"
+    id="464be9e0-ccc4-44eb-9953-d19e76e8496b"
+    documentation="Elektronisk pasientjournalsystem som benyttes av fastleger og private spesialister. Kommuniserer med meldingspartnere i Norsk Helsenett og må oppfylle kravene for å være tilknyttet NHN. &#xD;&#xA;&#xD;&#xA;Løsningen er satt opp for å kontrollere hvordan varsel presenteres i reseptmodulen. I tillegg er det kontroll av brukergrensesnittet – om det oppfyller kravene til hvilken funksjoner og visninger som presenteres for brukerne. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

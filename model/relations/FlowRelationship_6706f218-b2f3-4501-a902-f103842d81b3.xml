@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelinformasjon"
+    id="6706f218-b2f3-4501-a902-f103842d81b3"
+    documentation="Nattlig jobb for overføring av legemiddelinformasjon direkte fra Athene-databasen til Legemiddelsøk. &#xD;&#xA;Produktinformasjon&#xD;&#xA;Pris&#xD;&#xA;Refusjon&#xD;&#xA;Interaksjoner&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6b21ad58-13bd-4e00-b7c7-481ddc44fc71.xml#6b21ad58-13bd-4e00-b7c7-481ddc44fc71"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3e5ef28a-3d9c-4cc8-bdb1-fa00f4a3795f.xml#3e5ef28a-3d9c-4cc8-bdb1-fa00f4a3795f"/>
+</archimate:FlowRelationship>

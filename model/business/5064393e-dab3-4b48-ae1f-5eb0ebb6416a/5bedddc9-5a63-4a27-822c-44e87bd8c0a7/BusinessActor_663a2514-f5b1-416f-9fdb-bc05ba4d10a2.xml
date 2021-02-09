@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Member State (RMS)"
+    id="663a2514-f5b1-416f-9fdb-bc05ba4d10a2"
+    documentation="Det lands legemiddelverk som er ansvarlig for MT-søknadsutredning desentral prosedyre (DCP).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

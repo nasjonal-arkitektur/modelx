@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyder"
+    id="7f1ad415-d456-4c2e-a812-448f9f4dc129"
+    documentation="Tilbyder av data til eksterne parter, eventuelt på vegne av andre.">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tilbyder"/>
+  <properties
+      key="difi:name_en"
+      value="Provider"/>
+  <properties
+      key="difi:description_no"
+      value="Tilbyder av data til eksterne parter, eventuelt på vegne av andre."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

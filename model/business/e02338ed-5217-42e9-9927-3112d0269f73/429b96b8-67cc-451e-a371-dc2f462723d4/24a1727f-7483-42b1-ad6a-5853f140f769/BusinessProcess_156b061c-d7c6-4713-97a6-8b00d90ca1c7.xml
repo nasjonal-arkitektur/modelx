@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reeksaminering av søknad"
+    id="156b061c-d7c6-4713-97a6-8b00d90ca1c7"
+    documentation="Reeksaminering av søknad innebærer at man gjennomfører en ny vurdering av søknaden, med nye spørsmålsrunder. Søknadsvurderingen gjøres på bakgrunn av MT-søkers begrunnelse for hvorfor søknaden må reeksamineres.&#xD;&#xA;Dette er en forenklet prosess, som er kortere enn en vanlig utredningsprosess (ca. 90 dager).&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

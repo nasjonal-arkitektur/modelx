@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentisering og autorisasjon"
+    id="4dfc3f8f-e55f-4ff2-a1ff-1b5e87954011">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delta i PANGEA-aksjonen (lag)"
+    id="b26415f4-dd46-43aa-9bcf-712bf87ee80b"
+    documentation="Påmelding til Interpol må skje innen 17. februar. Legemiddelverket har deltatt i operasjonen de siste åtte årene, med en ad hoc gruppe fra forskjellige avdelinger etter hvilket fokus bestemmer oss for å ha dette året. Under aksjonen samarbeider vi med andre etater som toll, Kripos, Mattilsynet og Helsedirektoratet.&#xD;&#xA;&#xD;&#xA;Det bør opprettes et lag i god tid slik at aksjonen kan forberedes. Tollen har ledet den norsk aksjonen to år på rad, og vi signaliserte sist år at vi kunne ta neste, dvs. lede aksjonen for 2017, siden vi da ville være lokalisert mer sentralt.&#xD;&#xA;">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi notifikasjon"
+    id="id-da1544a2f050417f9582626161806677">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent"
+    id="id-ccc2b029d8764760bc2b4990dcec4144">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessRole>

@@ -1,0 +1,27 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basic data exchange patterns"
+    id="ef8f4ddc-778d-4d68-b35f-b8ba2c8f60d4">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Basismønstre for datautveksling"/>
+  <properties
+      key="difi:name_en"
+      value="Basic data exchange patterns"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+</archimate:Grouping>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datapakke"
+    id="c5440967-7756-49ab-bdfd-010eb9d0da06">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:DataObject>

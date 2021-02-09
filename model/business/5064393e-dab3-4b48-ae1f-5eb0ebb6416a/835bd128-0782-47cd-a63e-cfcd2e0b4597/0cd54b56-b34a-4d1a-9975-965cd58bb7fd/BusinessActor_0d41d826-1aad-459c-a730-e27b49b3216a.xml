@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revisjon av legemiddelforskriften kapittel 13 om legemiddelreklame (2017) (lag)"
+    id="0d41d826-1aad-459c-a730-e27b49b3216a"
+    documentation="Foreslå revisjon av legemiddelforskriften kapittel 13 (om legemiddelreklame) på bakgrunn av oppdrag i tildelingsbrevet fra HOD.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

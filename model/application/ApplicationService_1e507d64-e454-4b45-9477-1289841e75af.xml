@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestration Service"
+    id="1e507d64-e454-4b45-9477-1289841e75af"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of defining the sequence and conditions in which one service invokes other services in order to realize some useful function. &#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;https://www.w3.org/TR/ws-arch/  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Orchestration Service ABB  is salient for technical interoperability because it provides the functionality of &quot;automated&quot; business processes coordination.  The EIF's Conceptual model for integrated EU public services foresees the concept a Coordination for Integrated Service Delivery. The Model comprises an &quot;integrated service delivery&quot; is based on a &quot;coordination function&quot;, which is related to SOA principles such as choreography and orchestration, to manage internal business processes in order to remove complexity for the end-user, as stated in the EIF: &quot;The coordination function ensures that needs are identified and appropriate services are invoked and orchestrated to provide a European public service. This function should select the appropriate sources and services and integrate them. Coordination can be automated or manual.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Apache ODE&#xD;&#xA;Apache ODE (Orchestration Director Engine) software executes business processes written following the WS-BPEL standard. It talks to web services, sending and receiving messages, handling data manipulation and error recovery as described by your process definition. It supports both long and short living process executions to orchestrate all the services that are part of your application. &#xD;&#xA;http://ode.apache.org/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB45"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Orchestration Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of defining the sequence and conditions in which one service invokes other services in order to realize some useful function. &#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;https://www.w3.org/TR/ws-arch/  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Orchestration Service ABB  is salient for technical interoperability because it provides the functionality of &quot;automated&quot; business processes coordination.  The EIF's Conceptual model for integrated EU public services foresees the concept a Coordination for Integrated Service Delivery. The Model comprises an &quot;integrated service delivery&quot; is based on a &quot;coordination function&quot;, which is related to SOA principles such as choreography and orchestration, to manage internal business processes in order to remove complexity for the end-user, as stated in the EIF: &quot;The coordination function ensures that needs are identified and appropriate services are invoked and orchestrated to provide a European public service. This function should select the appropriate sources and services and integrate them. Coordination can be automated or manual.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Apache ODE&#xD;&#xA;Apache ODE (Orchestration Director Engine) software executes business processes written following the WS-BPEL standard. It talks to web services, sending and receiving messages, handling data manipulation and error recovery as described by your process definition. It supports both long and short living process executions to orchestrate all the services that are part of your application. &#xD;&#xA;http://ode.apache.org/ &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

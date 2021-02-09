@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rasjonering av legemidler (lag)"
+    id="9191f9b3-0107-42d5-9f83-4ccb76e1200d"
+    documentation="Etter avtale med Helse- og omsorgsdepartementet fikk Legemiddelverket tildelt et justert oppdrag 3. april 2018 vedr. utarbeidelse av forslag til lovendringer for rasjonering av legemidler i normalsituasjoner. Oppdraget omfatter også utarbeidelse av forslag til lovbestemmelse(r) for å klargjøre Legemiddelverkets rolle og ansvar for legemiddelberedskapen. Det rettslige grunnlaget for reguleringen skal gjøres gjennom endringer i legemiddelloven og apotekloven. &#xD;&#xA;Utkast skal oversendes departementet innen 1. juni 2018. Det er foreslått at det før sommeren avholdes et møte for gjennomgang og tilbakemelding på utkastet. Frist for svar på oppdrag er satt til 1. november 2018.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

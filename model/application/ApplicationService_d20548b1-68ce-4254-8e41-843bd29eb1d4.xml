@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokument-register"
+    id="d20548b1-68ce-4254-8e41-843bd29eb1d4">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

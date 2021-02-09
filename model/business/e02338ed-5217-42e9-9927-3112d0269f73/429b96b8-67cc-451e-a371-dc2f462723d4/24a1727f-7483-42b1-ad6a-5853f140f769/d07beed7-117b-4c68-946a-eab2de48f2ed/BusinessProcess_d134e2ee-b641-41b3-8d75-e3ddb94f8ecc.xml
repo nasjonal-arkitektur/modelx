@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utforme utstedelsesbrev for MT"
+    id="d134e2ee-b641-41b3-8d75-e3ddb94f8ecc"
+    documentation="Etter at man har godkjent Produktinformasjon utarbeides det et utstedelsesbrev, som er MT-søkers sertifikat på tillatelse til markedsføring av angitte produkt i det norske markedet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

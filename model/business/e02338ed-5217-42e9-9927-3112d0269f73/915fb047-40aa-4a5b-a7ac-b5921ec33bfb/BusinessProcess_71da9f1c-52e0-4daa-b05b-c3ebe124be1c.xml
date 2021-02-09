@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respondere på forbedringspunkter (Dag 32-42)"
+    id="71da9f1c-52e0-4daa-b05b-c3ebe124be1c"
+    documentation="Søker har ti dager på å komme med rospons på forbedringspunktene referanselandet har funnet i sin utredning.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

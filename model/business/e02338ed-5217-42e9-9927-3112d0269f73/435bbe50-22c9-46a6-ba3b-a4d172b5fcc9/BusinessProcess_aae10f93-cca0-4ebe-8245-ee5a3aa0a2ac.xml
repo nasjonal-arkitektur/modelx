@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle avviksrapport fra klinisk utprøving"
+    id="aae10f93-cca0-4ebe-8245-ee5a3aa0a2ac"
+    documentation="Avviksrapport = Serious Adverse Event (SAE)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

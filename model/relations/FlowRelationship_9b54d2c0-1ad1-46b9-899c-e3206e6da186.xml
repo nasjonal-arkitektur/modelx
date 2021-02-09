@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asessment Report vurderes / kommenteres ikke"
+    id="9b54d2c0-1ad1-46b9-899c-e3206e6da186"
+    documentation="Dersom resultat av nivåvurdering er at man ikke skal vurdere/kommentere Asessment Report utarbeidet av Rapport og Ko-rapportør, avsluttes prosessen midlertidig, og gjenopptas når opinion foreligger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d9423036-07ce-4262-aff2-7f701036eff4.xml#d9423036-07ce-4262-aff2-7f701036eff4"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_a14f9f06-4a10-4d4f-8e16-eba8c822e526.xml#a14f9f06-4a10-4d4f-8e16-eba8c822e526"/>
+</archimate:FlowRelationship>

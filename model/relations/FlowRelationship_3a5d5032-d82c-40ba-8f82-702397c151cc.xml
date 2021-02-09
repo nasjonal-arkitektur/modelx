@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legem.info - sanntid"
+    id="3a5d5032-d82c-40ba-8f82-702397c151cc"
+    documentation="Legemiddelinformasjon - sanntidsoppslag&#xA;Noen steder hanter SAM grunndata direkte fra Athene for visning&#xD;&#xA;Søker på MT-nummer&#xD;&#xA;Henter all informasjon knyttet til MT-saken&#xD;&#xA;&#xD;&#xA;SAM transformerer lenker til dokumenter, slik at de peker på dokumenter i P360&#xD;&#xA;&#xD;&#xA;NB!Da løsningen ble implementert ble det overført en stor mengde dokumenter til en og samme sak.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4d92bbe8-400f-4d33-a988-ed6d6d79cbe7.xml#4d92bbe8-400f-4d33-a988-ed6d6d79cbe7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_369703bf-bf99-4d11-90c8-cada8df12180.xml#369703bf-bf99-4d11-90c8-cada8df12180"/>
+</archimate:FlowRelationship>

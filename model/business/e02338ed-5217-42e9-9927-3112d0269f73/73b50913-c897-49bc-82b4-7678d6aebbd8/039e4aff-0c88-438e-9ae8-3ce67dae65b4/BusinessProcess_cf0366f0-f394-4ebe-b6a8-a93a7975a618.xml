@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tildele oppgave"
+    id="cf0366f0-f394-4ebe-b6a8-a93a7975a618"
+    documentation="Oppgave kan ha taggen/statusen møte, altså er det meningen spørsmplene skal bli besvart i ett møte.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samtykketoken"
+    id="db286e07-f116-441c-b5d8-f21e49f0442f">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:DataObject>

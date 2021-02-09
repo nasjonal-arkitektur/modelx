@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelmangel"
+    id="2dbac2a4-c095-4e9f-bcdd-daef9f32922f"
+    documentation="Legemiddelverket arbeider for å forebygge legemiddelmangel og koordinere tiltak i samband med akutte mangelsituasjoner, inkludert medisinsk rådgiving.&#xD;&#xA;&#xD;&#xA;E-postadresse: legemiddelmangel@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

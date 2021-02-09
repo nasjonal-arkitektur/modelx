@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Positiv opinion"
+    id="4ad057e0-531b-4850-bdc1-55e440668532">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_483589a7-c68c-43cf-a820-c58c8cf1d4ec.xml#483589a7-c68c-43cf-a820-c58c8cf1d4ec"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_de0ac79b-2849-4bc3-9c2a-7708b069dcb1.xml#de0ac79b-2849-4bc3-9c2a-7708b069dcb1"/>
+</archimate:FlowRelationship>

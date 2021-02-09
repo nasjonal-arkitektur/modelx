@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta melding om bivirkning"
+    id="e52ae80b-713a-4537-91f8-2104208562cd"
+    documentation="Meldinger om bivirkninger kan mottas fra ulike kilder, men skal alle registreres i VigiNor, og synkroniseres med EUDRAVIGILANCE&#xD;&#xA;Mottas automatisk - går rett inn i VigiNor&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

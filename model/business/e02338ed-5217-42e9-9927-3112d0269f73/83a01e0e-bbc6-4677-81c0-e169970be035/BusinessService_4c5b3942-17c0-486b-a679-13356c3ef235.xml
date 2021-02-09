@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forhåndsgodkjent refusjon"
+    id="4c5b3942-17c0-486b-a679-13356c3ef235"
+    documentation="Statens legemiddelverk kan føre et legemiddel opp på refusjonslisten hvis en metodevurdering viser at legemiddelet oppfyller vilkår for stønad på blå resept. Et legemiddel som tas opp på refusjonslisten skal ha markedsføringstillatelse for den aktuelle bruken.&#xA;En lege kan forskrive et legemiddel som er på refusjonslisten direkte på blå resept når&#xA;-bruken av legemidlet står oppført under refusjonsberettiget bruk&#xA;-pasientens sykdom omfattes av en refusjonskode&#xA;-eventuelle refusjonsvilkår er oppfylt &#xA;Brukeren kan da hente ut aktuelt legemiddel på apoteket, og betaler kun egenandel.&#xA;For å finne ut om et legemiddel står på refusjonslisten kan du benytte">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

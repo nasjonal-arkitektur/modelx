@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medikament godkjent for markedsføring i Norge"
+    id="3392e3ef-eb66-448f-9cd0-00e2ba7046c8">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

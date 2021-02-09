@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M3 - Farmasøytisk info"
+    id="00b17070-30af-4879-8443-6e27017272f2"
+    documentation="Modul 3 - Farmasøytisk - hva legemiddelet består av hvordan man har laget det (oppskrift)&#xA;Chemical-pharmaceutical and biological information for chemical active substances and biological medicinal products&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

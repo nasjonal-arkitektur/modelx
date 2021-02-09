@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inngå avtaler og sett opp tilganger til data og tjenester"
+    id="c94bb0bf-c07c-47f4-912a-5feb172260cc"
+    documentation="Evnen til å inngå avtaler og sette opp abonnementer og tilganger til data og tjenester&#xD;&#xA;&#xD;&#xA;Klargjøre for deling av data">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngå avtaler og sette opp abonnementer og tilganger til data og tjenester"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Inngå avtaler og sette opp abonnementer og tilganger til data og tjenester&#xD;&#xA;&#xD;&#xA;Klargjøre for deling av data"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

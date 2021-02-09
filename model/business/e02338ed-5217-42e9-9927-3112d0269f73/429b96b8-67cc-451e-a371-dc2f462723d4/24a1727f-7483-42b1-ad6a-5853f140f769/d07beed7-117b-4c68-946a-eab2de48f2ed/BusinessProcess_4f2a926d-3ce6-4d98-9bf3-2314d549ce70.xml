@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatere produktinformasjon i Athene"
+    id="4f2a926d-3ce6-4d98-9bf3-2314d549ce70"
+    documentation="Etter godkjenning av Produktinformajson oppdateres medikamentet i Athene med ny informasjon (pakningsstørrelse osv. Dette ligger I CPS)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

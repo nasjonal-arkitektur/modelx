@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksepsjonelt unntak"
+    id="e1c40206-18b4-4090-9384-aee0746e474c"
+    documentation="Ved spesielle tilfeller kan man få MT selv om det ikke er tilstrekkelig info for å få det. F.eks ved svært sjeldne sykdommer">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

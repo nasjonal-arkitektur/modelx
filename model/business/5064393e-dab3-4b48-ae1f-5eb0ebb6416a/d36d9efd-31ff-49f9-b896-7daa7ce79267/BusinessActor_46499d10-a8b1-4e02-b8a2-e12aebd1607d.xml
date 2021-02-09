@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veterinærmedisin - kompetansenettverk"
+    id="46499d10-a8b1-4e02-b8a2-e12aebd1607d"
+    documentation="Kompetansedeling inne veterinære problemstillinger">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

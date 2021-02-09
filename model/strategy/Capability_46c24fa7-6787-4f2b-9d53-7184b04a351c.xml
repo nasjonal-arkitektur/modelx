@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generere og publisere notifikasjoner"
+    id="46c24fa7-6787-4f2b-9d53-7184b04a351c"
+    documentation="Evnen til å generere notifikasjoner som data om hendelser, samt å publisere slike notifikasjoner i en eller flere hendelseslister, eventuelt tilpasset ulike målgrupper.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Generere og tilby notifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evnen til å dele informasjon om hendelser gjennom notifikasjoner som tilgjengeliggjøres for konsumenter gjennom hendelseslister. &#xD;&#xA;En hendelse som fører til en notfikasjon vil typisk være en endring i et datasett av relevans for konsumentene av hendelseslisten."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

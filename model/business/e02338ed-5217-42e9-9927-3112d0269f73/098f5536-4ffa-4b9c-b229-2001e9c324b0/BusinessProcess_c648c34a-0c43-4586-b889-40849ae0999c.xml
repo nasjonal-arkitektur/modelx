@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende tilsaynsrapport til tilsynsobjekt"
+    id="c648c34a-0c43-4586-b889-40849ae0999c"
+    documentation="Tilsynsrapporten sendes til tilsynsobjektet for oppfølging. &#xD;&#xA;Tilsynsobjektet skal rette opp de avviksforhold som er avdekket, og melde tilbake til Legemiddelverket når avvikene er utbedret.&#xA;Tilsynsobjekt har mulighet til å klage på enkeltvedtakene fra tilsynsrapporten&#xA;Frist fra EU er at compliance skal avgjøres innen 90 dager.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

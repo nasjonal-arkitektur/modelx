@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ordrehåndtering"
+    id="a41bc31e-a6ce-413f-86df-3371641a183d"
+    documentation="Ability to place, settle, match, and otherwise manage a request by one party to another to buy, sell, or exchange financial instruments or other goods or services.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ordrehåndtering"/>
+  <properties
+      key="difi:name_en"
+      value="Order Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to place, settle, match, and otherwise manage a request by one party to another to buy, sell, or exchange financial instruments or other goods or services."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to place, settle, match, and otherwise manage a request by one party to another to buy, sell, or exchange financial instruments or other goods or services."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevaringspliktig informasjon som skal arkiveres løpende"
+    id="84e9c872-d23e-4e44-8463-0ed2f6e9ee74">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

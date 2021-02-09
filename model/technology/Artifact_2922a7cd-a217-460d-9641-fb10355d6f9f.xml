@@ -1,0 +1,8 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROS"
+    id="2922a7cd-a217-460d-9641-fb10355d6f9f">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Artifact>

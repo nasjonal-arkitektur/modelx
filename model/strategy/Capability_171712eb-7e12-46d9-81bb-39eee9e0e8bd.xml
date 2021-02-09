@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Høyere utdanning"
+    id="171712eb-7e12-46d9-81bb-39eee9e0e8bd">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

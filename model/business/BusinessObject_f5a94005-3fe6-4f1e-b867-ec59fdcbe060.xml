@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisasjonsdata"
+    id="f5a94005-3fe6-4f1e-b867-ec59fdcbe060"
+    documentation="Data som autoriserer konsument, f.eks. påstander i en sikkerhetsbillett.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessObject>

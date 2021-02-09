@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell overvåking av filmappeoverføringer"
+    id="e92eece7-0b8f-43a8-bb5c-6900837c15bc"
+    documentation="Det forekommer feil ved overføringer av bivirkningsmeldinger. Dette må overvåkes manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

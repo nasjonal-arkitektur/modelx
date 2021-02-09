@@ -1,0 +1,16 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiering av tidsstyrte jobber"
+    id="acd70e26-e4f6-4e46-8f5f-e08e523715de"
+    documentation="Apollon initierer tidsstyrte jobber som følger:&#xD;&#xA;- Import strukturert dosering fra Helsedirektoratet&#xD;&#xA;- Import av handelsvarer inkl refusjon fra HELFO&#xD;&#xA;- Import av grunndata fra Athene&#xD;&#xA;- Generering av FEST-data&#xD;&#xA;- Publisering av FEST-data">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7479c10e-23d8-4cb5-a1aa-70ecd95763f5.xml#7479c10e-23d8-4cb5-a1aa-70ecd95763f5"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f2e2c59f-18d7-4766-bc71-313312702d42.xml#f2e2c59f-18d7-4766-bc71-313312702d42"/>
+</archimate:TriggeringRelationship>

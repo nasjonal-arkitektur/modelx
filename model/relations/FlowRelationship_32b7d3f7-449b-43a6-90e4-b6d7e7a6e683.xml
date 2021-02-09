@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Det er søkt om OTC"
+    id="32b7d3f7-449b-43a6-90e4-b6d7e7a6e683"
+    documentation="OTC = Over The Counter&#xD;&#xA;medikamenter som er reseptfrie">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_aa5f046a-3c0f-4c13-be2b-0a12cab1930a.xml#aa5f046a-3c0f-4c13-be2b-0a12cab1930a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2977740c-722f-4d87-adae-60ca0f7d780b.xml#2977740c-722f-4d87-adae-60ca0f7d780b"/>
+</archimate:FlowRelationship>

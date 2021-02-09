@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknader"
+    id="9b8ae20e-d608-4450-9f95-d4e0a3e49e28"
+    documentation="Alle søknader knyttet til apotekforvaltning&#xD;&#xA;- Apotekkonsesjon (eieren)&#xD;&#xA;- Driftskonsesjoner (apotekeren)&#xD;&#xA;- osv.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2aa5134d-fab8-487f-8089-c26e3ae2c200.xml#2aa5134d-fab8-487f-8089-c26e3ae2c200"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_98b26528-1a59-4209-b864-be37fa3ab41e.xml#98b26528-1a59-4209-b864-be37fa3ab41e"/>
+</archimate:FlowRelationship>

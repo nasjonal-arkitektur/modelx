@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SharePoint - Legemiddelverket.no"
+    id="7adf3432-9405-4603-9a27-df0cf4d9d68d"
+    documentation="SharePoint-instans som driftes av direktoratet for eHelse">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

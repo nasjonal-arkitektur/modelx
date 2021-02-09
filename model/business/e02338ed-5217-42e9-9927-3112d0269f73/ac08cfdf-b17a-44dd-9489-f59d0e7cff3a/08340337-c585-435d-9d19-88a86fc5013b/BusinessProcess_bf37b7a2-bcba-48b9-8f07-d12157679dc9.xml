@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registere ATC-kode"
+    id="bf37b7a2-bcba-48b9-8f07-d12157679dc9"
+    documentation="ATC-kode (Anatomical Therapeutic Chemical Classification System) er det klassifiseringssystemet man har valgt å basere seg på i VigiNor. EUDRAVIGILANCE benytter et annet klassifiseringssystem, som medfører at alle meldinger om bivirkning må påføres ATC-kode.&#xD;&#xA;Dette gjøres manuelt.&#xA;&#xA;På sikt vil det kommer robotisering av denne arbeidsoppgaven slik at den ikke lenger vil måtte gjøres manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

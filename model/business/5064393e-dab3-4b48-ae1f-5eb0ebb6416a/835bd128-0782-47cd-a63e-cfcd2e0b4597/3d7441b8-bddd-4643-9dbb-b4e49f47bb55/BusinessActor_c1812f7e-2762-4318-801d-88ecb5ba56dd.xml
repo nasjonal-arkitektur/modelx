@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn (forsyningskjeden) (lag)"
+    id="c1812f7e-2762-4318-801d-88ecb5ba56dd"
+    documentation="Føre tilsyn med forsyningskjeden (GMP, GDP, GCP, GVP, blod, celler og vev, prekursor, apotek, LUA). Regelverksfortolkning/besvare henvendelser, Håndtere kvalitetssvikt (jf compilation), Regelverksutvikling,representere i nasjonale/internasjonale fora, håndtere meldinger om forfalskninger, rådgivning/møter med bransjen.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

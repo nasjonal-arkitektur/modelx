@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melde om man ønsker at søknad skal gokjennes/avslås"
+    id="e58e7a49-3fec-46dc-a875-740eaa9a2089">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

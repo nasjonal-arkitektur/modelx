@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIAMED Dashboard for NCAs (H+V)"
+    id="df0ef45b-732f-48e4-a849-680ebb2d9f21"
+    documentation="The   National   Competent   Authorities   can   benefit   from   having   access   to   procedure data from the European Agency's product data base SIAMED.The    data    comes    from    the    Agency's    centrally    maintained    procedure    management  tracking  database:  SIAMED.  The  data  is  uploaded  frequently,  so  there is only a delay of up to ½ hour between updates in the SIAMED database and being available in the Dashboard.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

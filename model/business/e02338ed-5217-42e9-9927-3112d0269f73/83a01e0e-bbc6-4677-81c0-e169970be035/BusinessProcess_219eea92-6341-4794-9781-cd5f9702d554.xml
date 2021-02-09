@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide metodevarsel"
+    id="219eea92-6341-4794-9781-cd5f9702d554"
+    documentation="Metodevarsel er en kort beskrivelse av legemiddelets bruksområde og forventet plassering i behandlingstilbudet.&#xD;&#xA;Som en del av prosessen vurderes aktuelt metodevurderingsforlkøp, som underbygger metodevarselet.&#xD;&#xA;&#xD;&#xA;Helsedirektoratet deltar i prosessen gjennom fastsetting av finansieringsansvar.&#xD;&#xA;Folkeholseinstituttet deltar i utarbeidingen av metodevarselet.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

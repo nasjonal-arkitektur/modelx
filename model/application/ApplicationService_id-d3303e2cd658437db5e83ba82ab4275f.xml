@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere API i UHF sektoren"
+    id="id-d3303e2cd658437db5e83ba82ab4275f">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

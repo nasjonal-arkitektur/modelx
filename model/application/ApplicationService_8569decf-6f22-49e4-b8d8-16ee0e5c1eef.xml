@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regeltjeneste"
+    id="8569decf-6f22-49e4-b8d8-16ee0e5c1eef">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

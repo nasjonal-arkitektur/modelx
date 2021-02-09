@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta respons fra MT-søker (dag 145-160)"
+    id="1e1e8b34-74aa-4c74-b343-387bbcf935a7"
+    documentation="Respons på kommentarer og spørsmål sendes på ePost til alle impliserte parter (MT-søker, RMS og CMS). ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

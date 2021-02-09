@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraGMP del av EudraGMDP"
+    id="32fadec1-be74-4dd1-9902-713ba6df2f87"
+    documentation="EudraGMP er en del av EudraGMDP">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_741ccc89-9434-4a35-ab9a-df3c4e032a68.xml#741ccc89-9434-4a35-ab9a-df3c4e032a68"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1890827a-a1de-483e-b966-3bacd12418fa.xml#1890827a-a1de-483e-b966-3bacd12418fa"/>
+</archimate:AssociationRelationship>

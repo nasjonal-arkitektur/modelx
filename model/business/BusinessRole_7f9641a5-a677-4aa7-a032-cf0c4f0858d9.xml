@@ -1,0 +1,37 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverandør"
+    id="7f9641a5-a677-4aa7-a032-cf0c4f0858d9"
+    documentation="Den som selger eller leverer tjenester, systemer eller lignende. Tjenesteleverandører vil normalt representere en behandlingsansvarlig og også ha rollen som databehandler.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Leverandør"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

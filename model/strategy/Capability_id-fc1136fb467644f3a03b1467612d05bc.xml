@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi notifikasjoner"
+    id="id-fc1136fb467644f3a03b1467612d05bc">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

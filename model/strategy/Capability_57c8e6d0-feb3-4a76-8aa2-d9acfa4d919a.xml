@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å dele data etter henvendelse"
+    id="57c8e6d0-feb3-4a76-8aa2-d9acfa4d919a"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å vurdere hvordan dataene skal deles, hvilken teknisk løsning som skal benyttes, hvordan dataene skal tilrettelegges for konsument og hvordan skal tilgang til dataene håndteres. Skal dataen leveres som enkeltleveranse eller skal det være en fast leveranse &#xD;&#xA;&#xD;&#xA;Kompetanse på hvordan prising av leveransene skal håndteres, samt hvilke kostnader til datatilbyder skal eventuelt dekkes av konsument&#xD;&#xA;&#xD;&#xA;Datatilbyder må evne å bestemme detaljeringsgrad på dataene&#xD;&#xA;&#xD;&#xA;Krav til sikkerhet ved deling av data må kunne ivaretas&#xD;&#xA;&#xD;&#xA;Krav til personvern må ivaretas, samt eventuelle krav i forhold til andre skjermingsverdige opplysninger  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for å dele data etter henvendelse&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å dele data etter henvendelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må evne å vurdere hvordan dataene skal deles, hvilken teknisk løsning som skal benyttes, hvordan dataene skal tilrettelegges for konsument og hvordan skal tilgang til dataene håndteres. Skal dataen leveres som enkeltleveranse eller skal det være en fast leveranse &#xD;&#xA;&#xD;&#xA;Kompetanse på hvordan prising av leveransene skal håndteres, samt hvilke kostnader til datatilbyder skal eventuelt dekkes av konsument&#xD;&#xA;&#xD;&#xA;Datatilbyder må evne å bestemme detaljeringsgrad på dataene&#xD;&#xA;&#xD;&#xA;Krav til sikkerhet ved deling av data må kunne ivaretas&#xD;&#xA;&#xD;&#xA;Krav til personvern må ivaretas, samt eventuelle krav i forhold til andre skjermingsverdige opplysninger  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for å dele data etter henvendelse&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

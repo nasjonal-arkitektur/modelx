@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filshare - L: CESP"
+    id="e396a301-238d-4226-a0c1-fbbf61acad15"
+    documentation="Filområde hvor søknader som kommer via innsendingsportalen CESP blir lastet ned.&#xD;&#xA;Lastes ned som push-melding i zip-format&#xD;&#xA;Leveransemelding sendes til funksjonelle postkasse CESP@legemiddelverket.no&#xD;&#xA;&#xD;&#xA;Søknadsdokumenter fra CESP blir flyttet til Castor/SAN og utvalgte saksdokumenter lastet inn i SAM eller 360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

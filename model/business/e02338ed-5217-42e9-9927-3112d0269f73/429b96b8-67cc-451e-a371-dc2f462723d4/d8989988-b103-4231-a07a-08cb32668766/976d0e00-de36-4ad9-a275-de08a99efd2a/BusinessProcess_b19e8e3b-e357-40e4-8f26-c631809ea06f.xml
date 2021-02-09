@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminer prosess"
+    id="b19e8e3b-e357-40e4-8f26-c631809ea06f"
+    documentation="Dersom CMS og RMS er uenige om MT-søknaden kan godkjennes eller ikke. Dvs. dersom RMS er negativ og CMS er positiv, kan MT-søker be om referral - dvs. revurdering av søknaden.&#xD;&#xA;Dersom utfallet av behandlingen er negativ, termineres prosessen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

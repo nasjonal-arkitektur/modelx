@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valideringsfase (14 dager)"
+    id="a336d6bd-8171-4097-8894-14c2c8240eaa"
+    documentation="Alle involverte land validerer søknaden (både RMS og CMS).&#xD;&#xA;Dersom ingen har registrert søknaden som invalid i CTS etter 14 dager, er den automatisk godkjent.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

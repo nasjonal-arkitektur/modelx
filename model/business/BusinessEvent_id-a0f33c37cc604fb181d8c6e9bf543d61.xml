@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endring av kildedata"
+    id="id-a0f33c37cc604fb181d8c6e9bf543d61">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessEvent>

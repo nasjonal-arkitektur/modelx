@@ -1,0 +1,36 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadistribusjon"
+    id="0f0c2984-4e93-43d1-a773-076ab41942cb"
+    documentation="Synomym to dcat:Distribution ref.  https://w3c.github.io/dxwg/dcat/#Class:Distribution&#xD;&#xA;&#xD;&#xA;Definition: A specific representation of a dataset. A dataset might be available in multiple serializations that may differ in various ways, including natural language, media-type or format, schematic organization, temporal and spatial resolution, level of detail or profiles (which might specify any or all of the above)">
+  <properties
+      key="difi:abstractionLevel"
+      value="instance"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="dct:type"
+      value="archi:artifact"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datadistribusjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Synomym to dcat:Distribution ref.  https://w3c.github.io/dxwg/dcat/#Class:Distribution&#xD;&#xA;&#xD;&#xA;Definition: A specific representation of a dataset. A dataset might be available in multiple serializations that may differ in various ways, including natural language, media-type or format, schematic organization, temporal and spatial resolution, level of detail or profiles (which might specify any or all of the above)"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Artifact>

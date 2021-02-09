@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamodellering"
+    id="9cd4b98b-c59d-4b32-8b16-b3eb89a5b84b"
+    documentation="Data Modeling and Design is the process of discovering, analyzing, representing, and communicating data requirements in a precise form called the data model. ">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datamodellering"/>
+  <properties
+      key="difi:name_en"
+      value="Data Modelling &amp; Design"/>
+  <properties
+      key="difi:description_no"
+      value="Data Modeling and Design is the process of discovering, analyzing, representing, and communicating data requirements in a precise form called the data model. "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

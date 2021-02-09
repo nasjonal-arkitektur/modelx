@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Octopus Deploy"
+    id="9a9abfdb-8395-43d2-bd13-9e6b8f4714a4"
+    documentation="Utrullingssystem som automatisk ruller ut SLV sine applikasjoner. Systemet er basert på Octopus utrullingsverktøy (https://octopus.com/) med tilpasninger for å sette opp oppsett av nye servere og rulle ut nye versjoner av SLV applikasjoner gjennom kodehåndteringsverktøy. Systemet hostes i Azure og distribuere til de valgte eksterne serverne gjennom Octopus tentakler – gjennom en handling fra driftsleverandør eller systemutviklingsleverandør.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

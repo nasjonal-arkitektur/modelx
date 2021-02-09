@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstyrsleverandør"
+    id="6c8ed2ec-7802-48eb-b8bb-78191c64bebb"
+    documentation="Leverandør av utstyr og kjemikalier til laboratorieanalyse">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

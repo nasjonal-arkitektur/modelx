@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraLink"
+    id="97f4d9c5-246f-4d33-a6af-4c4df2158d48"
+    documentation="Eudralink  is  the  European  medicines  regulatory  networksecure  file-transfer system used for exchanging information for regulatory purposes.&#xD;&#xA;A secure message transfer application for communication between EMEA, EU Member  State drug regulatory agencies and the industry.  Hosted by the EMEA and reachable via https://eudralink.emea.europa.eu/. Requires prior registration of applicants.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

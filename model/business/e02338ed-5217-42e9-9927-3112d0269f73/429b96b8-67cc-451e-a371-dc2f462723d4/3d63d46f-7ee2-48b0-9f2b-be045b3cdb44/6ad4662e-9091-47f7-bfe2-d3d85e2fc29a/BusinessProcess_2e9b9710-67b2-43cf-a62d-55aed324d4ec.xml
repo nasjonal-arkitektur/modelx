@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgjøre om MT-søknad godkjennes eller ikke"
+    id="2e9b9710-67b2-43cf-a62d-55aed324d4ec"
+    documentation="Som en konkluderende handling for hele saksbehandlingen og alle svar og oppdateringer fra MT-søker, tas det en avgjørelse for om søknadsbehandlingen konkluderes positivt eller negativt.&#xD;&#xA;Dersom både RMS og CMS konkluderer positivt - er det dette som blir konklusjonen.&#xD;&#xA;Dersom RMS konkluderer positivt og CMS konkluderer negativt kan saken gåt til referral. CMS ta initiativ til dette.&#xD;&#xA;RMS koordinerer Referral.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

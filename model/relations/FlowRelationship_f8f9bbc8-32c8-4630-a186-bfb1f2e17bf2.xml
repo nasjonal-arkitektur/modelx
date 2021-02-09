@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fakturaunderlag"
+    id="f8f9bbc8-32c8-4630-a186-bfb1f2e17bf2"
+    documentation="SAM sender fakturaunderlag på PDF-format til regnskap (som taster manuelt)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_369703bf-bf99-4d11-90c8-cada8df12180.xml#369703bf-bf99-4d11-90c8-cada8df12180"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e00c6b80-4573-4004-ab47-a0576677995d.xml#e00c6b80-4573-4004-ab47-a0576677995d"/>
+</archimate:FlowRelationship>

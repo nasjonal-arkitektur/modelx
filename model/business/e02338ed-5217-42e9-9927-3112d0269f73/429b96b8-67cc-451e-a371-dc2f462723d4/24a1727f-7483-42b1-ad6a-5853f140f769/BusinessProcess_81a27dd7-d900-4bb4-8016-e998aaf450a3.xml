@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommentering og muntlig forsvar av søknaden"
+    id="81a27dd7-d900-4bb4-8016-e998aaf450a3"
+    documentation="CP Human: Kommentering og muntlig forsvar av søknaden - dag 151-209&#xD;&#xA;Etter hvert som kommentarer på dag 150-rapporten gjøres det avklaringer med søker.&#xD;&#xA;Dersom det avdekkes forhold som tilsier at søknaden kan ende i negativ opinion, gis det muligheter for å kunne forsvare søknaden muntlig. Muntlig høring gjennomføres med CHMP.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

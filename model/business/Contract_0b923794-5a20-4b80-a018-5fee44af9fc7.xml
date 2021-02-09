@@ -1,0 +1,40 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknisk samhandlingsavtale"
+    id="0b923794-5a20-4b80-a018-5fee44af9fc7"
+    documentation="DESCRIPTION:&#xD;&#xA;Technical Interoperability Agreement is the means through which Technical Authorities mandate specific Technical Interoperability Specifications, ensuring organisations (operating under different technical frameworks,&#xD;&#xA;policies and strategies) are able to work together. &#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Technical Interoperability Specification ABB is salient for technical interoperability because it provides an agreed procedure according to assess the characteristics required of a product to support interoperability solutions.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;ETA&#xD;&#xA;The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market.&#xD;&#xA;https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en">
+  <properties
+      key="ID"
+      value="ABB234"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:contract"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Teknisk samhandlingsavtale"/>
+  <properties
+      key="difi:name_en"
+      value="Technical Interoperability Agreement"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Technical Interoperability Agreement is the means through which Technical Authorities mandate specific Technical Interoperability Specifications, ensuring organisations (operating under different technical frameworks,&#xD;&#xA;policies and strategies) are able to work together. &#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Technical Interoperability Specification ABB is salient for technical interoperability because it provides an agreed procedure according to assess the characteristics required of a product to support interoperability solutions.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;ETA&#xD;&#xA;The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market.&#xD;&#xA;https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Contract>

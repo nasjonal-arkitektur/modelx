@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide produkstrategi / nivå for metodevurdering"
+    id="96dc689a-e5b1-4053-b746-435f8c86dbd6"
+    documentation="Produktstrategien, i den grad det er offentlig, er at man foreslår et nivå på metodevurderingen.&#xD;&#xA;I selve varselet skriver man et forslag til nivå, dette er basert på produktstrategien, som utarbeides parallelt med metodevarselet.&#xD;&#xA;Vurdere metodevurderingsløp i produktstrategien, dette gjøres parallelt med metodevarselet. Bestillerforum er de som avgjør nivået.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

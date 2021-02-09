@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEK - Sikkerhet og Effekt kjente virkestoffer (lag)"
+    id="2bda53c1-aee4-4fef-afb5-ce81a4840062"
+    documentation="Ad hoc oppgaver sikkerhet + Vurdering av innsendt dokumentasjon &#xD;&#xA;Effekt/sikkerhet for kjente virkestoffer i alle prosedyrer uavhengig av rolle (- indikasjonsendringer i CP) til mennesker og dyr for:  &#xD;&#xA;1)MT for generika og bibliografiske søknader 2) endringer i SPC   3) fornyelser . Endringer i RMP (utenom PRAC). Fast lag. Når det er store grupperte endringer og MT opprettes det et midlertidlig lag på tvers av endringene.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

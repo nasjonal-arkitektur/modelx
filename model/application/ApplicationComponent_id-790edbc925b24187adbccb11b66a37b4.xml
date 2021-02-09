@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF Oauth2 autorisasjonstjener"
+    id="id-790edbc925b24187adbccb11b66a37b4"
+    documentation="Autorisasjonstjeneter realiserer tilgangskontroll gjennom å utstede OpenID Connect eller OAuth 2 grants og tokens. En autorisasjonstjener er også brukt til å realisere tilgangs policy. &#xD;&#xA;&#xD;&#xA;Scope (rettighet) og Audience (identifikator eller ressurs-server f. eks. FS)&#xD;&#xA;&#xD;&#xA;Per i dag er Scopes er grovkornet&#xD;&#xA;Rich authorization requsts (ny spesifikasjon) for å utvide scope begrep i IETF&#xD;&#xA;underenhet og behandlingssted, behandlingsgrunnlag og roller jobbes det med.">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om klinisk utprøving"
+    id="0cdc5d19-1ac6-4e69-8087-fa37ff847afb"
+    documentation="Dette er en egen søknadsprosess. Den omfatter vurdering av sikkerhet og kvalitet - ikke etikk. &#xD;&#xA;Det er produsenter som sender inn slike søknader - ikke Akademia. EU-regler gir medlemsland muligheter til å ha denne typen mekanisme for å gjøre legemdiler tilgjengelig som er antatt sikre (typisk fase 3) for pasienter som kan får vesentlig forbedret livskvalitet eller forlenget levetid.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

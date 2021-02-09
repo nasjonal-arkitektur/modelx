@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å etablere interne krav og retningslinjer for deling av data"
+    id="9b976789-27fc-4066-ab69-bff4c7def437"
+    documentation="Forklaring:&#xD;&#xA;Internt må virksomheten forankre arbeidet med datadeling og det må settes krav til arbeidet og resultatet av virksomhetens deling av data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Krav til datadeling kan tas inn i virksomhetens planer og strategier. Det bør etableres en beste praksis for deling av data ut av huset som passer med referansearkitekturene for datautveksling.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å etablere interne krav og retningslinjer for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Internt må virksomheten forankre arbeidet med datadeling og det må settes krav til arbeidet og resultatet av virksomhetens deling av data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Krav til datadeling kan tas inn i virksomhetens planer og strategier. Det bør etableres en beste praksis for deling av data ut av huset som passer med referansearkitekturene for datautveksling.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

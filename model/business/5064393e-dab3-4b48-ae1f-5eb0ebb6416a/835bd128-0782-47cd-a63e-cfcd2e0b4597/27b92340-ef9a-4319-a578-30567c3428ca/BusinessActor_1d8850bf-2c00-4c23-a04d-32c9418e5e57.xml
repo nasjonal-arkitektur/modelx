@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veterinærmedisinsk tidsskrift (lag)"
+    id="1d8850bf-2c00-4c23-a04d-32c9418e5e57"
+    documentation="Redaksjonell leveranse til Veterinærtidsskriftet hver mnd. Aktuell saker for landets veterinærer og fiskehelsebiologer">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

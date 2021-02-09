@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantisk samhandlings-spesifikasjon"
+    id="fa01147d-e22f-4a00-a055-95b2d0132698"
+    documentation="Spesifikasjon av metadata, vokubularer, datamodeller og syntaks.&#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB177"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:interoperability_type"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Semantisk samhandlingsspesifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Semantic Interoperability Specification"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk utprøving fase 1, 2, 3"
+    id="9b76daf2-1325-4d83-802a-c374ac7f7b97"
+    documentation="En klinisk utprøving (forskning) gjennomføres for å finne ut hvordan et legemiddel virker, hvilke bivirkninger det har, og hvordan det omsettes i kroppen. Legemidlene som undersøkes kan både være nye legemidler, og godkjente legemidler som allerede selges i Norge.&#xA;Fase 1-studier gjennomføres i labratoriet (eksperimenter eller på dyr)&#xA;Fase 2-studier foregår på friske mennesker&#xA;Fase 3-studier foregår på et utvalg pasienter">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

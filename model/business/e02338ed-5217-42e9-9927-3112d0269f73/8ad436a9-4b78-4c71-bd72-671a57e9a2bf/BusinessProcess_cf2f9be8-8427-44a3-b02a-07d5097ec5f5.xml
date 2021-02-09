@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Velge preparater med nasjonal MT for analyse"
+    id="cf2f9be8-8427-44a3-b02a-07d5097ec5f5"
+    documentation="Som en del av underlaget til årsplanen for Lab, velges aktuelle preparater med nasjonal MT for analyse. Det er relativt begrenset antall preparater med nasjonal godkjenning - de fleste er innen fiskehelse.&#xD;&#xA;Utvalget går inn på listen over preparater som igjen legges inn årsplanen og prioriteres.&#xD;&#xA;&#xD;&#xA;Legemiddelverket velger selv hvilke generika-preparater som skal undersøkes. Det finnes en felles database (MRP-databasen), slik at man kan unngå å gjøre analyser som andre har gjort før. &#xD;&#xA;I denn prosessen sammenlignes generika og originalpreparater.&#xD;&#xA;Som en del av prosessen tilbyr SLV å teste det aktuelle produktet for de andre landene. &#xD;&#xA;Utvalgte preparater legges inn i totallisten og prioriteres og planlegges som en en del av totallisten for året.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

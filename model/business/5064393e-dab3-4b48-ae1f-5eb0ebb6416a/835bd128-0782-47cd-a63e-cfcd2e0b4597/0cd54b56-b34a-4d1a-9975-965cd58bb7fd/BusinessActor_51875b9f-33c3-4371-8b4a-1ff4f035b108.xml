@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST (elektronisk forskrivningsstøtte) (lag)"
+    id="51875b9f-33c3-4371-8b4a-1ff4f035b108"
+    documentation="Drift og utvikling av Fest, filflyt, kvalitetssikre Athene">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

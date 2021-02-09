@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknader om godkjenningsfritak"
+    id="4c9052db-ab43-43e0-b6ec-f2cc8190a042"
+    documentation="For å bruke legemidler uten markedsføringstillatelse i Norge må forskrivere søke om godkjenningsfritak (også kalt registreringsfritak). I slike tilfeller tar forskriver på seg et særskilt ansvar for at bruken er forsvarlig. Godkjenningsfritak kan gis for:&#xA;- et bestemt legemiddel til enkeltpasient, eller&#xA;- et bestemt legemiddel som skal brukes i rekvirentens praksis eller på sykehusavdeling/poliklinikk&#xA;&#xA;En søknad for sykehus gjelder for en hel avdeling/poliklinikk og trenger derfor underskrift fra overlegen. Sykehussøknader sendes per i dag som papirsøknader.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

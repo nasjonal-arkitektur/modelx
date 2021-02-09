@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitet"
+    id="483de5d9-b26e-44bd-ac6f-39ebec977cad"
+    documentation="Evnen til å sikre et mer brukerorientert tjenestetilbud, satsning på systematisk kvalitetsforbedring, bedre (informasjons)sikkerhet og færre uønskede hendelser.">
+  <properties
+      key="Kilde"
+      value="Nasjonal IKT"/>
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST 2.5 (Generatorcaache)"
+    id="3a3c01e1-e548-4844-9752-e5cac80fb410"
+    documentation="Lokal cache for FEST-generatoren. Databasen har ulike skjemaer &#xD;&#xA;REPL - Her legges rådata&#xD;&#xA;DBO - Samme med constraints&#xD;&#xA;&#xD;&#xA;Man kan oppdage feil i importen, som må håndteres manuelt">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

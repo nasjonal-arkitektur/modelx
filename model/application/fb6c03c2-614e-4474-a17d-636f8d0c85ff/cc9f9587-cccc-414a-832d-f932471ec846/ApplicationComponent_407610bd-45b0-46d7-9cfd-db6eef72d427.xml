@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treeage"
+    id="407610bd-45b0-46d7-9cfd-db6eef72d427"
+    documentation="Treeage er et program for modellering og analyse av regnskapstall. &#xD;&#xA;&#xD;&#xA;Legemiddeløkonomi mottar regnskapsdata i filformat som importeres til Treeage.&#xD;&#xA;Programmet har mange lignende funksjoner som Excel, men gir mye bedre mulighet til å visualisere regnskapsdataene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

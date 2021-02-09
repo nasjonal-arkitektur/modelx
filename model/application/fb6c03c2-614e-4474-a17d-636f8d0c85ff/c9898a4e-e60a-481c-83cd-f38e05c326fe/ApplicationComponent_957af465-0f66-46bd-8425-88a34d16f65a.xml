@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farmalogg"
+    id="957af465-0f66-46bd-8425-88a34d16f65a"
+    documentation="Apotekforeningen og de tre grossistene Alliance Healthcare Norge AS, Apotek 1 Gruppen AS og Norsk Medisinaldepot AS inngikk i mai 2001 en avtale om et felles vareregister for apotekbransjen. Vareregisteret omfatter med få unntak alle varer som omsettes i apotek, og det inneholder opplysninger som er nødvendig for sikker og effektiv håndtering av varen i hele verdikjeden fra produsent/leverandør, via grossist og detaljist, til sluttbruker. &#xD;&#xA;&#xD;&#xA;Farmalogg har ansvaret for driften av Vareregisteret, og videreselger registeret til sluttbrukere i bransjen (f.eks. apotek og statistikkfirma). Selskapet er et aksjeselskap heleid av Apotekforeningen.&#xD;&#xA;&#xD;&#xA;Driften av Vareregisteret skjer i nært samarbeid med legemiddelgrossistene, Statens legemiddelverk, HELFO og WHO Collaborating Centre for Drugs Statistics Methodology. Opplysningene om varene i Vareregisteret bearbeides på datafiler som sendes mellom samarbeidspartnerne.&#xD;&#xA;&#xD;&#xA;Informasjon fra Vareregisteret benyttes også i Legemiddelverkets database FEST .&#xD;&#xA;&#xD;&#xA;Vareregisteret oppdateres den 1. og den 15. hver måned og distribueres til apotek, grossister og andre abonnenter.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

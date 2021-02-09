@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta prisopplysninger"
+    id="0147b4b4-cfaa-4afa-a9e6-517da002e49e"
+    documentation="Svar fra MT-innehaver registreres i P360, og markeres som mottatt i periodearket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,10 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisering av produkt"
+    id="f80edb63-c2e3-4058-97a2-9ea4943376fc"
+    documentation="Medisinsk utstyr (ØMU) inndeles i følgende risikoklasser&#xA;* Klasse I (men med særskilte krav når utstyret er sterilt (Is) eller har en målefunksjon (Im))&#xA;* Klasse IIa&#xA;* Klasse IIb&#xA;* Klasse III&#xA;&#xA;Klassifiseringen avspeiler:&#xA;* risikoen som er forbundet med bruk&#xA;* sårbarheten av de legemsdelene utstyret skal brukes på&#xA;* varighet av bruken"
+    type="or">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Junction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Athene - Database"
+    id="6b21ad58-13bd-4e00-b7c7-481ddc44fc71"
+    documentation="Athenedatabsen har ulike skjemare.&#xD;&#xA;&#xD;&#xA;Databasen omfatter tabbeler og views for ulike formål&#xD;&#xA;- Legemiddelsøk&#xD;&#xA;- FEST versjon 2.5&#xD;&#xA;- FEST versjon 2.5.1">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

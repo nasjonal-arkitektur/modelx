@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kan skje"
+    id="32e4b7b3-8792-4f0a-95f1-49f33ffba37c">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_306c65c9-bd4f-4f8c-8b5e-f9275d6df8f0.xml#306c65c9-bd4f-4f8c-8b5e-f9275d6df8f0"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4d1370eb-63f8-4d9b-8ae1-fd7326e5352e.xml#4d1370eb-63f8-4d9b-8ae1-fd7326e5352e"/>
+</archimate:FlowRelationship>

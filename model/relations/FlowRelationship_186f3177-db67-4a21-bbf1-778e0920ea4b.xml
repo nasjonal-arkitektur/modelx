@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="estimerer og rapporterer"
+    id="186f3177-db67-4a21-bbf1-778e0920ea4b">
+  <properties
+      key="label"
+      value="estimerer\nog\nrapporterer"/>
+  <properties
+      key="dct:type"
+      value="archi:flow-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="estimerer og rapporterer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_9efb9481-a4e1-40d6-919b-5ff8538efaad.xml#9efb9481-a4e1-40d6-919b-5ff8538efaad"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_6c7c4788-4816-4f4c-b943-66852c0dbc68.xml#6c7c4788-4816-4f4c-b943-66852c0dbc68"/>
+</archimate:FlowRelationship>

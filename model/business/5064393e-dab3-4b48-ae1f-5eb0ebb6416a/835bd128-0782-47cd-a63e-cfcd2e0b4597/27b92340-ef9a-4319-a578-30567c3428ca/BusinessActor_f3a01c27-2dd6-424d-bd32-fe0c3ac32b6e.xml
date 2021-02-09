@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nøkkelbrukere Eurs (lag)"
+    id="f3a01c27-2dd6-424d-bd32-fe0c3ac32b6e"
+    documentation="Brukerveiledning og oppdateringer">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godta"
+    id="578e4ae1-948e-4b70-a4d9-bd33b1942293"
+    documentation="Legemiddelverket godtar tillatelse">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_cb86b8ef-233e-403f-aa63-372446084ae7.xml#cb86b8ef-233e-403f-aa63-372446084ae7"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_660f31fc-f547-4250-83d3-18b2a86bd69f.xml#660f31fc-f547-4250-83d3-18b2a86bd69f"/>
+</archimate:FlowRelationship>

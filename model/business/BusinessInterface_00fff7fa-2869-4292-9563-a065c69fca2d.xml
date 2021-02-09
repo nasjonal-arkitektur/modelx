@@ -7,7 +7,7 @@
       value="archi:business-interface"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="sbb"/>
@@ -32,11 +32,4 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="00fff7fa-2869-4292-9563-a065c69fca2d"/>
 </archimate:BusinessInterface>

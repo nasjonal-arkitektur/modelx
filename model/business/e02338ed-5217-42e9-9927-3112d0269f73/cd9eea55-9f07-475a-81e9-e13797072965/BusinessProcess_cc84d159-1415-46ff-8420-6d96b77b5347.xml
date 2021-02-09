@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samle og dokumentere resultater"
+    id="cc84d159-1415-46ff-8420-6d96b77b5347"
+    documentation="Resultater fra klinisk utprøving og evaluering samt annen produktinformasjon samles og struktureres før man søker om CE-merking for utstyret. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

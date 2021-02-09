@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å motta data etter henvendelse til datatilbyder"
+    id="7960fb04-73cc-4b53-ba99-17e9c72e1f9d"
+    documentation="Forklaring:&#xD;&#xA;Konsument må vite hvordan dataene skal mottas og brukes. &#xD;&#xA;&#xD;&#xA;Krav i eventuell utleveringsavtale må følges. Spesielt krav til sikkerhet må ivaretas, samt krav til håndtering av personopplysninger og andre skjermingsverdige data&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Rutiner for riktig behandling av data i henhold til utleveringsavtale. Dette gjelder spesielt sikkerhet, samt riktig behandling av personopplysninger og andre skjermingsverdige data  &#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å motta data etter henvendelse til datatilbyder"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Konsument må vite hvordan dataene skal mottas og brukes. &#xD;&#xA;&#xD;&#xA;Krav i eventuell utleveringsavtale må følges. Spesielt krav til sikkerhet må ivaretas, samt krav til håndtering av personopplysninger og andre skjermingsverdige data&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Rutiner for riktig behandling av data i henhold til utleveringsavtale. Dette gjelder spesielt sikkerhet, samt riktig behandling av personopplysninger og andre skjermingsverdige data  &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

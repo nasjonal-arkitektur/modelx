@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende formel søknad om klinisk utprøving til hvert medlemsland"
+    id="06b87a78-b224-45ba-950a-5b0353c62b6f">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

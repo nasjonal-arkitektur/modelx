@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innspill til Syserapporten (lag)"
+    id="68d90b9a-12f8-4b4f-a0f7-e4baf58babab"
+    documentation="Utarbeidelse av forslag til innspill til Syserapporten vedrørende reguleringen av privatimport av legemidler">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakvalitet"
+    id="989102a1-8a3c-49b0-b9fe-eaae5314bda3"
+    documentation="Data Quality includes the planning and implementation of quality management techniques to measure, assess, and improve the fitness of data for use within an organization.">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datakvalitet"/>
+  <properties
+      key="difi:name_en"
+      value="Data Quality"/>
+  <properties
+      key="difi:description_no"
+      value="Data Quality includes the planning and implementation of quality management techniques to measure, assess, and improve the fitness of data for use within an organization."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

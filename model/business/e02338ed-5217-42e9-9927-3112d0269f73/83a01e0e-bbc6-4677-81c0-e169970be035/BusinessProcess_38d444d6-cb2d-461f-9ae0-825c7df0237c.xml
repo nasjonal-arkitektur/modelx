@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluering: prioriteringskriterier oppfylt?"
+    id="38d444d6-cb2d-461f-9ae0-825c7df0237c"
+    documentation="Prioriteringsmeldingen har kommet frem til tre kriterier som skal vurderes samlet hvis det offentlige skal finansiere bruken av et nytt legemiddel:&#xA;- Nyttekriteriet&#xA;- Ressurskriteriet&#xA;- Alvorlighetskriteriet&#xA;Dersom prioriteringskriteriene er oppfylt for en pasientgruppe innvilges det forhåndsgodkjent refusjon, eller det åpnes for at legen kan søke om individuell stønad. &#xA;Prioriteringskriteriene skal vurderes samlet og veies mot hverandre. Jo mer alvorlig en tilstand er eller jo større nytte et tiltak har, jo høyere ressursbruk kan aksepteres. Lav alvorlighet og begrenset nytte av et tiltak kan bare forsvares hvis ressursbruken er lav.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

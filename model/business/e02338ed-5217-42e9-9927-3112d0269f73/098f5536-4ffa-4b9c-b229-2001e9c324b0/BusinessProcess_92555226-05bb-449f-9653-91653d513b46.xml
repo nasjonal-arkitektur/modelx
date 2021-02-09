@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import av medikament"
+    id="92555226-05bb-449f-9653-91653d513b46"
+    documentation="Import fra land utenfor EØS-området krever vanligvis tilvirkertillatelse.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

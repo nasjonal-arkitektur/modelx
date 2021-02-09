@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre helseaktører"
+    id="a9b776ef-8034-4f86-a338-aa457cb457cd">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

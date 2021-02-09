@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Område legemiddelbruk"
+    id="4935427b-2ee4-4b9f-9fe9-c8201aae663c"
+    documentation="Ansvarsområde: Oppfølging av legemiddel etter marknadsføringsløyve, sikkerheit, produktinformasjon, prisar, apotekøkonomi, forskrivingsstøtte, råd til helsepersonell.&#xD;&#xA;&#xD;&#xA;På dette området skal vi bidra til at legemiddel blir brukt riktig med utgangspunkt i kva behov pasientar, helsepersonell og samfunn har.&#xD;&#xA;&#xD;&#xA;​Området har i hovudsak ansvar for prosessar knytt til legemiddeltryggleik, epidemiologi, produktinformasjon, legemiddelinformasjon, FEST, apotekøkonomi, prisregulering, privatimport og godkjenningsfritak. Området er delt inn i fem einingar.">
+  <properties
+      key="Stereotype"
+      value="Område"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

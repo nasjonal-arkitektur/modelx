@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell innlegging av sak"
+    id="6256b07a-98b9-47b9-bd41-23242823b2e9"
+    documentation="Enkelte søknadstyper er ikke støttet i SAM, og må legges inn manuelt - f.eks. Ny MT veterinær">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e396a301-238d-4226-a0c1-fbbf61acad15.xml#e396a301-238d-4226-a0c1-fbbf61acad15"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eca9ad78-84a7-4212-8396-876bcb6a0cd5.xml#eca9ad78-84a7-4212-8396-876bcb6a0cd5"/>
+</archimate:FlowRelationship>

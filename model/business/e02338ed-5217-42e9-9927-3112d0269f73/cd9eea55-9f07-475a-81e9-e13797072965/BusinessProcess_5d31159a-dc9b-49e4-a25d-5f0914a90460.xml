@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk utprøving fase 1, 2 og 3"
+    id="5d31159a-dc9b-49e4-a25d-5f0914a90460"
+    documentation="For alt medisinsk utstyr skal det foreligge klinisk evaluering. Klinisk evaluering er en kontinuerlig prosess som innebærer vurdering av kliniske data knyttet til utstyret for å avgjøre hvorvidt utstyret oppfyller regelverkets krav til klinisk ytelse og sikkerhet. En klinisk evaluering kan baseres på data fra klinisk utprøving av utstyret og/eller på klinisk dokumentasjon fra ekvivalent utstyr.&#xA;&#xA;Klinisk utprøving av medisinsk utstyr skal meldes til Legemiddelverket minst 60 dager før planlagt oppstart. Legemiddelverket må gi en tillatelse før utprøvingen kan startes opp.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

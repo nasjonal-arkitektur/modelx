@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta forespørsel om notifikasjoner"
+    id="a97f3cb3-de83-4251-8865-799f03946331"
+    documentation="Motta forespørsler fra konsument om å avgi notifikasjoner.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

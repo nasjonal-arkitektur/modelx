@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMA Peer Review"
+    id="4a70e149-5762-4822-8fc4-76d1e39b5c8b"
+    documentation="CP Human - Ordinær: EMA Peer Review - dag 91-100&#xD;&#xA;CP Human - Akselerert: EMA Peer Review - varighet 45 dager (i stedet for 80)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Peer Reviewer er utpekt av EMA, og gjennomfører QA på utredningsrapportene og de innkomne kommentarene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

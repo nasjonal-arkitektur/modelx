@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisert hendelsesliste"
+    id="6aac0cd3-c219-4507-b5b8-89874cac1e0c"
+    documentation="Hendelsesliste som eksponeres for konsument. En tilbyder kan tilby flere hendelselister i parallell f.eks. med ulike temaer og for konsumenter med ulike rettigheter.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

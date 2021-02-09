@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EUDAMED - Brukergrensesnitt"
+    id="0bebf4c2-37e8-467c-a97d-eaafac7230ea">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ofte formatfeil i søknadene"
+    id="c36de472-cbf5-4eee-ad61-4b404d4ec7ec"
+    documentation="Søknad om makspris kommer i form av et Excel regneark med mange ulike prisverdier angitt.&#xD;&#xA;Det kommer ofte data i feil format i søknadene som mottas, slik at man ofte må inn og manuelt rette på dette for å kunne importere søknaden til Athene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

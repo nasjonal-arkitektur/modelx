@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksterne oppdragsgivere"
+    id="befd3f8b-7607-44b4-9448-328da4a32fdb"
+    documentation="Eksterne innmeldere omfatter ulike typer aktører:&#xD;&#xA;* Toll (hovedsaklig knyttet til narkotiske midler)&#xD;&#xA;* Mattilsynet&#xD;&#xA;* Apotek&#xD;&#xA;* Sykehjem&#xD;&#xA;* Regionale legemiddelsentre&#xD;&#xA;* Antidoping Norge&#xD;&#xA;* Leger og tannleger">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere legemidlers kvalitet"
+    id="0e9d79b4-d434-4eee-883d-801dd2cdcb39"
+    documentation="Legemiddelverket har en laboratoriefunksjon som gjennomfører kontroll av legemidlers kvalitet, både som en del av samrabeidet med EDQM og for nasjonale formål.&#xD;&#xA;Laboratoriet samarbeider med laboratorier i andre land. Man utfører analyseoppdrag for hverandre og deler resultater.&#xD;&#xA;&#xD;&#xA;Dette foreågr i hovedsaklig etter at MT er gitt og produktet er ute på markedet&#xD;&#xA;&#x9;• Gjør stikkprøver&#xD;&#xA;&#x9;• Tidligere ga man kontroll før MT - noen land gjør nok dette fortsatt, men ikke Norge&#xD;&#xA;&#x9;• Noen land bestiller stikkprøve&#xD;&#xA;&#xD;&#xA;Sentral prosedyrepreparater - fordeles fra EDQM - står på en liste over hva man kan gjøre ut I fra hvilken metode man skal bruke for å sjekke.&#xD;&#xA;&#xD;&#xA;Når det gjelder generika velger Lab selv ut hvilke preparater de vil undersøke. Har en felles database slik at man slipper å gjøre noe to ganger. Man tar generika og oiginalpreparatene og tilbyr å teste dette for de andre landene. Dette er del av den planlagte analysen (årsplan). det samme gjelder de nasjonale (spesifikt norsk markedsføringstillatelse) - få nye legemidler som bare har nasjonal MT (spesielt innen fiskehelse)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

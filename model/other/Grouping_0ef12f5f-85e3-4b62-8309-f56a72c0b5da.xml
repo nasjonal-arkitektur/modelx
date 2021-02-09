@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Katastrofehåndtering"
+    id="0ef12f5f-85e3-4b62-8309-f56a72c0b5da"
+    documentation="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Katastrofehåndtering"/>
+  <properties
+      key="difi:name_en"
+      value="Incident Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, assign, assess, and track a substantive, serious, unexpected, and sometimes dangerous situation, occurrence, emergency, or potential breach of policy or legislation requiring swift action, involving operations, constituents, bio-organisms, or geographic space."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

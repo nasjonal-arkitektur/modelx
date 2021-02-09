@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teknisk samhandlings-spesifikasjon"
+    id="3c19bf15-21f8-4093-afec-ab22a7a5bbb6"
+    documentation="Spesifikasjon av tekniske kommunikasjonsprotokoller, grensenitt, sikkerhetsmekamismer, tjenestenivå for tilgjengelighet m.m. Eksempel: REST over HTTP for &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB178"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalInteroperabilitySpecification"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:url"/>
+  <properties
+      key="eira:identifier"/>
+  <properties
+      key="eira:body"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Teknisk samhandlings-spesifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Technical Interoperability Specification"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="A specification which lays down the characteristics required of a product such as levels of quality, performance, safety or dimensions, including the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures."/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessObject>

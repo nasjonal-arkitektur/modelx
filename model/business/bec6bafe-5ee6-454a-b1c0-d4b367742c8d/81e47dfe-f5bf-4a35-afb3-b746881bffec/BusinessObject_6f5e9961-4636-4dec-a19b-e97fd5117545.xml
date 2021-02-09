@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M2 - Sammendrag av M3-5 (SPC PV)"
+    id="6f5e9961-4636-4dec-a19b-e97fd5117545"
+    documentation="Synopsis av modul M3, M4 og M5&#xD;&#xA;Modul 2 - Sammendrag (the Quality Overall Summary, the Non-clinical Overview / Summaries, and the Clinical Overview / Summaries)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betinget godkjenning"
+    id="8a0c5ee1-2d3f-43d6-b445-6bb1cf507ea1"
+    documentation="En betinget godkjenning krever at MT-søker får godkjenning under forutsetning av å tilfredsstille definerte krav, slik som f.eks. at man pålegges å gjøre en type 4 klinisk utprøving.&#xD;&#xA;Markedsføringstillatelsen utgår dersom betingelsene ikke oppfylles.&#xD;&#xA;Det er vanlig av Orphan Drugs får denne typen tillatelser.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

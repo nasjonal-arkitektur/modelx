@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avansert terapi (inkludert blod og celleprodukter) innen veterinærmedisin (lag)"
+    id="5be6b984-15e4-49b7-ae89-c8ec2d958234"
+    documentation="Laget for avanserte terapier i veterinærmedisin har som mål å fastsette hvordan Legemiddelverket skal håndtere forespørsler om slike temaer, og på sikt se på muligheten for å fastsette nasjonale hjemler for å håndtere slike legemidler. Per i dag finnes det ikke noe eget regelverk som regulerer dette innen veterinærmedisin, og det er behov for å utarbeide prosedyrer for å håndtere slike henvendelser. Blandt problemstillingene det vil ses nøyere på er import, tilvirkning, rapportering til Legemiddelverket, bivirkningsoppfølgning, blodbanker, omsettning, ansvarsfordeling med Mattilsynet.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

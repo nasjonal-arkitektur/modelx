@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks konfigurasjon"
+    id="1035de18-e342-4e99-85df-07bddec047ed">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationInterface>

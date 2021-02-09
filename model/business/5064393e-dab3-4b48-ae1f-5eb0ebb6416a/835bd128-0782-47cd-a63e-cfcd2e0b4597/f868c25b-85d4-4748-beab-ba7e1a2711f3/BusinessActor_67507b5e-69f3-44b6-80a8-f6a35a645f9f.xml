@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KLUT - Human (lag)"
+    id="67507b5e-69f3-44b6-80a8-f6a35a645f9f"
+    documentation="Vurdere kliniske studier til mennesker&#xD;&#xA;Laget består av ressurser fra&#xD;&#xA;- Regulatorisk&#xD;&#xA;- Preklinikk&#xD;&#xA;- Klinikk&#xD;&#xA;- Kvalitet&#xD;&#xA;- Statistikk">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

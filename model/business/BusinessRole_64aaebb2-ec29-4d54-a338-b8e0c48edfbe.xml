@@ -1,0 +1,38 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-forvalter"
+    id="64aaebb2-ec29-4d54-a338-b8e0c48edfbe"
+    documentation="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="API-forvalter"/>
+  <properties
+      key="difi:description_no"
+      value="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

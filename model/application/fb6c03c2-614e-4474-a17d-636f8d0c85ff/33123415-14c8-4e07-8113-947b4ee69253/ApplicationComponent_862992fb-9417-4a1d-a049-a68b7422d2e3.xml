@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronisk Pasientjournal"
+    id="862992fb-9417-4a1d-a049-a68b7422d2e3"
+    documentation="SLV har 4 EPJ- systemer og et apoteksystem i testversjoner.  &#xD;&#xA;&#xD;&#xA;EPJ: Elektronisk pasientjournalsystem som benyttes av fastleger og private spesialister. Kommuniserer med meldingspartnere i Norsk Helsenett og må oppfylle kravene for å være tilknyttet NHN. Løsningen er satt opp for å kontrollere hvordan varsel fra FEST presenteres i de ulike reseptmodulene. I tillegg er det kontroll av brukergrensesnittet – om det oppfyller kravene til hvilke funksjoner og visninger som presenteres for brukerne. Varsel er SLVs måte å kommunisere med aktørene i ereseptkjeden. Hvis alvorlige bivirkninger eller andre årsaker til varsel avdekkes, sender SLV ut varsel til alle eresept-aktørene med beskjed om tilbaketrekking av legemiddel eller det kan også være endring i bruk av legemiddel.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

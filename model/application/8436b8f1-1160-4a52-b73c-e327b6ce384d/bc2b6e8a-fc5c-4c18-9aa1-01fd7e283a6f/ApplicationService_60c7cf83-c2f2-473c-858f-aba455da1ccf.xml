@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Athene - Farmaloggimport"
+    id="60c7cf83-c2f2-473c-858f-aba455da1ccf"
+    documentation="Denne modulen prosesserer data som er importert via vareregimportmotor">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

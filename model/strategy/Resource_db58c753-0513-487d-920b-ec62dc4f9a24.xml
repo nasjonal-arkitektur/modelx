@@ -1,0 +1,26 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitekturer (arkitektur- og løsningsmønstre)"
+    id="db58c753-0513-487d-920b-ec62dc4f9a24">
+  <properties
+      key="label"
+      value="Referansearkitekturer (arkitektur- og løsningsmønstre)"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Referansearkitekturer (arkitektur- og løsningsmønstre)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Resource>

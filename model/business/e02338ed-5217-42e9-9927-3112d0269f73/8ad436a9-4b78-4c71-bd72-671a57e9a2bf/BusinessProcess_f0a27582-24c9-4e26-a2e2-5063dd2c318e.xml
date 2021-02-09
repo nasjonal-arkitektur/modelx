@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avslutt sak og meld fra til oppdragsgiver"
+    id="f0a27582-24c9-4e26-a2e2-5063dd2c318e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

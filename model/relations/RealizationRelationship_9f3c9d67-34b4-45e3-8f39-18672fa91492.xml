@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiserer"
+    id="9f3c9d67-34b4-45e3-8f39-18672fa91492">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_76e32344-1ebf-4d5a-8587-4d0b826543db.xml#76e32344-1ebf-4d5a-8587-4d0b826543db"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c8b305d3-b357-447c-be5c-47bbc58313b1.xml#c8b305d3-b357-447c-be5c-47bbc58313b1"/>
+</archimate:RealizationRelationship>

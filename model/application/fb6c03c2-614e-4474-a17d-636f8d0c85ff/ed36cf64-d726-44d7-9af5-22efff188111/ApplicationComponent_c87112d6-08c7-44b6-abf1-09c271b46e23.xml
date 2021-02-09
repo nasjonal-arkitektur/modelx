@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Combistats"
+    id="c87112d6-08c7-44b6-abf1-09c271b46e23"
+    documentation="Combistat er et statistikkprogram for behandling av lab-resultater. Programmet gir  mulighet for å tolke komplekse datasett og å detektere sammenhenger og grupperinger i ens data. En kan dra nytte av multivariat kalibrering og modellering.&#xD;&#xA;&#xD;&#xA;Lisensen for programmet fungerer ikke på Citrix og er derfor installert lokalt på PCene som ansatte benytter.&#xD;&#xA;&#xD;&#xA;Nødvendig informasjon for å installere lokalt blir mottatt per epost til Svein Rune Andersen - ny lisens mottas hvert år og må oppdateres - lisensen nedenfor er allerede utdatert. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

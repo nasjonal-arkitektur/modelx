@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vesentlige avvik"
+    id="ad87442f-46fd-4b95-974a-2ace1b2ed4c6">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_fb9401af-1731-4ce9-811c-13f869512f4c.xml#fb9401af-1731-4ce9-811c-13f869512f4c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e99f34b8-7996-4765-b9e9-d9c5a4a364ad.xml#e99f34b8-7996-4765-b9e9-d9c5a4a364ad"/>
+</archimate:FlowRelationship>

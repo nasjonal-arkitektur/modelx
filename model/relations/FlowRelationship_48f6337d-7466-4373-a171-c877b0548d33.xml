@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsensus"
+    id="48f6337d-7466-4373-a171-c877b0548d33">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_c30873c0-ca45-4362-8dcb-dda449355abe.xml#c30873c0-ca45-4362-8dcb-dda449355abe"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e64755b1-df00-40c3-a93e-efa9628cb05e.xml#e64755b1-df00-40c3-a93e-efa9628cb05e"/>
+</archimate:FlowRelationship>

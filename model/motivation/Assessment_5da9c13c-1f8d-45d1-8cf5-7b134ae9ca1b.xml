@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store filer stopper i nedlasting til CESP"
+    id="5da9c13c-1f8d-45d1-8cf5-7b134ae9ca1b"
+    documentation="&#xD;&#xA;Ser ut til å skyldes time-out et eller annet sted i verdikjeden">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

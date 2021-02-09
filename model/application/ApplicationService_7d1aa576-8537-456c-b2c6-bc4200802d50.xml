@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akson tilgangsstyring"
+    id="7d1aa576-8537-456c-b2c6-bc4200802d50">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

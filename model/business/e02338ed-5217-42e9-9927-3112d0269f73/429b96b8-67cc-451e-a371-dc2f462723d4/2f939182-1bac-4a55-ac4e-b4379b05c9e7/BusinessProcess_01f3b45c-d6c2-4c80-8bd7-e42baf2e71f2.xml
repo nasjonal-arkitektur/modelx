@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sirkuelerer utredningsrapport (AR)"
+    id="01f3b45c-d6c2-4c80-8bd7-e42baf2e71f2"
+    documentation="Utredningsrapporten og annen dokumentasjon fra forrige MT-søknad oversendes fra søker til RMS, som sirkulerer søknaden videre til MS-ene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,38 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-konsument (design time)"
+    id="18446933-ce96-4569-aecc-d5d53de63f5f"
+    documentation="en bruker av API, i hovedsak en utvikler i forvaltningen eller i det private. F.eks. bankene som benytter Skattemeldingsdata fra SKD ved lånesøknad.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="API-konsument (design time)"/>
+  <properties
+      key="difi:description_no"
+      value="En bruker av API, i hovedsak en utvikler i forvaltningen eller i det private. F.eks. bankene som benytter Skattemeldingsdata fra SKD ved lånesøknad."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

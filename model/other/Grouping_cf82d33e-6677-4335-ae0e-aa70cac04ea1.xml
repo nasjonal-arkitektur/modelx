@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kampanjestyring "
+    id="cf82d33e-6677-4335-ae0e-aa70cac04ea1"
+    documentation="Ability to identify the need for, plan, design, execute, and measure the effectiveness of an outreach activity that targets a specific population, for example, customers, human resources, partners, and patients, to achieve a certain goal, such as marketing awareness, hiring activities, and health awareness.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kampanjestyring "/>
+  <properties
+      key="difi:name_en"
+      value="Campaign Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify the need for, plan, design, execute, and measure the effectiveness of an outreach activity that targets a specific population, for example, customers, human resources, partners, and patients, to achieve a certain goal, such as marketing awareness, hiring activities, and health awareness."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify the need for, plan, design, execute, and measure the effectiveness of an outreach activity that targets a specific population, for example, customers, human resources, partners, and patients, to achieve a certain goal, such as marketing awareness, hiring activities, and health awareness."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjenesteprodusent"
+    id="5c8556c3-7302-4073-9517-4759918913f2">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

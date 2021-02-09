@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF Infrastruktur"
+    id="id-d800d2eaadc04a8a9d80750258e3eb71">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Grouping>

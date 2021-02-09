@@ -1,0 +1,46 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging"
+    id="3207d6b7-860b-4966-8ed9-19d72bd8194f"
+    documentation="Tjeneste for logging av systemhendelser, herunder sending og mottak  av meldinger. Slik logging kan danne grunnlag for sporing av kilder og syblighet i hvem som har aksessert data.">
+  <properties
+      key="ID"
+      value="ABB58"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Logging"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for logging av systemhendelser, herunder sending og mottak  av meldinger. Slik logging kan danne grunnlag for sporing av kilder og syblighet i hvem som har aksessert data."/>
+  <properties
+      key="difi:name_en"
+      value="Audit Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the audit functionality of providing support for the principle of accountability, which is holding users of a system accountable for their actions within the system, and detection of policy violations. The audit policy defines the elements of an information system which need to be traced, for example to assure traceability of actions: what, how, when, where and with what.&#xD;&#xA;&#xD;&#xA;Based on The Open Group&#xD;&#xA;http://www.opengroup.org/security/das/xdas_int.htm  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Audit Service ABB  is salient for technical interoperability because it defines the elements of an information system which need to be traced, for example to assure traceability of user actions as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;OpenIAM audit service&#xD;&#xA;OpenIAM Auditing Service ensures that detailed information about events and activities associated with identities or resources are logged into a centralized repository and be tracked. It offers the following features:&#xD;&#xA;&#xD;&#xA;•&#x9;Sign-on, Sign-off&#xD;&#xA;•&#x9;User: create, update, delete or disable accounts&#xD;&#xA;•&#x9;Role: create, update, delete or disable accounts&#xD;&#xA;•&#x9;Resource: create, update, delete or disable accounts&#xD;&#xA;•&#x9;Password changes, resets, challenge response questions changes&#xD;&#xA;•&#x9;Synchronization events&#xD;&#xA;•&#x9;Reconciliation events&#xD;&#xA;&#xD;&#xA;Several reporting templates are provided for a BIRT report writer for use in an Eclipse designer. Organizations can also generate their own reports in BIRT with SQL.&#xD;&#xA;https://www.openiam.com/products/identity-manager/features/audit-compliance/ &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

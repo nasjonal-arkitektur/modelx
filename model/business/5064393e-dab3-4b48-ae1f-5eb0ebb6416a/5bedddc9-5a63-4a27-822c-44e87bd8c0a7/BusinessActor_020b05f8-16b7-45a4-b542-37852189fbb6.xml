@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grossist"
+    id="020b05f8-16b7-45a4-b542-37852189fbb6"
+    documentation="Grossistvirksomhet vil si innførsel fra EØS-området, innkjøp, lagring, distribusjon, utførsel og eksport av legemidler, og dette krever grossisttillatelse. Import fra land utenfor EØS-området krever vanligvis tilvirkertillatelse&#xA;&#xA;Følgende type grossister er relevante:&#xA;* Grossist med lager&#xA;* Grossist uten lager&#xA;* Grossist - legemidler for redningsmidler skip">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

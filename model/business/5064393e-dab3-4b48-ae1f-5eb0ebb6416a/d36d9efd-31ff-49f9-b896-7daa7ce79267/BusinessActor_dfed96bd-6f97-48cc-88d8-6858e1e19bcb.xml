@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidlers kvalitet - kompetansenettverk"
+    id="dfed96bd-6f97-48cc-88d8-6858e1e19bcb"
+    documentation="Kompetansedeling innen fremstilling og analyse av kjemiske og biologiske legemidler, inkludert avanserte terapier.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

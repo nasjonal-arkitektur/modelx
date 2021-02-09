@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunikasjonsløsning"
+    id="6536e662-d4e4-449b-bd03-6ff34220d6e2">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationComponent>

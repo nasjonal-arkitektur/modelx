@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT og kvalitetsstyring"
+    id="134b1a38-2425-4a3d-b5dc-6ba6469bbad3"
+    documentation="Enhet for IT og kvalitetsstyring har følgende oppgaver:&#xD;&#xA;* IT-ledelse og forvaltning av Legemiddelverkets IT-systemer.&#xD;&#xA;* Kvalitetsstyring, interne revisjoner og system for informasjonssikkerhet.&#xD;&#xA;* Personvern i digitale kanaler.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;post@legemiddelverket.no&#xD;&#xA;personvern@legemidderket.no  ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

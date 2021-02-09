@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Om arkitekturprinsippenes føringer for datadeling"
+    id="id-4d6cbb6e37fa4cb7a63edc46993d12b9"
+    documentation="Pek til&#xD;&#xA;https://www.digdir.no/digitalisering-og-samordning/overordnede-arkitekturprinsipper/1065[overordnede arkitekturprinsippene] fra digitaliseringsdirektoratet og hva de betyr&#xD;&#xA;her.&#xD;&#xA;&#xD;&#xA;#Trenger vi noen justeringer av prinsippene?#&#xD;&#xA;&#xD;&#xA;Si noe om UH-IntArk prinsippene og forhold til de overordnede&#xD;&#xA;arkitekturprinsippene">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

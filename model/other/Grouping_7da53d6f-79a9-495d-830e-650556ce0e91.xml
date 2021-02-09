@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrasjon av læringsinnhold"
+    id="7da53d6f-79a9-495d-830e-650556ce0e91"
+    documentation="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Administrasjon av læringsinnhold"/>
+  <properties
+      key="difi:name_en"
+      value="Learning Content Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, conceptualize, create, and convey structured content and knowledge in a consumable format that is associated with an educational curriculum, course, workshop, or seminar, delivered to achieve a level of skill or competency."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

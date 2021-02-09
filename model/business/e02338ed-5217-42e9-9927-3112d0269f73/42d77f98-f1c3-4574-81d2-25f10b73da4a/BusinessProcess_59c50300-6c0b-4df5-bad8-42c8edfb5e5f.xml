@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compassionate Use"
+    id="59c50300-6c0b-4df5-bad8-42c8edfb5e5f"
+    documentation="Det er muligheter for å søke om å benytte medikamenter uten markedsføringstillatelse i spesielle tilfeller hvor det er muligheter for at medikamentet kan redde liv eller gi helbred. Dette kan først skje når en søknad om markedsføringstillatelse er under behandling, og man har resultater fra kliniske studier på plass.&#xA;&#xA;Komiteen HMCD fra EMA gir retningslinjer og råd rundt Comp. use, men det er opp til hver enkelt legemiddelmyndighet å avgjøre de enkelte sakene.&#xA;&#xD;&#xA;Det er behandlende lege som søker, og søknaden gjelder for enkeltpasienter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

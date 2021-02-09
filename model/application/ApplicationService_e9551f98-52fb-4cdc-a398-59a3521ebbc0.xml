@@ -1,0 +1,36 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsuments filtrerings- og minimeringstjeneste"
+    id="e9551f98-52fb-4cdc-a398-59a3521ebbc0"
+    documentation="Tjeneste for å filtrere innhentede notifikasjoner. Dette er en tilleggsmekanisme for filtrering og minimering, sammenliknet med det som gjøres gjennom spørringer mot datatilbyder, og benyttes ved behov. Filtreringen kan gjøres ved å filtrere selve innlesing eller ved å filtrere mottatte notifikasjoner etter innlesing. Etter innlesing kan det også gjøres minimering av innholdet i notifikasjonen.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Filtrering av innhentede notifikasjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for å filtrere innhentede notifikasjoner. Dette er en tilleggsmekanisme for filtrering, sammenliknet med filtrering som gjøres gjennom spøringer mot datatilbyder, og benyttes ved behov.  Eksempler på behov:&#xD;&#xA;&#xD;&#xA;a. Datatilbyder gir ikke gode nok muligheter for filtrering.&#xD;&#xA;&#xD;&#xA;b. Formidling av noifikasjoner til flere og ulike typer (interne) konsumenter."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

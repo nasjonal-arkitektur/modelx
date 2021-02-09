@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tungvint innhenting av bivirkningsmeldinger"
+    id="09eec44e-15ea-493a-a78e-352e3473f40a"
+    documentation="Bivirkningsmeldinger må lastes ned fra EUDRAVIGILANCE og lastes opp i Public 360. Dette er unødig tungvint.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

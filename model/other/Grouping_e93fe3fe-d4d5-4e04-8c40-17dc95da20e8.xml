@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investeringsstyring"
+    id="e93fe3fe-d4d5-4e04-8c40-17dc95da20e8"
+    documentation="Ability to identify, develop, analyze, valuate, exchange, acquire, dispose of, and report on any type of monetary asset purchased with the idea that the asset will provide income in the future or will be sold at a higher price for a profit.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Investeringsstyring"/>
+  <properties
+      key="difi:name_en"
+      value="Investment Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, develop, analyze, valuate, exchange, acquire, dispose of, and report on any type of monetary asset purchased with the idea that the asset will provide income in the future or will be sold at a higher price for a profit."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, develop, analyze, valuate, exchange, acquire, dispose of, and report on any type of monetary asset purchased with the idea that the asset will provide income in the future or will be sold at a higher price for a profit."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføring av nye GMP-direktiver (lag)"
+    id="18310967-c299-49d2-b52b-2a2c187ab671"
+    documentation="Legemiddelverket skal utarbeide høringsnotat for gjennomføring av direktiv 2017/1572 og forordning (EU) 2017/1569 i norsk rett. Høringsnotatet skal godkjennes av departementet. Legemiddelverket skal gjennomføre offentlig høring. Endringene skal senest tre i kraft 1. juli 2018. &#xD;&#xA;Legemiddelverket skal sikre nødvendig informasjon til berørte miljøer om endrede krav som følger av denne forordningen. (jf tildelingsbrevet pkt 2.10)&#x9;">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

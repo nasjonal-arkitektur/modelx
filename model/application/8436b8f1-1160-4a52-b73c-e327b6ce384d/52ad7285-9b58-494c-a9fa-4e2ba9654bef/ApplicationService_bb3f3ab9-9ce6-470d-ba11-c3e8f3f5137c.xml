@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSREP Brukergrensesnitt"
+    id="bb3f3ab9-9ce6-470d-ba11-c3e8f3f5137c"
+    documentation="Brukergrensesnitt for fagsiden. Nedlasting av data og rapporter.&#xD;&#xA;Noen enkeltpersoner på SLV og HDIR har tilgang til denne løsningen (de som jobber med tobakk/e-sigarett som fagfelt). ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Eksternt) Teknisk Kontrollorgan - medisinsk utstyr"
+    id="92226af2-9429-425f-9b34-7b097a7561b1"
+    documentation="Kommersiell aktør utpekt av de enkelte lands legemiddelmyndigheter til å gjennomføre godkjenning, kontroll og tilsyn med medisinsk utstyr og produsenter av slikt. Tekniske kontrollorgan har som oppgave å utføre samsvarsvurderinger, dvs. vurdere om et produkt samsvarer med kravene i regelverket.&#xA;&#xD;&#xA;I Norge er det PreSafe (eid av Det Norske Veritas) som har denne rollen&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

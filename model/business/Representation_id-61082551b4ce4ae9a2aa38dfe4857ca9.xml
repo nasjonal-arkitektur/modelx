@@ -1,0 +1,25 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bakgrunn"
+    id="id-61082551b4ce4ae9a2aa38dfe4857ca9"
+    documentation="Økt deling av data er en forutsetning for å realisere flere av&#xD;&#xA;handlingsplanens initiativer innenfor utdanning, forskning,&#xD;&#xA;administrasjon og IMD. Dette dokumentet beskriver de føringene til&#xD;&#xA;organisasjoner og IT-løsninger som vi ønsker å bruke videre i sektoren&#xD;&#xA;til å skape en effektiv plattform for datadeling. Referansearkitekturen&#xD;&#xA;tar utgangspunkt i følgende pågående arbeid i sektoren i dag:&#xD;&#xA;&#xD;&#xA;* Integrasjonsarkitektur UH:IntArk&#xD;&#xA;* Arbeid med Sak og Arkiv i sektoren&#xD;&#xA;* Arbeid med nytt API for Felles Studentsystem, FS&#xD;&#xA;* Arbeid med masterdatakilder for forskning&#xD;&#xA;&#xD;&#xA;Referansearkitekturen innarbeider også føringer fra:&#xD;&#xA;&#xD;&#xA;* Digitaliseringsstrategiene til offentlig sektor og høyere utdanning og&#xD;&#xA;forskning&#xD;&#xA;* https://www.digdir.no/digitalisering-og-samordning/overordnede-arkitekturprinsipper/1065[Overordnede&#xD;&#xA;arkitekturprinsipper] for digitaliering av offentlig sektor&#xD;&#xA;* https://www.digdir.no/nasjonal-arkitektur/rammeverk-digital-samhandling/2148[Rammeverk&#xD;&#xA;for digital samhandling]&#xD;&#xA;* https://nasjonal-arkitektur.github.io/architecture-repository/about-topic-areas/about-topic-areas.html[Nasjonal&#xD;&#xA;referansearkitekturene for datadeling og datautveksling]&#xD;&#xA;* https://app.powerbi.com/view?r=eyJrIjoiMThhNjkzNmItOGQ4NC00MDkzLWI3MDQtNzY0ZjA1MjQ5MzViIiwidCI6ImFlMWE3NzI0LTQwNDEtNDQ2Mi1hNmRjLTUzOGNiMTk5NzA3ZSIsImMiOjh9[Kapabilitetsmodell&#xD;&#xA;i høyere utdanning i EUNIS] (European University Information System&#xD;&#xA;Organization)&#xD;&#xA;* Behovene avdekket i tjenestedesign analyse av behovene til Studenter,&#xD;&#xA;Lærere, Forskere og tjenesteleverandører av Muliggjørende økosystem&#xD;&#xA;&#xD;&#xA;Referansearkitekturer gir mønstre og veiledning til utforming av&#xD;&#xA;løsninger. Denne referansearkitekturen beskriver både eksisterende&#xD;&#xA;samhandling formulert som beste praksis og nødvendig neste steg i&#xD;&#xA;generelle datadelingsmønster som kan gjenbrukes i sektoren. Disse&#xD;&#xA;mønstrene er dokumentert gjennom videreutvikling av&#xD;&#xA;referansearkitekturene fra digitaliseringsdirektoratet. Hensikten med&#xD;&#xA;arbeidet er å fremme en koordinert utvikling av datadeling som&#xD;&#xA;resulterer i økt gjenbruk av data «kun en gang» og nye, innovative&#xD;&#xA;anvendelser av data i sektoren.&#xD;&#xA;&#xD;&#xA;Noe om prosesser, rutiner og veiledninger.&#xD;&#xA;&#xD;&#xA;Noe om forvaltning av rammeverket">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-bakgrunn"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

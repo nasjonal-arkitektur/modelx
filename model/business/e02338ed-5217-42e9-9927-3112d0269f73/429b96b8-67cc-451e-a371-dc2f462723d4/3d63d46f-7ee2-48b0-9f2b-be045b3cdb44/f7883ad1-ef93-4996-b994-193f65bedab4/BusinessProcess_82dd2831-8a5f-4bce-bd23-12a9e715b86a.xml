@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere validering"
+    id="82dd2831-8a5f-4bce-bd23-12a9e715b86a"
+    documentation="RMS og CMSene registrerer sine valideringsresultater i CTS. Dersom alle er enige om at søknaden er valid, kan prosessen fortsette. Derom minst ett land ikke validerer søknaden, må søker oppdatrere søknaden i henhold til begrunnelse for invalidering, for at behandlingsprosessen kan fortsette.&#xD;&#xA;&#xD;&#xA;Dersom ingen har registrert søknaden som invalid etter 14 dager, er den automatisk valid.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

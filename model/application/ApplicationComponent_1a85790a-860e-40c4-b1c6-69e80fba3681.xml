@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eFormidling"
+    id="1a85790a-860e-40c4-b1c6-69e80fba3681"
+    documentation="[Torget]&#xD;&#xA;Med denne løsningen får din virksomhet en sikker, samordnet og effektiv meldingsutveksling mot virksomheter og innbyggere.&#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;eFormidling er en løsning for sikker og effektiv meldingsutveksling i offentlig sektor. Hovedkomponentene i løsningen er et integrasjonspunkt som installeres lokalt hos&#xD;&#xA;virksomhetene og et adresseregister som driftes av digitaliseringsdirektoratet. eFormidling gjør det mulig å kommunisere på en enkel og sikker måte, uten å måtte ta hensyn til om mottakeren er privat eller offentlig virksomhet, eller innbygger. Dette gir teknisk og organisatorisk samhandlingsevne.&#xD;&#xA;&#xD;&#xA;Mer om eFormidling:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/eformidling/782">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eFormidling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

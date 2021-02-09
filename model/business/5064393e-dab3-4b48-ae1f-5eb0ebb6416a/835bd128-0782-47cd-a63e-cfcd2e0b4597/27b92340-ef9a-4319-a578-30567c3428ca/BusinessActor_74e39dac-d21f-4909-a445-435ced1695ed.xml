@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonskampanje om redusert gyldighet på antibiotikaresepter - veterinære (lag)"
+    id="74e39dac-d21f-4909-a445-435ced1695ed"
+    documentation="Helse- og omsorgsdepartementet har vedtatt endringer i forskrift om rekvirering og utlevering av legemidler fra apotek som gjør det mulig å sette kortere gyldighet på antibiotikaresepter. Fra 1. januar 2018 kan derfor gyldighetstiden reduseres fra ett år til ti dager. Tiltaket skal bidra til å redusere antibiotikabruken i Norge, og er en oppfølging av Nasjonal handlingsplan mot antibiotikaresistens i helsetjenesten (1). Med kortere gyldighet vil vi få færre situasjoner der antibiotika brukes uten at det er et medisinsk behov. Det er når det skrives ut antibiotika til kjæledyr at det «syndes» mest med bredspektret antibiotika.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

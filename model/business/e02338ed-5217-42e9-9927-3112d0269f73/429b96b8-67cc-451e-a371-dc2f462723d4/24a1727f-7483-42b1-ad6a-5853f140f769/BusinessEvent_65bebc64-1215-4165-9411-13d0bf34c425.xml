@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clock Stop"
+    id="65bebc64-1215-4165-9411-13d0bf34c425"
+    documentation="Når søker mottar List Of Questions stoppes tidsfrist-klokken. Den startes igjen når søker sender oppdateringer til søknaden basert på de spørsmål som har kommet.&#xD;&#xA;Søker må svare på spørsmålene I clock stop (ingen frister, men kan gjerne ta 3 måneder eller mer, avhengig av mengden og karakteren av kommentarer / spørsmål)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

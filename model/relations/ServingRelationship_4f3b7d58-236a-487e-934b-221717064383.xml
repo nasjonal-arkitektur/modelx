@@ -1,0 +1,41 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gir føringer for"
+    id="4f3b7d58-236a-487e-934b-221717064383">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="gir føringer for"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_a4124269-73c9-43ab-a3a8-b4a4324bd3c1.xml#a4124269-73c9-43ab-a3a8-b4a4324bd3c1"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_9166cfce-06eb-40ac-9406-f439d3e0ca7e.xml#9166cfce-06eb-40ac-9406-f439d3e0ca7e"/>
+</archimate:ServingRelationship>

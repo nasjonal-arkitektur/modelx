@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validere søknad"
+    id="35b899cf-345e-4117-926b-36594428556d"
+    documentation="Vlidering av søknad skal skje innenfor et tidsvindu på 60 dager. Valideringen innebærer i hovedsak en kontroll på at nødvendig og tilstrekkelig dokumentasjon finnes i søknaden. &#xD;&#xA;De 60 dagene inkluderer en runde med korrespondanse.&#xD;&#xA;Det er  som regel kommentarer til søknaden, og behov for oppdatering / supplering av søknaden.&#xD;&#xA;Klokken begynner å gå når søknaden blir innsendt. Dersom søknaden er valid fortsetter klokken å gå.&#xD;&#xA;Legemiddelverket har 30 dager på validering av søknaden. Deretter fordeles de resterende 30 dagene mellom søker og Legemiddelverket. Det er som regel to uker hver av partene. &#xD;&#xA;Korrespondanse skjer primært gjennom e-post (via 360).&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

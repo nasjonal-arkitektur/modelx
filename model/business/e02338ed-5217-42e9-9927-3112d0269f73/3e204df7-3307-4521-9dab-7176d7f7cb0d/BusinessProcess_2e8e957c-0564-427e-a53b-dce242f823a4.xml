@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om godkjenningsfritak (enkeltvedtak)"
+    id="2e8e957c-0564-427e-a53b-dce242f823a4">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

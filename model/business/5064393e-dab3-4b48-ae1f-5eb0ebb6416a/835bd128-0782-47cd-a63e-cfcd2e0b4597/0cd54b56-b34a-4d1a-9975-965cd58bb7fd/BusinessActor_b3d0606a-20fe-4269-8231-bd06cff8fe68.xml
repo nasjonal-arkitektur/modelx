@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstedelse av MT  (MRP/DCP) human/vet (lag)"
+    id="b3d0606a-20fe-4269-8231-bd06cff8fe68"
+    documentation="Kvalitetssikre SPC, PIL og merking i forbindelse med utstedelse av MT">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="«En vei inn»- oppdraget (Få år) (lag)"
+    id="e68add85-ea5d-4692-88f2-718818c32fc1"
+    documentation="Etablere elektronisk meldeordning for bivirkninger for helsepersonell">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

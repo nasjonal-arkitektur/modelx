@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helsepersonell"
+    id="be3ce0d5-6302-4667-b78c-7f3ee37c2dea"
+    documentation="Med Helsepersonell menes ulike former for klinikere som leger (forskrivere), tannleger, veterinærer, fiskehelsebiologer, offentlige godkjente sykepleiere og farmasøyter samt studenter i disse fag.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

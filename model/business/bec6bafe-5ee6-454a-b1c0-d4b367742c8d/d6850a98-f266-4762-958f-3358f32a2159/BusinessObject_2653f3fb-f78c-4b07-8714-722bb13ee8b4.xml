@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nnnn - Nr for aktuelt legemiddel"
+    id="2653f3fb-f78c-4b07-8714-722bb13ee8b4"
+    documentation="For produkter godkjent etter samordningsrutiner og overført til prosedyren for gjensidig anerkjennelse (MRP), brukes det tidligere C-nummeret. For legemidler godkjent gjennom gjensidig annerkjenneslesprosedyre MRP og desentraliserte prosedyrer (DCP), tildeles nummer fra 100 og oppover i rekkefølge.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

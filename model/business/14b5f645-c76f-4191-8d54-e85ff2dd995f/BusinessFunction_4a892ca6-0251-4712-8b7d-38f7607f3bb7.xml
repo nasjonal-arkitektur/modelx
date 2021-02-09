@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pre-klinikk"
+    id="4a892ca6-0251-4712-8b7d-38f7607f3bb7"
+    documentation="Legemiddelverket vurderer preklinisk (forskning i lab - ikke på mennesker og dyr) dokumentasjon hovedsakelig i forbindelse med søknader om markedsføringstillatelser, endringssøknader og søknader om kliniske utprøvinger.&#xD;&#xA;&#xD;&#xA;E-postadresse: klut@legemiddelverket.no  ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

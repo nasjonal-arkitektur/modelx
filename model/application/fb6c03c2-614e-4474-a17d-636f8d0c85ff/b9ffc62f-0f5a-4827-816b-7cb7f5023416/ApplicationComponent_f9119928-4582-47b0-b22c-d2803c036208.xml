@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eyra"
+    id="f9119928-4582-47b0-b22c-d2803c036208"
+    documentation="Modulen er ansvarlig for å utføre fellesfunksjonalitet. Dette er da funksjonalitet som ikke er direkte knyttet mot at man jobber mot f.eks. en søknad om markedsføringstillatelse. I denne modulen opererer man direkte på Case-objekter. Denne modulen kommuniserer videre med følgende eksterne tjenester&#xD;&#xA;&#xD;&#xA;360&#xD;&#xA;Exchange&#xD;&#xA;Filsystem&#xD;&#xA;Database&#xD;&#xA;SharePoint&#xD;&#xA;ReportingServices">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

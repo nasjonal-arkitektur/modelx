@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Biosim (lag)"
+    id="7fcf5301-e169-4228-9746-46722c9caf49"
+    documentation="Biosim: Ad hoc-oppgaver og kommunikasjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

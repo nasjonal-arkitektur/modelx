@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aktører som kan innhente samtykke for bruk av API"
+    id="44f388ec-478f-463b-bf63-e346c4d268c9"
+    documentation="Oversikt over aktører som skal ha mulighet til å innhente samtykke som grunnlag for å få tilgang til data gjennom et API. &#xD;&#xA;URL til konsumenten det kan innhentes samtykke for må inngå i beskrivelsen.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

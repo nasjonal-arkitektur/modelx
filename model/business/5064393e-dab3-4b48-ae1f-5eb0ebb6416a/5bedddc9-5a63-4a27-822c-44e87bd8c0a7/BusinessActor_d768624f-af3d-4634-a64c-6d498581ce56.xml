@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT-søker"
+    id="d768624f-af3d-4634-a64c-6d498581ce56"
+    documentation="MT-søker vil typisk være produsenten av et legemiddel. Godkjenning av et legemiddel (godkjent MT-søknad) innebærer at produsenten får markedsføringstillatelse (MT). det vil si tillatelse til å selge legemiddelet. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

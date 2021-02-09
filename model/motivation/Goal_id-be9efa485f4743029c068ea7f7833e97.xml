@@ -1,0 +1,8 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for oppdaterte data"
+    id="id-be9efa485f4743029c068ea7f7833e97">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Goal>

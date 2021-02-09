@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre tjenester "
+    id="e5aa1682-c426-47cb-be3b-d4182f8e3d5a">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

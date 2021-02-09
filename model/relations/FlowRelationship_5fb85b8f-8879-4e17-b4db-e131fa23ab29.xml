@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søkn. klinisk utp."
+    id="5fb85b8f-8879-4e17-b4db-e131fa23ab29"
+    documentation="Etikk vurderes ved søknad om klinisk utprøving - ikke ved søknad om Compassionate Use.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bfd32f1f-2747-4c3a-b2a0-ec3ac68b06cb.xml#bfd32f1f-2747-4c3a-b2a0-ec3ac68b06cb"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1fc49ee9-5ff2-4076-bfa9-2bbac8ade594.xml#1fc49ee9-5ff2-4076-bfa9-2bbac8ade594"/>
+</archimate:FlowRelationship>

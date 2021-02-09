@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST VareregImportMotor"
+    id="98549862-c0fb-4b01-8391-d57c7d494eb8"
+    documentation="VareregImportMotor er en egenutviklet applikasjon uten brukergrensesnitt. &#xD;&#xA; Den mottar XML-fil på format VAREREG fra FEST-DIPS og pakker den ut. Utpakket fil legger den i X:\\Festmeldinger\InnboksUtpakket. &#xD;&#xA;&#xD;&#xA;Herfra hentes den av modulen FarmaloggImport i Athene når bruker trykker på hent data.&#xD;&#xA;&#xD;&#xA;I tillegg legger moduel data fra den samme XML-filen inn i Athene-databasen">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelsøk.no"
+    id="9a877d5c-7220-4466-9d21-c414b588f443"
+    documentation="Legemiddelsøk viser informasjon om alle godkjente og de registerte legemidler i Norge. &#xD;&#xA;&#xD;&#xA;Legemiddelsøk henter data fra Athene og får i hovedsak publiserte preparatomtaler fra SAM (dokumenter publisert eller endret etter 2013)&#xD;&#xA;Noen SPC-er og pakningsvedlegg hentes også fra sak i 360. Dette gjelder de som var generert før desember 2013 og som ikke er oppdatert etter dette tidspunktet.&#xD;&#xA;Pakningsvedlegg vises ved lenke til Felleskatalogen.no.&#xD;&#xA;&#xD;&#xA;Felleskatalogen får tilgang til pakningsvedleggene i samme publiseringsløsning som publiserer SPC.&#xD;&#xA; Det viser også Preparatomtale (SPC), interaksjoner, lenke til pakningsvedlegg, refusjonsstatus og priser.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

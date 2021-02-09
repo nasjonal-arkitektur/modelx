@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ulovlig stoff funnet"
+    id="4df4aee6-1b60-4d48-a071-d770173c81f3">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8247de7b-a5d5-4d66-b354-2f095c70a01f.xml#8247de7b-a5d5-4d66-b354-2f095c70a01f"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_15192823-3dae-4354-b353-cf34a76b2904.xml#15192823-3dae-4354-b353-cf34a76b2904"/>
+</archimate:FlowRelationship>

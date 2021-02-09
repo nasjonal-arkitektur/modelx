@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere og formidle vedtak"
+    id="b21427ce-01a7-4618-97f3-32daf3c1c95a"
+    documentation="Vedtak formidles til søker på papir. Arkiveres i internt arkiv (ikke offentlig postjournal)&#xD;&#xA;Dersom det er et vedtak som kan påklages, registreres det i P360.&#xD;&#xA;&#xD;&#xA;Svar på søknaden sendes til søknadsavsender. &#xD;&#xA;Svar sendes på papir.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

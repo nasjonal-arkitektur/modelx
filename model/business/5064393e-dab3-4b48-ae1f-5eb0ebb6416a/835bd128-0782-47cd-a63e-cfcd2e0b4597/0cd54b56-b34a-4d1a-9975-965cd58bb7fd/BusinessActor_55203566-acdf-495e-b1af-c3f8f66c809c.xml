@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-distribusjon av Legemiddelinformasjon (lag)"
+    id="55203566-acdf-495e-b1af-c3f8f66c809c"
+    documentation="Undersøke muligheter for elektronisk distribusjon av DHPC og annet risikohåndteringsmateriell til foreskrivere&#x9;">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

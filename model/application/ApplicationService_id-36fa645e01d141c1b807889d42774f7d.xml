@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikasjonsdistribusjon"
+    id="id-36fa645e01d141c1b807889d42774f7d"
+    documentation="Tjensten mottar notifikasjoner fra konsumenter og distribuerer notifikasjoner til konsumenter som har interesse av gitte notifikasjoner">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

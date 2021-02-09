@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraCT Data Warehouse"
+    id="d8408fbe-bec6-43e9-b906-038d5dc9e2a9"
+    documentation="The  EudraCT  Data  Warehouse  is  a  system  built  to  analyse  the  clinical  trials  submitted into the EudraCT Application which is accessible only to the National Competent Authorities, EMA and Commission.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forhåndsmelding av søknad"
+    id="8f7f84d8-49d4-4b0e-aaa0-1be2f4bb7d84">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

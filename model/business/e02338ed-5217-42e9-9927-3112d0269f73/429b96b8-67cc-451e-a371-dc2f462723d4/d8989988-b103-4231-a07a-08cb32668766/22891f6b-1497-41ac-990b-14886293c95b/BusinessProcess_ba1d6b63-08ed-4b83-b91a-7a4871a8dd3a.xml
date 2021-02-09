@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre nivåvurdering"
+    id="ba1d6b63-08ed-4b83-b91a-7a4871a8dd3a"
+    documentation="Nivåvurderingsskjema sendes ut til de ulike involverte fagenhetene. Disse kommenterer, og til sammen bestemmer dette hvilket nivå rapporten skal kommenteres på (dvs. hvilke deler av utredningsrapporten man skal gjennomgå og kommentere).&#xD;&#xA;&#x9;• Forberede nivåvurdering, regulatorisk oppgave&#xD;&#xA;&#x9;• Selve nivåvurdering - preklinikk, farmakologi, kvalitet, effekt og sikkerhet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

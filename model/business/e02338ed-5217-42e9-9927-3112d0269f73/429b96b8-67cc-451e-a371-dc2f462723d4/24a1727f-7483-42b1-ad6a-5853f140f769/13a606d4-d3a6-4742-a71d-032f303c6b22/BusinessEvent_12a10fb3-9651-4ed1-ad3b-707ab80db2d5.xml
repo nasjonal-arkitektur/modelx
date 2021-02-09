@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Negativ opinion - Søker har bedt om reeksaminering"
+    id="12a10fb3-9651-4ed1-ad3b-707ab80db2d5">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

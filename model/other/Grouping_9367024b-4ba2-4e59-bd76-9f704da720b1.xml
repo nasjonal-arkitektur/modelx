@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategisk styring"
+    id="9367024b-4ba2-4e59-bd76-9f704da720b1"
+    documentation="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Strategisk styring"/>
+  <properties
+      key="difi:name_en"
+      value="Strategy Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define and disseminate the pattern or plan that integrates an organization’s major goals, policies, and action sequences into a cohesive whole."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

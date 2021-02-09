@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overføring av legemiddelinformsjon - nattlig jobb"
+    id="41a04166-8291-4862-9e71-17cd31c174de"
+    documentation="Legemidelinformasjon overføres til SAM vha en batchjobb. Denne jobben kjøres hver natt.&#xD;&#xA;Handelsnavn&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4d92bbe8-400f-4d33-a988-ed6d6d79cbe7.xml#4d92bbe8-400f-4d33-a988-ed6d6d79cbe7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0ccbc104-27b6-4815-ae95-1c6f4879bdb2.xml#0ccbc104-27b6-4815-ae95-1c6f4879bdb2"/>
+</archimate:FlowRelationship>

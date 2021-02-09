@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentforvaltning - kompetansenettverk"
+    id="d111359a-7689-442e-a1c2-947acb2719ca"
+    documentation="Kompetansedeling for å sikre en effektiv og god håndtering av dokumentasjon i Legemiddelverket">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningsmelding fra helsepersonell"
+    id="1cd28d18-6856-4f5b-afd6-c1482da0abb0"
+    documentation="Helsepersonell har meldeplikt når det kommer til mistanke om nye bivirkninger, eller mistanke om at bivirkninger er mer alvorlig/større utbredt enn det som er oppgitt i produktinformasjonen tilknyttet markedsføringstillatelsen (MT) til legemiddelet.&#xA;&#xA;En bivirkningsmelding må inneholde opplysninger om en pasient, minst ett mistenkt&#xA;legemiddel, minst én antatt bivirkning samt opplysninger om den som melder. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Føre opp på negativlisten"
+    id="af2e4701-d390-4977-ab8f-d2e91288089d"
+    documentation="Oppføring på negativlisten gjøres ved at legemiddel tagges som tilhørende negativlisten i Athene. Dette ligger i gjen til grunn for den listen som presenteres på SLVs nettsider.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

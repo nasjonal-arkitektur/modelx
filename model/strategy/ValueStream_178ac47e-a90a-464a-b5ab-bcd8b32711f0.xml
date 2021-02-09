@@ -1,0 +1,36 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ta rede på behov for innhenting av data"
+    id="178ac47e-a90a-464a-b5ab-bcd8b32711f0">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ta rede på behov for data (primært og sekundært)"/>
+  <properties
+      key="difi:name_en"
+      value="Determine own need for data"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"
+      value="Value: "/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+</archimate:ValueStream>

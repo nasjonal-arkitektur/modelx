@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansvarlig aktør"
+    id="ecf9ec81-9d7a-48d6-b14d-489f67c74301"
+    documentation="Den som har eller er delegert et ansvar i forbindelse med databehandling.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

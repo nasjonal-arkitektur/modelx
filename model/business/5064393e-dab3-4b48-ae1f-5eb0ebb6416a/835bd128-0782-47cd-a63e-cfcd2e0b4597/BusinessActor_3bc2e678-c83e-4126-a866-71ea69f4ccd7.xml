@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagressurser for kommentering fra aktuelle lag "
+    id="3bc2e678-c83e-4126-a866-71ea69f4ccd7"
+    documentation="Ved kommentering som MS er det medlemmer fra et fast knippe med lag, som gjennomfører kommenteringen:&#xD;&#xA;* Kvalitetsvurdering biologiske legemidler til mennesker og dyr. (lag)&#xD;&#xA;* Kvalitetsvurdering kjemisk/syntetiske legemidler - Human og Veterinær (lag)&#xD;&#xA;* Farmakologi (lag)&#xD;&#xA;* Pre-Klinikk (lag)&#xD;&#xA;* SEN - Sikkerhet og Effekt for Nye virkestoff  (lag)&#xD;&#xA;* SEK - Sikkerhet og Effekt kjente virkestoffer (lag)&#xD;&#xA;* CP human/vet (lag)&#xD;&#xA;* Veterinær - Effekt og Sikkerhet (lag)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

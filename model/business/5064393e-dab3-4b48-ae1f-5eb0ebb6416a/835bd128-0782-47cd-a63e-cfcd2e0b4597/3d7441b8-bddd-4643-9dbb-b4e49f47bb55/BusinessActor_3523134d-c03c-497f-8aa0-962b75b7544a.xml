@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ulovlige aktiviter i legemiddelforsyningskjeden inkludert PANGEA-aksjoner (lag)"
+    id="3523134d-c03c-497f-8aa0-962b75b7544a"
+    documentation="Etablere system for oppfølgning av mottatt informasjon om ulovlige aktiviteter i legemiddelforsyningskjeden, samt saksbehandling.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

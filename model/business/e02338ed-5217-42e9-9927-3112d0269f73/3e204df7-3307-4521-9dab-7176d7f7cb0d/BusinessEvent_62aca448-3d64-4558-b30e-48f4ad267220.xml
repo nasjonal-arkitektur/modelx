@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endringshendelse for legemiddel"
+    id="62aca448-3d64-4558-b30e-48f4ad267220"
+    documentation="Nye legemidler, eller legemidler som det forekommer hendleser knyttet til vil bli vurdert for oppføring på negativlisten.&#xD;&#xA;&#xD;&#xA;Legemidler føres opp negativlisten, når:&#xD;&#xA;* man får meldinger om bivirkninger&#xD;&#xA;* biologiske legemidler &#xD;&#xA;* Legemiddelet er under klinisk utprøving&#xD;&#xA;* medisinske gasser&#xD;&#xA;* legemidler hvor det finnes alternativer med MT">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

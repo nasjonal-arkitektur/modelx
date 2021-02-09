@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende melding om mistanke om kvalitetssvikt"
+    id="53e35efc-192b-4f57-bb13-8aa0162890af"
+    documentation="Melding sendes inn ved mistanke om kvalitetssvikt eller mistanke om forfalskninger. Meldinger kan komme fra Bivirkning, Mattilsynet, Kvalitetslaget (man ser at det er mangler ved dokumentasjon) blant andre.&#xD;&#xA;Det kan rapporteres alt fra om mistanke om defekter til dårlige rutiner og systemer hos MT-innehaver.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

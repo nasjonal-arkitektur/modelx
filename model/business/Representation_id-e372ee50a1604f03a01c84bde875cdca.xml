@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhente data - løsningsmønster UHF"
+    id="id-e372ee50a1604f03a01c84bde875cdca">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-0070f590adf24abd9c9cc7a89be64beb"/>
+  <properties
+      key="drill down"
+      value="id-0070f590adf24abd9c9cc7a89be64beb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

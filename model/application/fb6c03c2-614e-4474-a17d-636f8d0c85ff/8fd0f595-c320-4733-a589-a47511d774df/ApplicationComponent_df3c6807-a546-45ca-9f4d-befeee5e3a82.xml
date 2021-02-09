@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Article 57 database (H)"
+    id="df3c6807-a546-45ca-9f4d-befeee5e3a82"
+    documentation="The  Article  57  database  (also  known  as  eXtendedEudraVigilance  Medicinal  Product    Dictionary)    is    a    repository of    structured    and    quality-assured information on human medicinal products authorised in the EEA (i.e. nationally and centrally authorised products).&#xD;&#xA;&#xD;&#xA;Registered  EVDAS  users  can  use  their  login  details  to  access  EudraVigilance Data  Analysis  Systemand  select  the  Art57 publication dashboard.Users not yet registered can contact the EMA Service Desk indicating'BI_Art57_Dashboard registration request’ in the request’ subject line.&#xD;&#xA;&#xD;&#xA;Denne databasren skal inneholde (som produsent skal legge inn)&#xD;&#xA;- Produktnavn&#xD;&#xA;- Aktiv substans&#xD;&#xA;- Administrasjonsmetode&#xD;&#xA;- Land den er godkjent i&#xD;&#xA;- Navn på MA-holder&#xD;&#xA;- Land som har ansvar for ÅPharmacovigilance&#xD;&#xA;- Kontaktopplysninger til den som er ansvarlig for Pharmacovigilance for et gitt produkt&#xD;&#xA;- &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

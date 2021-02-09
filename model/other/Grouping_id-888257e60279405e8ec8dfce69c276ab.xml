@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UiX"
+    id="id-888257e60279405e8ec8dfce69c276ab">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Grouping>

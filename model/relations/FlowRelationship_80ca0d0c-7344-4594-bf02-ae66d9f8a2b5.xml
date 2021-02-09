@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alle avvik er OK"
+    id="80ca0d0c-7344-4594-bf02-ae66d9f8a2b5"
+    documentation="Spesielt for SLV er at alle avvik følges opp før tilsynet er lukket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5bcbe636-39e1-4be2-9111-f874d7625148.xml#5bcbe636-39e1-4be2-9111-f874d7625148"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ba0508b7-023c-4d74-9189-42bbcd54b046.xml#ba0508b7-023c-4d74-9189-42bbcd54b046"/>
+</archimate:FlowRelationship>

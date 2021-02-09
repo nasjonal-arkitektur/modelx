@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for laboratoriearbeid"
+    id="e5d14b8a-a5e1-484f-9341-35c4663d9971"
+    documentation="Ansvarsområder:&#xD;&#xA;* Gjennomføre kontrollanalysar av legemiddel, både nasjonalt og i europeisk samanheng&#xD;&#xA;* Representere Noreg i Den europeiske farmakopé og gi ut Norske legemiddelstandardar.&#xD;&#xA;* Gjennomføre batch release">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

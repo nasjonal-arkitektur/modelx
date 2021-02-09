@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST-Genererator v 2.5.0"
+    id="05ee09ef-74c4-43b5-a6c2-791f6f32d247">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

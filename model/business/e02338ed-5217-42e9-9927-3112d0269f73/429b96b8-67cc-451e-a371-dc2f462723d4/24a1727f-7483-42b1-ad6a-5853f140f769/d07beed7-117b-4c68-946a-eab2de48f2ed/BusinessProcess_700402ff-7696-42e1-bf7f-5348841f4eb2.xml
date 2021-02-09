@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkivere og sende ut utstedelsesbrev"
+    id="700402ff-7696-42e1-bf7f-5348841f4eb2"
+    documentation="Markedsføringstillatelsen arkiveres og sendes til søker.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

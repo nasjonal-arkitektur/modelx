@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn Grossistillatelse (SAM-T)"
+    id="b129cad6-ea33-4a9d-b368-649279306f2e"
+    documentation="Skjema i Altinn">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

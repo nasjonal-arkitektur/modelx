@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behov for tilleggsanalyse"
+    id="6ddd0350-d7c6-4623-9640-e230e89336cb">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_15192823-3dae-4354-b353-cf34a76b2904.xml#15192823-3dae-4354-b353-cf34a76b2904"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2f913972-af3f-4042-9205-d77f33e07b29.xml#2f913972-af3f-4042-9205-d77f33e07b29"/>
+</archimate:FlowRelationship>

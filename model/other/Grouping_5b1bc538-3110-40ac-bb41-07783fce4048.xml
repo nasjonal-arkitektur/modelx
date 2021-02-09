@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskningsledelse"
+    id="5b1bc538-3110-40ac-bb41-07783fce4048"
+    documentation="Ability to conduct systematic investigation into materials and sources in order to establish facts and reach conclusions that comprise a result.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forskningsledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Research Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to conduct systematic investigation into materials and sources in order to establish facts and reach conclusions that comprise a result."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to conduct systematic investigation into materials and sources in order to establish facts and reach conclusions that comprise a result."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

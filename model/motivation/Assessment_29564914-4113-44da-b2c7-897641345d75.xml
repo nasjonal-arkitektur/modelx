@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell registrering av fakturagrunnlag"
+    id="29564914-4113-44da-b2c7-897641345d75"
+    documentation="Fakturagrunnlag fra SAM og SAM-T sendes på PDF og tastes mest sannsynlig manuelt i Agresso">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

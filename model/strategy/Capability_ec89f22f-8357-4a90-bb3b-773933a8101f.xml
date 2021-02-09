@@ -1,0 +1,35 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltning av analysedata"
+    id="ec89f22f-8357-4a90-bb3b-773933a8101f"
+    documentation="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forvaltning av analysedata"/>
+  <properties
+      key="difi:name_en"
+      value="Data Warehousing and Business Intelligence "/>
+  <properties
+      key="difi:description_no"
+      value="Data Warehousing and Business Intelligence includes the planning, implementation, and control processes to manage decision support data and to enable knowledge workers to get value from data via analysis and reporting"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="drill down"
+      value="24446025-cd7a-4ec5-807a-47bcd571108d"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+</archimate:Capability>

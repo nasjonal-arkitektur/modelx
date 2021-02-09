@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende melding om behov for analyse / screeningprosjekter av kosttilskudd,  narkotisk stoff e.l."
+    id="bc4d1cc2-81d2-46e6-9649-135d8e0a3f94"
+    documentation="Legemiddelverket mottar melding om oppdrag om analyse av ulike stoffer som ikke er legemidler. Det kan være:&#xD;&#xA;* stoffer som mistenkes å inneholde narkotika&#xD;&#xA;* Mistanke om ulovlige virkestoffer i kosttilskudd (legemiddelstoffer, dopingstoffer og narkotiske stoffer)&#xD;&#xA;&#xD;&#xA;Oppdragene kan både gjelde enkeltprodukter eller screeningoppdrag for analyse av mange produkter, f.eks. på oppdrag fra mattilsynet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

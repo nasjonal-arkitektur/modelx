@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loggdata"
+    id="b54e7732-9bef-44e6-907e-ab6ac5eb5969"
+    documentation="Apollon-databasen inneholder en batch-jobb, som henter loggdata, slik at de kan vises i Apollon">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6f4b7f69-c562-45a5-93ec-19601bec1847.xml#6f4b7f69-c562-45a5-93ec-19601bec1847"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_edb98a92-8c36-4a4d-bddf-c0521e86e049.xml#edb98a92-8c36-4a4d-bddf-c0521e86e049"/>
+</archimate:AssociationRelationship>

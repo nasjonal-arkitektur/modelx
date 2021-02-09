@@ -1,0 +1,15 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="er en type"
+    id="62853812-5b6b-47d9-8f67-5c6e548a2702">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_7835c881-c8a9-4039-995e-5225e274f04f.xml#7835c881-c8a9-4039-995e-5225e274f04f"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_0f0c2984-4e93-43d1-a773-076ab41942cb.xml#0f0c2984-4e93-43d1-a773-076ab41942cb"/>
+</archimate:SpecializationRelationship>

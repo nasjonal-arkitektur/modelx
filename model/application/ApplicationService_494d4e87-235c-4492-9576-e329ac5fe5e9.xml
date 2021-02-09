@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestilling"
+    id="494d4e87-235c-4492-9576-e329ac5fe5e9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

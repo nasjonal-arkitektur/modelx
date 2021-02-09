@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi forespurte notifikasjoner"
+    id="14580c62-58b1-42f2-8e93-6aa68bcb512f"
+    documentation="Evnen til å avgi notifikasjoner på forespørsel">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

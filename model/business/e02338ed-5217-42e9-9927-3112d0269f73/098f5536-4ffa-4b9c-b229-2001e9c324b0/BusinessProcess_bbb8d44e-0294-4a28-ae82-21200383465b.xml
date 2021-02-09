@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle sertifikater"
+    id="bbb8d44e-0294-4a28-ae82-21200383465b"
+    documentation="Et tilsynsobjet opererer ikke ulovlig om det ikke har vært gjort tilsyn og man ikke har sertifikat. Uten sertifikat kan man imidlertdi risikere å miste tillit. Sertifikatet er med andre ord nødvendig for at ulike deler av forsyningskjeden skal kunne stole på hverandre.&#xD;&#xA;&#xD;&#xA;Sertifikater utstedes på bakgrunn av de observasjoner som er gjort ved tilsyn, og de korreksjoner som tilsynsobjektet har gjort i etterkant.&#xD;&#xA;Dersom det er avdekket vesentlige / graverende avvik, registreres tilsynsobjektet i en &quot;svarteliste&quot;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

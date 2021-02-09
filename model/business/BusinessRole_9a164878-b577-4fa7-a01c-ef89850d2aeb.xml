@@ -1,0 +1,46 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridisk autoritet"
+    id="9a164878-b577-4fa7-a01c-ef89850d2aeb"
+    documentation="DESCRIPTION:&#xD;&#xA;Legal Authority is an entity which certifies Legal Interoperability Agreement in order to guarantee its reliability and trustworthiness.&#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Legal Authority ABB  is salient for interoperability because it supports legal interoperability by providing reliability and trustworthiness of Legal Interoperability Agreement.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU Parliament&#xD;&#xA;European Parliament&#xD;&#xA;The European Parliament (EP) is the directly elected parliamentary institution of the European Union (EU). Together with the Council of the European Union (the Council) and the European Commission, it exercises the legislative function of the EU.&#xD;&#xA;http://www.europarl.europa.eu/plenary/en/home.html">
+  <properties
+      key="ID"
+      value="ABB227"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalAuthority"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Juridisk autoritet"/>
+  <properties
+      key="difi:name_en"
+      value="Legal Authority"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Legal Authority is an entity which certifies Legal Interoperability Agreement in order to guarantee its reliability and trustworthiness.&#xD;&#xA;&#xD;&#xA;Based on EIF:&#xD;&#xA;https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Legal Authority ABB  is salient for interoperability because it supports legal interoperability by providing reliability and trustworthiness of Legal Interoperability Agreement.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU Parliament&#xD;&#xA;European Parliament&#xD;&#xA;The European Parliament (EP) is the directly elected parliamentary institution of the European Union (EU). Together with the Council of the European Union (the Council) and the European Commission, it exercises the legislative function of the EU.&#xD;&#xA;http://www.europarl.europa.eu/plenary/en/home.html"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

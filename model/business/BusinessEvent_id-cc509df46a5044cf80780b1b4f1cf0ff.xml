@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Målsystem er oppdatert"
+    id="id-cc509df46a5044cf80780b1b4f1cf0ff">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessEvent>

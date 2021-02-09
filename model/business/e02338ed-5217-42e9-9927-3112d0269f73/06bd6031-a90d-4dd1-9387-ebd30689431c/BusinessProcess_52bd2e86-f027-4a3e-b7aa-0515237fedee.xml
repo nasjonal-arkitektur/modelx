@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvalte narkotika- og dopingforskriften"
+    id="52bd2e86-f027-4a3e-b7aa-0515237fedee"
+    documentation="Statens legemiddelverk forvalter dopinglisten i forskrift om hva som skal anses som dopingmidler (dopingforskriften). Denne må ikke forveksles med Antidoping Norge/WADAs dopingliste som er tilknyttet prestasjonsfremmende midler for idretsutøvere.&#xA;&#xA;Narkotikaforskriften gjelder for tilvirkning, omsetning (salg, kjøp, annen overdragelse og mellommannsvirksomhet), innførsel, utførsel, gjennomførsel (transitt), utlevering, forsendelse, oppbevaring, besittelse og bruk av narkotika.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

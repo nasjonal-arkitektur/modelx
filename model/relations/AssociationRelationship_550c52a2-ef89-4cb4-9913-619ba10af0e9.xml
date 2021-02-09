@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="550c52a2-ef89-4cb4-9913-619ba10af0e9"
+    documentation="Bivirkningsskjemaet i Altinn aksesserer Athene for å finne riktig legemiddel.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f76e77c4-5cf7-4fcf-844e-e71dd3589421.xml#f76e77c4-5cf7-4fcf-844e-e71dd3589421"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9635ca50-9cf6-480b-8bc9-0222418bfe2f.xml#9635ca50-9cf6-480b-8bc9-0222418bfe2f"/>
+</archimate:AssociationRelationship>

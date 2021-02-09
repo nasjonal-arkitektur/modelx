@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innbyggertjeneste funksjon"
+    id="b89b64f3-ff69-4bb4-8861-d83965baecb9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessFunction>

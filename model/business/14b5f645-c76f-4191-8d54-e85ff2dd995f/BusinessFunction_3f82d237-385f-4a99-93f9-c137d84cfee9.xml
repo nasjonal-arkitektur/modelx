@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhetstillatelser"
+    id="3f82d237-385f-4a99-93f9-c137d84cfee9"
+    documentation="Legemiddelverket gir tillatelser og sertifikater knyttet til apotekdrift, tilvirkning, import og grossistvirksomhet.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NoMVO"
+    id="9572ae75-d757-49d9-93d7-253b1650a1ea"
+    documentation="The Medicines Verification System is a pan-European system to prevent falsified medicines from entering the legal supply chain. The requirement to build the system is based on EU/EEA legislation, The Falsified Medicines Directive (FMD) as well as the specifying Delegated Regulation. Norway, as an EEA country, adopts the European legislation with the same implementation timeline as in EU – 9. February 2019.&#xD;&#xA;&#xD;&#xA;The Medicines Verification System consists of a European central repository managed by a European organisation – EMVO, in which pharmaceutical manufacturers and parallel traders enter the unique identifier information about the medicine pack. All EU/EEA countries will have their own national repositories to which the EU Hub will feed information. The national systems are used by local actors in the pharmaceutical supply chain, i.e. wholesalers, pharmacies and hospital pharmacies.&#xD;&#xA;&#xD;&#xA;NoMVO (Norwegian Medicines Verification Organisation) is responsible for establishing and maintaining the Medicines Verification System in Norway. The verification system shall protect patients from falsified medicines. The verification system applies to the entire supply chain from pharmaceutical manufacturers via wholesalers to the pharmacies.&#xD;&#xA;&#xD;&#xA;NoMVO is governed by a board with members from the pharmaceutical manufacturers (Legemiddelindustrien – LMI), parallel traders (LPF), the community and hospital pharmacies (Apotekforeningen NAF) and the pharmaceutical wholesalers (Legemiddelgrossistforeningen).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,27 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modeller for datadeling"
+    id="id-b20e03439e5540c7b0dbde34b33c631c"
+    documentation="Når datatilbydere og datakonsumenter deler data, skjer det som en del av&#xD;&#xA;en digital samhandling. For at samhandlingen skal være vellykket, må&#xD;&#xA;tilbydere og konsumenter sikre at de handler i henhold til loven&#xD;&#xA;(juridisk samhandlingsevne), at aktørene har avklart forventninger til&#xD;&#xA;hverandre (organisatorisk samhandlingsevne), at datatilbyder og&#xD;&#xA;konsumenter har samme forståelse av dataenes betydning (semantisk&#xD;&#xA;samhandlingsevne) og at de tekniske løsningene som utfører datadeling&#xD;&#xA;fungerer sammen slik de skal (teknisk samhandlingsevne).&#xD;&#xA;https://www.digdir.no/nasjonal-arkitektur/rammeverk-digital-samhandling/2148#juridisk_samhandlingsevne[Rammeverk&#xD;&#xA;for digital samhandling] vist under utdyper disse samhandlingsevner.&#xD;&#xA;&#xD;&#xA;image:{imagepath}image4.png[image,width=464,height=274]&#xD;&#xA;&#xD;&#xA;Modellene i referansearkitekturen beskrevet under er laget for å ivareta&#xD;&#xA;juridisk-, organisatorisk-, semantisk- og teknisk samhandlingsevner og&#xD;&#xA;hjelper dermed de som benytter modellene til å lykkes med digital&#xD;&#xA;samhandling.&#xD;&#xA;&#xD;&#xA;https://nasjonal-arkitektur.github.io/architecture-repository/about-topic-areas/about-topic-areas.html[Nasjonale&#xD;&#xA;referansearkitekturer innen datadeling og datautveksling] er fremdeles&#xD;&#xA;under utvikling. Vi gjenbruker her noen av modellene uendret, og&#xD;&#xA;tilpasser noen for høyere utdanning og forskning. Den overordnede&#xD;&#xA;verdistrømmen for datadeling og relaterte kapabiliteter #avbildet under#&#xD;&#xA;er uendret.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-6c5481d5c5684c87b04904d4cfdf14d6"/>
+  <properties
+      key="drill down"
+      value="id-6c5481d5c5684c87b04904d4cfdf14d6"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

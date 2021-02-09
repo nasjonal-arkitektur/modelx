@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revisjon av enkelte bestemmelser i LUA forskriftenBusiness Actor (lag)"
+    id="62301b0e-05bf-4d23-9b08-52185fde20c9"
+    documentation="Fremme forslag overfor HOD om endringer i  LUA-forskriften  med hensyn på tilsyn, sanksjoner og hvem som skal ha adgang i til å ha LUA-utsalg. Utføres i  samarbeid med Mattilsynet.">
+  <properties
+      key="Stereotype"
+      value="Mildertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

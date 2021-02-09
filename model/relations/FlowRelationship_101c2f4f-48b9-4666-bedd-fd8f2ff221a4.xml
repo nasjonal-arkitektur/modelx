@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende hastesøknad"
+    id="101c2f4f-48b9-4666-bedd-fd8f2ff221a4"
+    documentation="Sykehuset har mulighet til å sende en hastesøknad om godkjenningsfritak&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5a7fab1b-7fa4-45ff-bdc3-9fbb074d6ef4.xml#5a7fab1b-7fa4-45ff-bdc3-9fbb074d6ef4"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b07563d6-9824-4f01-bd64-0b02a7b23d57.xml#b07563d6-9824-4f01-bd64-0b02a7b23d57"/>
+</archimate:FlowRelationship>

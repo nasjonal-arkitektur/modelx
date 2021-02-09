@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn portal"
+    id="3615ac23-0427-48d2-aa87-96847959907e">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationService>

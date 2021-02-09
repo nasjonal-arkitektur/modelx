@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utfasing av medikament"
+    id="8e7f1bf0-2410-4c34-92b2-625c48c9614a"
+    documentation="Medikament kan av ulike årsaker tas av markedet">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre aktører"
+    id="358a4bb6-0283-416e-98fc-0436802fa629">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

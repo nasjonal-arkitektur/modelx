@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eventuelt minimert"
+    id="b14920b8-6662-452c-a038-f381ce00849c"
+    directed="true">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_d6a76d0b-fed6-4c45-b156-43475518a6a6.xml#d6a76d0b-fed6-4c45-b156-43475518a6a6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_cf641ae6-df2a-47e3-90d2-96b15200781d.xml#cf641ae6-df2a-47e3-90d2-96b15200781d"/>
+</archimate:AssociationRelationship>

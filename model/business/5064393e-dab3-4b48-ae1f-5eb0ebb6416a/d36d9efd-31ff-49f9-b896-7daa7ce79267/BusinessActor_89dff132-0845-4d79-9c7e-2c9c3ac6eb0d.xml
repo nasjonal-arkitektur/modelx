@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevurdering (HTA) - kompetansenettverk"
+    id="89dff132-0845-4d79-9c7e-2c9c3ac6eb0d"
+    documentation="Systematisk kompetansedeling innen fagområdet helseøkonomi">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

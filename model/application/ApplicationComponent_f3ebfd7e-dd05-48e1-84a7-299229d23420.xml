@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn styring av tilgang"
+    id="f3ebfd7e-dd05-48e1-84a7-299229d23420"
+    documentation="Med denne løsningen styrer du hvem som kan bruke en digital tjeneste. Du kan bruke den til å styre tilganger for privatpersoner og til å gi tilganger basert på rettigheter en person har på vegne av en virksomhet.">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn styring av tilgang"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>

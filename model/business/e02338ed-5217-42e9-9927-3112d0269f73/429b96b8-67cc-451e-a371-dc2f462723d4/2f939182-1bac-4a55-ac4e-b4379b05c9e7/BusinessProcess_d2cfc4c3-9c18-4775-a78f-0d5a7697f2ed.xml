@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Velge land man ønsker å søke MT i"
+    id="d2cfc4c3-9c18-4775-a78f-0d5a7697f2ed"
+    documentation="I desentral prosedyre kan MT-søker selv velge hvilke land man ønsker å søke.&#xA;Det velges Member State (RMS) og Concerned Member State (CMS). Det landet som er valgt som RMS utarbeider utredningsrapport (Asessment Raport) og har dermed hovedansvaret for saksbehandlingen. Landene valgt som MS gjennomgår og kommenterer utredningsrapportene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

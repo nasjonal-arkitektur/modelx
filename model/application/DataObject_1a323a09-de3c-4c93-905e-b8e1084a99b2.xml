@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhetssertifikat"
+    id="1a323a09-de3c-4c93-905e-b8e1084a99b2"
+    documentation="En virksomhets elektroniske ID. Benyttes for å autentisere virksomheten overfor tokentjenesten.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Virksomhetssertifikat"/>
+  <properties
+      key="difi:description_no"
+      value="En virksomhets elektroniske ID. Benyttes for å autentisere virksomheten overfor tokentjenesten."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:DataObject>

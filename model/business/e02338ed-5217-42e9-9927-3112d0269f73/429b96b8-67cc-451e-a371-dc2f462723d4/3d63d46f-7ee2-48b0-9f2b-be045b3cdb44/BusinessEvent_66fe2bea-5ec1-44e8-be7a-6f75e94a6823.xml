@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Foresprøsel om RMS formidlet"
+    id="66fe2bea-5ec1-44e8-be7a-6f75e94a6823"
+    documentation="Forespørsel om Norge som RMS i DCP kan sendes inn når som helst, dog ikke senere enn tre måneder før ønsket tidspunkt for innsendelse av søknad om markedsføringstillatelse.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

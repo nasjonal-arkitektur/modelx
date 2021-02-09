@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smittevern"
+    id="451d9981-5f11-4215-b55c-05bd329dbed8"
+    documentation="Overvåking av smittsomme sykdommer og smittestoff, og forebygging av smittsomme sykdommer.">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

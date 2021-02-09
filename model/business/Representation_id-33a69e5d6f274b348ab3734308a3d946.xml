@@ -1,0 +1,25 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrasjonsmønster for datadeling"
+    id="id-33a69e5d6f274b348ab3734308a3d946"
+    documentation="*Provisjonering *(hoved IntArk mønster): Holde «server-side» kopi løpende oppdatert&#xD;&#xA;fra master ved å benytte eOppslag til å hente data fra master&#xD;&#xA;og eNotifikasjon for å gi beskjed til abonnenter om at noe er&#xD;&#xA;oppdatert på master. &#xD;&#xA;&#xD;&#xA;**Synkront oppslag: **realisering av eOppslag – hva bør vi si om&#xD;&#xA;dette? Skal vi Skissere REST og GraphQL eller blir det for&#xD;&#xA;teknologispesifikk?&#xD;&#xA;&#xD;&#xA;**“Event stream” på logisk nivå: **Dette er en form&#xD;&#xA;for ePublisering/eNotfikasjon. Ref. Gartner sin FS evaluering, men siden&#xD;&#xA;de ikke har åpen dokumentasjon** **se for eksempel&#xD;&#xA;denne:** **https://mapr.com/blog/event-driven-microservices-patterns/[[.underline]#https://mapr.com/blog/event-driven-microservices-patterns/#].&#xD;&#xA;Overordnet, omtales arkitekturen som&#xD;&#xA;“https://en.wikipedia.org/wiki/Event-driven_architecture[[.underline]#Event Driven&#xD;&#xA;Architecture#]”.^2^  Tilnærmingen forutsetter tilnærming til konsistens&#xD;&#xA;omtalt&#xD;&#xA;som «https://en.wikipedia.org/wiki/Eventual_consistency[[.underline]#Eventual&#xD;&#xA;Consistency#]». «Conflict resolution» kan her gjennomføres på flere&#xD;&#xA;måter avhengig av domenebehov. Mange benytter «last writer wins», men&#xD;&#xA;det finnes flere, strengere alternativer, som for&#xD;&#xA;eksempel https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/[[.underline]#Event&#xD;&#xA;sourcing og Change Data Capture#]. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;*Backend for frontend*: relevant når vi skal spesifisere samhandling med&#xD;&#xA;individer, som i innovativ læring og livslang læring. eHelse sier&#xD;&#xA;«Backend-for-Frontend (BFF) er et utbredt designkonsept som benyttes for&#xD;&#xA;mange klienter og API-er. Konseptet går ut på å la&#xD;&#xA;ulike brukergrensesnittyper (Nettleserbaserte, App-er på mobil osv) ha&#xD;&#xA;hver sin backend slik at spesialtilpasninger på API-er som kreves for de&#xD;&#xA;ulike brukergrensesnitttypene kan realiseres uten at det går&#xD;&#xA;utover vedlikeholdbarheten til API-ene.» Gartner bruker også den.  ">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

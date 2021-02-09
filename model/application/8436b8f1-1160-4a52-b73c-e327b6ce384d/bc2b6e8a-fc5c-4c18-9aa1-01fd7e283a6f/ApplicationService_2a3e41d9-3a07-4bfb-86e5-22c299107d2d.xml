@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAM - publisering"
+    id="2a3e41d9-3a07-4bfb-86e5-22c299107d2d"
+    documentation="Batchjobb som publiserer endringer til:&#xD;&#xA;Legemiddelsøk&#xD;&#xA;Felleskatalogen&#xD;&#xA;&#xD;&#xA;Batchjobben publiserer all SPC-dokumentasjon som saksbehandler har markert som godkjent.&#xD;&#xA;Prosessen foregår i flere steg:&#xD;&#xA;- Laste over SPC-dokumentasjon og pakningsvedlegg fra P360 til filområde for legemiddelsøk / felleskatalogen&#xD;&#xA;- Henter ut oversikt over produkter som ikke har gyldig MT, og benytter dette til å avgjøre hvilken SPC-informasjon som skal publiseres til Legemiddelsøk.&#xD;&#xA;- Henter Excel-ark fra EMA som transformeres til en nettside hvord kan søkes i alle handelsnavn, prosedyre og med lenke til SPC hos EMA&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ferdigstille Asessment Report (AR)"
+    id="74678b0e-3815-491e-b254-40d98df83964"
+    documentation="CP Human: Ferdigstille Asessment Report (AR) dag 121-150&#xD;&#xA;Mellom dag 120-150 lager rapportør og ko-rapportør en assessment report basert på de innkomne kommentarene. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

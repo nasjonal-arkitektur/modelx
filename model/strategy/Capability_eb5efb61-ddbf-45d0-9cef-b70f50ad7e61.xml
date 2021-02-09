@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å be om tilgang til data"
+    id="eb5efb61-ddbf-45d0-9cef-b70f50ad7e61"
+    documentation="Forklaring:&#xD;&#xA;Datakonsument må evne å be om tilgang til aktuelle data&#xD;&#xA;&#xD;&#xA;Konsument må sørge for at tilbyder har forstått hva som  etterspørres slik at misforståelser unngås&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Tilgjengelige ressurser til dialogen med tilbyder &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å be om tilgang til data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datakonsument må evne å be om tilgang til aktuelle data&#xD;&#xA;&#xD;&#xA;Konsument må sørge for at tilbyder har forstått hva som  etterspørres slik at misforståelser unngås&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Tilgjengelige ressurser til dialogen med tilbyder &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avtaleforvalter"
+    id="8cb74928-d6d9-40b5-99e2-b1b400f82228"
+    documentation="En separat avtaleforvalter vedlikeholder samhandlingsspesifikasjoner på vegne av samhandlingsaktørene og oppretter samhandlingsavtaler som et mellomledd mellom aktørene. Dette reduserer det totale antallet samhandlingsavtaler vesentlig, og kan gi større fleksibilitet når det gjelder mulige samhandlingsparter.">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avtaleforvalter"/>
+  <properties
+      key="difi:name_en"
+      value="Community Governance Authority"/>
+  <properties
+      key="difi:description_no"
+      value="Felleskapsforvalter"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppmåling"
+    id="53a50795-2439-159"
+    documentation="Oppmåling er en kommunal oppgave som omfatter fastsetting, beskrivelse og merking av nye grenser, endring av eksisterende grenser og dokumentasjon til matrikkelen (eiendomsregisteret).">
+  <properties
+      key="Engelsk navn"
+      value="Surveying"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

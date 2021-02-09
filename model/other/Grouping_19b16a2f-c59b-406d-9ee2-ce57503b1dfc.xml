@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intiativstyring"
+    id="19b16a2f-c59b-406d-9ee2-ce57503b1dfc"
+    documentation="Ability to organize, plan, direct, and communicate progress against one or a collection of temporary endeavors or projects undertaken to create a unique outcome, using the setting and achieving of milestones to deliver those outcomes within defined resources, time, quality, and scope constraints.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Programstyring"/>
+  <properties
+      key="difi:name_en"
+      value="Program Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to organize, plan, direct, and communicate progress against one or a collection of temporary endeavors or projects undertaken to create a unique outcome, using the setting and achieving of milestones to deliver those outcomes within defined resources, time, quality, and scope constraints."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to organize, plan, direct, and communicate progress against one or a collection of temporary endeavors or projects undertaken to create a unique outcome, using the setting and achieving of milestones to deliver those outcomes within defined resources, time, quality, and scope constraints."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

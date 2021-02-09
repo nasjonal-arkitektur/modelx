@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrering - Dokumentforvaltning (lag)"
+    id="d6fc1765-26f7-4ad2-8ea0-41138037970c"
+    documentation="Registrering av dokumenter i 360⁰ og SAM.&#xD;&#xA;&#xD;&#xA;Registrering av dokumenter fra: &#xD;&#xA;1. e-post (herunder Eudralink) &#xD;&#xA;2. CESP &#xD;&#xA;3. Common Repository &#xD;&#xA;4. PSUR Repository &#xD;&#xA;5. EU-kommisjonens hjemmeside &#xD;&#xA;6. MMD &#xD;&#xA;7. Innskannet post fra NHN&#xD;&#xA;&#xD;&#xA;Postmottak av ikke-skannbar post + frankering.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

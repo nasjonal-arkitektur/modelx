@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produktinformasjon"
+    id="2d649635-4a46-4a03-8adb-161955423637"
+    documentation="Våre oppgaver:&#xD;&#xA;* Utstede markedsføringstillatelser.&#xD;&#xA;* Godkjenne produktinformasjon – preparatomtale, pakningsvedlegg og merking – i alle regulatoriske prosedyrer.&#xD;&#xA;* Kvalitetssikring av  oversatt dokumentasjon for legemiddelet (Det er leverandøren som sørger for oversetting av dokumentasjon)&#xD;&#xA;* Elektronisk godkjenning&#xD;&#xA;* Kontroll av innpakning, om det er symboler og bilder på pakning (Godkjenning av mockups)&#xD;&#xA;&#xD;&#xA;E-postadresse: pi@legemiddelverket.no ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

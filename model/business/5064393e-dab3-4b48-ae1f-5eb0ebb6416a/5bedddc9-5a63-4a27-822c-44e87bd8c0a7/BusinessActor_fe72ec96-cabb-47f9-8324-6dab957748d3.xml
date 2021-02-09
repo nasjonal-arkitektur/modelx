@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regionale legemiddelinformasjonssentere (RELIS)"
+    id="fe72ec96-cabb-47f9-8324-6dab957748d3"
+    documentation="Regionale legemiddelinformasjonssentre (RELIS) er en offentlig finansiert informasjonstjeneste om legemidler for helsepersonell. RELIS er etablert for å bidra til rasjonell og riktig legemiddelbruk gjennom produsentuavhengig legemiddelinformasjon til helsepersonell.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

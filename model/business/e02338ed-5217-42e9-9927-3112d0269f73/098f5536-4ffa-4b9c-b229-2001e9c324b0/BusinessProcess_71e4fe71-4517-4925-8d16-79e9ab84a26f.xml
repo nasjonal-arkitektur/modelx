@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlegge og gjennomføre tilsyn"
+    id="71e4fe71-4517-4925-8d16-79e9ab84a26f"
+    documentation="Et tilsyn kan ta opp til et par dager&#xD;&#xA;Gjennomføring omfatter:&#xD;&#xA;* Samtaler / møter med relevant personell hos tilsynsobjektet&#xD;&#xA;* Fotografering som dokumentasjon på observerte forhold.&#xD;&#xA;* Føring av observasjonsliste, basert på fakta - f.eks. &quot;I hyllen står det 3 varer, men I listen skal det være 6&quot;&#xD;&#xA;* Observasjonslisten registreres på tilsynssaken, og brukes som underlag for utarbeiding av tilsynsrapport&#xD;&#xA;* Ved tilsyn benytter man også sjekklister, som er dels generelle og dels tilpasset den enkelte kunde.&#xD;&#xA;&#xD;&#xA;Man følger samme tilsynsmetodikk som for revisorer o.l. (det er litt forskjell mht hvordan dette gjøres i Norge og Eurpoa)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

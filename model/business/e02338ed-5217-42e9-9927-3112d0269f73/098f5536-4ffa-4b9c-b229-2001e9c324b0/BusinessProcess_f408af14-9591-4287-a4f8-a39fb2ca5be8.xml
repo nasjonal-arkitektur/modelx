@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstede sertifikat"
+    id="f408af14-9591-4287-a4f8-a39fb2ca5be8"
+    documentation="Når tilsyn er gjennnomført og eventuelle avvik er utbedret - dvs. at tilsynsobjektet er uten avvik, kan det utstedes sertifikat for tilsynsobjektet.&#xD;&#xA;Sertifikatet er en erklæring som sier &quot;lergemiddelverket var på tilsyn 5. mars og nå I dag, 16. oktober så utstedes sertifikatet basert på det vi så 5. mars&quot;. &#xD;&#xA;Sertifikater er gyldig i 3 år for tilvirkere og 5 år for grosisster. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

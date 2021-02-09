@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage årsplan for hvilke analyser som skal gjennomføres"
+    id="a6b8bdec-5eed-47ad-9119-27e0b284fbac"
+    documentation="Har et årshjul med planlegging.&#xD;&#xA;&#x9;• Får innspill fram til et gitt tidspunkt og går inn I diskusjon om hvem som tar hva.&#xD;&#xA;&#x9;• Årsplanen vil aldri være helt spikret. Ca. tre ganger I året kalles det inn. Kan komme til noe preparater på listen, uten at dette er ad hoc.&#xD;&#xA;&#x9;• En overordnet plan med fleksibilitet.&#xD;&#xA;&#x9;• Begynner å planlegge årsplanen i begynnelsen av 4. kvartal&#xD;&#xA;&#x9;• Gjennomfører ca. 150 analyser I året (hvis et preparat har fem styrkegrader - er dette fem analyser)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

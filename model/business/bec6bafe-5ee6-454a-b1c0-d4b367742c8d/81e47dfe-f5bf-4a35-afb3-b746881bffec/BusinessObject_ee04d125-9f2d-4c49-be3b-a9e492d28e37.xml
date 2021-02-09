@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT-Søknad"
+    id="ee04d125-9f2d-4c49-be3b-a9e492d28e37"
+    documentation="En MT-søknad er i praksis en omfattende mappestruktur med fem hovedmoduler (CTD/eCTD). Søknaden kan lastes inn i EURS validator, som kan brukes til å finne igjen dokumenter enklere enn å gå inn i mappestrukturen. EURS validator brukes bare når man er rapportør(EXTEDO - også en programvare som legemiddelfirma bruker til å bygge eCTD)) &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

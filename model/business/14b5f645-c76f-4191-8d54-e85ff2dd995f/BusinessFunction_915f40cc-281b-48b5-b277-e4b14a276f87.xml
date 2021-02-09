@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vitenskapelig veiledning"
+    id="915f40cc-281b-48b5-b277-e4b14a276f87"
+    documentation="Legemiddelverket bistår bedrifter og akademia med veiledning og råd innenfor legemiddelutvikling, klinisk forskning/utprøving og helseøkonomi både nasjonalt og europeisk.&#xD;&#xA;Oppgaver omfatter&#xD;&#xA;* Veiledning og råd til industri og akademia ved legemiddelutvikling og klinisk forskning for humane og veterinære legemidler&#xD;&#xA;&#xD;&#xA;E-postadresse: ask-us@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

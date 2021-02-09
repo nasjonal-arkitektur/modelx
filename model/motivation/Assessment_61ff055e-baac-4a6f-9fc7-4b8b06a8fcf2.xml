@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mangler gode digitale verktøy"
+    id="61ff055e-baac-4a6f-9fc7-4b8b06a8fcf2"
+    documentation="Kartleggingstilsyn gjennomføres i stor grad på papir. Det er ønskelig med digitale verkøty som gjør det mulig for online innrapportering fra tilsynsobjektene og systematisering og rapportering med så liten grad av manuelt arbeid som mulig.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

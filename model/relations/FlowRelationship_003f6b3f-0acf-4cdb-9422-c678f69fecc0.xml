@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Positivt utfall av AR - Eventuelt med gjenstående spørsmål"
+    id="003f6b3f-0acf-4cdb-9422-c678f69fecc0">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_e8d385b6-df43-4adc-832c-95a0dc7b3f0c.xml#e8d385b6-df43-4adc-832c-95a0dc7b3f0c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6862f194-e4f7-4530-9383-777adf19912d.xml#6862f194-e4f7-4530-9383-777adf19912d"/>
+</archimate:FlowRelationship>

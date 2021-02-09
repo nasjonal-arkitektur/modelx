@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk CP  før  MT   (lag)"
+    id="c26a9d3c-38a9-4012-8202-1a4c98c199e2"
+    documentation="Alle regulatoriske oppgaver fra søknaden meldes og hele preparatets levetid.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

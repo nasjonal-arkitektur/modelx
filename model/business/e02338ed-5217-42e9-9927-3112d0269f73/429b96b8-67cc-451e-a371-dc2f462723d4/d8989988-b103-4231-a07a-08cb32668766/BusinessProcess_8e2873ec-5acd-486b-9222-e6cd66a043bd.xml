@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og registrere søkers respons"
+    id="8e2873ec-5acd-486b-9222-e6cd66a043bd"
+    documentation="Respons fra søker mottas på ePost, og registreres i SAM manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

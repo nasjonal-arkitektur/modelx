@@ -8,7 +8,7 @@
       value="archi:realization-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -31,13 +31,6 @@
   <properties
       key="difi:metaLevel"
       value="meta"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="ce51dde4-72af-426e-8447-7ed6dbe70313"/>
   <source
       xsi:type="archimate:Artifact"
       href="Artifact_97d42b7b-68b4-4948-b3ba-3ea97eb1bd97.xml#97d42b7b-68b4-4948-b3ba-3ea97eb1bd97"/>

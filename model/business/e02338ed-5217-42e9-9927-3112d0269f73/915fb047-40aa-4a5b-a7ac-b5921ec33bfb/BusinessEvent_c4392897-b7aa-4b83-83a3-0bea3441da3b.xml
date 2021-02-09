@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende søknad om Compassionate Use"
+    id="c4392897-b7aa-4b83-83a3-0bea3441da3b"
+    documentation="Søknad om Compassionate Use er en egen søknadstype, og har et omfattende dokumentasjonsomfang.&#xD;&#xA;Søknadene registreres og behandles på tilsvarende måte som søknader om klinisk utprøving.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

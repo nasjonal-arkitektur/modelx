@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Følge opp gjennomføring av klinisk utprøving"
+    id="2e9ce30f-a491-4eda-a283-367bbd7ab6f1"
+    documentation="Det er saksbehandlers ansvar å holde oppsyn med sikkerheten i en klinisk utprøving. Dette gjøres gjennom innsendte statusrapporter og bivirkningsmeldinger (SUSAR)&#xD;&#xA;Oppfølgingen kan foregå opp til 10 år.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

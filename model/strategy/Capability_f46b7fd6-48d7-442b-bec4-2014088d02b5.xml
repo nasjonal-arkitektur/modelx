@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trafikkinformasjon"
+    id="f46b7fd6-48d7-442b-bec4-2014088d02b5">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

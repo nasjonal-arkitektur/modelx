@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagleder"
+    id="f7a42f1d-0ade-4703-abb1-cf431f0e9cef">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5d451497-d5c8-4439-b296-9fd858e91883.xml#5d451497-d5c8-4439-b296-9fd858e91883"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_28b04fb1-ed8b-47fa-9803-db7e2d49a4cd.xml#28b04fb1-ed8b-47fa-9803-db7e2d49a4cd"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsforvaltning"
+    id="4f8768ba-7089-4a93-bcf5-94909b8c17e4"
+    documentation="Ability to define, organize, structure, secure, protect, and disseminate facts, statistics, attributes, and other types of data about an organization’s set of business objects.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Informasjonsforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Information Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, organize, structure, secure, protect, and disseminate facts, statistics, attributes, and other types of data about an organization’s set of business objects."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, organize, structure, secure, protect, and disseminate facts, statistics, attributes, and other types of data about an organization’s set of business objects."/>
+  <properties
+      key="label"
+      value="Informasjons-forvaltning"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

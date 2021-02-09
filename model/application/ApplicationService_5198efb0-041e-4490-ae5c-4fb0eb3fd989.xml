@@ -1,0 +1,28 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registering av representasjonsforhold"
+    id="5198efb0-041e-4490-ae5c-4fb0eb3fd989"
+    documentation="Tjeneste for å registrere et representasjonsforhold som gir leverandør mulighet til å opptre på vegne av konsument">
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Registering av delegerte rettigheter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for å registrere et representasjonsforhold som gir leverandør mulighet til å opptre på vegne av konsument"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationService>

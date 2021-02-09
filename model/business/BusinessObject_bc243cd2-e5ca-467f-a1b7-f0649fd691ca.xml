@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottakersertifikat"
+    id="bc243cd2-e5ca-467f-a1b7-f0649fd691ca"
+    documentation="Offentlig nøkkel benyttes for kryptering og validering av signatur.&#xD;&#xA;&#xD;&#xA;Privat nøkkel benyttes til dekryptering og signering av meldinger.">
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Mottakersertifikat"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

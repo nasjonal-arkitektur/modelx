@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kartleggingstilsyn"
+    id="f1710810-7a30-41f8-8be2-75c5ad47f003"
+    documentation="Det gjennmomføres ulike kartlegginger for å avdekke forhold innen et tema. Dette ligger til grunn for rapporter og statistikker, og gjennomføring av tilsyn.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

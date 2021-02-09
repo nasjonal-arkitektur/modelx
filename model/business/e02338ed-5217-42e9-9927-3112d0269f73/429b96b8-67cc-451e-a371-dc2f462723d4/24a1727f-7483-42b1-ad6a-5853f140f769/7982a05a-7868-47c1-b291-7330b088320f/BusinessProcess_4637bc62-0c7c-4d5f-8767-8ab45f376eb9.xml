@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgang i CHMP"
+    id="4637bc62-0c7c-4d5f-8767-8ab45f376eb9"
+    documentation="Team fra CHMP går gjennom rapport - /risiko/kost/nytte-evaluering&#xD;&#xA;Gjennomgang av søknad i EMA kan inkludere ulike komiteer, avhengig av legemiddelet det søkes om MT for.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

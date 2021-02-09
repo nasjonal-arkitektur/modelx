@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP human/vet (lag)"
+    id="fac1a26b-4078-4588-aea8-cab315c30e5c"
+    documentation="Utstede MT, godkjenne endringer, utstede fornyelser m.m&#xD;&#xA;Kvalitetssikre SPC og PIL i forbindelse med alle CP-saker">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

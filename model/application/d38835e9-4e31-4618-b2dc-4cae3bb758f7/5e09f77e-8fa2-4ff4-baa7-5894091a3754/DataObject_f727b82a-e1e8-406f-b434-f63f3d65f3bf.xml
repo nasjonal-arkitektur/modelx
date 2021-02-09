@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prøveregistrering"
+    id="f727b82a-e1e8-406f-b434-f63f3d65f3bf"
+    documentation="Analyseregistrer(er) - basert på egen Word-mal.&#xD;&#xA;I dokumentet flettes inn grunndata fra regnearket med grunndata, slik at man ikke behøver å taste grunndata på nytt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

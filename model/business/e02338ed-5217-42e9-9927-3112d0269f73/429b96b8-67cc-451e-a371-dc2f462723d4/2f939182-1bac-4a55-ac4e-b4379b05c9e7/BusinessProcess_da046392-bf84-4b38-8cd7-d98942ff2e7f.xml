@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valideringsfase (14 dager)"
+    id="da046392-bf84-4b38-8cd7-d98942ff2e7f"
+    documentation="Søker sender inn søknad med all påkrevd dokumentasjon. Siden MRP bygger på at man allerede har markedsføringstillatelse, inkluderer dette utredningsrapport">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

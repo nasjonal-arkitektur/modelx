@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varselmeldinger"
+    id="695073b7-731c-430b-bf71-1e073d114c92">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_24d62c37-8e25-4880-bd3b-2cf00bbf382a.xml#24d62c37-8e25-4880-bd3b-2cf00bbf382a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2198f41d-9980-4b99-9039-d613f5679e8a.xml#2198f41d-9980-4b99-9039-d613f5679e8a"/>
+</archimate:FlowRelationship>

@@ -3,40 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6aacf5cc-a5e8-43fe-a5df-ed4b64d427b8">
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
-      key="dct:type"
-      value="archi:specialization-relationship"/>
-  <properties
       key="difi:namespace"
-      value="-"/>
-  <properties
-      key="difi:abstractionLevel"
-      value="undefined"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="difi:language"
-      value="no"/>
-  <properties
-      key="difi:name_no"/>
-  <properties
-      key="difi:name_en"/>
-  <properties
-      key="difi:description_no"/>
-  <properties
-      key="difi:description_en"/>
-  <properties
-      key="label"
-      value="${name}"/>
-  <properties
-      key="difi:notes"/>
-  <properties
-      key="modelx:guid"
-      value="6aacf5cc-a5e8-43fe-a5df-ed4b64d427b8"/>
+      value="digdir"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_04ea10d8-a228-4692-a558-ece219f8aa62.xml#04ea10d8-a228-4692-a558-ece219f8aa62"/>

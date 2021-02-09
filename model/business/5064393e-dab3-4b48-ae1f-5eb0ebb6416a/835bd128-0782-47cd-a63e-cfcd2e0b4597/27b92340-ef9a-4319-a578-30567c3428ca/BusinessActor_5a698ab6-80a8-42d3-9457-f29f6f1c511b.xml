@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MediCrime (lag)"
+    id="5a698ab6-80a8-42d3-9457-f29f6f1c511b"
+    documentation="Tildelingsbrevet for 2017 pkt. 2.11: Statens legemiddelverk skal vurdere hvilke lov og forskriftsendringer Europarådets konvensjon om forfalskede legemidler foranlediger. Avgrensningen som er foretatt av Justis- og beredskapsdepartementet vedr. straffelov og straffeprosesslov kan legges til grunn.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

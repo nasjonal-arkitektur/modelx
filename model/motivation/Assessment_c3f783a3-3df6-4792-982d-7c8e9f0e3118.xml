@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har ikke tilstrekkelig bemanning til å gjennomføre nok tilsyn"
+    id="c3f783a3-3df6-4792-982d-7c8e9f0e3118"
+    documentation="Bemanningen strekker ikke til for å kunne gjennomføre alle tilsyn man kan tenke seg å gjøre, eller er pålagt å gjøre - blant annet pålegger EU tilsyn med 2-5 års hyppighet på ulike kategorier aktører.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenn MT-brev"
+    id="cc92ab94-d3c4-4e4b-9a72-030deeb37d56"
+    documentation="Enhetsledere ller annen med godkjenningsfullmakt godkjenner og undertegner MT-brevet på vegne av direktør, før det sendes ut.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

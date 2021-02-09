@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende svar på forespørsel"
+    id="a20b0199-f454-4d8a-8c2b-83a8e0fa54f7"
+    documentation="Svar sendes til MT-søker i henhold til vurdering av om SLV kan ta oppdraget som RMS eller ikke.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

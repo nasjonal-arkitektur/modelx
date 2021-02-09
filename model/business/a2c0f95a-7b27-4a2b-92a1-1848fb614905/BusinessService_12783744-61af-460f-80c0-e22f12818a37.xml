@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroll og publisering av FEST"
+    id="12783744-61af-460f-80c0-e22f12818a37"
+    documentation="FEST er eit datagrunnlag som gir lege, apotek og bandasjist oppdatert informasjon om alt du kan få på resept i Noreg. FEST er ein del av e-reseptkjeda. Legemiddelverket har ikkje heile datagrunnlaget hos seg, og samarbeider derfor med andre leverandørar for å få eit så godt datagrunnlag som råd. Vi samarbeider med blant anna Helsedirektoratet, HELFO og Farmalogg om utveksling av informasjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

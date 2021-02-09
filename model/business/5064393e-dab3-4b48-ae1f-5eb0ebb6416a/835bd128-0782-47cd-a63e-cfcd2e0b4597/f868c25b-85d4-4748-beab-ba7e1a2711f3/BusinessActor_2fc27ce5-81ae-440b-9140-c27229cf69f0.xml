@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidler og Miljø (lag)"
+    id="2fc27ce5-81ae-440b-9140-c27229cf69f0"
+    documentation="Kommentere på Eu kommisjonen utarbeider ny strategi for området legemidler og miljø">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

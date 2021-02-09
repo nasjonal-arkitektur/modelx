@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU-arbeid - kompetansenettverk"
+    id="a1f7dd7f-771b-470b-b9bf-57cd63242f28"
+    documentation="Kompetansedeling for alle som arbeider i komitéer og arbeidsgrupper i EU nettverket (EMA og EU-kommisjonen) for å tilstrebe enhetlig og entydig kommunikasjon eksternt">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

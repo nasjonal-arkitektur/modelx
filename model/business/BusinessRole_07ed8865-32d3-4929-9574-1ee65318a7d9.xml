@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representant"
+    id="07ed8865-32d3-4929-9574-1ee65318a7d9"
+    documentation="Den som representerer en samhandlingsaktør enten gjennom hjemmel, fullmakt eller samtykke. Fullmakt omfatter her delegert rettighet gitt til leverandør av ansvarlig samhandlingsaktør.&#xD;&#xA;&#xD;&#xA;Representant kan også være f.eks. verge, fullmektig eller annen bemyndiget person.&#xD;&#xA;&#xD;&#xA;En annen type representant er databehandler i betydningen representant for behandlingsansvarlig (personvern).">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Representant"/>
+  <properties
+      key="difi:name_en"
+      value="Delegate"/>
+  <properties
+      key="difi:description_no"
+      value="Den som representerer en samhandlingsaktør enten gjennom hjemmel, fullmakt eller samtykke. Fullmakt omfatter her delegert rettighet gitt til leverandør av ansvarlig samhandlingsaktør.&#xD;&#xA;&#xD;&#xA;Representant kan også være f.eks. verge, fullmektig eller annen bemyndiget person.&#xD;&#xA;&#xD;&#xA;En annen type representant er databehandler i betydningen representant for behandlingsansvarlig (personvern)."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

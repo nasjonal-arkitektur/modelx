@@ -1,0 +1,36 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroller tilgang"
+    id="6b298315-cf49-4dea-b154-79ae4a79fd7e"
+    documentation="Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til &quot;validering av sikkerhetsbillet&quot;, kan det være behov for kontroll mot virksomhetsinterne policies.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Kontroller tilgang"/>
+  <properties
+      key="difi:description_no"
+      value="Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til &quot;validering av sikkerhetsbillet&quot;, kan det være behov for kontroll mot virksomhetsinterne policies."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:business-process"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessProcess>

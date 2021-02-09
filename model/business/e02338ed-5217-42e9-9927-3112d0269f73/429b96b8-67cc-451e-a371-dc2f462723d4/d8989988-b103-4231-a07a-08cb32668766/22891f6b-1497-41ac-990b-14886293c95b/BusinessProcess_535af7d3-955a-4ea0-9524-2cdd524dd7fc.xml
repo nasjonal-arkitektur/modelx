@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage utkast til nivåvurdering"
+    id="535af7d3-955a-4ea0-9524-2cdd524dd7fc"
+    documentation="Som underlag for nivåvurdering fylles det ut et nivåvurderingsskjema, Skjemaet inneholder de ulike temeane / aspektene ved søknaden man ser behov for å gjennomgå, og hvilke fagenheter som skal utføre gjennomgangen.&#xD;&#xA;Koordinator fyller ut nivåvurderingsskjema - dette påbegynnes I innsjekk, ligger klart til utfylling når som helst - skjema sendes ut når rapporten kommer. Dette blir grunnlaget for om man skal kommentere.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

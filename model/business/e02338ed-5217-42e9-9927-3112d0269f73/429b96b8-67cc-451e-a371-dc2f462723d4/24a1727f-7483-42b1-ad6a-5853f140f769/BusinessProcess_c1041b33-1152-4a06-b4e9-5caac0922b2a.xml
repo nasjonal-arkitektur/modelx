@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tildele oppdrag / roller i MT-behandlingen"
+    id="c1041b33-1152-4a06-b4e9-5caac0922b2a"
+    documentation="EMA tildeler ulike utrederroller knyttet til saksbehandlingen av en MT-søknad i henhold til sentral prosedyre (CP)&#xD;&#xA;* Rapportør - Det land som er hovedansvarlig for utredning og rapportering knyttet til en søknad&#xD;&#xA;* Ko-rapportør - Utreder i praksis på lik linje med rapportør, men har ikke ansvar for saksbehandlingen&#xD;&#xA;* Peer Reviewer - Det land som utpekes til å gjøre QA på utredningsrapporten (Asessment Report - AR) &#xD;&#xA;* PRAC-rapportør - Leverer egen rapport knyttet til bivirkninger&#xD;&#xA;&#xD;&#xA;Tildeling av roller kan skje fra 6-7 måneder før søknad ankommer og fram til søknad er mottatt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

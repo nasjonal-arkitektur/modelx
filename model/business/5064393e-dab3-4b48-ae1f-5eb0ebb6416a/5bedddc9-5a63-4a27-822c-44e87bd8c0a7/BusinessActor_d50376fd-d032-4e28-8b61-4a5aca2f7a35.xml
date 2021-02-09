@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelprodusent"
+    id="d50376fd-d032-4e28-8b61-4a5aca2f7a35"
+    documentation="Også referert til som Legemiddelfirma eller tilvirker av legemiddel.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

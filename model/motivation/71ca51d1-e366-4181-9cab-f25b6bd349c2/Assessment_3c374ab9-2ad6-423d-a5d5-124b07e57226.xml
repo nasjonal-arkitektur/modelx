@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell registreirng av ATC-koder"
+    id="3c374ab9-2ad6-423d-a5d5-124b07e57226"
+    documentation="Det brukes en del ressurser på å registrere ATC-koder manuelt. Avsender har ikke kompetanse til å avgjøre hvilken kode som skal settes, slik at dette må gjøres av Legemiddelverket og innleid, kvalifisert personell (ofte legestudenter)&#xD;&#xA;Det planlegges robotisering av registreing av ATC-koder for Firmameldinger på sikt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

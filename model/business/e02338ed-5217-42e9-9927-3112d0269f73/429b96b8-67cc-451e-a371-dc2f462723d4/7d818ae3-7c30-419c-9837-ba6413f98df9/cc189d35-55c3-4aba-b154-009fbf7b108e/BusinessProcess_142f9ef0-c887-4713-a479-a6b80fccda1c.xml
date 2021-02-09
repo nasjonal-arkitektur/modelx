@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nivåvurdering - vurdere saksbehandlingsnivå"
+    id="142f9ef0-c887-4713-a479-a6b80fccda1c"
+    documentation="Baseet på Summary of Outcome, som kommer fra EMA en gang i måneden.&#xD;&#xA;&#xD;&#xA;Kvalitet, preklinikk, farmakologi og effekt og sikkerhet gjør vurdering basert på gitte kriterier om Norge skal ha en aktiv eller passiv rolle som Member State - dvs. om vi skal sende kommentarer eller ikke.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

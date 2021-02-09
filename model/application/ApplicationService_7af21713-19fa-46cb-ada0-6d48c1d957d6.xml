@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank"
+    id="7af21713-19fa-46cb-ada0-6d48c1d957d6">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

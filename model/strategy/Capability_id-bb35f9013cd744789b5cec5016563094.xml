@@ -1,0 +1,40 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategi og styring"
+    id="id-bb35f9013cd744789b5cec5016563094"
+    documentation="Hva organisasjonen gjør for å utvikle og opprettholde et sammenhengende bilde av fremtiden&#xD;&#xA;&#xD;&#xA;EUNIS: Strategy and Governance ">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Strategi og styring"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="NTNU sier &quot;Strategi og styring&quot;&#xD;&#xA;&#xD;&#xA;Hva organisasjonen gjør for å utvikle og opprettholde et sammenhengende bilde av fremtiden&#xD;&#xA;&#xD;&#xA;EUNIS: Strategy and Governance "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Økonomi og fakturering"
+    id="2354c984-b6d9-471e-b036-007b5a4f8558">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

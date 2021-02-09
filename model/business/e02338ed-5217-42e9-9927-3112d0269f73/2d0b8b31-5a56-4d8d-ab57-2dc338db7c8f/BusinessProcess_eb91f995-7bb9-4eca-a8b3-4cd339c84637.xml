@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utforme og journalføre vedtak"
+    id="eb91f995-7bb9-4eca-a8b3-4cd339c84637"
+    documentation="Etter at prisen er fastsatt lages det et vedtak. Dette gjøres i Public360. her finnes det maler for ulike typer vedtak. &#xD;&#xA;Lager et vedtak og eksporterer, lager en pakningsoversikt med maksimalprisene og lager selve beregningsgrunnlaget som ligger ved pakningsvedlegget. Dette hentes ut fra Athene. &#xD;&#xA;Ser hvilke land som er lavest i pris og gjennomsnittet. Dette lagres i X og så lages det en pakningsoversikt med makspris i Athene.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

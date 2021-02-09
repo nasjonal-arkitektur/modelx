@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opinion"
+    id="6fa7708b-2723-418e-b752-44f76d593d2e"
+    documentation="CP Human: Opinion (1 dag)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

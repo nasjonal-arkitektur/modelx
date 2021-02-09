@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta oppdrag og innspill til analyse"
+    id="40e22bcf-229a-4037-964a-e4403d4c2813"
+    documentation="Sentral prosedyrepreparater fordeles fra EDQM - står på en liste over hva man kan gjøre ut fra hvilken metode man skal bruke for å sjekke. Listen sendes ut på høsten, og plan for neste år legges mot slutten av inneværende år.&#xD;&#xA;Det mottas ogå oppdrag for andre lands laboratorier (OMCL-laboratorier)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

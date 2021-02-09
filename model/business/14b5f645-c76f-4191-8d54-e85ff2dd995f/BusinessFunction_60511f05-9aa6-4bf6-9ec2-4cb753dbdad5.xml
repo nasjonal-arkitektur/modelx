@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk utprøving"
+    id="60511f05-9aa6-4bf6-9ec2-4cb753dbdad5"
+    documentation="Legemiddelverket koordinerer søknader og vurderer den kliniske dokumentasjonen ved søknader om klinisk utprøving til mennesker og dyr.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;•&#x9;klut@legemiddelverket.no (human)&#xD;&#xA;•&#x9;vet.felles@legemiddelverket.no (veterinær)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

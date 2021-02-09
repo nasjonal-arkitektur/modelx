@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søke om sertifisering av klasse 2+ utstyr"
+    id="0dd860a3-ae19-4a7c-8b1e-2fb449fcd7d5"
+    documentation="Alt utstyr som er av risikoklasse over 1 skal sertifiseres sentralt i EU (utføres av enkeltland) før det kan markedsføres i det europeiske markedet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

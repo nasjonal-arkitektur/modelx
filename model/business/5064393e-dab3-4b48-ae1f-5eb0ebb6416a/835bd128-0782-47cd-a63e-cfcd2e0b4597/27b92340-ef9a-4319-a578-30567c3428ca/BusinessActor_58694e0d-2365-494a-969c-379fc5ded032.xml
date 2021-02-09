@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endring av legemiddelforskriften (lag)"
+    id="58694e0d-2365-494a-969c-379fc5ded032"
+    documentation="Endring av bestemmelser om merking, krav til språk">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

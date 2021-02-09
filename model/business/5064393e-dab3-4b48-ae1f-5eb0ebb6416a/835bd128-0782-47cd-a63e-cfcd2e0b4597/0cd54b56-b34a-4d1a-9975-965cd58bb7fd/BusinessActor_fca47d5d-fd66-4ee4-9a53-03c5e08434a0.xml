@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Merkingslaget (lag)"
+    id="fca47d5d-fd66-4ee4-9a53-03c5e08434a0"
+    documentation="Vurdere og godkjenne merking (tekst og design) av legemiddelpakninger knytta til utstedelse av MT eller knytta til endringer etter MT.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FESTDELTA - Avvikshåndtering"
+    id="c405ff8d-9508-424e-a4d4-b3d146ba051e"
+    documentation="Delta avvikshåndtering - FESTDELTA er et system for rapportering av avvik og forslag til forbedringer.&#xD;&#xA;&#xD;&#xA;Delta er et system som utvikles og vedlikeholdes av Datakvalitet. Kildekoden er basert på Visual studio 6 og databasen er plassert på en Microsoft SQL server.&#xD;&#xA;&#xD;&#xA;Delta er en 32 bits windows-applikasjon som må være installert på de PC'er (evt terminalserver) som skal kunne kjøre disse.&#xD;&#xA;&#xD;&#xA;Den kan kjøre fra et programområde på en filserver og jobber mot et dataområde på en filserver og mot en SQL database.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Klient-installasjon gjøres ved å kjøre et installasjons-script fra programområdet på server.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Deltaweb og DeltawebRapport er web-applikasjoner som kjører på en webserver med IIS. Alle nettlesere støttes. DeltawebRapport er en ASP.Net 3.5 applikasjon, mens Deltaweb er en standard ASP applikasjon.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;DeltaWebService er en webservice-basert API som kan benyttes for spørring og registrering mot databasen. Den kjører under .Net 2.0.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;DK Monitor er en service som kjører på en server og gjør div. rutine-oppgaver mot databasen, f.eks. purring på oppgaver som er gått over frist. Den kjører under .NET Framework 2.0.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

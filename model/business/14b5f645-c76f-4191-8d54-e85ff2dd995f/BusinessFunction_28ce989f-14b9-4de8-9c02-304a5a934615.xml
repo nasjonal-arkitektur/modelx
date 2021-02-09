@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kvalitetsutredning"
+    id="28ce989f-14b9-4de8-9c02-304a5a934615"
+    documentation="Legemiddelverket vurderer dokumentasjon for kvaliteten på legemidler, hovedsakelig i forbindelse med søknader om markedsføringstillatelse, endringssøknader og søknader om kliniske forsøk.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

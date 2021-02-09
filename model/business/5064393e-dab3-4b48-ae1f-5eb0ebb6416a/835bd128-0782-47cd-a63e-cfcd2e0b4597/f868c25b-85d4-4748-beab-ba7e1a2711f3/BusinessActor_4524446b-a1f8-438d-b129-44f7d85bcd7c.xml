@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistikk (lag)"
+    id="4524446b-a1f8-438d-b129-44f7d85bcd7c"
+    documentation="bidra med statistikkompetanse i utredninger mm">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

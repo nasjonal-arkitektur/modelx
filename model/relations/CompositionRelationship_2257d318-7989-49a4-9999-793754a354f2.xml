@@ -1,0 +1,14 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2257d318-7989-49a4-9999-793754a354f2">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ea90c22a-5fde-426c-8dd1-c46da156ca3d.xml#ea90c22a-5fde-426c-8dd1-c46da156ca3d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c6673d2a-e9e0-407a-b176-5aabd60c5386.xml#c6673d2a-e9e0-407a-b176-5aabd60c5386"/>
+</archimate:CompositionRelationship>

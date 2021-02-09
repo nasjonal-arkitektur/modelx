@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosedyre slutt / beslutning mottatt"
+    id="a58a41f8-2dcd-4dad-b85f-652dc13591be"
+    documentation="Endelig beslutning er mottas fra RMS. Prosedyre stoppes og nasjonal fase starter dersom konklusjon er positiv.&#xD;&#xA;Dersom det er uenighet blant de ulike CMS og RMS, kan MT-søker be om Referral. Dette skjer bare i sjeldne og alvorlige tilfeller.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X - Søknadstype/ prosedyre"
+    id="4696119b-e83e-4acc-9ff3-7bc0d6311542"
+    documentation="Tegnene forteller om det er søknad om ny MT (og i så fall type prosedyre), endring, fornyelse osv&#xA;“MR” for applications for marketing authorisation via MRP&#xA;“DC” for applications for marketing authorisation via DCP&#xA;“IA” for Type IA Notifications&#xA;“IB” for Type IB Notifications&#xA;“II” for Type II Variations&#xA;“R” for Renewals&#xA;“E” for Repeat-use Procedures&#xA; “O” for data bases when information in this section is not relevant">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

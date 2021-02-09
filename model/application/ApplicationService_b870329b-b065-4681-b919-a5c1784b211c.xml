@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadeling"
+    id="b870329b-b065-4681-b919-a5c1784b211c">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

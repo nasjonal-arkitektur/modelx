@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skjalg Saksbehandler"
+    id="01ea840a-2e0a-47bc-bac4-bac255c7d11e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

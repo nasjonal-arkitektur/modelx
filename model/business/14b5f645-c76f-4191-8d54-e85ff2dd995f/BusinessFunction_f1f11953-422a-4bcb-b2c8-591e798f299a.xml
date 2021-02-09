@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apotekøkonomi"
+    id="f1f11953-422a-4bcb-b2c8-591e798f299a"
+    documentation="Våre oppgaver:&#xD;&#xA;* Følge med på apoteksektoren, utarbeider apotekstatistikk og gi driftsstøtte til apotek.&#xD;&#xA;* Kreve inn avgifter knyttet til omsetning av legemidler.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;apotekregnskap@legemiddelverket.no&#xD;&#xA;detaljistavgift@legemiddelverket.no&#xD;&#xA;leverandoravgift@legemiddelverket.no&#xD;&#xA;luaavgift@legemiddelverket.no  ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akson journaldata"
+    id="081fef18-70c7-4de9-86af-41e6f4c2e4e2">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

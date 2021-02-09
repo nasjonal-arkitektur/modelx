@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvekslet notifikasjon"
+    id="d6a76d0b-fed6-4c45-b156-43475518a6a6"
+    documentation="Notifikasjon  som utveksles,  eventuelt minimert ut fra konsumentens spesifikasjoner.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

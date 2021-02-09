@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskrivnings- og ekspedisjonsstøtte (FEST)"
+    id="76db8e3f-8a51-4a6a-bbdf-412a75bd5af7"
+    documentation="Våre oppgaver:&#xD;&#xA;* Distribuere strukturert informasjon om legemidler til helsetjeneste og pasienter i digitale kanaler.&#xD;&#xA;* Utvikle nye digitale informasjonstjenester for å møte behov i primær- og spesialisthelsetjeneste.&#xD;&#xA;* Bidra til å standardisere informasjon om legemidler nasjonalt og i Europa.&#xD;&#xA;&#xD;&#xA;E-postadresse: fest@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

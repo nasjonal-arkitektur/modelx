@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentlager"
+    id="7353164d-2329-4dfc-ba64-f81340368033">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsending av søknader er pr papirpost"
+    id="684d7522-d9f9-4639-b0f7-59e869513158"
+    documentation="Søknader om godkjenningsfritak for sykehus / institusjon gjøres i hovedsak på papir. Det er ikke støtte for å gjøre noe annet. Unntaket er søknader fra sykehusavdelinger, hvor man tillater at søknader kan sendes pr epost.&#xD;&#xA;Det er ikke etablert innsedningsløsninger eller annen systemstøtte for dette, noe som gjør at saksbehandlingen også er papirbasert.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

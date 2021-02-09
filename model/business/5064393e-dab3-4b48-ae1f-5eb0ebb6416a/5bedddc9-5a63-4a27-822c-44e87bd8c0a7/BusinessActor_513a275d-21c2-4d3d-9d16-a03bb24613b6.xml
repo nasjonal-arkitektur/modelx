@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rådet for Legemiddelinformasjon"
+    id="513a275d-21c2-4d3d-9d16-a03bb24613b6"
+    documentation="Legemiddelbransjen opprettet allerede i 1975 et selvjustisorgan. I 2000 ble Rådet for legemiddelinformasjon opprettet av Dnlf (Den norske legeforening) og LMI (Legemiddelindustrien) som et felles uavhengig selvjustisorgan for foreningenes medlemmer. Rådet vedtekter er fastsatt av Dnlf og LMI, senest i februar 2017.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

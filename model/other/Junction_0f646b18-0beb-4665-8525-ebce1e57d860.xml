@@ -1,0 +1,8 @@
+<archimate:Junction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Junction"
+    id="0f646b18-0beb-4665-8525-ebce1e57d860">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Junction>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlegge og gjennomføre tilsyn på bakgrunn av funn i besvarelser"
+    id="b1b9e1fb-630d-4f6f-88a7-e9368819ee39"
+    documentation="Funn gjort som resultat av kartleggingen kan resultere i at man gjennomfører tilsyn knyttet til det aktuelle temaet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

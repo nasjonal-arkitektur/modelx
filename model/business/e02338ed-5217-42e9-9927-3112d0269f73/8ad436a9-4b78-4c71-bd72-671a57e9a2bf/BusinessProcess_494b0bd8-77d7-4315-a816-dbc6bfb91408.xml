@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenne oppdraget"
+    id="494b0bd8-77d7-4315-a816-dbc6bfb91408"
+    documentation="Har eget en egen sjekkliste / skjema (elektronisk) som registreres i P360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

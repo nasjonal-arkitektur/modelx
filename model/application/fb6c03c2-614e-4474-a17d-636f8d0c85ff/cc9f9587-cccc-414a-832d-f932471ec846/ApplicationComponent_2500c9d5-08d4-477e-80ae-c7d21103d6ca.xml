@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contempus Invoice"
+    id="2500c9d5-08d4-477e-80ae-c7d21103d6ca"
+    documentation="Attestering og godkjenning av fakturaer. Hver faktura krever at den som attester kan bekrefte at innhold i fakturaen er gyldig.&#xD;&#xA;&#xD;&#xA;Budsjettansvarlig godkjenner fakturaen basert på attesteringen og om detaljene fra attesteringen er gyldig før godkjennelse. Samme person kan ikke ha begge roller.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

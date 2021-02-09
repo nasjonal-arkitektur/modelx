@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell oppfølging av feilmeldinger"
+    id="9165055e-04bf-43bc-a481-3ff336fa36d3"
+    documentation="Bivirkning: Feilmeldinger er et problemområde - kommer inn som aviksmelding I axway - må inn å sjekke manuelt og overvåke. &#xD;&#xA;Er sjeldent inne i Axway.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

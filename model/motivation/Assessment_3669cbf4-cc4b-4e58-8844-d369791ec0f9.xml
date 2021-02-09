@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Det er tungvint å lage statistikk fra filer på X"
+    id="3669cbf4-cc4b-4e58-8844-d369791ec0f9"
+    documentation="Det lages statistikk på bakgrunn av innkomne søknader. For å gjøre dette må man hente ut data fra alle filene som ligger på X - dette er tungvint.&#xD;&#xA;Det er heller ikke hensiktsmessig å hente dette ut fra Public 360.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

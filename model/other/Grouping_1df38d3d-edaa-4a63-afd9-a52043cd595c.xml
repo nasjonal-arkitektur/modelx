@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrasjon av helsetilstand"
+    id="1df38d3d-edaa-4a63-afd9-a52043cd595c"
+    documentation="Ability to acquire, adapt, store, and make available for use details about diseases, injuries, disorders, and non-pathological conditions such as malnutrition, pregnancy, or childbirth.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Administrasjon av helsetilstand"/>
+  <properties
+      key="difi:name_en"
+      value="Health Condition Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to acquire, adapt, store, and make available for use details about diseases, injuries, disorders, and non-pathological conditions such as malnutrition, pregnancy, or childbirth."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to acquire, adapt, store, and make available for use details about diseases, injuries, disorders, and non-pathological conditions such as malnutrition, pregnancy, or childbirth."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

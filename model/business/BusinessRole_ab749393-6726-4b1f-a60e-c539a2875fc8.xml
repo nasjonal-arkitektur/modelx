@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataformidler"
+    id="ab749393-6726-4b1f-a60e-c539a2875fc8"
+    documentation="Dataformidler er et mellomledd som formidler data mellom produsent og konsument. Eksempler. Tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger, sammenstilling av data fra flere datakilder.&#xD;&#xA;&#xD;&#xA;Merk: Det er per 2019 uklart om rollen Dataformidler behøves, eller kan dekkes av rollen Daytatilbyder. Dette avhanger av pågående arbeid med juridiske spørsmåk (hvem eier data og hvem inngår avtaler med hvem).">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dataformidler"/>
+  <properties
+      key="difi:name_en"
+      value="Mediator"/>
+  <properties
+      key="difi:description_no"
+      value="Dataformidler er et mellomledd som formidler data mellom produsent og konsument. Eksempler. Tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger, sammenstilling av data fra flere datakilder.&#xD;&#xA;&#xD;&#xA;Merk: Det er per 2019 uklart om rollen Dataformidler behøves, eller kan dekkes av rollen Daytatilbyder. Dette avhanger av pågående arbeid med juridiske spørsmåk (hvem eier data og hvem inngår avtaler med hvem)."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

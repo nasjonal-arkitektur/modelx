@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrasjon av samfunnsaktører"
+    id="53e0e196-be10-4994-8937-4385f1cc0fc1"
+    documentation="Ability to identify, engage with, collect information on, understand needs of, monitor, update, and validate the status of an individual or a legal entity relative to an organization’s sphere of responsibility.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Administrasjon av samfunnsaktører"/>
+  <properties
+      key="difi:name_en"
+      value="Constituent Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, engage with, collect information on, understand needs of, monitor, update, and validate the status of an individual or a legal entity relative to an organization’s sphere of responsibility."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, engage with, collect information on, understand needs of, monitor, update, and validate the status of an individual or a legal entity relative to an organization’s sphere of responsibility."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

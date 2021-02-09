@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonale saker human/vet (lag)"
+    id="b8a82638-25e6-46bc-be8d-7bdb93b27990"
+    documentation="Div oppgaver knytta til MT og notifikasjoner.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

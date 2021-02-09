@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatere målsystem på bakgrunn av data"
+    id="id-0c2e75524fdd4e5e9bd03a8fc5a788cb">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

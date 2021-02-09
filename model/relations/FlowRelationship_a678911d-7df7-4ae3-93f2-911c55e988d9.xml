@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AR Negativ"
+    id="a678911d-7df7-4ae3-93f2-911c55e988d9">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_001a49f4-59dd-4ce2-96cb-cc6763f6c27a.xml#001a49f4-59dd-4ce2-96cb-cc6763f6c27a"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_8ae4629c-ef76-47f4-a308-272736b4e8dc.xml#8ae4629c-ef76-47f4-a308-272736b4e8dc"/>
+</archimate:FlowRelationship>

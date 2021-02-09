@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hjørne 4   Mottager-applikasjon"
+    id="8733ed8e-5310-4f83-8895-2ef47d11fb53">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationComponent>

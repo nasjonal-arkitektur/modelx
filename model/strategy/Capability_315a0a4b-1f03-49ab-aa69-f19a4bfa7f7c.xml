@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å utvikle IT-løsninger for deling av data "
+    id="315a0a4b-1f03-49ab-aa69-f19a4bfa7f7c"
+    documentation="Forklaring:&#xD;&#xA;Løsningene må kunne håndtere både åpne data og data som deles etter henvendelse&#xD;&#xA;&#xD;&#xA;IT løsningene bør kunne gjenbrukes slik at det ikke er nødvendig å utvikle løsninger hver gang det skal deles data&#xD;&#xA;&#xD;&#xA;Ved utvikling av nye IT løsninger til annen bruk i virksomhetene bør det tas høyde for at løsningene skal støtte deling av data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser som beskriver hvilke vurderinger som skal gjøres rundt valg av IT løsninger. Prosesser for utvikling av IT løsninger, samt implementering av disse.&#xD;&#xA;&#xD;&#xA;Det bør være en beste praksis at alle nye løsninger legger til rette for at data skal kunne deles («innebygd deling av data»).">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å utvikle IT-løsninger for deling av data "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Løsningene må kunne håndtere både åpne data og data som deles etter henvendelse&#xD;&#xA;&#xD;&#xA;IT løsningene bør kunne gjenbrukes slik at det ikke er nødvendig å utvikle løsninger hver gang det skal deles data&#xD;&#xA;&#xD;&#xA;Ved utvikling av nye IT løsninger til annen bruk i virksomhetene bør det tas høyde for at løsningene skal støtte deling av data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser som beskriver hvilke vurderinger som skal gjøres rundt valg av IT løsninger. Prosesser for utvikling av IT løsninger, samt implementering av disse.&#xD;&#xA;&#xD;&#xA;Det bør være en beste praksis at alle nye løsninger legger til rette for at data skal kunne deles («innebygd deling av data»)."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

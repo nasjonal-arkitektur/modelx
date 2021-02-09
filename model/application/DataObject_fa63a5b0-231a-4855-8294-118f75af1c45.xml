@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHIS2 covit-19"
+    id="fa63a5b0-231a-4855-8294-118f75af1c45">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

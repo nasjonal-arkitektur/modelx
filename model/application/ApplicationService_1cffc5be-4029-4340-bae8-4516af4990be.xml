@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Folkeregisteret"
+    id="1cffc5be-4029-4340-bae8-4516af4990be">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

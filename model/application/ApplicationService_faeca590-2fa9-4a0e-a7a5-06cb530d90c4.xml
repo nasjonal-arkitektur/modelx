@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende SMS"
+    id="faeca590-2fa9-4a0e-a7a5-06cb530d90c4">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operasjonell arbeidsledelse"
+    id="6b00578d-0a7b-4456-a57b-5d59be95dcd5"
+    documentation="Ability to define, instantiate, run, monitor, report on, control, secure, and evaluate an orchestration of jobs, tasks, and work to achieve a specific objective such as creating or delivering value constrained by time and location.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Operasjonell arbeidsledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Operation Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, instantiate, run, monitor, report on, control, secure, and evaluate an orchestration of jobs, tasks, and work to achieve a specific objective such as creating or delivering value constrained by time and location."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, instantiate, run, monitor, report on, control, secure, and evaluate an orchestration of jobs, tasks, and work to achieve a specific objective such as creating or delivering value constrained by time and location."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

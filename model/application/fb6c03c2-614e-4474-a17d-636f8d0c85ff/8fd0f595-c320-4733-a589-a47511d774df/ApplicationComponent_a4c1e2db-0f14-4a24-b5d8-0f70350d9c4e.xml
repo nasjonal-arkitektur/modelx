@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Union Telematics Controlled Terms (EUTCT) (H+V)"
+    id="a4c1e2db-0f14-4a24-b5d8-0f70350d9c4e"
+    documentation="The   European   Union   Telematics   Controlled   Terms   (EUTCT)   System   is   aCommunity repository and provider of lists of Substances in multiple languages for   the   ongoing   exchange   of   data   between   information   systems   and   applications throughout the European Medicines Regulatory Network (EMRN). EUTCT  has  been  replaced  by  Referentials  Management  Services  (RMS)  as  the  central repository and provider of controlled terms. Nevertheless, stakeholders should  continue  to  use  EUTCT  to  browse  lists  of  substances  until  the  new  Substances Management Services (SMS) become available.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

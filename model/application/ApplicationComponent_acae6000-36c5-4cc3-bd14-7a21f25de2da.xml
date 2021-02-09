@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS SvarUt/SvarInn"
+    id="acae6000-36c5-4cc3-bd14-7a21f25de2da"
+    documentation="Med løsningen kan du formidle dokumenter fra kommunale saksarkiv og fagsystemer til innbyggere, næringsliv, offentlige og private organ på en sikker måte. SvarUt benyttes for utgående post, mens SvarInn benyttes for innkommende post. ">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="KS SvarUt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>

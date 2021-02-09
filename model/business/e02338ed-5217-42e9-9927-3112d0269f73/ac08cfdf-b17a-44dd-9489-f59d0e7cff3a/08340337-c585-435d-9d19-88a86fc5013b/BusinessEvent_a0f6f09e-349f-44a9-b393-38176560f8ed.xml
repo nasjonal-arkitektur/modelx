@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningsmelding (firmamelding) fra EMA sendt"
+    id="a0f6f09e-349f-44a9-b393-38176560f8ed"
+    documentation="Mottas automatisk - går rett inn i VigiNor&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

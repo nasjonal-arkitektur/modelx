@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FEST"
+    id="54722887-325e-40ef-8314-c8c350a92905"
+    documentation="FEST er og skal være den foretrukne kilden for legemiddelinformasjon. Det at stadig nye brukergrupper tar i bruk FEST (eks. sykehus, sykehjem, legemiddelregistre etc.) medfører behov for en mer tilgjengelig, fleksibel og robust FEST-tjeneste.&#xD;&#xA;&#xD;&#xA;Informasjonen i FEST formidles i dag ved hjelp av en «one size fits all» XML-melding. Det krever at nye brukerbehov og endringer i FEST-meldingen må koordineres og samkjøres mot alle brukere, noe som er tidkrevende, ressurskrevende og øker muligheten for feil. Meldingsstrukturen er av samme grunn økende i kompleksitet. Det gir et stadig økende press på brukerstøtte og feilhåndtering. For at  FEST skal kunne understøtte fremtidige utviklingsbehov i e-resept, Kjerne­journal, «en innbygger – én journal», «fellesregister for legemidler» og andre legemiddelrelaterte elektroniske tjenester, ønsker Legemiddelverket å etablere FEST som en åpen datakilde på nivå fem (Difi).&#xD;&#xA;&#xD;&#xA;Difi har utarbeidet en veileder for hvordan en nasjonal åpen datakilde (eg. FEST) skal tilgjengelig­gjøre informasjon. Utvikling og etablering av FEST som en åpen datakilde vil understøtte nåværende og fremtidige behov knyttet til innhold og tilgjengelighet. Difis klassifiserer tilgjengelighet av data i fem nivåer. FEST er i dag på nivå tre. For å møte syke­husenes FEST-behov, samt og understøtter planlagte nasjonale tiltak, må FEST tilgjengeliggjøres på nivå fem innen utgangen av 2015.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

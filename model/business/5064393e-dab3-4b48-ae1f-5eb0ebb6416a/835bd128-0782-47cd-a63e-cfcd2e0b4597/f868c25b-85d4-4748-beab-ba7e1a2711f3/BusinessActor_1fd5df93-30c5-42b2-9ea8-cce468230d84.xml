@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevarsling  for legemidler til offentlig finansiering (lag)"
+    id="1fd5df93-30c5-42b2-9ea8-cce468230d84"
+    documentation="Metodevarsling">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

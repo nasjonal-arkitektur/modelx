@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk konsulentlag (lag)"
+    id="65c076f8-e032-416a-936f-f1ee724cb06b"
+    documentation="Regulatoriske postbokser (MT, PK), Felles EK prosedyrer, parallell eksport, generelle regulatoriske spørsmål/ avklaringer som ikke er dekket i andre lag, ekspertdatabasen.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

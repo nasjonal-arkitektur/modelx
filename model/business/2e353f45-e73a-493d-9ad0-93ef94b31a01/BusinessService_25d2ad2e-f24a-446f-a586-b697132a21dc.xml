@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kurs personvern og informasjons-sikkerhet"
+    id="25d2ad2e-f24a-446f-a586-b697132a21dc">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EUVETMED"
+    id="65ff4530-4f9c-4e3d-aad0-752ee4c362f6"
+    documentation="Denne løsningen trekker ut alle legemidelr for VET fra Athene-databasen og pusher til EMA gjennom Axway">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

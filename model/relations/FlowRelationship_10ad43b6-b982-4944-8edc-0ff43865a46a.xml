@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uten norsk PI"
+    id="10ad43b6-b982-4944-8edc-0ff43865a46a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e74d68c2-3cb8-4b1d-9c9d-4ee36e7f0314.xml#e74d68c2-3cb8-4b1d-9c9d-4ee36e7f0314"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_4d72accc-9ef3-41fa-8243-66b988c9cf02.xml#4d72accc-9ef3-41fa-8243-66b988c9cf02"/>
+</archimate:FlowRelationship>

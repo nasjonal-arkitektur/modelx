@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle vedtak til søker"
+    id="0be2e6e7-653d-472b-aa03-83102c04ea90"
+    documentation="En pakning for prisoversikt og en for beregningsgrunnlaget - dette legges ved selve vedtaket (360) sendes på e-post til MT-innehaver. Epostene lagres i 360 så man dobbeltfører i 360 samt at man fører i Excel-oversikten på X.&#xD;&#xA;Det er opp til hver enkelt saksbehandler om teksten er standardisert.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

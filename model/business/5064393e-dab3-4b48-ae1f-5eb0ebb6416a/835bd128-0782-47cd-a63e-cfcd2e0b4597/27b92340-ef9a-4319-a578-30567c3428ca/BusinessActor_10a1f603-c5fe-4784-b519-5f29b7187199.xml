@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nøkkelbrukere 360 (lag)"
+    id="10a1f603-c5fe-4784-b519-5f29b7187199"
+    documentation="Opplæring og veiledning. Oppfølging ved feilmeldinger fra brukere i egen enhet/område. Deltakelse på nøkkelbrukerforum (ca 4 ganger i året). Planlegge og tilrettelegge for oppgraderinger (lagleder). Testing ved oppgraderinger ( ca 1 gang i året). Vedlikehold av standardtekster. Hjørneflagg: Retningslinjer for systemforvaltning og IT-styring i Legemiddelverket.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

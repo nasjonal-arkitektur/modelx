@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhente melding og kvittere mottak til Sponsor"
+    id="95c6da1e-9a5e-422c-9458-75ba91b68bc1"
+    documentation="Medling om bivirkninger (SUSAR) i forbindelse med klinisk utprøving, hentes ned fra EUDRAVIGILANCE, og lastes inn i P360.&#xD;&#xA;Kvittering på mottatt SUSAR-melding sendes til Sponsor.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

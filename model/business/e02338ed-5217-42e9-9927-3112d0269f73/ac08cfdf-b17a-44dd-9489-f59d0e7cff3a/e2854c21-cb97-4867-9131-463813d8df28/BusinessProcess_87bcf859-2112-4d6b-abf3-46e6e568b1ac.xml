@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisere / formidle statistikk, nyheter og pressemeldinger"
+    id="87bcf859-2112-4d6b-abf3-46e6e568b1ac">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

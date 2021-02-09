@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisasjon"
+    id="433b45d5-3ef8-4ec1-a832-835e9b7e1374">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationFunction>

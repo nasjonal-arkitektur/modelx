@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevurdering - Sykehuslegemidler (lag)"
+    id="656f257d-8619-4c6b-ba7b-86ea33488969"
+    documentation="Metodevurdering av sykehuslegemidler">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

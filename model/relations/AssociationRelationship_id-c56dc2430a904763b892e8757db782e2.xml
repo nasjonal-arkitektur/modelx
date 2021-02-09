@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Be om tilgang"
+    id="id-c56dc2430a904763b892e8757db782e2">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-592b210c4e904bfebcd47ca0c951de83.xml#id-592b210c4e904bfebcd47ca0c951de83"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-96514499518349619a8e277dfafc274b.xml#id-96514499518349619a8e277dfafc274b"/>
+</archimate:AssociationRelationship>

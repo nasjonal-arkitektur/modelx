@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fastsette pris på reseptbelagte legemidler til mennesker"
+    id="ef2edd54-8ba7-45fe-bc12-53edd2e57de4"
+    documentation="Alle registrerte, reseptpliktige legemidler for mennesker må få en maksimalpris, fastsatt av Legemiddelverket, før de kan markedsføres. Legemiddelfirmaene må derfor søke om pris hos Legemiddelverket. Legemiddelverket fastsetter apotekenes maksimale innkjøpspris (AIP) og maksimale apotekavanse. Sammen gir dette apotekenes maksimale utsalgspris (AUP).&#xA;&#xA;Den maksimale tillatte prisen for et legemiddel, vil som regel bli satt lik gjennomsnittet av de tre laveste prisene legemiddelet selges for i et utvalg av europeiske land. Disse landene er Sverige, Finland, Danmark, Tyskland, Storbritannia, Nederland, Østerrike, Belgia og Irland.&#xD;&#xA;&#xD;&#xA;Ofte finnes det flere legemidler som har ulike navn og ulik pris, men akkurat samme virkestoff og virkning. Da tilbyr apoteket pasienten et legemiddel med et annet navn enn det legen har skrevet på resepten når det finnes et rimeligere alternativ (Gnerika-medisin). Legemiddelverket bahndler søknader for markedsføringstillatelse av generiske legemidler.&#xD;&#xA;&#xD;&#xA;Legemidler som er byttbare settes på Byttelisten som distribueres til alle apotek. Enkelte legemidler har merknad til byttbarhet, for eksempel begrenset bytte. Byttelisten blir oppdatert to ganger hver måned.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

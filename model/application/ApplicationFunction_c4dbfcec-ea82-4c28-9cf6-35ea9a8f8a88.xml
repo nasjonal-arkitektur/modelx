@@ -1,0 +1,8 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks Innsyn søk"
+    id="c4dbfcec-ea82-4c28-9cf6-35ea9a8f8a88">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pilotproduksjon"
+    id="4437c5db-deef-4069-a861-0917718bad52"
+    documentation="Tilvirking av legemiddelet for bruk til f.eks klinisk utprøving og annen forskning, samt for å prøve ut produksjonsmetode.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server Versjon X"
+    id="a76c99ca-cf43-4c89-89a8-b1f5fc45cfdf">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:SystemSoftware>

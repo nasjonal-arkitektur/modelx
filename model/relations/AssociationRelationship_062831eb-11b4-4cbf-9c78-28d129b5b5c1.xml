@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tilknyttet"
+    id="062831eb-11b4-4cbf-9c78-28d129b5b5c1"
+    directed="true">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b1e5e3e7-d970-4a4a-aca7-1f07eafd34ca.xml#b1e5e3e7-d970-4a4a-aca7-1f07eafd34ca"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_eb28b86c-7d5f-421b-9033-e1ddaecf7e7e.xml#eb28b86c-7d5f-421b-9033-e1ddaecf7e7e"/>
+</archimate:AssociationRelationship>

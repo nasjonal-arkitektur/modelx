@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende status- / sluttrapport"
+    id="789d7784-4137-4883-ad88-96c06973624a"
+    documentation="Sponsor sender inn årlige statusrapporter for den kliniske utprøvingen.&#xD;&#xA;Det skal også sendes inn sluttrapport når studien er avsluttet.7&#xD;&#xA;&#xD;&#xA;Det skal også sendes inn statusrapporter for Compassionate Use. Disse skal omfatte hvor mange pasienter som behandles og eventuelle sikkerhetsproblemer.&#xD;&#xA;Det skal også rapporteres når behandlingen avsluttes.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

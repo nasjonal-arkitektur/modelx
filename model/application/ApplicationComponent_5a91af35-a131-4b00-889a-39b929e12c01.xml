@@ -1,0 +1,35 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eInnsyn​"
+    id="5a91af35-a131-4b00-889a-39b929e12c01"
+    documentation="[Torget]&#xD;&#xA;Med eInnsyn kan du publisere postjournalene dine. Innbyggere kan gratis og anonymt søke i journalene og be om innsyn i dokumenter som ikke er publisert. En postjournal er et register over all arkivført post og korrespondanse i en offentlig virksomhet.&#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;eInnsyn gir juridisk samhandlingsevne ved at innbyggere kan søke og be om innsyn i dokumenter/postjournaler fra alle statlige, kommunale og fylkeskommunale organ som er publisert med eInnsyn.&#xD;&#xA;&#xD;&#xA;Mer om eInnsyn:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/einnsyn/783&#xD;&#xA;https://samarbeid.difi.no/felleslosninger/einnsyn/einnsyn-ny-rettleiar-innhaldsleverandorar-til-einnsyn">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eInnsyn​"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

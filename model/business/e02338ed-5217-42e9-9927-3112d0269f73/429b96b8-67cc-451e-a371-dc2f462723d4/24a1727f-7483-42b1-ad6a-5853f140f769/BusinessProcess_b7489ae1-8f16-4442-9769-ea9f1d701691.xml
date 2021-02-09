@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdering (QRD) av produktinformasjon"
+    id="b7489ae1-8f16-4442-9769-ea9f1d701691"
+    documentation="CP Human: Vurdering (QRD) av produktinformasjon (dag 19-27)&#xD;&#xA;I denne prosessen gjennomgår man den norske versjonen av produktinformasjonen, og gjør en vurdering av om den er en korrekt og fullstendig versjon av den engelske produktinformasjonen (som på dette tidspunktet er fastsatt), med korrekt språkbruk for norske forhold.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

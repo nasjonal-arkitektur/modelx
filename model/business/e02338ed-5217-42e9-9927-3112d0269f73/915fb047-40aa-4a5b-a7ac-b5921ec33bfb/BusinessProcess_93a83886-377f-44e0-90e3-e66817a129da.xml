@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgå rapport"
+    id="93a83886-377f-44e0-90e3-e66817a129da"
+    documentation="Status- og sluttrapporter gjennomgås dersom det er tid / kapasitet tildet, eller at saken har høy prioitet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

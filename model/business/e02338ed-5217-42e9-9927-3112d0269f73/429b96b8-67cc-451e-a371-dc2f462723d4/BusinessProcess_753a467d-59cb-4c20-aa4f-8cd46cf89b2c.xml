@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP- Som Peer Reviewer"
+    id="753a467d-59cb-4c20-aa4f-8cd46cf89b2c"
+    documentation="I Sentral Prosedyre for behandling av søknad om markedsføringstillatelse søker produsent til European Medicines Agency (EMA). EMA validere søknaden og fordeler søknadsbehandlingen til en rapportør(R) og en eller flere ko-rapportører(CoR).&#xD;&#xA;Denne prosessen beskriver hvordan Legemiddelverket håndterer MT-søknader i rollen som Ko-rapportør.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,27 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kapabiliteter"
+    id="id-6479f79835e84429b3140bb2c10c29eb"
+    documentation="Som vist i #figuren over#, må datatilbyderen ha oversikt over egne data&#xD;&#xA;som skal deles og evne til å publisere datasettene slik at andre kan&#xD;&#xA;benytte disse. &#xD;&#xA;&#xD;&#xA;For at datadeling skal fungere etter hensikt, må dataene&#xD;&#xA;ha god kvalitet. Dette krever kapabiliteter innen&#xD;&#xA;informasjonsforvaltning.  Vi har modellert disse evner som&#xD;&#xA;«muliggjørende kapabiliteter» i referansearkitekturen for høyere&#xD;&#xA;utdanning og forskning med utgangspunkt i&#xD;&#xA;https://app.powerbi.com/view?r=eyJrIjoiMThhNjkzNmItOGQ4NC00MDkzLWI3MDQtNzY0ZjA1MjQ5MzViIiwidCI6ImFlMWE3NzI0LTQwNDEtNDQ2Mi1hNmRjLTUzOGNiMTk5NzA3ZSIsImMiOjh9[EUNIS&#xD;&#xA;sin kapabilitetsmodell for europeiske universiteter] #som vist under#. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;God&#xD;&#xA;informasjonsforvaltning støtter både opp om organisatorisk&#xD;&#xA;samhandlingsevne gjennom å gi organisasjoner riktig data av god kvalitet&#xD;&#xA;og støtter opp om semantisk samhandlingsevne ved å klargjøre dataenes&#xD;&#xA;betydning. Vi velger også å synliggjøre juridiske tjenester som&#xD;&#xA;muliggjørende kapabilitet for å støtte opp under juridisk&#xD;&#xA;samhandlingsevne.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-1483db946250417d8e13781139bb2dff"/>
+  <properties
+      key="drill down"
+      value="id-1483db946250417d8e13781139bb2dff"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

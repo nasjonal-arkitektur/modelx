@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og registrere melding om analysebehov"
+    id="a53f8d58-2793-45b6-9976-712bfe183099"
+    documentation="Melding mottas og registreres i arkivsystemet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

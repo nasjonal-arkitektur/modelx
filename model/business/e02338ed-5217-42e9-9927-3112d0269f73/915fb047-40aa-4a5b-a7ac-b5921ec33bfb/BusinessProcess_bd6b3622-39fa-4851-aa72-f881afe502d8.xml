@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Be om endring av utprøving"
+    id="bd6b3622-39fa-4851-aa72-f881afe502d8"
+    documentation="Behanlding av endringssøknad er beskrevet i egen prosess">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

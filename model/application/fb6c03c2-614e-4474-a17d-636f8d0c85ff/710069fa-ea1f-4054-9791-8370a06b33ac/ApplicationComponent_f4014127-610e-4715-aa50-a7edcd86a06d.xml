@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utredningsportalen"
+    id="f4014127-610e-4715-aa50-a7edcd86a06d"
+    documentation="Utredningsportalen gir oversikt over utredningsoppdrag innenfor MT-arbeidet, og er et prosesstøtte verktøy for utredning av MT-søknader..&#xD;&#xA;* Oversikt over alle saker&#xD;&#xA;* oversikt over hvem som har ansvaret for de ulike sakene&#xD;&#xA;* Oversikt over tidsfrister&#xD;&#xA;&#xD;&#xA;Utredningsportalen er en tilpasning av Prosjektportalen som er utviklet i SharePoint Online i Office 365.&#xD;&#xA;Prosjektportalen er et prosjektstyringsverktøy basert på DIFI sin Prosjektveiviser.&#xD;&#xA;&#xD;&#xA;Løsningen benyttes blant annet i forbindelse med håndtering av MT prosesser der SLV er Rapport og Ko-rapportør i CP, og DCP hvor SLV er RMS, i tillegg til nasjonal prosedyre.&#xD;&#xA;Løsningen brukes også på PRAC-utredninger og SUSAR.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

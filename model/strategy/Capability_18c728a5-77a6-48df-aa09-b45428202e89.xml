@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentere behandlingsgrunnlag for personopplysninger"
+    id="18c728a5-77a6-48df-aa09-b45428202e89"
+    documentation="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Dokumentere behandlingsgrunnlag for personopplysninger"/>
+  <properties
+      key="difi:description_no"
+      value="Evne til å legge frem behandlingsgrunnlag for tilgang til og behandling av data.&#xD;&#xA;Dataminimering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prioritere for utredning"
+    id="389e9780-63b7-424b-986b-ffa18e9dad7e"
+    documentation="Vurdering av hvordan signalene skal følges opp (signalprioritering)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

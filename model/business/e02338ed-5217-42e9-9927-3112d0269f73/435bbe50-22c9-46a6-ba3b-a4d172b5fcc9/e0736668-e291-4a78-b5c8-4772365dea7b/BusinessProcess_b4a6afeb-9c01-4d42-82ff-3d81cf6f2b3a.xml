@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere sviktmelding"
+    id="b4a6afeb-9c01-4d42-82ff-3d81cf6f2b3a"
+    documentation="Sviktmeldingen registreres / journmalføres i P360.&#xD;&#xA;Registreringen i P360 gjøres på spesielle måter for å kunne gjenfinne informasjon om svikttilfeller, og hente ut historikk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

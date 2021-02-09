@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jordbrukstilskudd"
+    id="53a50795-2439-102"
+    documentation="Fellesbetegnelse for tilskudd til spesielle formål innenfor jordbruk.">
+  <properties
+      key="Engelsk navn"
+      value="Farming grants"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

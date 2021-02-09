@@ -10,7 +10,7 @@
       value="archi:application-process"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -31,11 +31,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="a5c1abd6-a892-48bf-95c1-06a440bf5093"/>
 </archimate:ApplicationProcess>

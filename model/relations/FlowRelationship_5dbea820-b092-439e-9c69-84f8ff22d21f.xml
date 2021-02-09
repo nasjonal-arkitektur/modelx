@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PI Ok"
+    id="5dbea820-b092-439e-9c69-84f8ff22d21f">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_59bc5935-7621-44a1-8a49-9b7b2d6de507.xml#59bc5935-7621-44a1-8a49-9b7b2d6de507"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_96e8efa8-834e-4025-817e-d4c5911b5245.xml#96e8efa8-834e-4025-817e-d4c5911b5245"/>
+</archimate:FlowRelationship>

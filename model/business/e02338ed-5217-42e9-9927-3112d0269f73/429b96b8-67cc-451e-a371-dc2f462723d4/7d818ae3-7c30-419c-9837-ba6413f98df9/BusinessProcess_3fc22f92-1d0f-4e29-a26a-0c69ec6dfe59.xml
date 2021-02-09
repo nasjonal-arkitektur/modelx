@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP - Som Medlemsstat (MS)"
+    id="3fc22f92-1d0f-4e29-a26a-0c69ec6dfe59"
+    documentation="I Sentral Prosedyre for behandling av søknad om markedsføringstillatelse søker produsent til European Medicines Agency (EMA). EMA validere søknaden og fordeler søknadsbehandlingen til en rapportør(R) og en eller flere ko-rapportører(CoR).&#xD;&#xA;Alle medlemsstater følger søknadsbehandlingen fra sidelinjen, og behandler kun søknaden i den dybden de anser for å være nødvendig. Som MS har man kun anledning til å kommentere på R og CoR sine utredninger.&#xD;&#xA;Denne prosessen beskriver hvordan Legemiddelverket håndterer MT-søknader i rollen som Medlemsstat (MS).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

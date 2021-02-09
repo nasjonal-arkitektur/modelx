@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representant"
+    id="4154e6a7-2f6b-4c7b-8896-c632c675e72e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskning og pre-klinisk"
+    id="b3823186-ee22-4b1e-8893-f5034aee795a"
+    documentation="Før medikamentet prøves ut på dyr og mennesker går det gjennom forskning i laboratorium eller vha datamodellering.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WuFoo - Medisinsk utstyr"
+    id="0376c9f6-7dd5-470d-90e5-33e2a399690c"
+    documentation="WuFoo: Build and share online forms - Create forms, collect data and payments, and automate your workflows.&#xD;&#xA;https://www.wufoo.com/">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

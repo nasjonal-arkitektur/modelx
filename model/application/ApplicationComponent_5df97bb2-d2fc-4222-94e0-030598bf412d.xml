@@ -10,7 +10,7 @@
       value="archi:application-component"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="instance"/>
@@ -31,11 +31,4 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="5df97bb2-d2fc-4222-94e0-030598bf412d"/>
 </archimate:ApplicationComponent>

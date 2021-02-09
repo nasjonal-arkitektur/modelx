@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlagte analyser"
+    id="25c6f5d7-728e-446e-8fee-9d70686c80d8"
+    documentation="Laboratorieanalyse er mest involvert etter at MT er gitt og produktet er ute på markedet&#xD;&#xA;&#x9;• Gjør stikkprøver&#xD;&#xA;&#x9;• Tidligere ga man kontroll før MT - noen land gjør nok dette fortsatt, men ikke Norge&#xD;&#xA;&#x9;• Noen land bestiller stikkprøver&#xD;&#xA;&#xD;&#xA;Samarbeider litt med toll når det er snakk om ulovlige substanser&#xD;&#xA;&#xD;&#xA;I utgangspunktet kaller Lab. inn selv fra grossist (ikke produsent) - stikkprøvekontroll &#xD;&#xA;&#xD;&#xA;Samarbeider med andre land - først og fremst Europa - tar analyser fra andre land og sender til andre land&#xD;&#xA;&#x9;• Batchene skrives inn I en felles database&#xD;&#xA;&#x9;• Europeisk legemiddelsamarbeid&#xD;&#xA;&#x9;• EDQM - OMCL-laboratorie - offisielt laboatorium (det eneste norske) samarbeider med andre OMC&#xD;&#xA;&#xD;&#xA;Sender ut tilbud til andre land om de ønsker analyser på et preparat LMV skal undersøke&#xD;&#xA;&#xD;&#xA;Generika - gjensidig anerkjennelse - ofte utveksles og gjøres analyser for hverandre.&#xD;&#xA;&#xD;&#xA;Sentral prosedyre styres fra det europeiske fellesskapet. 30-40  preparater legges ut til analyse hvert år, og fordeles på de ulike landene&#xD;&#xA;&#x9;• Norge har ansvar for en angitt liste med virkemidler, og gjør analyse for disse&#xD;&#xA;&#xD;&#xA;Kontroll av generika er konsentrert rundt om legemidlene har de riktige virkestoffene, og  har den nødvendige kvaliteten for å være likeverdig.&#xD;&#xA;&#x9;• Alle legemidler er godkjent med en spesifikasjon og det er dette som kontrollereres I lab.&#xD;&#xA;&#xD;&#xA;Lab gjør ingen analyser før produktet er kommet på det norske markedet&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

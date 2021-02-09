@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar virksomhetstillatelse"
+    id="fe5cd865-6fe7-49b3-82b0-dda0ddbca041">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_020b05f8-16b7-45a4-b542-37852189fbb6.xml#020b05f8-16b7-45a4-b542-37852189fbb6"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_3f82d237-385f-4a99-93f9-c137d84cfee9.xml#3f82d237-385f-4a99-93f9-c137d84cfee9"/>
+</archimate:AssociationRelationship>

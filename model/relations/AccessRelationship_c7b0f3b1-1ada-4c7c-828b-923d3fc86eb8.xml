@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="skriver/leser"
+    id="c7b0f3b1-1ada-4c7c-828b-923d3fc86eb8"
+    accessType="3">
+  <properties
+      key="dct:type"
+      value="archi:access-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="skriver/leser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_009531cc-ab2f-43eb-be20-fd78ce02a23a.xml#009531cc-ab2f-43eb-be20-fd78ce02a23a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_5bd322cd-9f1c-43f8-9481-92c818ebe1e8.xml#5bd322cd-9f1c-43f8-9481-92c818ebe1e8"/>
+</archimate:AccessRelationship>

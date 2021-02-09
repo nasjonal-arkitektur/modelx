@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identitetstilbyder"
+    id="id-3b4942df649c4e239414c9fd72c3d6b3">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruk av utstyr"
+    id="076374c5-ba34-49a9-83a4-aa39d52081e9"
+    documentation="Innkjøp og bruk av medisinsk utstyr er opp til den enkelte helsetjeneste / helsevirksomhet å styre. kvalitetsmessige og kostnadsmessige vurderinger gjøres på lik linje som for innkjøp av andre produkter og utstyr.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

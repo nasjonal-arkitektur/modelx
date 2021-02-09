@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelovervåkning - kompetansenettverk"
+    id="2eec4247-0135-47a3-8130-62acf9af1c40"
+    documentation="Kompetansedeling innen spontanrapporteringssystemet inklusive signaldeteksjon/eRMRs, signalutredning, PSUR/PSUSA prosedyrer, PASS protokoller/studierapporter, RMP og risikokommunikasjon mv. Følge med på regelverksutvikling innenfor GVP/PhV">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

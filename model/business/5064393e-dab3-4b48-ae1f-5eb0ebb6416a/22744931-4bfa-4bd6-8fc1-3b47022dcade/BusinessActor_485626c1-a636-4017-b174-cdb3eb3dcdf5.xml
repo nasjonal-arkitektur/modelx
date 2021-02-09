@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk enhet 1"
+    id="485626c1-a636-4017-b174-cdb3eb3dcdf5"
+    documentation="Denne eininga har ansvar for alle regulatoriske oppgåver frå vitskapleg rådgiving til marknadsføringsløyve og indikasjonsutvidingar. Dette inkluderer blant anna å leie prosessar knytt til utgreiingsoppdrag, koordinere deltaking i EU-arbeidet og representere Norge i CMDh og CMDv. Regulatorisk enhet 2 har ansvar for regulatoriske oppgåver som skjer etter at eit legemiddel har fått marknadsføringsløyve.&#xD;&#xA;&#xD;&#xA;Området har fire eningar som deltar i utgreiingar på følgjande område:&#xD;&#xA;* Gi vitskapleg rådgiving til firma og akademia&#xD;&#xA;* Vurdere søknader om klinisk utprøving&#xD;&#xA;* Vurdere søknader om marknadsføringsløyve og indikasjonsutvidingar&#xD;&#xA;* Gjennomføre metodevurderingar og vurdere søknader om førehandsgodkjent refusjon&#xD;&#xA;* Representere Norge i EMAs vitskaplege komitear&#xD;&#xA;* Desse einingane er heterogene, det vil seie at arbeidsoppgåvene og kompetansen går på tvers av einingane.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding om bivirkning (SUSAR)"
+    id="bd755c22-5ace-45d2-9900-658693762840"
+    documentation="Ved observasjon av SUSAR (Suspected Unexpected Adverse Reactions) i forbindelse med klinisk utprøving, skal dette rapporteres inn via EUDRAVIGILANCE.&#xD;&#xA;Slike meldinger fanges opp gjennom EvWeb&#xD;&#xA;&#xD;&#xA;SUSAR-melding sendes til utvalgte mottakere, definert i regelverket for klinisk utprøving">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

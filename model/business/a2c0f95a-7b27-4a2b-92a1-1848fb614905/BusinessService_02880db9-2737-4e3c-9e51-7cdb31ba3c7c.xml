@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere melding om klinisk utprøving av medisinsk utstyr"
+    id="02880db9-2737-4e3c-9e51-7cdb31ba3c7c">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

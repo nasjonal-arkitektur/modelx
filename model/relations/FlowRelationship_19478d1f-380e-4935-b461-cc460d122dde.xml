@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regelbrudd oppdaget"
+    id="19478d1f-380e-4935-b461-cc460d122dde">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_30945f09-85f5-4435-82e3-0eca5e55c3a0.xml#30945f09-85f5-4435-82e3-0eca5e55c3a0"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_94cc56d9-4c31-4eb4-937b-f5fdaf020ab6.xml#94cc56d9-4c31-4eb4-937b-f5fdaf020ab6"/>
+</archimate:FlowRelationship>

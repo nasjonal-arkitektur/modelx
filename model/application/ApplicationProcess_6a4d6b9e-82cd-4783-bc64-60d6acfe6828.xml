@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send melding"
+    id="6a4d6b9e-82cd-4783-bc64-60d6acfe6828">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationProcess>

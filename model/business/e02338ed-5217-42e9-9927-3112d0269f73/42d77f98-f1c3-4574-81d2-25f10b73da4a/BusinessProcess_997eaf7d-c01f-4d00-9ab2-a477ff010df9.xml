@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelmangel"
+    id="997eaf7d-c01f-4d00-9ab2-a477ff010df9"
+    documentation="Antall tilfeller av legemiddelmangel er økende. Det skyldes blant annet råstoffmangel, produksjonssvikt, feilberegning av forholdet mellom tilbud og etterspørsel, samt kompliserte omsetningsstrukturer i det globale legemiddelmarkedet.&#xA;&#xA;Legemiddelverket har et godt samarbeid med Nasjonalt senter for legemiddelmangel og&#xA;legemiddelberedskap i spesialisthelsetjenesten, legemiddelgrossistene, legemiddelprodusentene og apotekene. I de fleste tilfellene er det mulig å løse problemet slik at pasientene får den behandlingen de trenger, for eksempel ved å tillate salg av utenlandske pakninger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

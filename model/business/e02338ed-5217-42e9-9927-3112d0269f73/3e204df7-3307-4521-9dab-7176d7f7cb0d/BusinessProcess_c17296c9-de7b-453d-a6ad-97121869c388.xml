@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Starte saksbehandling (14 dagers behandlingstid)"
+    id="c17296c9-de7b-453d-a6ad-97121869c388">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

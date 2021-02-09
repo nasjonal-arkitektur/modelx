@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agresso"
+    id="e00c6b80-4573-4004-ab47-a0576677995d"
+    documentation="Agresso benyttes blant annet til budsjettering, fordringsadministrasjon, regnskap og rapportering internt og eksternt.&#xD;&#xA;&#xD;&#xA;Agresso er en tjeneste levert av Direktoratet for Økonomistyring.&#xD;&#xA;&#xD;&#xA;Legemiddelverket kobler seg opp mot Direktoratet for økonomistyring (DFØ) via en Citrix-klient. Programvare og alle data er lagret på serveren til DFØ.&#xD;&#xA;&#xD;&#xA;Brukerne starter Agresso gjennom en webside hostet av DFØ. Det er ingen servere eller tjenester i Legemiddelverkets nettverk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

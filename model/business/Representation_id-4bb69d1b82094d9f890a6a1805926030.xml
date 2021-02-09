@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling ved oppslag"
+    id="id-4bb69d1b82094d9f890a6a1805926030">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-85c23f6c602949e99acac9ed93a98b09"/>
+  <properties
+      key="drill down"
+      value="id-85c23f6c602949e99acac9ed93a98b09"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

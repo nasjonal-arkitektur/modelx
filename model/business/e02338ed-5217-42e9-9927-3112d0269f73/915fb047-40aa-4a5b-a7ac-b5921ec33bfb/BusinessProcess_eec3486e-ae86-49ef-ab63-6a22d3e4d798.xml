@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og arkivere rapport"
+    id="eec3486e-ae86-49ef-ab63-6a22d3e4d798"
+    documentation="Innsendte rapporter mottas på E-post og arkiveres i P360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

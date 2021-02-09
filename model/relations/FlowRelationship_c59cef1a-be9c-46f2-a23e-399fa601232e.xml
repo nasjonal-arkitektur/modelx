@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avslå"
+    id="c59cef1a-be9c-46f2-a23e-399fa601232e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_cb86b8ef-233e-403f-aa63-372446084ae7.xml#cb86b8ef-233e-403f-aa63-372446084ae7"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f77b4461-5be8-4f46-ad07-3127f0846cb3.xml#f77b4461-5be8-4f46-ad07-3127f0846cb3"/>
+</archimate:FlowRelationship>

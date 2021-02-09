@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generelt dårlig systemstøtte for oppfølging av klinisk utprøving"
+    id="8ceb1098-0a56-47ff-9542-c95fd232d3e5"
+    documentation="Systemstøtten er basert på ordinær saksbehandling i P360, og behandling av innkomne rapporter.&#xD;&#xA;Det finnes f.eks. ingen funksjonalitet for å følge opp at det faktisk leveres statusrapporter og sluttrapporter osv.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

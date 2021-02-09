@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klinisk utredning"
+    id="74f8036c-0367-44d0-9630-24044b9acaba"
+    documentation="Legemiddelverket vurderer dokumentasjon for kliniske studier på legemidler, hovedsakelig i forbindelse med søknader om markedsføringstillatelse, endringssøknader og søknader om kliniske forsøk.&#xD;&#xA;Bioanalyser, bioeqvivalens, farmakokinetikk, farmakodynamikk, modellering, statistikk, effekt og sikkerhet faller inn under den kliniske vurderingen. &#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no (humane og veterinære legemidler)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

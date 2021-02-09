@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Økonomiledelse"
+    id="2010a0a8-2cdf-4fce-bc3f-28ab8d488f34"
+    documentation="Ability to plan, direct, monitor, organize, control, and report on monetary aspects and resources of an organization.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Økonomiledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Finance Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to plan, direct, monitor, organize, control, and report on monetary aspects and resources of an organization."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to plan, direct, monitor, organize, control, and report on monetary aspects and resources of an organization."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

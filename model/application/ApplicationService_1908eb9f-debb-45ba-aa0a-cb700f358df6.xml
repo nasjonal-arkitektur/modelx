@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registered Electronic Delivery Service"
+    id="1908eb9f-debb-45ba-aa0a-cb700f358df6"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionalities that i) makes it possible to transmit data between third parties by electronic means and ii) provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and iii) that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Registered Electronic Delivery Service ABB  is salient for technical interoperability because it provides  the functionalities related to the handling of data transmission.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Qualified electronic registered delivery services listed with CEF Trusted List Browser tool&#xD;&#xA;Qualified electronic registered delivery services are listed on https://webgate.ec.europa.eu/tl-browser/#/search/1 &#xD;&#xA;https://webgate.ec.europa.eu/tl-browser/#/search/1 &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB203"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Registered Electronic Delivery Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionalities that i) makes it possible to transmit data between third parties by electronic means and ii) provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and iii) that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Registered Electronic Delivery Service ABB  is salient for technical interoperability because it provides  the functionalities related to the handling of data transmission.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Qualified electronic registered delivery services listed with CEF Trusted List Browser tool&#xD;&#xA;Qualified electronic registered delivery services are listed on https://webgate.ec.europa.eu/tl-browser/#/search/1 &#xD;&#xA;https://webgate.ec.europa.eu/tl-browser/#/search/1 &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

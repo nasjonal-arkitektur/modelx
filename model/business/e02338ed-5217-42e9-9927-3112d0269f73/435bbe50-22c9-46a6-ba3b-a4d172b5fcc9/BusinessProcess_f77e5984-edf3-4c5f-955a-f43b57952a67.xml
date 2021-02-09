@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn av Teknisk Kontrollorgan"
+    id="f77e5984-edf3-4c5f-955a-f43b57952a67"
+    documentation="For å sikre at det tekniske kontrollorganet opprettholder kompetanse og leveringsevne, gjennomfører legemiddelverket tilsyn.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,16 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksbehandlingskommunikasjon"
+    id="169834a3-4589-47b0-9fbf-edc90335e6cd"
+    documentation="MS Exchange benyttes av SAM til all kommunikasjon mellom saksbehandler og eksterne aktører.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2a2e3521-dcbd-4c57-87be-ba157dafc480.xml#2a2e3521-dcbd-4c57-87be-ba157dafc480"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_369703bf-bf99-4d11-90c8-cada8df12180.xml#369703bf-bf99-4d11-90c8-cada8df12180"/>
+</archimate:ServingRelationship>

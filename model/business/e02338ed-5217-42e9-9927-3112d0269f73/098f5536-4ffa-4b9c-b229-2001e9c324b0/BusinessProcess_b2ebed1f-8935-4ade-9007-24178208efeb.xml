@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhente dokumentasjon"
+    id="b2ebed1f-8935-4ade-9007-24178208efeb"
+    documentation="Som forberedelse til tilsynet hentes det inn relevant dokumentasjon fra tilsynsobjektet">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

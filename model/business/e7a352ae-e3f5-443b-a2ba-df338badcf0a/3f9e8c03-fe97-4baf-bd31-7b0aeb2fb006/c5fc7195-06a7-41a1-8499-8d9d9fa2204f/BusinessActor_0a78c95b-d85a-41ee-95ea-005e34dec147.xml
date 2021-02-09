@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statlig virksomhet"
+    id="0a78c95b-d85a-41ee-95ea-005e34dec147">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

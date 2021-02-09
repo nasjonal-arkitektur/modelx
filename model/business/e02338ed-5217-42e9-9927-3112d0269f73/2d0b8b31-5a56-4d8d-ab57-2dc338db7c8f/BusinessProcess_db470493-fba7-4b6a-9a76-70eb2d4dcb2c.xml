@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatere Athene"
+    id="db470493-fba7-4b6a-9a76-70eb2d4dcb2c"
+    documentation="Oppdaterte data fra Farmalogg legges inn i Athene, og oppdatert pris- og refusjonsinformasjon hentes ut for eksport til Farmalogg.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

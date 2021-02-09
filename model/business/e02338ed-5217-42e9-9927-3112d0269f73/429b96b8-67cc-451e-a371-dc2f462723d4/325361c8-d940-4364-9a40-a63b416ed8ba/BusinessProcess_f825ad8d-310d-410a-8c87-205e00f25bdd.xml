@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT/NP - Valideringsfase"
+    id="f825ad8d-310d-410a-8c87-205e00f25bdd"
+    documentation="Valideringsfase ved behandling av MT-søknad i Nasjonal Prosedyre">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

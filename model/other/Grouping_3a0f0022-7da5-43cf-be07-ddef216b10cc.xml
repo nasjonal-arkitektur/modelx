@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eiendelsforvaltning (inkl. IT-løsninger)"
+    id="3a0f0022-7da5-43cf-be07-ddef216b10cc"
+    documentation="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Eiendelsforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Asset Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to acquire, create, track, report on, and dispose of tangible or intangible property with intrinsic value, including software applications and computing hardware."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EUDRA Common Directory (ECD)"
+    id="86528933-c315-46f3-8bc6-7027cf7ad220"
+    documentation="ECD  is  a  directory  of  individuals  and  organisations  relevant  to  the  operation  of  the Agency and its stakeholders acrossthe NCAs">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

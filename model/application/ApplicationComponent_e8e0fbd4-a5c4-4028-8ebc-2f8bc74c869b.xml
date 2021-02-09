@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn API"
+    id="e8e0fbd4-a5c4-4028-8ebc-2f8bc74c869b"
+    documentation="Med Altinn API kan du lage løsninger som fungerer utenfor Altinn, men samtidig benytte Altinn sine tekniske komponenter. Altinn API snakker med systemene dine og du har kontroll på brukeropplevelsen. ">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn API-er"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ApplicationComponent>

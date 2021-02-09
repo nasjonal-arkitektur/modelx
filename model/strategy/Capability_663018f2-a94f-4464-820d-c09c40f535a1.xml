@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å publisere oversikt over virksomhetens datasett (fra orden i eget hus)"
+    id="663018f2-a94f-4464-820d-c09c40f535a1"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å tilby datakonsument oversikt over data som virksomheten produserer slik at datakonsument enkelt kan oppdage data som tilbys. Videre bør det være opplyst hvordan datakonsument kan få tilgang til dataene&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for hvor og hvordan oversikt over virksomhetens datasett skal publiseres&#xD;&#xA;&#xD;&#xA;Legge oversikt over virksomhetens datasett på Felles datakatalog&#xD;&#xA;&#xD;&#xA;Eventuelt Intern datakatalog som kan benyttes til å publisere oversikten på Felles datakatalog. Om mulig automatisere høsting fra egne kataloger til felles datakatalog.&#xD;&#xA;&#xD;&#xA;Publisere oversikt over datatilbyders APIer&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å publisere oversikt over virksomhetens datasett (fra orden i eget hus)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må evne å tilby datakonsument oversikt over data som virksomheten produserer slik at datakonsument enkelt kan oppdage data som tilbys. Videre bør det være opplyst hvordan datakonsument kan få tilgang til dataene&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Prosesser for hvor og hvordan oversikt over virksomhetens datasett skal publiseres&#xD;&#xA;&#xD;&#xA;Legge oversikt over virksomhetens datasett på Felles datakatalog&#xD;&#xA;&#xD;&#xA;Eventuelt Intern datakatalog som kan benyttes til å publisere oversikten på Felles datakatalog. Om mulig automatisere høsting fra egne kataloger til felles datakatalog.&#xD;&#xA;&#xD;&#xA;Publisere oversikt over datatilbyders APIer&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

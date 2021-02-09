@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyseplan - enkeltanalyse"
+    id="8394c50c-87ba-4070-833d-cd738afed5b5"
+    documentation=" Excel - legger inn informasjonen her I et template. Kan få opp disee opplysningene I analyseplan, analyserapport og analyseregistrering - word-dokument&#xD;&#xA;&#x9;&#x9;○ Informasjonen I en templat modell slik at mye av informasjonen trenger man bare legge inn 1 gang. Templatet - henter opplysninger fra templatet. En del ting må legges inn manuelt.&#xD;&#xA;&#x9;&#x9;○ Ligger på X&#xD;&#xA;&#x9;&#x9;○ Eco-dokumenter - analyse, osv.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

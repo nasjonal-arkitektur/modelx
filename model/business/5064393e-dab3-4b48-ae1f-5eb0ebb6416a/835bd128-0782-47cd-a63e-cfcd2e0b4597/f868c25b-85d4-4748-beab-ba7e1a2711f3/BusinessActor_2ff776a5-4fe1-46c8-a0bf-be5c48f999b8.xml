@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Midlertidig utredningslag"
+    id="2ff776a5-4fe1-46c8-a0bf-be5c48f999b8"
+    documentation="I forbindelse med behandling av MT-søknader dannes det midlertidige utredningslag (prosjektgrupper) som er satt sammen av personer fra aktuelle lag:&#xD;&#xA;* Regulatorisk CP før  MT (lag)&#xD;&#xA;* Kvalitetsvurdering biologiske legemidler til mennesker og dyr. (lag)&#xD;&#xA;* Kvalitetsvurdering kjemisk/syntetiske legemidler - Human og Veterinær (lag)&#xD;&#xA;* Farmakologi (lag)&#xD;&#xA;* Pre-Klinikk (lag)&#xD;&#xA;* SEN - Sikkerhet og Effekt for Nye virkestoff  (lag)&#xD;&#xA;* SEK - Sikkerhet og Effekt kjente virkestoffer (lag)&#xD;&#xA;* Lesbarhetstesting av produktinformasjon (lag)&#xD;&#xA;* CP human/vet (lag)&#xD;&#xA;* Veterinær - Effekt og Sikkerhet (lag)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uenig"
+    id="3cd6958d-9837-4152-9b6a-7f6f61e388b5">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_1c207895-6be0-4aeb-a154-c1cc47c2aa09.xml#1c207895-6be0-4aeb-a154-c1cc47c2aa09"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b55be694-0282-48ea-aa4f-f3cf25b9e000.xml#b55be694-0282-48ea-aa4f-f3cf25b9e000"/>
+</archimate:FlowRelationship>

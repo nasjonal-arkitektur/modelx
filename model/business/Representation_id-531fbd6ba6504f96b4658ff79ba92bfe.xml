@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rutinen for nye brukernære behov"
+    id="id-531fbd6ba6504f96b4658ff79ba92bfe"
+    documentation="[arabic]&#xD;&#xA;. Melde behov, gjerne av datakonsumentene&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Interessenter melder ønsker inn gjennom kjent verktøy / grensenitt&#xD;&#xA;.. Periodisk prosess for å samle innspill og prioritere&#xD;&#xA;.. For de case som går videre: Intervjue interessenter/ kjøre&#xD;&#xA;tjenestedesign workshop for å beskrive scenariet&#xD;&#xA;. Analysere behov og finne ut hvilke domener og kilder som er involvert&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Hvem gjør dette? Tjenesteansvarlige? Informasjonsdomeneeiere?&#xD;&#xA;Prosesseiere? Sekretariatet? Hvem hos institusjonene?&#xD;&#xA;.. F. eks. studieadministrasjon kunne være en domene, og tjenesansvarlig&#xD;&#xA;for FSAPI&#xD;&#xA;. Finn eksisterende datasett involvert (helst fra datakatalogen) som er&#xD;&#xA;ferdig harmonisert&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Spesifisere hva som blir berørt f. eks. begreper, API, datamodell,&#xD;&#xA;(tjeneste- og API-eiere)&#xD;&#xA;. Identifiser hva må skapes, harmoniseres eller videreutvikles i tillegg&#xD;&#xA;til eksisterende datasett for å tilfredsstille behovet&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Trenger vi nye: begreper, kilder, API, datasett m.m?&#xD;&#xA;.. Kontakte interessentene til de berørte områdene med sikte på å være&#xD;&#xA;med i prosessen&#xD;&#xA;. Kjør begreps harmoniseringsprosessen etter behov med relevante&#xD;&#xA;interessenter (hele verdikjeden for data involvert må være representert)&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Følg&#xD;&#xA;https://data.norge.no/specification/forvaltningsstandard-begrepskoordinering/[standarden&#xD;&#xA;om Begrepsharmonisering og begrepsdifferensiering]&#xD;&#xA;(https://laeringsplattformen.difi.no/kurs/971527404/begrip-begrepene-et-innforingskurs-i-terminologi-og-begrepsarbeid[kurs&#xD;&#xA;om begrepsarbeid] er en utfyllende ressurs)&#xD;&#xA;. Definere API/datasett team med representasjon fra både bruksmiljø og&#xD;&#xA;produsent (er dette den samme gruppen fra punkt 5?)&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Det kan ta noen iterasjoner med utprøving av API før man er fornøyd&#xD;&#xA;.. Senere oppdateringer kan kjøres som iterasjoner da man allerede har&#xD;&#xA;resultatene fra tidligere steg.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-forvaltning"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

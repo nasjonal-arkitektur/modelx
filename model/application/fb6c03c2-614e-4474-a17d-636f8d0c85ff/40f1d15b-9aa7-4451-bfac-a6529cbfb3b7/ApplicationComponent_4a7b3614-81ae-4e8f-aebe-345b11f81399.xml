@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Office 365 Enterprise 1"
+    id="4a7b3614-81ae-4e8f-aebe-345b11f81399"
+    documentation="Tilgjengeliggjort for deler av organisasjonen (Enhetsledere, SL mm) pr jan 2019&#xD;&#xA;Benyttes i hovedsak til å jobbe i Teams&#xD;&#xA;Inneholder komponentene:&#xD;&#xA;Exchange&#xD;&#xA;OneDrive&#xD;&#xA;SharePoint&#xD;&#xA;Microsoft Teams&#xD;&#xA;Yammer&#xD;&#xA;Stream">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

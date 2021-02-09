@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett"
+    id="1e6dda27-91e6-41a4-8f1c-9115208dd7ed">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

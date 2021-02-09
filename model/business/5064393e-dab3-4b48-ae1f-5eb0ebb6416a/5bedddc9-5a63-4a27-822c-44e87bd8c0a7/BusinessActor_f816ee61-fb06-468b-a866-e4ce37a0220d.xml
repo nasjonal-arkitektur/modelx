@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT-innehaver"
+    id="f816ee61-fb06-468b-a866-e4ce37a0220d"
+    documentation="Den virksomhet som er innehaver av markedsføringstillatelse (MT) for det norske markedet, for et angitt legemiddel.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende sviktmelding til produsent"
+    id="ae700c35-1de9-4073-b074-36131ca6ee13"
+    documentation="Sviktmeldingen sendes så fort som mulig til produsent, slik at produsent kan begynne sitt arbeid med å undersøke svikten og berike meldingen med informasjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

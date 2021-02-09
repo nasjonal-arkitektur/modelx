@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Politiske roller"
+    id="dc625030-5708-40f5-8b9e-9163fa5fc873">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="691fb0c7-6082-4587-84fa-2785155303f8"
+      textPosition="1">
+    <bounds
+        x="72"
+        y="101"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_f9b06066-409b-4682-8cd2-9f1ad2606776.xml#f9b06066-409b-4682-8cd2-9f1ad2606776"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Politiske roller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"
+      value="nab_arkitekturlandskap_segmentarkitektur_datadeling_roller"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ArchimateDiagramModel>

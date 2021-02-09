@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nye Metoder"
+    id="930d0aa4-f203-4129-b3fb-7e2fe6a24397"
+    documentation="Nye metoder er et system for innføring og utfasing av metoder i spesialisthelsetjenesten.&#xA;Ulike aktører som Statens Legemiddelverk, De Regionale Helseforetakene, Helsedirektoratet, Helse- og omsorgsdepartementet, LIS og så videre bidrar med ulike oppgaver og har ulike ansvarsområder inn i &quot;Nye metoder&quot;.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

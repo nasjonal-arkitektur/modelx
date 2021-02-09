@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modeller for datadeling"
+    id="id-6c5481d5c5684c87b04904d4cfdf14d6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-14a2a45c6dce4d7dabb722494ef519a3"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+    <features
+        name="gradient"
+        value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0ff53adbc9ac417bad94208ba5d61516"
+        source="id-14a2a45c6dce4d7dabb722494ef519a3"
+        target="id-6eed025ebf85490c89ff8bd2a1d76141">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-5e00ad21342e475dbc6ef17df4c9d70f.xml#id-5e00ad21342e475dbc6ef17df4c9d70f"/>
+    </sourceConnections>
+    <bounds
+        x="37"
+        y="56"
+        width="264"
+        height="191"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6eed025ebf85490c89ff8bd2a1d76141"
+        targetConnections="id-0ff53adbc9ac417bad94208ba5d61516"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="30"
+          y="48"
+          width="137"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:Representation"
+          href="Representation_id-382879debc874aecaddb0cf4eef24a47.xml#id-382879debc874aecaddb0cf4eef24a47"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-b20e03439e5540c7b0dbde34b33c631c.xml#id-b20e03439e5540c7b0dbde34b33c631c"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ArchimateDiagramModel>

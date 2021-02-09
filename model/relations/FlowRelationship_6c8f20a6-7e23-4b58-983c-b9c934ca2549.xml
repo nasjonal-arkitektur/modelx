@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søkt om OTC"
+    id="6c8f20a6-7e23-4b58-983c-b9c934ca2549"
+    documentation="MT-Søker har søkt om OTC">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3492e77a-aabf-48b0-b065-d4f13a1e3444.xml#3492e77a-aabf-48b0-b065-d4f13a1e3444"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2977740c-722f-4d87-adae-60ca0f7d780b.xml#2977740c-722f-4d87-adae-60ca0f7d780b"/>
+</archimate:FlowRelationship>

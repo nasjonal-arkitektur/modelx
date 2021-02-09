@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finansiering og produktutvikling"
+    id="4935e3d2-9047-4aff-80d0-68c320582fd9"
+    documentation="Produsent kan søke om finasiell støtte fra offentlige og private aktører til produktutviklingen.&#xA;Prosessen rundt produktutviklingen vil variere i stor grad da medisinsk utstyr kan være alt i fra komplekse produkter som en pacemaker til pinsetter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

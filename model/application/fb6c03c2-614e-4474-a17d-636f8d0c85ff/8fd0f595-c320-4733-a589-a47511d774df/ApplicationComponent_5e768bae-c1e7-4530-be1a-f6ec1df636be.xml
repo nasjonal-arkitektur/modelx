@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Repository"
+    id="5e768bae-c1e7-4530-be1a-f6ec1df636be"
+    documentation="Common Repository for Centrally Authorised Products for electronic regulatory submissions (H+V) &#xD;&#xA;Common Repository enables all National Competent Authorities to  search,  browse  and  download  centralised  procedure  eCTD  submissions  for  human products.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

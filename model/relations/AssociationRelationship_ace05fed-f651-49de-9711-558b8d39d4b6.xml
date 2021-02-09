@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="har"
+    id="ace05fed-f651-49de-9711-558b8d39d4b6"
+    directed="true">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_bb383cf3-7d0f-4f2a-955c-d1fb49b4961d.xml#bb383cf3-7d0f-4f2a-955c-d1fb49b4961d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_80a4b5e2-e423-45b5-8bec-a7c93514ba58.xml#80a4b5e2-e423-45b5-8bec-a7c93514ba58"/>
+</archimate:AssociationRelationship>

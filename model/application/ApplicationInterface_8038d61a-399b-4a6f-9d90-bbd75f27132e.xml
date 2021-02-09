@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS Fiks grensesnitt"
+    id="8038d61a-399b-4a6f-9d90-bbd75f27132e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende søknad om makspris"
+    id="2bc93fe7-625f-4348-a72b-a39e2b893473"
+    documentation="Søknad om makspris sendes inn til e-postkassen. &#xD;&#xA;Det fattes enkeltvedtak per pakning, slik at dette må reflekteres i søknaden. Det er ganske mange søknader I året - noen tusen, men litt usikker på statistikken.&#xD;&#xA;&#xD;&#xA;Generika og parallellimport behandles annerledes.&#xD;&#xA;Får en søknad på samme måte som original - men de trenger ikke sende inn opplysninger om pris. De får makspris, med mindre de søker om en lavere pris. Originalmedikamentet avgjør maksprisen.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

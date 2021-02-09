@@ -1,0 +1,30 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrere innkjøpte systemer i applikasjonsporteføljen"
+    id="80a763f9-2bf0-4d2c-a279-68a2cbbf5bfb">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Integrere innkjøpte systemer i applikasjonsporteføljen"/>
+  <properties
+      key="difi:name_en"
+      value="Integration of vendor packages into an organization’s application portfolio"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelstandarder"
+    id="f702ccf7-b5ad-4454-a303-cd1c9ae411af"
+    documentation="Legemiddelverket representerer Norge i Den europeiske farmakopé og gi ut Norske legemiddelstandarder.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

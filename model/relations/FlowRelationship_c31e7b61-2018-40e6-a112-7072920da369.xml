@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opplasting i SAM"
+    id="c31e7b61-2018-40e6-a112-7072920da369"
+    documentation="Halvautomatisk opplasting i SAM. Arkivet pekker på EAF-fil, som trigger opplastingen.&#xD;&#xA;EAF-filen inneholder metadata for saken, som legges inn i SAM. Dokumenter sendes til 360 / Castor avhangig av om det skal ligge i arkiv eller ikke.&#xD;&#xA;&#xD;&#xA;Opplastingen oppretter en temporær sak i 360, og laster opp alle dokumentene i den.&#xD;&#xA;Dette prosesseres videre av en schedulert task.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e396a301-238d-4226-a0c1-fbbf61acad15.xml#e396a301-238d-4226-a0c1-fbbf61acad15"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_369703bf-bf99-4d11-90c8-cada8df12180.xml#369703bf-bf99-4d11-90c8-cada8df12180"/>
+</archimate:FlowRelationship>

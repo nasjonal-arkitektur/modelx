@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beskyttelse av åndsverk"
+    id="1bba0c8d-601f-425b-80d6-e514ed36237e"
+    documentation="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Beskyttelse av åndsverk"/>
+  <properties
+      key="difi:name_en"
+      value="Intellectual Property Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, establish, validate, value, obtain, or dispose of inventions, patents, trademarks, trade secrets, copyrights, and know how as a basis for furthering the overall mission of the organization."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

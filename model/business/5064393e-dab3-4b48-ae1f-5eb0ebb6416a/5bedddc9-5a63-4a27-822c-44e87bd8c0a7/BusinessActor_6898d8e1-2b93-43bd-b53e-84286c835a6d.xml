@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Folkehelseinstituttet (FHI)"
+    id="6898d8e1-2b93-43bd-b53e-84286c835a6d"
+    documentation="Folkehelseinstituttet er ein nasjonal kompetanseinstitusjon på desse fagområda: &#xD;&#xA;* smittevern&#xD;&#xA;* psykisk og fysisk helse&#xD;&#xA;* miljøfaktorar, rusmidlar, tobakk, ernæring, fysisk aktivitet og andre forhold som påvirkar helsetilstanden og ulikskap i helse&#xD;&#xA;* helsefremjande og forebyggande tiltak i befolkninga&#xD;&#xA;* internasjonal helse">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

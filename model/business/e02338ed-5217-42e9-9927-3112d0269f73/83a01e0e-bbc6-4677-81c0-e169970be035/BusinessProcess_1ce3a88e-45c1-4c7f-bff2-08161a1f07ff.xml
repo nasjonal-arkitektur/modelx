@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspill til metodevarsling"
+    id="1ce3a88e-45c1-4c7f-bff2-08161a1f07ff"
+    documentation="Offentligheten kan komme med innspill til metodevarsling.&#xD;&#xA;Dette blir mindre og mindre vanlig, fordi man i større grad varsler på bakgrunn av listen over kommende legemidler fra EMA.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

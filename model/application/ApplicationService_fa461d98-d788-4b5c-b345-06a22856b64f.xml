@@ -1,0 +1,33 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable European Solution Service"
+    id="fa461d98-d788-4b5c-b345-06a22856b64f"
+    documentation="DESCRIPTION:&#xD;&#xA;Represents an explicitly defined shared application behavior of an Inteoperable European Solution.&#xD;&#xA;&#xD;&#xA;Based on ArchiMate® v3&#xD;&#xA;http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Interoperable European Solution service ABB is salient for technical interoperability because it is a central element the EIF's conceptual model for integrated public services. it represents the generalisation of all application services provided by an Interoperable European Solutionas as stated in the EIF: &quot;Technical interoperability the applications and infrastructures linking systems and services.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;EU Login&#xD;&#xA;EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services and websites, using a single email address and password. EU Login implements the single sign-on functionality.&#xD;&#xA;https://webgate.ec.europa.eu/cas/help.html &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB187"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableEuropeanSolutionService"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="dct:references"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>
+</archimate:ApplicationService>

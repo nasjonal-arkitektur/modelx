@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samtykkeregistererings-tjeneste"
+    id="604052b8-dd41-4016-b726-392581856d39"
+    documentation="Tjeneste for å innhente samtykke fra den registrert som dataene gjelder. Dette kan være en person eller en virksomhet.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

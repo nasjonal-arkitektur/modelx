@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppgaveforvaltning"
+    id="e36ce3e9-1b35-45c0-b112-0ed46a60813c"
+    documentation="Ability to identify, define, assign, and manage accountabilities whether remunerative or non-remunerative, assigned, specific, an accountable business duty, role, or function that can be executed by a human or nonhuman resource.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oppgaveforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Job Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, define, assign, and manage accountabilities whether remunerative or non-remunerative, assigned, specific, an accountable business duty, role, or function that can be executed by a human or nonhuman resource."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, define, assign, and manage accountabilities whether remunerative or non-remunerative, assigned, specific, an accountable business duty, role, or function that can be executed by a human or nonhuman resource."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere utredningsrapport fra produsent"
+    id="3da54f0d-d51f-4cfc-b15f-cd37a2c8a9b6"
+    documentation="Utredningsrapporten fra produsenten registerer / journalføres i P360.&#xD;&#xA;Ved journalføring er det viktig å registrere metadata på saken slik at det er mulig å søke fram saken igjen i forbindelse med signalarbeid, statistikker og oversikter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

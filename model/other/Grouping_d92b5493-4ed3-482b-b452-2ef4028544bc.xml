@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turplanlegging"
+    id="d92b5493-4ed3-482b-b452-2ef4028544bc"
+    documentation="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Turplanlegging"/>
+  <properties
+      key="difi:name_en"
+      value="Trip Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

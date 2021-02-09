@@ -1,0 +1,100 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt"
+    id="fe3c5430-3bd8-4e0e-9e51-2dc1efa046f0">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2742aaac-1b37-4d8b-987e-b21240cf78dc"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Legemiddelverkets virksomhetsarkitektur"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="12"
+        y="18"
+        width="665"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="60df4a0f-8ce3-4a75-a3c2-d9ff97b00709">
+    <bounds
+        x="12"
+        y="108"
+        width="197"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f011f4e6-8cbc-4f16-b849-40533ec5bf9b">
+    <bounds
+        x="246"
+        y="108"
+        width="197"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_c44dd042-19b1-409c-9f89-8fad3a82da64.xml#c44dd042-19b1-409c-9f89-8fad3a82da64"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="b3a83df4-af04-4c8b-82e5-d2e32b291c42">
+    <bounds
+        x="480"
+        y="108"
+        width="197"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_38278f84-c781-4097-a85d-0cc17c9549a3.xml#38278f84-c781-4097-a85d-0cc17c9549a3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e45290cd-4107-4c43-8e2c-8d374bb60301"
+      font="1|Segoe UI|10.125|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#75c8d2"
+      content="B. Business Architecture">
+    <bounds
+        x="12"
+        y="72"
+        width="197"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="be40357d-db6d-4057-b630-ced7dd841d6f"
+      font="1|Segoe UI|10.125|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#75c8d2"
+      content="C. Information Systems Architecture">
+    <bounds
+        x="246"
+        y="72"
+        width="197"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b735f289-b6b2-46b1-b697-949f9a1203d4"
+      font="1|Segoe UI|10.125|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#75c8d2"
+      content="D. Technology Architecture"
+      textPosition="1">
+    <bounds
+        x="480"
+        y="72"
+        width="197"
+        height="28"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

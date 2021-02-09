@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F-team (lag)"
+    id="eaf1f0b2-c637-431b-93df-6a6ca5ea3dc5"
+    documentation="Lag av systemforvaltere som forvalter egenutviklede fagsystemer i henhold til forvaltningsretningslinjene med tilhørende rolle- og ansvarskart. Følge opp utviklingsleverandør.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,32 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utfører"
+    id="382f6863-e38c-4143-834c-2a18b9d7c8ad">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_58f8a20b-66cc-4f6c-ba1f-62f5f3341e88.xml#58f8a20b-66cc-4f6c-ba1f-62f5f3341e88"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e4e65698-990f-4ea1-9492-d98477594031.xml#e4e65698-990f-4ea1-9492-d98477594031"/>
+</archimate:ServingRelationship>

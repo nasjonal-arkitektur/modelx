@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatoriske spørsmål - Kompetansenettverk"
+    id="e54a72bd-664e-4c70-9ad0-6f892abe5f6b"
+    documentation="Kompetansedeling innenfor regulatorisk faglig arbeid">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharepoint - Legemiddelsok.no"
+    id="1b83749a-6060-40b4-a258-d4cef9f16df8"
+    documentation="Legemiddelsøk viser informasjon om alle godkjente og de registerte legemidler i Norge. Det viser også oppsummering av produktegenskaper (SPC), narkotikainteraksjoner, lenke til pakkeinformasjonen, refusjonsstatus og priser.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

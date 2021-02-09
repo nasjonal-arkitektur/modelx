@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Temaområde"
+    id="5c768d6f-d8d2-453d-9d91-189059440d5c">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Temaområde"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_en"
+      value="Subject area"/>
+  <properties
+      key="difi:description_en"
+      value="Subject area or segment; ref. TOGAF."/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Grouping>

@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontakt- og reservasjonsregisteret​ for innbyggere (KRR)"
+    id="94ab0f1e-9004-4991-8560-84253310402d"
+    documentation="[Torget]&#xD;&#xA;KRR gir deg mobilnummer og e-post til innbyggerne i Norge slik at du kan sende post og varslinger digitalt. Du ser hvem som har reservert seg mot digital kommunikasjon, hvilken digital postkasse de eventuelt har valgt, og hvilken språkpreferanse de har. &#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;KRR inneholder oversikt over mobilnummer og e-post, hvilken digital postkasse og eventuelle reservasjoner mot digital kommunikasjon innbyggerne i Norge har. Dette gir teknisk og  organisatorisk samhandlingsevne ved at virksomheter kan sende post og varslinger digitalt.&#xD;&#xA;&#xD;&#xA;Mer om Kontakt- og reservasjonsregisteret:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/kontakt-ogreservasjonsregisteret-krr/865">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kontakt- og reservasjonsregisteret​ for innbyggere (KRR)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

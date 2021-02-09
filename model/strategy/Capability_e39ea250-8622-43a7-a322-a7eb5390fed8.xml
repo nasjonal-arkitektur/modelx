@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svangerskap"
+    id="e39ea250-8622-43a7-a322-a7eb5390fed8">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

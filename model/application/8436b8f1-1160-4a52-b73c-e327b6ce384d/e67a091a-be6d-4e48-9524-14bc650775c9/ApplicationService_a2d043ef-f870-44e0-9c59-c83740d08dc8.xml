@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="En Vei Inn - Innrapporteringsskjema på Web"
+    id="a2d043ef-f870-44e0-9c59-c83740d08dc8">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

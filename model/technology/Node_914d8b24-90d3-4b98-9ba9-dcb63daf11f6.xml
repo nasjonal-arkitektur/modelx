@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DB Host"
+    id="914d8b24-90d3-4b98-9ba9-dcb63daf11f6">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Node>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for økonomi og jus"
+    id="a3a1a019-0847-4e7b-b0ab-2e35209972b5"
+    documentation="Enhet for økonomi og jus har ansvar for økonomi, regnskap, lønn og jus.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

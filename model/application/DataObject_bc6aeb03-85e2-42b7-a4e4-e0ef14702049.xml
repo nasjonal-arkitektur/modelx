@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innholdsfilter"
+    id="bc6aeb03-85e2-42b7-a4e4-e0ef14702049">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:DataObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstede tillatelser (lag)"
+    id="20b9f13c-3465-447e-a2fe-921e4f823437"
+    documentation="Veilede i regelverk, besvare henvendelser, Utstede: Apotek-og driftskonsesjoner, tillatelser til grossist,tilvirker,import, kjøp. GMDP-sertifikater, andre sertifikater (COC mm),motta og registrere notifiseringer (netthandel, TVT som grossist, formidlere, meldinger om apotekdrift)">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

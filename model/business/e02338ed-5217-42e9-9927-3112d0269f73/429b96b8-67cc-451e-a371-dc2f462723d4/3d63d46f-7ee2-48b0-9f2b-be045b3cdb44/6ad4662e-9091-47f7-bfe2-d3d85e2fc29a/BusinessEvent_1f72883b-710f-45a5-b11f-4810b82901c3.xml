@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT-søkers tilsvar på dag180-rapport mottatt"
+    id="1f72883b-710f-45a5-b11f-4810b82901c3"
+    documentation="Søkers tilsvar på dag180-rapporter er som regel på detaljnivå / småsaker.&#xD;&#xA;Er det større ting utestående på dette tidspunktet, er det et tegn på at søknad ligger an til ikke å bli godkjent eller at MT-søker trekker søknaden.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

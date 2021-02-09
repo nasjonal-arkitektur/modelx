@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn Tjenesteutviklingsløsning (TUL)"
+    id="dd36784b-708f-47e4-9578-47254c0fb064"
+    documentation="Altinn TUL gir deg tilgang til et sett med verktøy du behøver for å utvikle tjenester på Altinn-plattformen.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationComponent>

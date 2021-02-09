@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere brukere av samtykke"
+    id="d3883f3d-0da8-4dee-9a3a-ae185d6d04f1"
+    documentation="Prosess for å registrere konsumenter som skal ha mulighet for å innhente samtykker som gir tilgang til en tjeneste.&#xD;&#xA;&#xD;&#xA;Dette utføres kun om det er behov for samtykke for tilgang til dataene.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

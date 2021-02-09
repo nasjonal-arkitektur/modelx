@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nytt sertifikat etter 5 år"
+    id="06c15c01-66f1-4a00-9855-d1b557d0ddb7"
+    documentation="Produkter med klasse 2+ må fornye godkjenning hvert 5 år">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_25960372-f4b6-4d08-8c96-3f84ed4ff51e.xml#25960372-f4b6-4d08-8c96-3f84ed4ff51e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0dd860a3-ae19-4a7c-8b1e-2fb449fcd7d5.xml#0dd860a3-ae19-4a7c-8b1e-2fb449fcd7d5"/>
+</archimate:FlowRelationship>

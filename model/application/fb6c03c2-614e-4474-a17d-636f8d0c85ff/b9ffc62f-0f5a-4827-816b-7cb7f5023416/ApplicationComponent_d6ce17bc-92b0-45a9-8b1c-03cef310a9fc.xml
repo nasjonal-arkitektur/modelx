@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhetsdatabasen (under utfasing)"
+    id="d6ce17bc-92b0-45a9-8b1c-03cef310a9fc"
+    documentation="*** Virksomhetsdatabasen er i ferd med å bli erstattet av tilsvarende funksjonalitet i SAM-T ***&#xD;&#xA;&#xD;&#xA;Oversikt over alle tillatelser, gyldighetstider m.m., Fungerer som adresseliste, Holder oversikt over utførte tilsyn, Genererer tillatelsesnummer.&#xD;&#xA;&#xD;&#xA;Adresseregister for markedsleverandører og inspeksjoner.&#xD;&#xA;&#xD;&#xA;Tilsyn bruker Virksomhetsbasen til å holde oversikt over grossister og leverandører som må følges opp med jevnlig inspeksjon. Enkelte rapporter for apotekets tilsyn registreres også i Virksomhetsbasen&#xD;&#xA;&#xD;&#xA;Adresseregister for markedsleverandører og inspeksjoner.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

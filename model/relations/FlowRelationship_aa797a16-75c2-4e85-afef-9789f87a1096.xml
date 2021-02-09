@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Negativ / Uenighet"
+    id="aa797a16-75c2-4e85-afef-9789f87a1096">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_a58a41f8-2dcd-4dad-b85f-652dc13591be.xml#a58a41f8-2dcd-4dad-b85f-652dc13591be"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_b19e8e3b-e357-40e4-8f26-c631809ea06f.xml#b19e8e3b-e357-40e4-8f26-c631809ea06f"/>
+</archimate:FlowRelationship>

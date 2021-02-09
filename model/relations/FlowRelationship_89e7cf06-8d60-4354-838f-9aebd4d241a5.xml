@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store og kritiske avvik OK"
+    id="89e7cf06-8d60-4354-838f-9aebd4d241a5"
+    documentation="Store og kritiske avvik er rettet opp i">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5bcbe636-39e1-4be2-9111-f874d7625148.xml#5bcbe636-39e1-4be2-9111-f874d7625148"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_17bae2ca-bbdc-48dc-8f43-1607f767d585.xml#17bae2ca-bbdc-48dc-8f43-1607f767d585"/>
+</archimate:FlowRelationship>

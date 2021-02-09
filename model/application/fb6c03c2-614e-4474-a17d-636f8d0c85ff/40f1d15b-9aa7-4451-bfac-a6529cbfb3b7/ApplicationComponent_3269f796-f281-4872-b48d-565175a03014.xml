@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Office 2016"
+    id="3269f796-f281-4872-b48d-565175a03014"
+    documentation="2016 har vært tilgjengelig lokalt for alle medarbeidere siden 2018.&#xD;&#xA;Alle kontoene bortsett fra de som brukes i SAM er migrert over fra Office 2013 i desember 2018.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

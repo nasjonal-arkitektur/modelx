@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API for registerering"
+    id="0c38ff78-0da7-4a57-96bb-5489d58bc81f">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:ApplicationInterface>

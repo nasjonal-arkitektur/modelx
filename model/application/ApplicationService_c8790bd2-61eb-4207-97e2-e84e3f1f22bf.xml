@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forretning"
+    id="c8790bd2-61eb-4207-97e2-e84e3f1f22bf">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingsutveksling"
+    id="8209980d-9899-42ff-9752-c7396c0cea91"
+    documentation="Meldinger:&#xD;&#xA;- Fakturaunderlag til regnskap (PDF)&#xD;&#xA;- Meldinger til saksbehandlere med påminnelser og varsler&#xD;&#xA;- Kan også sende melding til eksterne - f.eks- en person knyttet til en søker.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_98b26528-1a59-4209-b864-be37fa3ab41e.xml#98b26528-1a59-4209-b864-be37fa3ab41e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2a2e3521-dcbd-4c57-87be-ba157dafc480.xml#2a2e3521-dcbd-4c57-87be-ba157dafc480"/>
+</archimate:FlowRelationship>

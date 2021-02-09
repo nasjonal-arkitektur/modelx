@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laste ned komplett søknad"
+    id="9fa7aeec-e442-4664-9795-e2b75b3dadad"
+    documentation="Arkivfunkjsonen laster ned søknader når de er sendt inn. Dette gjøres gjennom en daglig prosess.&#xD;&#xA;Dokumentasjon lastes ned fra Common Repository til Castor/SAN.&#xD;&#xA;Dokumentasjonen man mottar som underlag for søknadsbehandlingen vil alltid være på engelsk, og er likt for alle.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

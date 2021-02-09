@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Effekt / relativ effekt - kompetansenettverk"
+    id="f55078bb-d75f-41a8-85a8-7b6af162cfae"
+    documentation="Systematisk kompetansedeling innen prinsipper for vurdering av effekt og relativ effekt">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

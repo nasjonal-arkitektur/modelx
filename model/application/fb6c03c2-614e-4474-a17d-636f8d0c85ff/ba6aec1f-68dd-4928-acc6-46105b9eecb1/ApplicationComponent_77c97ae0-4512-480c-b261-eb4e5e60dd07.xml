@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSubmission Gateway"
+    id="77c97ae0-4512-480c-b261-eb4e5e60dd07"
+    documentation="E-submission gateway - felles innsendingsportal. Data som lastes opp i eSubmission Gatewysom lagres i Common Repository.&#xD;&#xA;&#xD;&#xA;Her sendes skjemaer knyttet til sentral prosedyre CS&#xD;&#xA;&#xD;&#xA;eSubmission Gateway and eSubmission Web Client&#xD;&#xA;The eSubmission Gateway and the eSubmission Gateway Web Client are electronic submission channels that allow the applicants to submit documents supporting all types of applications for human and veterinary medicines to the Agency securely over the internet in structured and non-structured formats. The web-based Gateway Web Client may be more suitable for small and medium-sized companies, however it is available for all applicants. The Gateway and the Web Client users will benefit from an automated confirmation of the technical validation feedback and an automated upload to the Agency’s eCTD review system. The use of the eSubmission Gateway and the Web Client is mandatory for all human and veterinary submissions. &#xD;&#xA;&#xD;&#xA;It is mandatory to use XML delivery files for submissions via the eSubmission Gateway and the Web Client.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

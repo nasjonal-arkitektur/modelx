@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REK-KUL - Regionale komiteer for medisinsk og helsefaglig forskningsetikk"
+    id="2b134b18-1133-4632-b78e-d85607270a33"
+    documentation="REK (også referet til som Regionale Etiske Komiteer) gjer ei vurdering av om forskinga blir driven forsvarleg. I dette ligg at ein veg nytte og risiko mot kvarandre og vurderer om personvernet er sikra. &#xA;KUL (Komite for Utprøving av Legemidler) er en underinndeling av REK&#xD;&#xA;&#xA;REK skal forhåndsgodkjenne&#xA;* Medisinske og helsefaglige forskningprosjekter (herunder klinisk utprøving)&#xA;* Generelle forskningsbiobanker&#xA;* Dispensasjon fra taushetsplikt for annen type forskning">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

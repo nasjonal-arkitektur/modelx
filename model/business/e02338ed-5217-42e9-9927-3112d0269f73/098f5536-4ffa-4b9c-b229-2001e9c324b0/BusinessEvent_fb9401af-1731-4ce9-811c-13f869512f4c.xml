@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn gjennomført"
+    id="fb9401af-1731-4ce9-811c-13f869512f4c"
+    documentation="Dersom det har vært observert avvik på et tilsynsobjekt, skal tilsynsobjektet sørge for å korrigere observerte avvik og rapportere til Legemiddelverket når korrektive tiltak er gjennomført.&#xD;&#xA;Når tilsynsobjektet er uten avviksobservasjoner (enten det ikke var observert noe eller observerte avvik er rapportert som korrigert) kan sertifikat for tilsynsobjektet utstedes.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

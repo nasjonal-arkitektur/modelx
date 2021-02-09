@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generisk bytte"
+    id="0a0ba128-ce9c-47d1-a64d-49cd81bf033b"
+    documentation="Legemiddelverket forvalter ordningen med generisk bytte og fastsetter hvilke legemidler som skal stå på byttelisten.&#xD;&#xA;&#xD;&#xA;E-postadresse: generiskbytte@legemidelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

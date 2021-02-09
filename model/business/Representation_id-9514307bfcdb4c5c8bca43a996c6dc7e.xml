@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi data - løsningsmønster UHF"
+    id="id-9514307bfcdb4c5c8bca43a996c6dc7e">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-78470cc39cee48f3862dc5ad287c3af6"/>
+  <properties
+      key="drill down"
+      value="id-78470cc39cee48f3862dc5ad287c3af6"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

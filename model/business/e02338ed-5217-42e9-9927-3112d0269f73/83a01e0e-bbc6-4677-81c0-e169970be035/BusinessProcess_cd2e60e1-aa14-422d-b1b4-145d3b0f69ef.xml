@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forhandlinger"
+    id="cd2e60e1-aa14-422d-b1b4-145d3b0f69ef"
+    documentation="Sykehusinnkjøp gjennomfører forhandlinger med Legemiddelprosuenten på bakgrunn av utsendt rapport.&#xD;&#xA;&#xD;&#xA;Ved framforhandlet pris, oppdatere SLV sin metodevurdering.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

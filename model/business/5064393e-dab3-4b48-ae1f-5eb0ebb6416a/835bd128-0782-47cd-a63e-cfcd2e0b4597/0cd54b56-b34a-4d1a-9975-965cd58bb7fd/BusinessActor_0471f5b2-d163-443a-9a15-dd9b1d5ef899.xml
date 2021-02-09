@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="U/IU og E/IE - korrekt bruk av styrke (lag)"
+    id="0471f5b2-d163-443a-9a15-dd9b1d5ef899"
+    documentation="Gjelder stort sett 19 insulinpreparater (men kan også berøre andre, f eks Klexane)">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,36 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selvbetjeningstjeneste for administrasjon av integrasjoner og APIer"
+    id="7e04dd29-d1b6-420b-96cb-d26eaf784083"
+    documentation="Tjeneste &quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Selvbetjeningstjeneste for administrasjon av integrasjoner og APIer"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

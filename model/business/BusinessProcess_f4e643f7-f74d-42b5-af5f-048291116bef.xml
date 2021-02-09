@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi utvalgte notifikasjoner "
+    id="f4e643f7-f74d-42b5-af5f-048291116bef"
+    documentation="Avgi utvalgte hendelser basert på parametere i forespørsel om notifikasjoner. ">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

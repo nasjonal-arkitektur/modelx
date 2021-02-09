@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Engine (360) -  KLUT (under bygging)"
+    id="c69bcede-7e76-470d-a41a-1148df7f0b73"
+    documentation="Klinisk Utprøving (KLUT) er en manuell arbeidsprosess som tidligere hadde fagdatabasen KLUT for håndtering av pre-marketing bivirkningsmeldinger og søknader. Pre-marketing bivirkningsmeldinger og søknadsdokumenter kan lastes ned fra EudraCT - EMAs web-site for preklinisk søknadshåndtering. All dataregistrering skjer via web i de skjemaene EMA har utarbeidet. Dette gjelder både eksterne (legemiddelfirmaer, leger, etc.) og interne (Legemiddelverkets saksbehandlere) aktører. Opprinnelig søknad og senere endringer, tillegg og avslutningsrapporter eksporteres til XML-filer via egen eksportfunksjon i web-skjemaene. Informasjon om mottatte søknader og korrespondanse knyttet til disse journalføres i P360.&#xD;&#xA;&#xD;&#xA;Fagdatabase for klinisk utprøvinger. Løsningen tar utgangspunkt i XML-filer som er eksportert fra EudraCT - EMEAs web-skjemaer for søknadshåndtering. All dataregistrering skjer via web i de skjemaene EMEA har utarbeidet. Dette gjelder både eksterne (legemiddelfirmaer, leger, etc.) og interne (Legemiddelverkets saksbehandlere) aktører. Opprinnelig søknad og senere endringer, tillegg og avslutningsrapporter eksporteres til XML-filer via egen eksportfunksjon i web-skjemaene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

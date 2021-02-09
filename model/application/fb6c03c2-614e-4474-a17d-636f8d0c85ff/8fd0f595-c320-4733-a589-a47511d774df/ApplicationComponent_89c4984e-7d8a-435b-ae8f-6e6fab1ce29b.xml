@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraNet (H+V)"
+    id="89c4984e-7d8a-435b-ae8f-6e6fab1ce29b"
+    documentation="The  European  Drug  Regulatory  Authorities  Network:  a  secure  communication  infrastructure linking European medicines regulatory authorities.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

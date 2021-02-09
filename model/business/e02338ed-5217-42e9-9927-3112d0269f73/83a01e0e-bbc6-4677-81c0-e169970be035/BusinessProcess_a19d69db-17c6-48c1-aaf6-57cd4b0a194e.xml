@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestille dokumentasjonspakke"
+    id="a19d69db-17c6-48c1-aaf6-57cd4b0a194e"
+    documentation="Nødvendig dokumentasjon bestilles fra legemiddelfirmaet som må sende over dette. &#xA;&#xA;Legemiddelverket kan også bistå med rådgiving til Legemiddelfirmaet underveis i prosessen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

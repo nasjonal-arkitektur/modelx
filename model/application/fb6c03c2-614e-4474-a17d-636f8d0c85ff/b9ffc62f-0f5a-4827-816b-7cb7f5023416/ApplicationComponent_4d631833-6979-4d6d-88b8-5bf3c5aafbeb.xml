@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impex - under utfasing"
+    id="4d631833-6979-4d6d-88b8-5bf3c5aafbeb"
+    documentation="Impex produserer import/eksport sertifikater for alle typer Narkotika som sendes og mottas til og fra Norge. Eget papirark med logo benyttes til å produsere narkotikasertifikatene. Logoarkene legges i papirskuffen på Gutenberg-skriverne hver gang sertifikatene skal skrives ut.&#xD;&#xA;&#xD;&#xA;Enkle summeringer og statistikkrapporter kan produseres i Impex.&#xD;&#xA;&#xD;&#xA;Impex er basert på Microsoft Access og databasen er flyttet over på Microsoft SQL server. Programfilen kjører ikke fra Citrix-serverne og er plassert på filområdet P:\Impeksp. Endringer i VBA-koden kan utføres direkte i programfilen. Det er laget to versjoner av programfilen (Impeksp2007 og Impex-Vigdis) for å gi brukerne mulighet til å jobbe samtidig med Impex samt tilpasse skjermbilder etter ønske fra brukerne. Endringer må derfor gjøres i begge programfiler når det er aktuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

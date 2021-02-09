@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende utredningsrapport til MT-søker og CMS"
+    id="e81c9df7-3486-4224-a33d-5d3a10866ced"
+    documentation="Dag70-rapporten sendes ut til MT-søker og alle Concerned Member States (CMS) for gjennomsyn, kommentering og spørsmål.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

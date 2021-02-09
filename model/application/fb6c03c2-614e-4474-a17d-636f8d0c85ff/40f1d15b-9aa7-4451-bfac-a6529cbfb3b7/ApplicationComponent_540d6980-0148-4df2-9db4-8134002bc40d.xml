@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ordnett.no"
+    id="540d6980-0148-4df2-9db4-8134002bc40d"
+    documentation="Ordnett er en integrert oppslagstjeneste i Office som er basert på Kunnskapsforlagets blå ordbøker. På Ordnett har du tilgang til over 30 forskjellige ordbøker på sju språk. Tjenesten finnes både som online-tjeneste og som nedlastbart program til bruk uten Internett.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

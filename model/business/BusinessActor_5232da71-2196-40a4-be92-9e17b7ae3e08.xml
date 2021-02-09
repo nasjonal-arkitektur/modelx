@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virksomhet"
+    id="5232da71-2196-40a4-be92-9e17b7ae3e08">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessActor>

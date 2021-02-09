@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgå og kommentere utredningsrapport"
+    id="310f49ea-4b9f-41d9-822e-2015b2c10249"
+    documentation="Ansvarlige for gjennomgang av de ulike delene av rapporten gjennomgår sine respektive deler. Kommentarer og spørsmål legges inn i felles dokument.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

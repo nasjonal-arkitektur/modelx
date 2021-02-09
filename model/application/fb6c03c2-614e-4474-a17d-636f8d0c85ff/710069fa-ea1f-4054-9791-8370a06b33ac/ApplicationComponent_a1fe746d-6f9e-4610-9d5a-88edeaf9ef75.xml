@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SiftWeb"
+    id="a1fe746d-6f9e-4610-9d5a-88edeaf9ef75"
+    documentation="SiftWeb er en samling med 7 gamle databaser fra et meget gammelt system SIFT. SIFT var hovedsystemet for Legemiddelverket fra 1987 til nærmere slutten av 90-tallet. Se teknisk beskrivelse for detaljene. Ene databasen Klassifisering brukes fortsatt av Tilsyn til å klassifisere kosttilskudd og diverse naturpreparater som grenser opp mot legemidler. Flere av dem er klassifisert som legemidler og ulovlig å selge i Norge.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

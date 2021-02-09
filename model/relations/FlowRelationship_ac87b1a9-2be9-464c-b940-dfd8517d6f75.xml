@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apotekinformasjon"
+    id="ac87b1a9-2be9-464c-b940-dfd8517d6f75"
+    documentation="Apotekregisteret henter data i SAM-T database med:&#xD;&#xA;- Apoteknavn&#xD;&#xA;- Org.nr.&#xD;&#xA;- Gyldig tilgang til eresept&#xD;&#xA;- Sist uttrekksdato &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7eb14593-53ba-480d-b25c-3e21b9feb082.xml#7eb14593-53ba-480d-b25c-3e21b9feb082"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0c7e94f0-96c6-437b-8e13-54c7a8a6dd68.xml#0c7e94f0-96c6-437b-8e13-54c7a8a6dd68"/>
+</archimate:FlowRelationship>

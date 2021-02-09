@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage plan for årets tilsyn"
+    id="ee87ccb7-23ef-46b1-8bbb-9309fb7f6235"
+    documentation="Med bakgrunn i utvalget av tilsynsobjekter man har valgt ut for tilsyn, lages det en plan for gjennomføring av  tilsynene. Dette lages i Excel, og lagres på X.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

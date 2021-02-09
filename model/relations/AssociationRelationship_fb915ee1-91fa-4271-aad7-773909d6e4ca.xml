@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leverer"
+    id="fb915ee1-91fa-4271-aad7-773909d6e4ca"
+    directed="true">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d9547625-2c65-494b-b1d3-d37fc9fb5a3a.xml#d9547625-2c65-494b-b1d3-d37fc9fb5a3a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_c8b305d3-b357-447c-be5c-47bbc58313b1.xml#c8b305d3-b357-447c-be5c-47bbc58313b1"/>
+</archimate:AssociationRelationship>

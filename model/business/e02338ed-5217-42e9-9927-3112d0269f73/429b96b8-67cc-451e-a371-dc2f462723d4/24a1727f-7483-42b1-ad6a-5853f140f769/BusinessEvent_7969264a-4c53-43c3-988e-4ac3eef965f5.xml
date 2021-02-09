@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sak avsluttet"
+    id="7969264a-4c53-43c3-988e-4ac3eef965f5"
+    documentation="Dersom opinion er negativ og søker ikke har søkt reeksaminering, eller at reeksamineringen har resultert i negativ opinion, avsluttes saken. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

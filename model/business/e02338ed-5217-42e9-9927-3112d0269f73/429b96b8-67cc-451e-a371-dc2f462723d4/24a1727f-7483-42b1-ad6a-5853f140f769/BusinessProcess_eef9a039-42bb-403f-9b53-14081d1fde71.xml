@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsending av Produktinformasjon til QRD"
+    id="eef9a039-42bb-403f-9b53-14081d1fde71"
+    documentation="CP Human: Innsending av Produktinformasjon til QRD (dag 0-27)&#xD;&#xA;Innsending av produktinformasjon på både norsk og engelsk har to ulike frister: dag+5 og dag+27.&#xD;&#xA;Dersom det ikke er mottatt noen produktinformasjon når MT-søknad mottar positiv opinion, sendes det ut forespørsel til MT-søker om innsending av dokumentasjon (dag+5 produtkinformasjon).&#xD;&#xA;Dersom norsk oversetting ikke er klar eller det er behov for oppdateringer, har MT-søker frist til dag+27 med å sende inn dette. Det sendes ut et eget varsel om dette.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

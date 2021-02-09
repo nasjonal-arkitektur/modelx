@@ -1,0 +1,31 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Difi"
+    id="5014aab8-052e-4240-be95-3de97f481868"
+    documentation="Direktoratet for forvaltning og IKT (Difi) er det sentrale fagorganet for modernisering og omstilling av offentlig sektor. Difis fagområder er organisering, ledelse og arbeidsgiverstøtte, innovasjon, anskaffelser og digitalisering i offentlig sektor. For en nærmere omtale av Difis virkeområder og faste oppgaver, se virksomhets- og økonomiinstruksen.&#xD;&#xA;&#xD;&#xA;Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt.&#xD;&#xA;&#xD;&#xA;Statlige virksomheter er målgruppen for alle fagområdene til direktoratet. I tillegg er kommunene målgruppe for blant annet offentlige innkjøp, innovasjon og digitalisering.&#xD;&#xA;&#xD;&#xA;Difi skal være en faglig premissgiver, pådriver og støttespiller for den nødvendige omstillingen og innovasjonen i offentlig sektor gjennom å bruke ulike virkemidler, blant annet finansieringsordninger, digitalisering, ledelses- og kompetanseutviklingstiltak, anskaffelser og rådgivning på alle Difis fagområder.&#xD;&#xA;&#xD;&#xA;Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer. &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Difi"/>
+  <properties
+      key="difi:description_no"
+      value="Direktoratet for forvaltning og IKT (Difi) er det sentrale fagorganet for modernisering og omstilling av offentlig sektor. Difis fagområder er organisering, ledelse og arbeidsgiverstøtte, innovasjon, anskaffelser og digitalisering i offentlig sektor. For en nærmere omtale av Difis virkeområder og faste oppgaver, se virksomhets- og økonomiinstruksen.&#xD;&#xA;&#xD;&#xA;Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt.&#xD;&#xA;&#xD;&#xA;Statlige virksomheter er målgruppen for alle fagområdene til direktoratet. I tillegg er kommunene målgruppe for blant annet offentlige innkjøp, innovasjon og digitalisering.&#xD;&#xA;&#xD;&#xA;Difi skal være en faglig premissgiver, pådriver og støttespiller for den nødvendige omstillingen og innovasjonen i offentlig sektor gjennom å bruke ulike virkemidler, blant annet finansieringsordninger, digitalisering, ledelses- og kompetanseutviklingstiltak, anskaffelser og rådgivning på alle Difis fagområder.&#xD;&#xA;&#xD;&#xA;Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer. &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+</archimate:BusinessActor>

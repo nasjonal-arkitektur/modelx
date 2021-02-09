@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fiks smittesporing"
+    id="ea4f6f2a-9be9-4fee-a960-4b489e27582b"
+    documentation="DHIS2 for covid-19">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

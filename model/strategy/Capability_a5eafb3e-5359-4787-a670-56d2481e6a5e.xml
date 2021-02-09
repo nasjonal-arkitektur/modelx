@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veg og vegregulering"
+    id="a5eafb3e-5359-4787-a670-56d2481e6a5e">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="0"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

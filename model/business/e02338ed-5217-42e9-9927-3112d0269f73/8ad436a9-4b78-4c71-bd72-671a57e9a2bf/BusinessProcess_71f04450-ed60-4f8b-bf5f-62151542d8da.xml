@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levere bestilte preparater og utstyr"
+    id="71f04450-ed60-4f8b-bf5f-62151542d8da"
+    documentation="Legemiddelgrossist leverer de preparatene som skal testes - dette må skje innen 8 uker etter mottak av bestilling.&#xD;&#xA;Varer leveres enten av legemiddelgrossist, eller hentes på apotek.&#xD;&#xA;Utstyr og kjemikalier til bruk i analysen anskaffes fra egne utstyrsleverandører.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

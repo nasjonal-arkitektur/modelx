@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for IT og kvalitetsstyring"
+    id="d78314a5-68f9-4827-992a-ecb409e2172b"
+    documentation="Ansvarsområder:&#xD;&#xA;* IT-leiing og IT-forvalting&#xD;&#xA;* Kvalitetsstyring, interne revisjonar og system for informasjonssikkerheit.">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

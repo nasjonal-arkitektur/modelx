@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing Meeting Documents system (MMD)"
+    id="3f879ce8-f3a9-464f-8f93-c8218b587ef6"
+    documentation="Database som inneholder dokumenter som brukes på EMAs møter">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodiske rapporter"
+    id="01443bdd-aac6-43d3-93b0-e53825f5153a"
+    documentation="Framstilling av faste raporter knyttet til bivirkninger på det som er fokusområde i den aktuelle perioden. For tiden er det HPV-vaksine som er i fokus.&#xD;&#xA;Frekvens for utsending av rapport er hver 3. måned (kvartalsvis).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

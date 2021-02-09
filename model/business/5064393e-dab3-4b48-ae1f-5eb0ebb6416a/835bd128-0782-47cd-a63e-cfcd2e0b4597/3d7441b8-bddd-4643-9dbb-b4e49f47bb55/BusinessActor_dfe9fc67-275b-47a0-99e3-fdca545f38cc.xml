@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisering og narkotikakontroll  (lag)"
+    id="dfe9fc67-275b-47a0-99e3-fdca545f38cc"
+    documentation="Oppgaver:&#xD;&#xA;* Motta søknader angående klassifisering&#xD;&#xA;* Utføre klassifisering av legemidler, dopingmidler og narkotika (humane og veterinære legemidler)&#xD;&#xA;* Revidere forskrifter (narkotika-, dopinglister)(Håndtere tilsvar fra importør&#xD;&#xA;* Gi/avslå tillatelse til import)&#xD;&#xA;* Regelverksfortolkning&#xD;&#xA;* Regelverksutvikling&#xD;&#xA;* Delta i nasjon og internasjonale fora &#xD;&#xA;* Narkotika regnskap (kvartal og år) &#xD;&#xA;* Administerer forvaltning av prekursorer (inklusivt utstede av tillatelser)&#xD;&#xA;* Utstede narkotika sertifikat (import og eksport)&#xD;&#xA;* Besvare henvendelser vedrørende alt nevnt over&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

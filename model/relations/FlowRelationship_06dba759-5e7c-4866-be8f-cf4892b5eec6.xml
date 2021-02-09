@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Papirskjema"
+    id="06dba759-5e7c-4866-be8f-cf4892b5eec6">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e52ae80b-713a-4537-91f8-2104208562cd.xml#e52ae80b-713a-4537-91f8-2104208562cd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4dd2c375-ff64-4ca5-bd04-37599ff41201.xml#4dd2c375-ff64-4ca5-bd04-37599ff41201"/>
+</archimate:FlowRelationship>

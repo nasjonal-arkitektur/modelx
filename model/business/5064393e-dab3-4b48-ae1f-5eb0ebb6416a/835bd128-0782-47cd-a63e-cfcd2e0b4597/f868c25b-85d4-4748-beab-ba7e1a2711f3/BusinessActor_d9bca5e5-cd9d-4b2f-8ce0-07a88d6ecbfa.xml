@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pasientinformasjon (lag)"
+    id="d9bca5e5-cd9d-4b2f-8ce0-07a88d6ecbfa"
+    documentation="Midlertidig, tverrfaglig lag som skal ta videre oppdrag i tildelingsbrevet ad pasientinformasjon: Legemiddelinformasjon til pasient ">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

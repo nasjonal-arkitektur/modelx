@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undersøke om det påstås at produkt har en fysiologisk effekt"
+    id="848b232d-b1db-4665-bb57-0c5460d60367">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

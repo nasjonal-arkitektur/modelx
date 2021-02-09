@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metodevarsling"
+    id="1b775bca-23af-47e8-903c-2342f1b100f8"
+    documentation="Alle nye legemidler og ny bruk av eksisterende legemidler må metodevarsles. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

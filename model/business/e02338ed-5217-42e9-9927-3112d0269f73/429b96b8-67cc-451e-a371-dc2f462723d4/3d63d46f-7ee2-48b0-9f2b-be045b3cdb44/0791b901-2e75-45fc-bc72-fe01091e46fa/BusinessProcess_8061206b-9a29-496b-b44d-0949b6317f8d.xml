@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og sirkulere kommentarer og spm til dag180-raporten (dag 180-195)"
+    id="8061206b-9a29-496b-b44d-0949b6317f8d"
+    documentation="RMS har ansvar for å påse at alle utsendinger mht rapporter, kommentarer og spørsmål er distribuert til alle.&#xD;&#xA;Det registreres også i CTS at man har kommentarer /spørsmål.&#xD;&#xA;Dersom man ikke registrerer at man har kommentarer / spørsmål i CTS innen frist, ansees det som at man ikke har noen innvendinger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

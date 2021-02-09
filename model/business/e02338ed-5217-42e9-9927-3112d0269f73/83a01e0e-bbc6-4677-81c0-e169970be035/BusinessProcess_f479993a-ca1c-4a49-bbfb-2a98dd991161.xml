@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingen vurdering - avvente videre behandling"
+    id="f479993a-ca1c-4a49-bbfb-2a98dd991161"
+    documentation="Et mulig utkomme av nivåvurdeirng kan være at man velger å ikke saksbehandle de kommentarere og vurderinger som er gjort. Saken blir framdeles stående som aktiv, og gjenopptas når man kommer til Opinion.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

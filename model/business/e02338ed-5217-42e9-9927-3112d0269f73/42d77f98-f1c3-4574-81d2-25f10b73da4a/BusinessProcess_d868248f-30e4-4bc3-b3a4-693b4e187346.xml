@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad om klinisk utprøving"
+    id="d868248f-30e4-4bc3-b3a4-693b4e187346"
+    documentation="Klinisk utprøving (forskning). &#xA;​Legemiddelverket skal vurdere kliniske utprøvinger  av legemidler til mennesker der hensikten er å undersøke eller etterprøve kunnskap om legemidlenes effekter eller påvirkning av fysiologisk funksjon, interaksjoner, bivirkninger, opptak, fordeling, metabolisme og utskillelse og terapeutiske verdi">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

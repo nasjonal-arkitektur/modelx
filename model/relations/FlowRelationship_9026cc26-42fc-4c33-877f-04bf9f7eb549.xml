@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningsmeldinger (E2B R3)"
+    id="9026cc26-42fc-4c33-877f-04bf9f7eb549">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_70cfe3ef-69c3-4ba1-907b-bb8ee46143fb.xml#70cfe3ef-69c3-4ba1-907b-bb8ee46143fb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ce55f2af-98ff-4612-befa-76440410f1e8.xml#ce55f2af-98ff-4612-befa-76440410f1e8"/>
+</archimate:FlowRelationship>

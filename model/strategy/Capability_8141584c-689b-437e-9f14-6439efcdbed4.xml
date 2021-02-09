@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Næringsutvikling"
+    id="8141584c-689b-437e-9f14-6439efcdbed4">
+  <properties
+      key="Nivå"
+      value="2"/>
+  <properties
+      key="Kilde"
+      value="Los"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Capability>

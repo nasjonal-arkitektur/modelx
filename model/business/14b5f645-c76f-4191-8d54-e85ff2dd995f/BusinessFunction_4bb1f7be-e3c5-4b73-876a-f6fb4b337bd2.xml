@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspeksjon av forsyningskjeden"
+    id="4bb1f7be-e3c5-4b73-876a-f6fb4b337bd2"
+    documentation="Legemiddelverket fører tilsyn med produsenter, importører, grossister, apotek, blodbanker, kliniske utprøvinger og system for bivirkningsovervåking.&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HelseCIM - Avvikshåndtering"
+    id="1a44d5a3-9287-45ee-979f-388afbb635fa"
+    documentation="CIM er et beredskapsverktøy for å håndtere kriser og katastrofer. CIM benyttes i dag i en rekke bransjer og sektorer som er spesielt utsatt og er sentral i nasjonal beredskap mot kritiske samfunnsfunksjoner som energiforsyning, drivstoff, elektronisk kommunikasjon, fremkommelighet, helse og omsorg, nød- og redningstjeneste og ikke minst kommuners evne til krisehåndtering og ledelse. Det er One Voice som leverer programvareløsningen.&#xD;&#xA;&#xD;&#xA;Løsningen brukes kun av FEST ved legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

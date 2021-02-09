@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innbygger"
+    id="e8e58c50-c08e-4946-b361-6c8a45d7124c">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

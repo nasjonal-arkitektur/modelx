@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Farmalogg-uttrekket"
+    id="5377a5b9-50b2-4a93-9b94-c77ec23ece62"
+    documentation="Farmalogg henter en egen filtrering av XML-fila laget for Farmalogg">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_16452fe7-aeaa-418f-be1f-10286d35f35c.xml#16452fe7-aeaa-418f-be1f-10286d35f35c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_957af465-0f66-46bd-8425-88a34d16f65a.xml#957af465-0f66-46bd-8425-88a34d16f65a"/>
+</archimate:FlowRelationship>

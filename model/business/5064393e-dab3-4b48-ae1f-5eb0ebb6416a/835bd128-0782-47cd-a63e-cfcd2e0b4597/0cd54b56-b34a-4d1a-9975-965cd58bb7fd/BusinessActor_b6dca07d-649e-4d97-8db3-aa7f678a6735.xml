@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reseptstatus (lag)"
+    id="b6dca07d-649e-4d97-8db3-aa7f678a6735"
+    documentation="Søknader av om reseptstatus inkludert OTC, oppfølging av virkestoffrapporter og risikominimeringstiltak i apotek">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

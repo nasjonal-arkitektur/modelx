@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta kommentarer til tilsvaret"
+    id="9b35f5bc-155c-407b-a85d-ddc7a03f4a75"
+    documentation="På samme måte som tidligere i prosessen, sender alle CMS også sine kommentarer til siste tilsvar fra MT-søker, i tillegg til sine instillinger mht konklusjon for søknaden (positiv/negativ).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

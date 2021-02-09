@@ -1,0 +1,31 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="950dd62e-cdc9-48f5-84ac-784baf78882a">
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_78803dd1-f818-438d-a913-db5570608a99.xml#78803dd1-f818-438d-a913-db5570608a99"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_991487a6-2e63-4a25-80d6-2077e9e2a3f5.xml#991487a6-2e63-4a25-80d6-2077e9e2a3f5"/>
+</archimate:ServingRelationship>

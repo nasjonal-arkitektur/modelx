@@ -1,0 +1,38 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logge dataaksess"
+    id="f93c0051-8c61-4d8e-bf9d-edbb1b3cfd2d"
+    documentation="Evne til å logge transaksjoner og hendelser i tilknytning til forespørsler, forsendelser, utlevering mv. av data.">
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Logge dataaksess"/>
+  <properties
+      key="difi:name_en"
+      value="Logge dataaksess"/>
+  <properties
+      key="difi:description_no"
+      value="Evne til å logge transaksjoner og hendelser i tilknytning til forespørsler, forsendelser, utlevering mv. av data."/>
+  <properties
+      key="difi:description_en"
+      value="Evne til å logge transaksjoner og hendelser i tilknytning til forespørsler, forsendelser, utlevering mv. av data."/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

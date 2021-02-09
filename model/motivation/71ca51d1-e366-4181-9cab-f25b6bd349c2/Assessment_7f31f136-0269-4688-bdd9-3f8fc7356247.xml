@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Å sende meldingen til EUDRAVIGILANCE er en manuell prosess"
+    id="7f31f136-0269-4688-bdd9-3f8fc7356247"
+    documentation="Prosessen med å sende nyregistrerte og/eller oppdaterte bivirkningsmeldinger til EUDRAVIGILANCE for synkronisering igangsettes og følges opp manuelt.&#xD;&#xA;Dette er en daglig oppgave.&#xD;&#xA;Dette gjøres i Viginor. Under panseret er det Axway som håndterer overføringen.&#xD;&#xA;Feilmeldinger i Axway håndteres manuelt - daglig rutine.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

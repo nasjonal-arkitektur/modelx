@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProcessEnvelopes"
+    id="9592f8b9-f5d6-4eaf-991c-4c33b973e7da"
+    documentation="ProcessEnvelopes tar fatt i saker i status init - setter riktig sakstittel på dem og klargjør i p360, før den initierer K2-prosessen for saksbehandling.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

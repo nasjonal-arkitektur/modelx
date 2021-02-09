@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="En Vei Inn kommer fra 1. juli 2019 (men med fortsatt manuell registrering i P360)"
+    id="bae75b4b-3226-4b64-bb3b-5425cd72f52a"
+    documentation="Den eksisterende WuFoo-løsningen blir fra 1. juli erstattet med en løsning basert på En Vei Inn.&#xD;&#xA;Foreløpig skaper ikke dette noen endring - skjemaer vil fremdeles mottas på ePost til funksjonell postkasse, og måtte registreres manuelt i P360.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

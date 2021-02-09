@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komplett notifikasjon, tilbyders domene"
+    id="d9db40fa-6e13-4bd0-b701-16694bc7afb5"
+    documentation="Notifikasjon som inneholder eller lenker til et fullstendig sett av hendelsesrelaterte data.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

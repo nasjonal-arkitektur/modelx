@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patent utgår"
+    id="c9285e58-0a5f-42ca-b451-b641c130bac2"
+    documentation="Patent utgår etter 20 år">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjensidig annerkjennelsesprosedyre (MRP)"
+    id="cb5f39c1-5c46-4c6c-90fa-de458f1c9e0a"
+    documentation="Etter at et legemiddel har fått markedsføringstillatelse (MT) hos et eller flere land gjennom desentralisert (DCP) eller Nasjonal (NP) prosedyre, kan legemiddelfirmaet søke om MT i andre land. Denne søknaden tar utgangspunkt i den opprinnelige MT-søknaden, men det vil være de nye landene som settes i rollene som MS og RMS.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

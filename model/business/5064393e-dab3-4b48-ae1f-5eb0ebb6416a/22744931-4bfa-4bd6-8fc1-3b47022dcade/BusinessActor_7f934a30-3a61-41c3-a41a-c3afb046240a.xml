@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for legemiddeltilgang 4"
+    id="7f934a30-3a61-41c3-a41a-c3afb046240a"
+    documentation="Området har fem eningar som deltar i utgreiingar på følgjande område:&#xD;&#xA;* Gi vitskapleg rådgiving til firma og akademia&#xD;&#xA;* Vurdere søknader om klinisk utprøving&#xD;&#xA;* Vurdere søknader om marknadsføringsløyve og indikasjonsutvidingar&#xD;&#xA;* Gjennomføre metodevurderingar og vurdere søknader om førehandsgodkjent refusjon&#xD;&#xA;* Representere Norge i EMAs vitskaplege komitear&#xD;&#xA;* Desse einingane er heterogene, det vil seie at arbeidsoppgåvene og kompetansen går på tvers av einingane.&#xD;&#xA;* Metodevarsling">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

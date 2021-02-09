@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Klagesak - tilbakekalling av medisinutsalg  (lag)"
+    id="c99f68ef-bfec-49e3-aebf-ca3d6f6f64ae"
+    documentation="360: 17/13689&#xD;&#xA;Klage vedrørende tilbakekalling av medisinutsalg">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partneradministrasjon"
+    id="dd18ac88-668a-4957-bd06-0daeab076148"
+    documentation="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Partneradministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Partner Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, engage and collaborate with, control, predict, process, organize, present, and analyze all information, documents, preferences, experiences, and history related to an individual or other legal entity that has, plans to have, or has had a legally binding agreement or other established relationship with an organization, with the intent to exchange monetary and/or non-monetary value in the provisioning of assets, delivery of services, or other means of providing support or assistance in the course of conducting private or governmental business."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

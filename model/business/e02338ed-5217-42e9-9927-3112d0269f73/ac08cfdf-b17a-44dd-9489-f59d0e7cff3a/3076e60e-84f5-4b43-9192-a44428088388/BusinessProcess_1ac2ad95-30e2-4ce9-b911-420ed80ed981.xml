@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signaldeteksjon"
+    id="1ac2ad95-30e2-4ce9-b911-420ed80ed981"
+    documentation="Signaldeteksjon trigges av flere typer hendelser:&#xD;&#xA;- Innkomne meldinger til VigiNor&#xD;&#xA;- Kontakt fra lege eller annet helsepersonell&#xD;&#xA;- Mediesaker&#xD;&#xA;&#xD;&#xA;Signaldeteksjon inkluderer en lang sjekkliste med forhold som skal sjekkes for å avgjøre om det er et bivirkningssignal eller ikke&#xD;&#xA;Dette kan foregå i mange paralelle prosesser.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

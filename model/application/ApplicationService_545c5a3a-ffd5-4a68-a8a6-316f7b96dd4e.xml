@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyders filtrerings- og minimeringstjeneste"
+    id="545c5a3a-ffd5-4a68-a8a6-316f7b96dd4e"
+    documentation="Tjeneste for å filtrere og minimere informasjon ut fra parametere i forespørselen og hvilken informasjon konsumenten har rettigheter til.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

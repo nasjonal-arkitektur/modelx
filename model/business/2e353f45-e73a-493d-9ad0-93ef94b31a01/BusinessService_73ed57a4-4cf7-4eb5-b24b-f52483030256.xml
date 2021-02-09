@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunal journal  - Helse og omsorgstjenester"
+    id="73ed57a4-4cf7-4eb5-b24b-f52483030256">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

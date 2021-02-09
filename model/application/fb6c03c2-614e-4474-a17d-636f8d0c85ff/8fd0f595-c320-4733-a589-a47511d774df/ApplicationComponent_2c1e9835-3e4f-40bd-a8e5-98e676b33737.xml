@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Medical Dictionary for Regulatory Activities (MedDRA)"
+    id="2c1e9835-3e4f-40bd-a8e5-98e676b33737"
+    documentation="ICH MedDRA ( Medical Dictionary for Regulatory Activities) -systemet inneholder oversikt over diagnoser/medisinske fagtermer, og brukes bl.a. i forbindelse med strukturering og kodifisering av bivirkningsmeldinger.&#xD;&#xA;&#xD;&#xA;In developing and continuously maintaining MedDRA, ICH endeavours to provide a single standardised international medical terminology which can be used for regulatory communication and evaluation of data pertaining to medicinal products for human use. As a result, MedDRA is designed for use in the registration, documentation and safety monitoring of medicinal products through all phases of the development cycle (i.e., from clinical trials to post-marketing surveillance). Furthermore, MedDRA supports ICH electronic communication within the ICH’s Electronic Common Technical Document (eCTD) and the E2B Individual Case Safety Report.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

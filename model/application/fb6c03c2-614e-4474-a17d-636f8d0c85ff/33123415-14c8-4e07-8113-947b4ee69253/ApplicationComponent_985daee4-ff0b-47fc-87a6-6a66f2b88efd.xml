@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FarmaPro"
+    id="985daee4-ff0b-47fc-87a6-6a66f2b88efd"
+    documentation="Farmapro er hovedsystemet for alle apotek i Norge og benyttes for håndtering av legemidler og resepter. I nyeste utgaven 5.0 er det også lagt opp for mottak av eResept. Legemiddelverket benytter systemet til å sende ut epost til apotekene.&#xD;&#xA;&#xD;&#xA;Apotekenes logistikkstyringssytem som brukes for ekspedering av resepter. Brukes for opplæring internt og for å se hvordan FEST-data presenteres i apotekene.&#xD;&#xA;&#xD;&#xA;FarmaPro er et komplett logistikkstyringssystem for distribusjon, utlevering og salg av legemidler og andre apotekvarer.&#xD;&#xA;&#xD;&#xA;Logistikkstyringssystem har integrasjoner mot mange av kundenes egne systemer og mot ulike myndighetssystemer. FarmaPro er en del av e-resept-kjeden.&#xD;&#xA;&#xD;&#xA;Programmet innholder funksjonalitet som sikre en god faglig håndtering av resepter og oppgjør med Helfo i tillegg til at systemet håndterer kontantsalg og kredittsalg kunder, varebestilling og mottak, registrering av innbetalinger, rapportering av data til offentlige myndigheter og eiere, sentral administrasjon, styring og rapportering.&#xD;&#xA;&#xD;&#xA;Apotekenes logistikkstyringssystem som brukes for ekspedering av resepter. Brukes for opplæring internt og for å se hvordan FEST-data presenteres i apotekene. &#xD;&#xA;&#xD;&#xA;FarmaPro er et komplett logistikkstyringssystem for distribusjon, utlevering og salg av legemidler og andre apotekvarer. &#xD;&#xA;&#xD;&#xA;FarmaPro har integrasjoner mot mange av kundenes egne systemer og mot ulike myndighetssystemer. FarmaPro er en del av eresept-kjeden. &#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

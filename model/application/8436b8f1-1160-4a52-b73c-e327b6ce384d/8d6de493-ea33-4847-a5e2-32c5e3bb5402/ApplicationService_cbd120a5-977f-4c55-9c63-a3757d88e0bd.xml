@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NOMVEC"
+    id="cbd120a5-977f-4c55-9c63-a3757d88e0bd"
+    documentation="The Norwegian Medicines Verification Company, abbreviated NOMVEC, is a non-profit operating company that is set up by the pharmaceutical industry in Norway to develop and implement an e-verification database for pharmaceutical products in Norway.&#xD;&#xA;&#xD;&#xA;Nomvec is responsible for acquiring the system, connecting it to the European HUB for upload of data, testing the connection to the HUB and to the end-users, and administering payments from MAHs.&#xD;&#xA;&#xD;&#xA;Nomvec will offer all wholesalers and pharmacies who are legally obliged to verify the unique identifier access to the verification system. End-users who need access must contact Nomvec to apply for a user ID and credentials. The basis for all end-user connection is either a current and valid GDP certificate/wholesaler licence or a current and valid pharmacy licence.&#xD;&#xA;&#xD;&#xA;The organisation NoMVO is the body responsible for implementing the system across all users (see: About NoMVO), and the Norwegian Ministry of Health is responsible for implementing the Delegated Regulation in Norway">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

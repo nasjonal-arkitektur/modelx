@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maskinporten"
+    id="d242a840-0fa2-4f8d-997c-2298194f1c4a"
+    documentation="Maskinporten sørger for sikker autentisering og tilgangskontroll for datautveksling mellom&#xD;&#xA;virksomheter, maskin til maskin. Dette gir teknisk og organisatorisk samhandlingsevne.&#xD;&#xA;&#xD;&#xA;Mer om Maskinporten:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/maskinporten/869">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:name_no"
+      value="Maskinporten"/>
+  <properties
+      key="difi:description_no"
+      value="Fellesløsning for API-sikring ved bruk av OAUTH2-tokens."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationComponent>

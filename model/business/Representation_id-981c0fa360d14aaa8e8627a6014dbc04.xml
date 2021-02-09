@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues mot nasjonale felleskompontenter (Maskinporten, ID Porten og Altinn autorisasjon)"
+    id="id-981c0fa360d14aaa8e8627a6014dbc04"
+    documentation="[arabic]&#xD;&#xA;. Harmonisering av autorisasjon&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Det er ønskelig at UHF autorisasjonstjener og Maskinporten godkjenner&#xD;&#xA;hverandres tokens. Dette forutsetter at informasjonsmodellen benyttet i&#xD;&#xA;tokens er felles. Løsningsvarianter:&#xD;&#xA;[lowerroman]&#xD;&#xA;... Klienter forholder seg til flere autentiseringstjenere og&#xD;&#xA;standardisere token struktur&#xD;&#xA;... Innbytte av tokens (token exchange) fra andre “trusted”&#xD;&#xA;autorisasjonstjenere. En konsekvens av dette er at man mister (?)&#xD;&#xA;koblingen til bruker og dermed kjennskap til autentiseringsstyrken som&#xD;&#xA;ligger bak.&#xD;&#xA;... Software Statement Assertion&#xD;&#xA;(https://tools.ietf.org/html/draft-ietf-oauth-assertions-18) – løsning&#xD;&#xA;benyttet av Open Banking UK&#xD;&#xA;. Harmonisering av samtykke&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Altinn autorisasjon benytter «Self-contained OAuth2 token» for&#xD;&#xA;samtykke. Men da vi ikke kan godkjenne tokens på tvers, har vi&#xD;&#xA;utfordringer med å benytte Altinn autorisasjon direkte. I hvert fall&#xD;&#xA;dekker det ikke skopes vi har anvar for i UHF autorisasjonstjeneren&#xD;&#xA;.. Hjelper User Managed Access (UMA) her?&#xD;&#xA;. Delegering av rettigheter (fullmakt??): Altinn har per i dag ingen god&#xD;&#xA;mekanisme for å delegere rettigheter under organisasjonsgranulariteten i&#xD;&#xA;Enhetsregisteret. Vi tror ikke dette er et problem siden vi *forventer&#xD;&#xA;at IGA innenfor UHF sektoren vil dekke våre behov.*">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-issues"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

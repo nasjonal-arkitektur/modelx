@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdering av søknad om klinisk utprøving av legemidler"
+    id="707275cd-a491-4412-ae74-ed50ad0da97c"
+    documentation="Beslutninger knyttet til behandling av søknader om klinisk utprøving. Før et legemiddelfirma/akademia kan gjennomføre klinisk utprøving/studier må søknaden godkjennes av både Legemiddelverket og Regionale Komiteer for medisinsk og helsefaglig forskningsetikk (REK)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

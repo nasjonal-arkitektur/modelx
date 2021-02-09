@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internkommunikasjon (lag)"
+    id="ffc3e8b6-d97f-4ef0-a2a3-4348278ef024"
+    documentation="Kommunikasjonsstrategier og planer, vedlikehold kanaler for internkommunikasjon, møtevirksomhet mm.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

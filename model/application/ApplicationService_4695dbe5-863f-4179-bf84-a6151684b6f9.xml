@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiBarnevern Innbygger-tjenester"
+    id="4695dbe5-863f-4179-bf84-a6151684b6f9">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

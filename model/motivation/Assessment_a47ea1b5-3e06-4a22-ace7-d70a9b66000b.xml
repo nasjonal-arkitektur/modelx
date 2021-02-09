@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell registrering i EUDAMED"
+    id="a47ea1b5-3e06-4a22-ace7-d70a9b66000b"
+    documentation="Det er ingen integrasj med EUDAMED, slik at eventuelle registeringer må gjøres manuelt. Det er forelæpig ikke funksjonalitet for registrere sviktmeldinger / vigilace i EUDAMED.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

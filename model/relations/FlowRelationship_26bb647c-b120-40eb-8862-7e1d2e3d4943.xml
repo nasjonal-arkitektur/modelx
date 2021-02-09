@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingen avvik"
+    id="26bb647c-b120-40eb-8862-7e1d2e3d4943">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_fb9401af-1731-4ce9-811c-13f869512f4c.xml#fb9401af-1731-4ce9-811c-13f869512f4c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f408af14-9591-4287-a4f8-a39fb2ca5be8.xml#f408af14-9591-4287-a4f8-a39fb2ca5be8"/>
+</archimate:FlowRelationship>

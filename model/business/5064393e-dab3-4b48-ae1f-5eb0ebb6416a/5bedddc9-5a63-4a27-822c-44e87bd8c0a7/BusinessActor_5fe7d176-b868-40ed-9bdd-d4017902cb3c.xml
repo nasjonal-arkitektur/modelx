@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunikasjonsleger"
+    id="5fe7d176-b868-40ed-9bdd-d4017902cb3c"
+    documentation="Dette er leger som jobber i felten, som bidrar i informasjonarbeidet gjennom:&#xD;&#xA;* å gjøre intervjuer&#xD;&#xA;* svare på spørsmål">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPC-dokumentasjon"
+    id="f9086adf-0fde-4f9c-9dd0-08ed4e092e2e">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2a3e41d9-3a07-4bfb-86e5-22c299107d2d.xml#2a3e41d9-3a07-4bfb-86e5-22c299107d2d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9a877d5c-7220-4466-9d21-c414b588f443.xml#9a877d5c-7220-4466-9d21-c414b588f443"/>
+</archimate:FlowRelationship>

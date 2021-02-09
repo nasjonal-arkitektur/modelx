@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å beskrive og ha oversikt over virksomhetens data (fra orden i eget hus)"
+    id="ade461eb-e9e4-4444-a7d1-496d3e62285c"
+    documentation="Forklaring:&#xD;&#xA;Beskrivelse av offentlige data i Norge skal utføres på en felles, strukturert måte og i en maskinlesbar form&#xD;&#xA;&#xD;&#xA;Informasjonsmodeller: Etablere felles begrepsapparat, standardiserte beskrivelser og sammenhengen mellom dataelementene&#xD;&#xA;&#xD;&#xA;Datakvaliteten bør være dokumentert, og kjente utfordringer knyttet til datakvalitet bør omtales eksplisitt i beskrivelsen.&#xD;&#xA;&#xD;&#xA;Det må være kjent hvilket formål data er innhentet for.&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Bruke DCAT-AP-NO&#xD;&#xA;&#xD;&#xA;https://doc.difi.no/data/veileder-orden-i-eget-hus/#_beskrive_data&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å beskrive og ha oversikt over virksomhetens data (fra orden i eget hus)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Beskrivelse av offentlige data i Norge skal utføres på en felles, strukturert måte og i en maskinlesbar form&#xD;&#xA;&#xD;&#xA;Informasjonsmodeller: Etablere felles begrepsapparat, standardiserte beskrivelser og sammenhengen mellom dataelementene&#xD;&#xA;&#xD;&#xA;Datakvaliteten bør være dokumentert, og kjente utfordringer knyttet til datakvalitet bør omtales eksplisitt i beskrivelsen.&#xD;&#xA;&#xD;&#xA;Det må være kjent hvilket formål data er innhentet for.&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Bruke DCAT-AP-NO&#xD;&#xA;&#xD;&#xA;https://doc.difi.no/data/veileder-orden-i-eget-hus/#_beskrive_data&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomgå norsk produktinformasjon"
+    id="59bc5935-7621-44a1-8a49-9b7b2d6de507"
+    documentation="Oversettingen av produktinformasjon sammenholdes med den enegelske utgaven, for å sikre at den er korrekt for oversatt, og at den er komplett.&#xD;&#xA;Alle dokumenter som kommer inn legges inn I SAM&#xD;&#xA;Man går gjennom dokumentasjonen og tar tak I evt. Mangler og etterspør dette fra søker.&#xD;&#xA;Det mangler ofte mock-ups (utformingen av pakningsmateriell) dette skal sendes inn. &#xD;&#xA;Man ser på mock ups først - kan begynne på tekstene også underveis - man kjøper seg litt tid.&#xD;&#xA;Sammenholder informasjonen og ser at det er riktig kvalitet&#xD;&#xA;&#x9;• Kvalitetssikring av produktinformasjon går i de fleste tilfeller uten behov for oppdateringsrunder.&#xD;&#xA;&#x9;• Man kan imidlertid også ha tilfeller hvor man går flere runder med MT-søker med informasjonen før den kan godkjennes&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

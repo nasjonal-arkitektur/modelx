@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grossistvirksomhet av medikament"
+    id="1888fb41-dc76-4e75-ac78-9d54c9057b10"
+    documentation="Grossisthandel er handel som ivaretar funksjoner som er nødvendige for vareflyten mellom produsenter og importører på den ene siden og detaljister og andre aktører på bedrifts- eller institusjonsmarkedet på den andre. Grossistvirksomhet vil si innførsel fra EØS-området, innkjøp, lagring, distribusjon, utførsel og eksport av legemidler, og dette krever grossisttillatelse. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

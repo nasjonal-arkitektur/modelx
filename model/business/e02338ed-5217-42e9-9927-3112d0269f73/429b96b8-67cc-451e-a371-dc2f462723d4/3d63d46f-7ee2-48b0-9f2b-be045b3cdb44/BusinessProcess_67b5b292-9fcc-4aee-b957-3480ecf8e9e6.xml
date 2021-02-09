@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsjekk av søknad"
+    id="67b5b292-9fcc-4aee-b957-3480ecf8e9e6"
+    documentation="Innsjekkfasen innebærer nedlasting av søknadsmaterialet og oppretting av sak i SAM(og implisitt Public 360).">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

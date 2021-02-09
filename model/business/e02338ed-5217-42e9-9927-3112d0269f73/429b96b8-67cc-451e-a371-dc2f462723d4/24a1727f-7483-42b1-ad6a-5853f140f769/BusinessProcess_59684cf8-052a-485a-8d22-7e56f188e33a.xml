@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere på liste over kommende søknader"
+    id="59684cf8-052a-485a-8d22-7e56f188e33a"
+    documentation="Alle forhåndsmeldte søknader registreres i en liste, som de ulike lands Legemiddelverk kan benytte for å melde inn ønsker om å ha en rolle i (Rapportør (R) eller Ko-rapportør (CoR)). Det er fordelt ansvar for ulike typer virkemidler i de ulike lands legemiddelverk, slik at det er en viss forhåndsbestemmelse på hvem som skal være ansvarlig for ulike medikamenter.&#xD;&#xA;Det er MT-møtet i Legemiddelvereket som avgjør hvilke medikamenter man skal sende forespørsel om å være rapportør / ko-rapportør for.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

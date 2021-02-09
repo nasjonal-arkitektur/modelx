@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenn tilgang"
+    id="id-b2eba9696eb642cd9df65417dca81d63">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

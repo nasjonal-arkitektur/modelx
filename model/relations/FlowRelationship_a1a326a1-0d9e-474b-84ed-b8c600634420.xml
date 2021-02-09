@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uenige"
+    id="a1a326a1-0d9e-474b-84ed-b8c600634420"
+    documentation="Dersom medlemslandene (MS) og referanselandet (RMS) ikke når konsensus vedrørende om man skal godta eller avslå søknaden om markedsføringstillatelse, så vil RMS måtte varsle CMD (referral), som får ansvar for å mekle frem en løsning. Dette utvider potensielt prosedyren med 60 dager ekstra. Dersom medlemslandene og RMS kommer til konsensus før det har gått 60 dager kan man gå videre til prosedyreslutt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_abd76d99-8a82-4fb2-b45d-7f24a5bea079.xml#abd76d99-8a82-4fb2-b45d-7f24a5bea079"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ef31bc77-6f41-47ac-a72c-35589f64c189.xml#ef31bc77-6f41-47ac-a72c-35589f64c189"/>
+</archimate:FlowRelationship>

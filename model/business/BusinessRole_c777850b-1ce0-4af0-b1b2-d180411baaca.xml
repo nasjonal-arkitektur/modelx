@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatilbyder"
+    id="c777850b-1ce0-4af0-b1b2-d180411baaca"
+    documentation="Tilbyder av data til andre aktører.&#xD;&#xA;&#xD;&#xA;API Eiere  (kan eie Data som API gir tilgang til, eller system som tilbyr APIet)??&#xD;&#xA;&#xD;&#xA;Når virksomheten tilbyr åpne data, vil det være virksomheten som eier dataene. (men det bør vel definere et domen-eier innenfor virksomheten)&#xD;&#xA;&#xD;&#xA;Data eier på to nivå: f. eks. studieavdelingen (er ikke dette behandlingsansvarlig?) spør studenten om de gir samtykke til å gi tilgang til data om studenten som hen eier.&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datatilbyder"/>
+  <properties
+      key="difi:name_en"
+      value="Data Provider"/>
+  <properties
+      key="difi:description_no"
+      value="Tilbyder av data til andre aktører."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

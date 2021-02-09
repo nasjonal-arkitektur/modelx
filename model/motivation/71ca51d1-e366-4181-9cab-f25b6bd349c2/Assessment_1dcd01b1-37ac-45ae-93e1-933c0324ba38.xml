@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuell håndtering av kvitteringer fra EUDRAVIGILANCE på mottatt melding"
+    id="1dcd01b1-37ac-45ae-93e1-933c0324ba38"
+    documentation="EUDRAVIGILANCE sender kvittering på mottak av meldinger. Disse må leses og håndteres manuelt.&#xD;&#xA;Det er kun negative meldinger som må kvitteres ut manuelt. Resten går automatisk">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre tilleggsanalyse"
+    id="2f913972-af3f-4042-9205-d77f33e07b29"
+    documentation="Dersom analysen avdekker ulovlige stoffer, kan man etter rådføring med oppdragsgiver, også gjennomføre tilleggsanalyser (kvantifisering).&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

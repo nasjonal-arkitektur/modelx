@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innbygger"
+    id="dcd7bdc2-09c5-4692-a505-c330275419f5">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessActor>

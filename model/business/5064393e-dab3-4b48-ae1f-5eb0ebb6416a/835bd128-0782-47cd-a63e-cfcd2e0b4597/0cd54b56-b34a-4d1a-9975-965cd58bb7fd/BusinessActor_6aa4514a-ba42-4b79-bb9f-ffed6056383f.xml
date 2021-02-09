@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interaksjoner i FEST (lag)"
+    id="6aa4514a-ba42-4b79-bb9f-ffed6056383f"
+    documentation="Redaksjon for informasjon om legemiddelinteraksjoner">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

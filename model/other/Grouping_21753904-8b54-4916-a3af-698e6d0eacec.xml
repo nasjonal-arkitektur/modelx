@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eNotifikasjon - publisering av hendelsesdata"
+    id="21753904-8b54-4916-a3af-698e6d0eacec">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:Grouping>

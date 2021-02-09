@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post Marketing (EVPM)"
+    id="c729058b-c90c-4910-b46d-2586d81854bf"
+    documentation="EudraVigilance Post Marketing">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Athene Replikering"
+    id="98c28a24-00b1-436b-ad53-26428ad9fecb"
+    documentation="Jobb som oppdaterer P360 med data fra Athene, for at man skal kunne ha nok informajson tilgjengelig (mer enn det som finnes i SAM)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

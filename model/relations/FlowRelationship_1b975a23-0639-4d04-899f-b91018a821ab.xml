@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Negativ opinion (avslag)"
+    id="1b975a23-0639-4d04-899f-b91018a821ab">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_483589a7-c68c-43cf-a820-c58c8cf1d4ec.xml#483589a7-c68c-43cf-a820-c58c8cf1d4ec"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_6936036e-8713-4ee6-aaa8-0a4038bc2071.xml#6936036e-8713-4ee6-aaa8-0a4038bc2071"/>
+</archimate:FlowRelationship>

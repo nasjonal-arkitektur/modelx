@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratoriets kvalitetsforum (KVAFOR) (lag)"
+    id="567b7086-e25d-4950-b3eb-2859556e9515"
+    documentation="Formål og oppgaver er beskrevet i LAB.ADM.0009">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

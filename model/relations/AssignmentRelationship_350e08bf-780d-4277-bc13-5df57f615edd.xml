@@ -1,0 +1,14 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="350e08bf-780d-4277-bc13-5df57f615edd">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5232da71-2196-40a4-be92-9e17b7ae3e08.xml#5232da71-2196-40a4-be92-9e17b7ae3e08"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_df04c0de-cfb4-4d22-8522-667ae290e564.xml#df04c0de-cfb4-4d22-8522-667ae290e564"/>
+</archimate:AssignmentRelationship>

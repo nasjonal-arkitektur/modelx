@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og lagre besvarelser"
+    id="647dda69-d456-4558-bcd1-f8ab8e476569"
+    documentation="Besvarelser mottas og skannes / registreres">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

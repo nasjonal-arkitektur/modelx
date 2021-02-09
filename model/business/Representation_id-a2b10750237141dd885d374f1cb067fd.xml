@@ -1,0 +1,25 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvaltning av målarkitekturen"
+    id="id-a2b10750237141dd885d374f1cb067fd"
+    documentation="#Tekst om overgangen fra kapabilitetene og løsningene beskrevet&#xD;&#xA;over til informasjonsforvaltning og definisjon av datasett.#&#xD;&#xA;&#xD;&#xA;Sektoren er i ferd med å bygge en distribuert arkitektur som benytter&#xD;&#xA;løsere koblet, delte datakilder som inneholder data om sentrale&#xD;&#xA;entiteter i sektoren som for eksempel studenter, ansatte,&#xD;&#xA;forskningsprosjekt, forskningsresultater, læringsobjekter, med flere.&#xD;&#xA;Disse kildene blir rendyrket som *_masterdatakilder_*. Disse kildene er&#xD;&#xA;definert ut fra en dyp forståelse av sektorenes funksjon og vil typisk&#xD;&#xA;være forholdsvis stabile over tid. Definisjon av …[mer tekst her]">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-forvaltning"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endring av medikament"
+    id="d32537d7-d029-45cc-8585-0718a38655fb"
+    documentation="A-endringer&#xA;------------&#xA;Hovedsakelig regulatoriske endringer som endret navn, eier, produksjonssted, lokasjon på MT-innehaver.&#xA;&#xA;B-endringer&#xA;------------&#xA;Hovedsakelig farmasøytiske endringer som pakninger, fyllstoff, kjemiske prosesser, størrelse o.s.v&#xA;&#xA;C-endringer&#xA;------------&#xA;Hovedsakelig medisinske endringer som indikasjonsendringer, bivirkninger, sikkerhetsprofil, OTC&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

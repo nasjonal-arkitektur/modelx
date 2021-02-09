@@ -1,0 +1,41 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi data"
+    id="16157c6d-8024-4106-b7db-59cfc6717745"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Del data"/>
+  <properties
+      key="difi:name_en"
+      value="Share data"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="9aa92583-a5d4-484b-a630-e2f17380fb24"/>
+</archimate:ValueStream>

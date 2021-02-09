@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronisk Kvalitetshåndbok (EK)"
+    id="20690d0e-8296-4bb7-8057-d3ac0c7a5521"
+    documentation="Elektronisk Kvalitetshåndbok /EK er Legemiddelverkets applikasjon for utforming og håndtering av styringsdokumenter i form av prosedyrer, instrukser, veiledninger og annet. &#xD;&#xA;&#xD;&#xA;EK inngår som et sentral redskap i Legemiddelverkets kvalitetssystem. Alle styringsdokumenter som godkjennes i EK publiseres automatisk på &quot;Kvalitetsportalen&quot; (Intranett). Disse publiserte styringsdokumentene  inneholder de prosedyrer som til enhver tid er offisielt gjeldende for Statens Legemiddelverk. Ek sine viktigste funksjoner er å sikre versjonskontroll av våre prosedyrer, og dokumentere fortløpende ansvarsforhold for utforming og godkjenning.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentiser konsument og kontroller tilgang"
+    id="50f4c36e-cdf9-4f93-b739-43091444569e"
+    documentation="Prosessen med å autentisere en konsument og kontrollere  rettigheter til data.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

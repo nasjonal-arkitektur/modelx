@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCP - Som Reference Member State (RMS)"
+    id="b6620e47-8f6e-4b4c-90ce-1fb21f3788f9"
+    documentation="Når et legemiddelfirma søker om ny markedsføringstillatelse kan de velge i hvilke land de ønsker å søke. Disse landene omtales som &quot;berørte land&quot; (CMS - Concerned member states). I tillegg vil et land være ansvarlig for utredning av søknaden. Dette landet får rollen som referanseland (RMS). ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

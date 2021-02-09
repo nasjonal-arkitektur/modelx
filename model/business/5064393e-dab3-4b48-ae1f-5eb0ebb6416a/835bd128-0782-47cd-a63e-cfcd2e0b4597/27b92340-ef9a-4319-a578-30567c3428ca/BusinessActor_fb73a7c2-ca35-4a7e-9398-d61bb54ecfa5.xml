@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nytt om legemidler (Tidsskriftet) (lag)"
+    id="fb73a7c2-ca35-4a7e-9398-d61bb54ecfa5"
+    documentation="Redaksjonell leveranse til Tidsskriftet hver 14. dag. Aktuelle problemstillinger for målgruppen allmennleger">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

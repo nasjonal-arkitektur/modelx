@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksbehandling"
+    id="09331300-6512-418d-95dc-a7906a3982cb"
+    documentation="The ability to define, research, assess, recommend a plan of action for, act on, report on, resolve within a defined timeframe, or otherwise address an instance of a situation or condition associated with a constituent, that is related to legal, social, healthcare, or related government services.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Saksbehandling"/>
+  <properties
+      key="difi:name_en"
+      value="Case Management"/>
+  <properties
+      key="difi:description_no"
+      value="The ability to define, research, assess, recommend a plan of action for, act on, report on, resolve within a defined timeframe, or otherwise address an instance of a situation or condition associated with a constituent, that is related to legal, social, healthcare, or related government services."/>
+  <properties
+      key="difi:description_en"
+      value="The ability to define, research, assess, recommend a plan of action for, act on, report on, resolve within a defined timeframe, or otherwise address an instance of a situation or condition associated with a constituent, that is related to legal, social, healthcare, or related government services."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

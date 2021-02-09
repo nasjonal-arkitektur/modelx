@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslutningsforum RHF"
+    id="ae605b4b-9154-464a-87e5-57c68aaf3d84"
+    documentation="RHF = Regionale HelseForetak&#xA;Fatter beslutning om hvilke metoder som kan innføres til bruk i spesialisthelsetjenesten.&#xA;Består av de fire administrerende direktørene i de regionale helseforetakene, I tillegg er det en observatør fra brukerutvalgene.&#xA;Beslutninger om eventuell innføring av nye metoder i hver enkelt av de fire regionene, etter gjennomgått metodevurdering, fattes ved konsensus i møte mellom de fire administrerende direktører i de fire regionale helseforetakene">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

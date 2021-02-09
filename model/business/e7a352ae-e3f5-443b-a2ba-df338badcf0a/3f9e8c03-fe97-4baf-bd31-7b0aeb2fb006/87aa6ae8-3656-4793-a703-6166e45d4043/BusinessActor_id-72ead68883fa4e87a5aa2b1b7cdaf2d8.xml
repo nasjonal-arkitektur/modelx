@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sara Snoker"
+    id="id-72ead68883fa4e87a5aa2b1b7cdaf2d8">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

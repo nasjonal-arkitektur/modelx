@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anskaffelser, utvikling og forvaltning av produkter og tjenester "
+    id="fcc74a1e-a1d0-4639-9be8-bffd2ab79c57"
+    documentation="Ability to conceptualize, design, develop, bundle, source, maintain, and retire a named combination of goods and doing-of-work-for-others that can be offered to constituents, in whole or in part, to satisfy a constituent’s needs.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Innkjøp, utvikling og forvaltning av produkter og tjenester "/>
+  <properties
+      key="difi:name_en"
+      value="Product - Service Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to conceptualize, design, develop, bundle, source, maintain, and retire a named combination of goods and doing-of-work-for-others that can be offered to constituents, in whole or in part, to satisfy a constituent’s needs."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to conceptualize, design, develop, bundle, source, maintain, and retire a named combination of goods and doing-of-work-for-others that can be offered to constituents, in whole or in part, to satisfy a constituent’s needs."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

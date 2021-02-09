@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Episerver 4 - Nettverket"
+    id="1dfcd6a7-f6c6-432a-872e-64d4a1388afb"
+    documentation="Publiseringsverktøy for intranett. Benyttes som presentasjonsverktøy til å designe websider og legge inn nye intranettsider samt oppdatere eksisterende.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

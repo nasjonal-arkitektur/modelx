@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applikasjonsoversikt forespørsel integrert nasjonalt"
+    id="id-bbf3443097e5473e8a5c6e5b5fb21446">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-9ce97c10b97b4a56990a59e86857b8cd"/>
+  <properties
+      key="drill down"
+      value="id-9ce97c10b97b4a56990a59e86857b8cd"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

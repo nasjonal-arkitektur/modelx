@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barnevernsfaglig kvalitetssystem (BFK)"
+    id="7543ee76-45f4-4615-b51d-ceabcb49e77f">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

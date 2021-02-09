@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ID-porten"
+    id="cab53c09-b71d-4038-b2b6-bcd0eb6a9c00"
+    documentation="[Torget]&#xD;&#xA;ID-porten gjør det mulig for brukerne dine å logge seg inn på offentlige tjenester. Med kjente elektroniske ID-er som MinID, BankID, Buypass og Commfides kan innbyggerne bruke påloggingsløsninger de kjenner fra før til å autentisere seg.&#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;ID-porten gir teknisk samhandlingsevne den gjør det mulig for brukere å logge seg inn på offentlige tjenester med elektronisk ID.&#xD;&#xA;&#xD;&#xA;Mer om ID-porten:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/id-porten/864">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="ID-porten"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kart tjeneste"
+    id="bac2c6a8-9a3f-4172-9831-daf4b1b476fb">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

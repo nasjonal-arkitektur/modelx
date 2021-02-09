@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Timestamp Verification and Validation Service"
+    id="09c08f99-0c2e-4a1b-9c59-6e26217771c6"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of the verification of timestamps used for establishing evidence that a give piece of data existed at a given point in time.&#xD;&#xA;An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. eTS Verification and Validation Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Timestamp Verification and Validation Service ABB  is salient for technical interoperability because it provides &#xD;&#xA;the functionalities required for e-timestamp verification and validation service.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;OpenSSL timestamp verification&#xD;&#xA;OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps.&#xD;&#xA;https://wiki.openssl.org/index.php/Manual:Ts(1)  &#xD;&#xA;https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB202"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="e-Timestamp Verification and Validation Service [ns:eira]"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of the verification of timestamps used for establishing evidence that a give piece of data existed at a given point in time.&#xD;&#xA;An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xD;&#xA;&#xD;&#xA;Based on eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xD;&#xA;http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG &#xD;&#xA;&#xD;&#xA;Syn. eTS Verification and Validation Service&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The e-Timestamp Verification and Validation Service ABB  is salient for technical interoperability because it provides &#xD;&#xA;the functionalities required for e-timestamp verification and validation service.&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;OpenSSL timestamp verification&#xD;&#xA;OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps.&#xD;&#xA;https://wiki.openssl.org/index.php/Manual:Ts(1)  &#xD;&#xA;https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/ &#xD;&#xA;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

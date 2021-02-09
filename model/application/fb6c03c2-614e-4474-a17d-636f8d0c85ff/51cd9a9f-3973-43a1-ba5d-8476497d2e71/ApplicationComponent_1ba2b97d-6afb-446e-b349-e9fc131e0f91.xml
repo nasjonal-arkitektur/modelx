@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP Kjernesystem"
+    id="1ba2b97d-6afb-446e-b349-e9fc131e0f91"
+    documentation="SAP Kjernesystem er Personals arbeidsverktøy for å følge opp de ansattes tjenester som ansatt i staten og SLV. SAP Kjernesystem benyttes kun av Personal og er det viktigste verktøyet for oppfølging av de ansatte.&#xD;&#xA;&#xD;&#xA; Systemet jobber direkte i SAP databasen og uttrekk fra SAP Kjernesystem benyttes i SAP Portalen. Samme URL som for SAP kjernesystem benyttes også for Agresso Smart Client. Agresso har egen snarvei i Citrix med samme URL.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prioriteringsmøte"
+    id="2d1388ab-7d2e-42c5-90f6-221e4826ea3c"
+    documentation="Prioriteringsmøtet (PM) består av enhetsledere fra alle områdene. PM bidrar til at Legemiddelverkets samlede ressurser benyttes på den mest hensiktsmessige måten.&#xD;&#xA;&#xD;&#xA;PM bidrar til at Legemiddelverkets samlede ressurser benyttes på den mest hensiktsmessige måten. PM skal prioritere og sørge for gjennomføring av Legemiddelverkets oppgaver basert på gjeldende strategi og eventuelle risikovurdering. Det er PM som oppretter, endrer og nedlegger alle lag. Andre saker som krever medvirkning fra flere enheter og/eller områder diskuteres på møtet">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

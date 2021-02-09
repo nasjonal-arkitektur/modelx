@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mutual Recognition Procedure - MRP as Member State - MS (gjenisidg annerkjenelsesprosedyre som berørt land) - 90 dager"
+    id="1a6b5cdd-2535-42f2-a94a-05ead7e00a78">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

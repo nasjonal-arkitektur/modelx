@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hjemme-sykepleier"
+    id="c6abae93-fdb2-4f7c-96af-707e6d87a59b">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

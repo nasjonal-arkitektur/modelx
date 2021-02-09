@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsynsmyndighet fra to andre land"
+    id="15e6ea41-9f32-4bc3-a827-0202566ea220"
+    documentation="I forbindelse med tilsyn og godkjenning av Teknisk Kontrollorgan, skal to andre lands tilsynsmyndigheter være representert.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

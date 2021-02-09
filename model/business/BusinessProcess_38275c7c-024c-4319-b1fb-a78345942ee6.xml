@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilpass innhold til konsument (dersom aktuelt)"
+    id="38275c7c-024c-4319-b1fb-a78345942ee6"
+    documentation="Prosessen med å tilpasse innholdet til konsument. Tilpasningen gjøres på grunnlag av parametere/informasjon i forespørselen.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessProcess>

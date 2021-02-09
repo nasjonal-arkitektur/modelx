@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrangements-administrasjon"
+    id="ebcef24f-490d-409a-9d91-a3431464ccf2"
+    documentation="Ability to establish, use, sustain, disseminate, and analyze an occurrence or happening at a determinable time and place, including physical and virtual meetings, conferences, or related gatherings of two or more persons.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Arrangements-administrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Event Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to establish, use, sustain, disseminate, and analyze an occurrence or happening at a determinable time and place, including physical and virtual meetings, conferences, or related gatherings of two or more persons."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, use, sustain, disseminate, and analyze an occurrence or happening at a determinable time and place, including physical and virtual meetings, conferences, or related gatherings of two or more persons."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

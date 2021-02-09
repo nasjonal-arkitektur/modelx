@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saker journalføres manuelt utenfor arkivsystemet"
+    id="3613fb78-c62e-4d38-b141-7bd933d89b50"
+    documentation="Saker knyttet til godkjenningsfritak arkiveres i et eget manuelt arkiv - journalføres ikke i P360.&#xD;&#xA;Det er kun vedtak som kan påklages som journalføres i P360.&#xD;&#xA;&#xD;&#xA;Manuelle arkiver gjør det vanskeligere med statistikker og oversikter. De manuelle arkivene saneres etter to år - ut over dette har man ikke historikk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

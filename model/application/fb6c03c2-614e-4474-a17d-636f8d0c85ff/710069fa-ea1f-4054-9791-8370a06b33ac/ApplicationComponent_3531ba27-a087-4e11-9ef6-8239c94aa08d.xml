@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MedNytt - FHI"
+    id="3531ba27-a087-4e11-9ef6-8239c94aa08d"
+    documentation="Metodevarslingsdatabase. Administreres av FHI. MedNytt varsler om nye og potensielt viktige metoder for norsk helsetjeneste. Databasen oppdateres ca ti ganger i året. I tillegg til norske metodevarsler gir databasen også lenker til metodevarsler og tidlige-metodevurderinger produsert av internasjonale samarbeidspartnere.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

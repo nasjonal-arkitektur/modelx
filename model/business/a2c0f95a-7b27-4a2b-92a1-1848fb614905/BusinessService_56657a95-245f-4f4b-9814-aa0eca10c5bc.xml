@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrering av produkter uten MT"
+    id="56657a95-245f-4f4b-9814-aa0eca10c5bc"
+    documentation="Registrering av produkter uten MT (plantebasert, homeøpatika)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningsmeldinger - Filkatalog"
+    id="1f5a0f8d-184d-43dc-b954-28583e018c52"
+    documentation="Viginor har integrasjon via filområde">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

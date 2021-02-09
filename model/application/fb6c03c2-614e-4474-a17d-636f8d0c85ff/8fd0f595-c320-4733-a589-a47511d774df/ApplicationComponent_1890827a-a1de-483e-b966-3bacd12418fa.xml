@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraGMDP"
+    id="1890827a-a1de-483e-b966-3bacd12418fa"
+    documentation="EudraGMDP is a community database on manufacturing, import and wholesale-distribution   authorisations,   good   manufacturing-practice   (GMP)   and   good-distribution-practice (GDP) certificates. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

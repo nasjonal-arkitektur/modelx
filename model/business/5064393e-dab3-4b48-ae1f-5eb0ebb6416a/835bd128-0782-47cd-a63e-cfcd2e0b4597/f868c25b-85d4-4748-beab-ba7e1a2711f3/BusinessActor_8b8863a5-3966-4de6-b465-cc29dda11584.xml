@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk  nasjonale MT-søknader (lag)"
+    id="8b8863a5-3966-4de6-b465-cc29dda11584"
+    documentation="Alle regulataoriske oppgaver fra søknad meldes og til prosedyreslutt.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

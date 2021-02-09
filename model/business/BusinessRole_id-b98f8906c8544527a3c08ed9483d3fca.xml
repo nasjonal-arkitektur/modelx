@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsument"
+    id="id-b98f8906c8544527a3c08ed9483d3fca">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessRole>

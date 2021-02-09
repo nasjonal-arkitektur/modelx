@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende dag120-rapport til MT-søker og CMS"
+    id="7a681bfe-47e1-4f85-97a6-51bc3a8db655"
+    documentation="Dag120-rapporten sendes ut til MT-søker og CMSer på ePost, for kommentering og spørsmål.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

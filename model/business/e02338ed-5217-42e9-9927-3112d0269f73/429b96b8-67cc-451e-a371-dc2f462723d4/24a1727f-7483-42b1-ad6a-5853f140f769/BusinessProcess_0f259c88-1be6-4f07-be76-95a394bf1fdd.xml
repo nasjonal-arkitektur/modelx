@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preopinion"
+    id="0f259c88-1be6-4f07-be76-95a394bf1fdd"
+    documentation="CP Human: Preopinion (201 dager)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

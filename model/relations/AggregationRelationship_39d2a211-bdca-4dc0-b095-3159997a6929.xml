@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omfatter"
+    id="39d2a211-bdca-4dc0-b095-3159997a6929">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_c7c79031-1746-409d-a1d0-d55709aa2458.xml#c7c79031-1746-409d-a1d0-d55709aa2458"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_b97457e0-de9a-4d89-9e26-e1801c16d727.xml#b97457e0-de9a-4d89-9e26-e1801c16d727"/>
+</archimate:AggregationRelationship>

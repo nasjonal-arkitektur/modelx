@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søke etter indikasjoner på feil / bivirkninger på utstyr"
+    id="347b54ad-375a-453d-9585-aff72b8119f1"
+    documentation="Søk etter signaler / indikasjoner på bivirkninger gjøres i Public360 og i EUDAMED.&#xD;&#xA;Man leter etter tilfeller av tilsvarende svikt, som det som er meldt inn.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

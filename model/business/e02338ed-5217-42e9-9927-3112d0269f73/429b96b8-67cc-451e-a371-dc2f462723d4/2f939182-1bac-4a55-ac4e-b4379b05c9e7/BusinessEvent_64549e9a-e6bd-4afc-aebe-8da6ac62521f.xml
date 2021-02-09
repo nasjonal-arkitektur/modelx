@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søkers respons på utredningsrapport Dag 50 "
+    id="64549e9a-e6bd-4afc-aebe-8da6ac62521f"
+    documentation="AR - Assesment report &#xA;D50 = Dag 50 = frist for ferdigstillelse av denne rapporten&#xA;Dagene i porsedyren telles som virkedager&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

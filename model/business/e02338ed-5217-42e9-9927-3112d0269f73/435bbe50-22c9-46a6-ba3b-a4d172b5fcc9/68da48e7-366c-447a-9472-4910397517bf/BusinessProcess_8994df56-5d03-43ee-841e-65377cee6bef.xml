@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stoppe utprøving"
+    id="8994df56-5d03-43ee-841e-65377cee6bef"
+    documentation="Dersom rapporten fra klinisk utprøving viser resultater som tilsier at videre utprøving eller produktet i seg selv utgjør en helsefare, kan Legemiddelverket / Medisinsk Utstyr stoppe videre utprøving av produktet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

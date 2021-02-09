@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formidle resultat til innmelder / oppdragsgiver"
+    id="9efa2c2d-d8cd-47f6-a52d-fa3b639e2b8f">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

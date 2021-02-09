@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS MinSide integrasjon"
+    id="c6499d5a-f85b-405a-bac9-b951d27596fd">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

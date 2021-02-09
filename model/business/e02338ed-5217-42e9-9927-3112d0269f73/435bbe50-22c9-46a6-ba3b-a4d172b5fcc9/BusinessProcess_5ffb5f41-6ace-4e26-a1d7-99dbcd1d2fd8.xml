@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rådgivning i møte med produsent"
+    id="5ffb5f41-6ace-4e26-a1d7-99dbcd1d2fd8"
+    documentation="I følge nye regualtiver fra EU er det ønskelig med mer proaktivt arbeid. Dette gjennomføres blant annet med å arrangere møter hvor det tilbys rådgiving for produsenten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

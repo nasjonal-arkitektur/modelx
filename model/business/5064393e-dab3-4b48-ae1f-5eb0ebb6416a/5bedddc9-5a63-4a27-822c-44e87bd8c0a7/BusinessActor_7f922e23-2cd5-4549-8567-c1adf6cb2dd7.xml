@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksterne oppdragsgivere"
+    id="7f922e23-2cd5-4549-8567-c1adf6cb2dd7"
+    documentation="Oppdrag til planlagte analyser kan komme fra ulike eksterne aktører:&#xD;&#xA;European Directorate for the Quality of Medicines (EDQM) - sender ut en liste over preparater som tildeles for analyse&#xD;&#xA;Andre lands OMCL-laboratorier - tilsvarende Lab-funksjonen i SLV - kan overlate oppdrag til SLV&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

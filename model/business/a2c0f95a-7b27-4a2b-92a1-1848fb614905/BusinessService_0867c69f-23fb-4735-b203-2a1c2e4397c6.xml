@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CE-sertifisere medisinsk utstyr (Teknisk kontrollorgan)"
+    id="0867c69f-23fb-4735-b203-2a1c2e4397c6"
+    documentation="Legemiddelverket har ansvar for godkjenning, kontroll og tilsyn med medisinsk utstyr og produsenter av slikt. Denne funksjonen er satt ut til ekstern, kommersiell part - Teknisk Kontrollorgan. i Norge er denne funksjonen satt ut til  PreSafe (eid av Det Norske Veritas).&#xD;&#xA;Legemiddelverket fører tilsyn med at Teknisk Kontrollorgan har relevant kompetanse og utfører oppdraget i henhold til krav.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

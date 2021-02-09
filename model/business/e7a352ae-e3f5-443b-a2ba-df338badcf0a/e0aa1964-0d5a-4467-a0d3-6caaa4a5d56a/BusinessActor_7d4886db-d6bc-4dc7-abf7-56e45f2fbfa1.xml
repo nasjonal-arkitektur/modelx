@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kåra Kommunelege"
+    id="7d4886db-d6bc-4dc7-abf7-56e45f2fbfa1">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

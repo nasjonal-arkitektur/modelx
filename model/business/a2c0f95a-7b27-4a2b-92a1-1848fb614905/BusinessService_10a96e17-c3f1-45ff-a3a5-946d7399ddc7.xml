@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn med aktører"
+    id="10a96e17-c3f1-45ff-a3a5-946d7399ddc7"
+    documentation="Føre tilsyn med produsenter, blodbanker, importører, grossister og apotek&#xD;&#xA;&#xD;&#xA;* Sjekklister og krav&#xD;&#xA;* Håndteres i den nye SAM-T&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

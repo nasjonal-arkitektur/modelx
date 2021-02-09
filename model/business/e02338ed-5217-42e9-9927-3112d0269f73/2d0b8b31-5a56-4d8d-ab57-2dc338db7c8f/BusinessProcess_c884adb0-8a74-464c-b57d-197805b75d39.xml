@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollere og supplere referansepriser"
+    id="c884adb0-8a74-464c-b57d-197805b75d39"
+    documentation="Det etterprøves om prisene MT-innehaver sender inn er riktige i forhold til prisene i ulike land. &#xD;&#xA;- Det søkes i den felles databasen EURIPID etter prisinformasjon&#xD;&#xA;- Dersom man ikke finner informasjon i EURIPID sjekker man på de enkelte lands legemiddelmyndigheters nettsider.&#xD;&#xA;&#xD;&#xA;Man bruker alle tilgjengelige kilder i dette arbeidet, men hovedkilden er EURIPID.&#xD;&#xA;Det er noen land som ikke er end del av EURIPID (f.eks. Tyskland, som har egne baser som ikke er publisert - ingen mulighet til å sjekke pris)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonssikkerhet, tillit og personvern"
+    id="f8ffc728-13e6-4288-9f1f-8a8a8982e7f8">
+  <properties
+      key="drill down"
+      value="83e87784-01bb-430b-b7aa-a7a571713ff5"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Informasjonssikkerhet, tillit og personvern"/>
+  <properties
+      key="difi:name_en"
+      value="Information security, trust and privacy"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

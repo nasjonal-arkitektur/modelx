@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clock Stop"
+    id="7f118ac1-3447-4ff7-a17d-87fe7687117f"
+    documentation="RMS er ansvarlig for å påse at alle kommentarer og spørsmål er sirkulert til alle. Når de er sirkulert varsles MT-søker om Clock Stop for søknadsbehandlingen. &#xD;&#xA;Clock Stop varer helt til MT-søker har respondert på kommentarene og spørsmålene fra søknadsbehandlingen.&#xD;&#xA;Clock Stop kan vare fra noen måneder (normalen ligger rundt 3 mnd), men det kan også ta betraktelig lenger tid. I noen tilfeller har dette tatt år.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logg"
+    id="8f161cf0-5765-4d70-aee1-9b387f2dd14d">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

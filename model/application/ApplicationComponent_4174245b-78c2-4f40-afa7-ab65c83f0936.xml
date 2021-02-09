@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSignering"
+    id="4174245b-78c2-4f40-afa7-ab65c83f0936"
+    documentation="[Torget]&#xD;&#xA;eSignering gir virksomheter sikker, praktisk og effektiv håndtering av dokumenter som krever digital signatur fra innbyggere. &#xD;&#xA;&#xD;&#xA;[Verktøykasse for deling av data]&#xD;&#xA;eSignering gir juridisk samhandlingsevne ved at virksomheter får sikker, praktisk og effektiv håndtering av dokumenter som krever signatur fra innbyggere.&#xD;&#xA;&#xD;&#xA;Den digitale prosessen ved eSignering gjør at virksomhetene slipper manuell håndtering ved&#xD;&#xA;utlevering og innhenting av dokumenter som skal signeres. Ved eSignering av dokumenter gjennomføres selve signeringen med elektronisk ID.&#xD;&#xA;&#xD;&#xA;Mer om eSignering:&#xD;&#xA;https://www.digdir.no/digitale-felleslosninger/esignering/789&#xD;&#xA;https://samarbeid.difi.no/felleslosninger/esignering/dokumentasjon">
+  <properties
+      key="dct:type"
+      value="archi:application-component"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eSignering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

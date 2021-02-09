@@ -1,0 +1,29 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Løsningsmønster"
+    id="ae341b64-4173-46e9-8af4-c8068228200a"
+    documentation="Se https://joinup.ec.europa.eu/sites/default/files/document/2017-10/sat_design_guidelines_0_0.pdf&#xD;&#xA;">
+  <properties
+      key="difi:name_no"
+      value="Løsningsmønster (SAT)"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:description_no"
+      value="Se https://joinup.ec.europa.eu/sites/default/files/document/2017-10/sat_design_guidelines_0_0.pdf&#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_en"
+      value="Solution Architecture Template (SAT)"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+</archimate:Resource>

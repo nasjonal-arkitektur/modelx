@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undersøke om legemiddel inneholder ingredienser klassifisert som legemiddel"
+    id="e21054df-4b71-4421-b2ff-5121b7921672">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

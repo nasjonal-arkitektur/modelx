@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH)"
+    id="4c994988-17dd-460f-9756-0ae3a1fcc8d6"
+    documentation="ICH is an initiative that brings together regulatory authorities and pharmaceutical industry to discuss scientific and technical aspects of pharmaceutical product development and registration.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

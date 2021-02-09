@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenningsfritak - Brukergrensesnitt"
+    id="bf829cca-89d2-4c56-8ea5-64c197f67a4d"
+    documentation="Brukergrensesnitt for saksbehandlere som behandler søknad om godkjenningsfritak">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

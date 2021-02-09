@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF API manager "
+    id="id-46f10831ae0b41d292a6f0c8e89f9db0"
+    documentation="Administrativ komponent som kontrollerer policy og livssyklus for definisjon og forvaltning av API. Tilganger gjennom et API defineres i API manager og tildeles av autorisasjonstjener. Ansvaret til API manager inkluderer:&#xD;&#xA; &#xD;&#xA;* Sentralisert API administrasjon og forvaltning av API-katalogen&#xD;&#xA;* Håndtering av registrerings- og introduksjonsprosesser for API utviklere&#xD;&#xA;* Håndtere livssyklusen til et API&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Ivareta registrering, forvaltning og og utvikling av klientrettigheter&#xD;&#xA;&#xD;&#xA;Hva tilbyr API av datamodell&#xD;&#xA;Hvordan ønsker API å sikre seg selv&#xD;&#xA;En klient må forholde seg til ">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

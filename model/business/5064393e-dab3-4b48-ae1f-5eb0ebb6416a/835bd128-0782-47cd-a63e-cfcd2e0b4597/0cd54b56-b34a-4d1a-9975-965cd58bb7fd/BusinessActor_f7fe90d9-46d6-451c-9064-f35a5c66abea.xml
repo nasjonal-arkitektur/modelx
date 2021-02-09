@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LUA-listen (lag)"
+    id="f7fe90d9-46d6-451c-9064-f35a5c66abea"
+    documentation="Vedlikehold og publisering av LUA listen">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

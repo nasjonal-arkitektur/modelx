@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M5 - Klinikk"
+    id="27480c17-e550-4228-9de3-163a5ede81dd"
+    documentation="Modul 5 - Resultater og dokumentasjon fra kliniske undersøkelser/studier (fase 1-3)&#xA;Clinical Study Report">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstede eksportsertifikater for medisinsk utstyr"
+    id="caca1ef4-52f1-4752-9cb0-8deb2c1af667">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veterinær"
+    id="017deead-a548-4848-8b18-9ed8a9e9d896"
+    documentation="Våre oppgaver:&#xD;&#xA;•&#x9;Vurdere legemidler (inkludert vaksiner) til dyr ved søknader om klinisk utprøving, markedsføringstillatelse og endringer.&#xD;&#xA;•&#x9;Sikkerhetsinformasjon om legemidler, inkludert overvåking av bivirkninger. &#xD;&#xA;•&#x9;Veiledning og råd til industri og akademia ved legemiddelutvikling og klinisk forskning.&#xD;&#xA;•&#x9;Faglig vurdering av søknader om godkjenningsfritak, søknader om forskriving av reinsubstans til bruk på dyr, samt søknader om unntak fra utleveringsbestemmelser.&#xD;&#xA;•&#x9;Delta i det europeiske samarbeidet på legemiddelområdet.&#xD;&#xA;•&#x9;Informasjonsarbeid, undervisning og foredrag.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;•&#x9;vet.felles@legemiddelverket.no (spørsmål om sikkerhet og effekt for legemidler til dyr) &#xD;&#xA;&#xD;&#xA;For henvendelser som ikke gjelder effekt og sikkerhet for legemidler (inkludert vaksiner) til dyr ved søknader om klinisk utprøving, markedsføringstillatelse og endringer se andre fagområder.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inneholder reseptbelagte virkestoffer"
+    id="5f0c8bc7-02f1-4552-b3e4-82145363144a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_2f981e80-c2a5-4247-b5ce-43a7d3f37c1f.xml#2f981e80-c2a5-4247-b5ce-43a7d3f37c1f"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_b7ef6dab-9e95-47d0-88dc-f1361cfe7e83.xml#b7ef6dab-9e95-47d0-88dc-f1361cfe7e83"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvikling og forvaltning av lover og regler"
+    id="887fb2c2-1707-4b19-86c0-eeec36ca8e0e"
+    documentation="Ability to request, define, approve, evolve, monitor, evaluate the effects of, and determine compliance with a set of authoritative directives that include laws, regulations, or related statutory instruments.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utvikling og forvaltning av lover og regler"/>
+  <properties
+      key="difi:name_en"
+      value="Legislation Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to request, define, approve, evolve, monitor, evaluate the effects of, and determine compliance with a set of authoritative directives that include laws, regulations, or related statutory instruments."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to request, define, approve, evolve, monitor, evaluate the effects of, and determine compliance with a set of authoritative directives that include laws, regulations, or related statutory instruments."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

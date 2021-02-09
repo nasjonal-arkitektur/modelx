@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lese gamle PIA-data"
+    id="b1fd041e-9b5c-4252-8ecc-6b4b3ebc8965"
+    documentation="Lese gamle PIA data er en egenutviklet Microsoft Access-database som erstattet PIA (Pris Indeks Administrasjon) som ble tatt i bruk i 1998 og utfaset i forbindelse med produksjonssetting av Athene (2009). Historikken fra PIA (1998-2009) ble ikke tatt med i Athene og read-only data ble konvertert fra PIA Oracle-databasen. Konvertering og koding av &quot;Lese gamle PIA data&quot; ble utført av Magne Q4 2009. &quot;Lese gamle PIA data&quot; er tilgjengelig på P:\Pia-2000 og programmet har ikke startikon på Citrix SLV-Desktop.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

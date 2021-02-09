@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruteplanlegging"
+    id="8ffdeef4-f94b-4c84-8a2d-54e9be844b6e"
+    documentation="Ability to research, define, award, and establish a way or course taken in getting from a starting point to a destination, which may include stops along the way.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ruteplanlegging"/>
+  <properties
+      key="difi:name_en"
+      value="Route Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to research, define, award, and establish a way or course taken in getting from a starting point to a destination, which may include stops along the way."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to research, define, award, and establish a way or course taken in getting from a starting point to a destination, which may include stops along the way."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

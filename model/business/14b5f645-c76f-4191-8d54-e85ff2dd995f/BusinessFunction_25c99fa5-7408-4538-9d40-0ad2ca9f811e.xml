@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelovervåking"
+    id="25c99fa5-7408-4538-9d40-0ad2ca9f811e"
+    documentation="Legemiddelverket har ansvar for sikkerhetsinformasjon om legemidler, overvåking av bivirkninger og forvaltning av det nasjonale bivirkningsregisteret.&#xD;&#xA;&#xD;&#xA;Aktuelle e-postadresser:&#xD;&#xA;bivirkninger@legemiddelverket.no (human)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

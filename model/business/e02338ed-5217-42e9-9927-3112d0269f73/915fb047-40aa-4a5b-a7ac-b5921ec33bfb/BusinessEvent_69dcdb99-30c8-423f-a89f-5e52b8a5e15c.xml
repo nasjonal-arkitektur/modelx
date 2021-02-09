@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende søknad om klinisk utprøving"
+    id="69dcdb99-30c8-423f-a89f-5e52b8a5e15c"
+    documentation="I følge europeisk lovverk må all forskning på mennesker må søkes om til Legemiddelverket. Det gjelder både utvikling av legemidler (som del av &quot;medikamentreisen&quot;), men også studier som gjøres i regi av akademia (med eller uten involvering av farmasøytisk industri). &#xD;&#xA;&#xD;&#xA;Søknaden skal inneholde informasjon om detaljert prosjektplan for gjennomføringen, antall pasienter, hvordan man skal analysere data, hvilke problemstillinger man skal analysere. Man må også dokumentere kvalitet og resultater fra den prekliniske fasen. Dokumentasjonsmengden er omfattende. Dokumentasjon sendes inn elektronisk via CESP, som pdf-filer i e-post eller EUDRALINK&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

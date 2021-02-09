@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad"
+    id="a9f45fb0-e318-4cbe-badd-152ce14aadbd"
+    documentation="Hvert enkelt medlemsland behandler søknaden iht nasjonalt regelverk. Dokumentasjonen og utredningen fra VHP vil ligge til grunne for dette.&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

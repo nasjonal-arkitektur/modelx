@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for pris og FEST"
+    id="a96a30a5-6d5f-415c-96cd-0587dfe15c33"
+    documentation="Eininga har ansvar for regulering av pris og distribusjon av strukturert legemiddelinformasjon til helseteneste og pasientar. Eininga skal legge til rette for trygg, riktig og kostnadseffektiv legemiddelbruk. Derfor har eininga ansvar for desse oppgåvene:&#xD;&#xA;&#xD;&#xA;* distribuere informasjon om legemiddel til helseteneste og pasient&#xD;&#xA;* utvikle nye informasjonstenester for å møte behov i primær- og spesialisthelseteneste&#xD;&#xA;* bidra til å standardisere informasjon om legemiddel nasjonalt og i Europa&#xD;&#xA;* regulere maksimalpris på reseptpliktige legemiddel til menneske&#xD;&#xA;* apotekøkonomi, inkludert å gi driftsstøtte til apotek&#xD;&#xA;generisk bytte av legemiddel i apotek">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KS"
+    id="58ae027b-455f-4e47-ba75-4890dd66358f">
+  <properties
+      key="Kilde"
+      value="Manuelt"/>
+  <properties
+      key="Kildesystem"
+      value="Diverse_elementer.xlsx"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Del og innhent data, verdistrøm"
+    id="id-382879debc874aecaddb0cf4eef24a47">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="9aa92583-a5d4-484b-a630-e2f17380fb24"/>
+  <properties
+      key="drill down"
+      value="9aa92583-a5d4-484b-a630-e2f17380fb24"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

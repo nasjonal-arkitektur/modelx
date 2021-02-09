@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre aktører"
+    id="3a8fa119-4bb7-40f1-a26b-c0b4ffd6e873">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

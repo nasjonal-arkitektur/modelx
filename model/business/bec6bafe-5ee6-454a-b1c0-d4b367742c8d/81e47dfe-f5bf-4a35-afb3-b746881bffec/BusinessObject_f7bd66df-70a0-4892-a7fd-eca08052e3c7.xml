@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M4 - Pre-klinikk"
+    id="f7bd66df-70a0-4892-a7fd-eca08052e3c7"
+    documentation="Modul 4 - Resultater og dokumentasjon fra prekliniske undersøkelser (Preklinikk - dyr og vev)&#xA;Nonclinical Study Reports (studier som ikke er gjennomført på mennesker)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

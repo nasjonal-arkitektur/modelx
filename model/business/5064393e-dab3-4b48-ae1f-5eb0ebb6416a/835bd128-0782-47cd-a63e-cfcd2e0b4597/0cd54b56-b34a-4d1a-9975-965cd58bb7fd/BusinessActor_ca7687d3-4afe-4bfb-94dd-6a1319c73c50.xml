@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Harmonisering/oppdatering av doseringsanbefalinger for MTer med paracetamol (lag)"
+    id="ca7687d3-4afe-4bfb-94dd-6a1319c73c50"
+    documentation="Harmonisering av doseringsanbefalingene for paracetamol i SmPC og PIL, spesielt til barn">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

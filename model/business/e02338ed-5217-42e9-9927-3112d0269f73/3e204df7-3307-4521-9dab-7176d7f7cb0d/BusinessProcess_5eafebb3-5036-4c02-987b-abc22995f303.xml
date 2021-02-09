@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fatte vedtak og formidle"
+    id="5eafebb3-5036-4c02-987b-abc22995f303"
+    documentation="Vedtak formidles til reseptformidleren.&#xD;&#xA;Avslag avstedekommer et varsel til legen i legens EPJ.&#xD;&#xA;I Farmapro, kan Apotekene se responsen dersom det søkes fram.&#xD;&#xA;Dersom avslagsvedtaket kan påklages, registreres vedtaket i P360">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kildedata"
+    id="id-1cc616373b9a4486817077c7ee705d70">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessObject>

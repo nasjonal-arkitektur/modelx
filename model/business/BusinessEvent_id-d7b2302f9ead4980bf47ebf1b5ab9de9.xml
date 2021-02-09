@@ -1,0 +1,8 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data er oppdater i målsystem"
+    id="id-d7b2302f9ead4980bf47ebf1b5ab9de9">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessEvent>

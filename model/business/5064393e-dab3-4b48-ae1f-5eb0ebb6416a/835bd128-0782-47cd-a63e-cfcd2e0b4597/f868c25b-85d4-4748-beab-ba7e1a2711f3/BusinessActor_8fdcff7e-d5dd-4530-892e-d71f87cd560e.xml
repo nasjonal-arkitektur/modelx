@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddeltilgang av legemidler i CP-CXMP/CAT - Endringer (lag)"
+    id="8fdcff7e-d5dd-4530-892e-d71f87cd560e"
+    documentation=" MT og 4.1 endringer /PIP/Artikkel 45,46/referrals (utrederansvar) til mennesker og dyr.&#xD;&#xA;For legemidler til mennesker dannes det et lag som går helt frem til markedstilgang der det er relevant. Vurdere innsendt dokumentasjon (utrederansvar) + Vurdering av andre lands rapporter når det kommenteres på andre lands utredninger&#xD;&#xA;">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

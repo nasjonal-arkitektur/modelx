@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard Terms (lag)"
+    id="b957d907-2932-4a09-87c4-ab627a3b3a4e"
+    documentation="Vurdere og kommentere nye og reviderte EDQM standardtermer for legemiddelformer, administrasjonsveier, beholdere m.m. og deres definisjoner. Utarbeide norske oversettelser av godkjente standardtermer samt revisjon av eksisterende oversettelser.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidler til akvariefisk (lag)"
+    id="c35e90eb-78f6-46f0-85db-7afe9666136f"
+    documentation="Utrede en ordning med salg av reseptfrie legemidler uten MT og utenom apotek til bruk i akvariefisk. Veterinærfaglig utredning er gjort, men utredning av hjemling i regelverket mangler.">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

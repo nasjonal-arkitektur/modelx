@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informere publikum"
+    id="9cdf44e1-fd21-4521-b4f0-16da949468fb"
+    documentation="Pressemeldinger og annen generell informasjon til publikum om bivirkninger gjennom Legemiddelverkets hjemmesider og andre kanaler">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsumere notifikasjoner"
+    id="id-245d246f413b4ef2a0d65606a8a66065">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

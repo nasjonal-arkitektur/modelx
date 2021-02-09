@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroll av navn på medikamentet"
+    id="5b01d6a1-1306-4de7-8d66-0518f7edc757"
+    documentation="Navn kontrolleres etter gitte kriterier - dersom produktet har et fantasinavn eller navnet representerer et tvilstilfelle, skal dette behandles av navnegruppa&#xD;&#xA;Dersom navnet er basert på legemiddelnavn, preparat osv. er dette greit så lenge det er på norsk, engelsk eller latinsk.&#xD;&#xA;&#xD;&#xA;Navnegruppa har et regneark i Public 360 som benyttes til å koordinere alle navnesaker. Navnegruppa møtes to ganger i uken.&#xD;&#xA;Navnegruppa har dialog med MT-søker om navn dersom det er behov for å gjøre endringer. De melder også fra når navn err godkjent.&#xD;&#xA;Endelig registreringen av navn gjøres i SAM&#xD;&#xA;Har et excelark som navnegruppen ser - dette ligger I 360 - kan se når navnet endres. Navnegruppa møtes 2 ganger I uka. Sender ut respons til søkeren om man kan godkjenne navnet. Den endelige registreringen, eller dersom det ikke skal til navnegruppa gjøres dette I SAM.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melde kommentarer til Rapportør og Ko-rapportør"
+    id="5bf4e9f7-b308-40dc-8363-7a1828c9d040"
+    documentation="Peer Reviewer  melder kommentarer til Rapportør og Ko-.rapportør&#xD;&#xA;Kommentarene gjennomgås i egen telefonkonferanse.&#xD;&#xA;&#xD;&#xA;I tillegg sender man kommentarer som Member state, på faglige vurderinger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

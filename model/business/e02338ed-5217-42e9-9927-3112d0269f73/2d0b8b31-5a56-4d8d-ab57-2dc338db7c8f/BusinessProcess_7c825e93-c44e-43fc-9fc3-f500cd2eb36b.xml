@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om makspris"
+    id="7c825e93-c44e-43fc-9fc3-f500cd2eb36b"
+    documentation="På bakgrunn av søknad fra MT-innehaver gjøres det en fastsetting av makspris for et medikament. Det gjøres også noe forhandlinger på huset nå, men ikke som en reell forhandling. I praksis sier til produsenten hva produsentens legemiddel kan koste.&#xD;&#xA;&#xD;&#xA;MT-innehaver må søke om makspris for legemiddelet. LMV gjør ingenting før de får søknaden..&#xD;&#xA;&#xD;&#xA;Generikasøknader - Det må også søkes om makspris for generika. Generika har en forenklet markedsføringstillatelse. Det er ikke alle legemidler det kommer generika for - der er ikke alle legemidler man kan tjene penger på som generika.&#xD;&#xA;&#xD;&#xA;Legemidler som parallellimporteres må det også søkes om makspris for. Man søker kun om maksimalpris. Dersom originalen har refusjon vil parallellimporterte legemidler få det automatisk uten å søke.&#xD;&#xA;&#xD;&#xA;Det fastsettes ikke makpris innenfor godkjenningsfritak.&#xD;&#xA;&#xD;&#xA;Kun reseptbelagte medisiner får en makspris. De må ha en markedsføringstillatelse for at de skal kunne søke om makspris.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

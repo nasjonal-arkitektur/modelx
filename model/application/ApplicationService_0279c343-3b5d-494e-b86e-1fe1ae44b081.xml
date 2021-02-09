@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroll"
+    id="0279c343-3b5d-494e-b86e-1fe1ae44b081">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

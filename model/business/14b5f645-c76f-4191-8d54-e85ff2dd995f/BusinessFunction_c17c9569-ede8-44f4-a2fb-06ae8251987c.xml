@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prisregulering"
+    id="c17c9569-ede8-44f4-a2fb-06ae8251987c"
+    documentation="Legemiddelverket regulerer pris på reseptpliktige legemidler.&#xD;&#xA;&#xD;&#xA;E-postadresse: prisinformasjon@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

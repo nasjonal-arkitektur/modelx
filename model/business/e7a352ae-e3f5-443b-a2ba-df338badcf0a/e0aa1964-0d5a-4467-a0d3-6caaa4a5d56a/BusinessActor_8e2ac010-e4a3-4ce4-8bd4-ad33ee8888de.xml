@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fredrik Fastlege"
+    id="8e2ac010-e4a3-4ce4-8bd4-ad33ee8888de">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessActor>

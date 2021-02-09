@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelmangel for mennesker og dyr (lag)"
+    id="a40cef68-9122-4bda-92cb-0591c56f26e2"
+    documentation="Vurdere meldinger, løse akutte mangelsituasjoner, skrive nyhetssaker, legge varsler i FEST, vedlikeholde mangelliste, vurdere søknader om salg av pakninger med forsinket implementering i PI, utenlandske pakninger, batchspesifikke endringer, aktiv deltakelse i nasjonale, nordiske og internasjonale fora. Vurdere meldinger om kvalitetssvikt/GMP-svikt for tidlig å avdekke mulige mangelsituasjoner. Vurdere om oppfølging bør gjøres når legemiddelmangel skyldes produksjonsproblemer for å redusere/forebygge problem. Vurdere om prøver bør kalles inn til testing i forbindelse med kvalitetssvikt/batch spesifikk/midlertidig godkjennelse. Vurdere om andre myndigheter bør informeres/informere.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

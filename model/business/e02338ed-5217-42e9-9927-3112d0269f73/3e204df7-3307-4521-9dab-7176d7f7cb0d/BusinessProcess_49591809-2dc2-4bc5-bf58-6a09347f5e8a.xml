@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifisere legemiddel"
+    id="49591809-2dc2-4bc5-bf58-6a09347f5e8a"
+    documentation="Så lenge et legemiddel er på positivlisten kan legemiddelet leveres ut fra apotek (notifiseres). Dette innebærer at det går raskere (ca 3 virkedager) for pasient å ta i bruk medisinen så lenge medisinen er på lager hos apotek/grossist)&#xA;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

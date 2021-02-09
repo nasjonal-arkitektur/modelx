@@ -10,7 +10,7 @@
       value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -30,13 +30,6 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="76606ae9-0a0e-40e4-9d3b-37c164a35077"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_5a592b17-5613-45aa-91d5-52d78d2eb391.xml#5a592b17-5613-45aa-91d5-52d78d2eb391"/>

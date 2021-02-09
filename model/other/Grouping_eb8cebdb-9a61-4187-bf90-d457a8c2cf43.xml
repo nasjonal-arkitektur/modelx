@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommune/fylkeskommune"
+    id="eb8cebdb-9a61-4187-bf90-d457a8c2cf43">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Grouping>

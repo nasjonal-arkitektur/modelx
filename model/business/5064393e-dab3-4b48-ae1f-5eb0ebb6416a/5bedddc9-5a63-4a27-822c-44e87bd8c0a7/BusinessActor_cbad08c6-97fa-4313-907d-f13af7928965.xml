@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kripos"
+    id="cbad08c6-97fa-4313-907d-f13af7928965"
+    documentation="Den nasjonale enhet for bekjempelse av organisert og annen alvorlig kriminalitet er en nasjonal politietat under Justis- og politidepartementet. Kripos har en vesentlig rolle i bekjempelse og informasjon rundt narkotikakriminalitet.  ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

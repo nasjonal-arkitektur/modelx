@@ -11,7 +11,7 @@
       value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>
@@ -32,13 +32,6 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="497a1e42-980e-4287-9dfd-4aa913cc922f"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_826add8d-7e18-486e-b79b-c2507d664874.xml#826add8d-7e18-486e-b79b-c2507d664874"/>

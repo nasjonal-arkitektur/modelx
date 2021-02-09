@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sirkluerer utredningsrapport Dag 50"
+    id="830ef3b6-5683-4ce2-aae1-6d5207d3fb97">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

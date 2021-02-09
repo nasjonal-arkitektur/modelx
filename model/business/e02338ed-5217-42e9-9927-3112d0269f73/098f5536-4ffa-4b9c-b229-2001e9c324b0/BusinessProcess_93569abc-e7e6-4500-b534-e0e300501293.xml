@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage og arkivere tilsynsrapport"
+    id="93569abc-e7e6-4500-b534-e0e300501293"
+    documentation="Etter gjennomført tilsyn, samles alle funn i en rapport, som arkiveres på tilsynssaken.&#xA;Avikkene som beskrives i rapporten har tre alvorlighetsgrader:&#xA;&#xA;Kritiske - må rettes opp i umiddelbart&#xA;Store - skal rettes opp i ila 3 mnd&#xA;Andre - SLV kreves at disse &quot;lukkes&quot; (men ikke nødvendigvis påkrevd av alle andre lands legemiddelmyndigheter)&#xA;&#xA;Det er til en viss grad tillitsbasert at avvik lukkes&#xA;Etter den nasjonale modellen må alle avvik &quot;lukes&quot; før sertifikat kan utstedes">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

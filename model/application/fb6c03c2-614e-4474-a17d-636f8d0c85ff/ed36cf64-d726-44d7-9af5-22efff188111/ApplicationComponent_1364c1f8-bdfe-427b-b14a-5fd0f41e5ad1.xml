@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apotekstatistikk"
+    id="1364c1f8-bdfe-427b-b14a-5fd0f41e5ad1"
+    documentation="Systemet for Apotekstatistikk (Elektronisk innrapportering) er et Excelark med diverse makroer som kan importere regnskap tilsendt fra alle apotek i Norge. Apotekene benytter excelmaler som ligger på www.legemiddelverket.no for eksport av egne regnskapsdata. SLV mottar excelfilene per epost og importerer dataene i Excelarket for Apotekstatistikk. Etter mottak av apotekregnskapsdata, importeres dataene en etter en inn i databasen. Kontrollen foregår manuelt og med visuell sammenstilling av regnskapstall i Excelarket. Databasen (Apostat) ligger på Microsoft SQL server og kontroll av regnskap gjelder for alle apotek som har vært i drift i foregående regnskapsår.&#xD;&#xA;&#xD;&#xA;Hvert år i januar/februar hentes aktuelle apotek ut av Apotekregisteret (Øystein Langgåt). Øystein har hvert år siden 2002 &quot;vasket&quot; listen mot egne data og data som Per Olav Roksvåg har registrert. Bakgrunn for &quot;vaskingen&quot; er at Apotekregisteret ikke har tilstrekkelig nøyaktige og valide data. Her er uttrekket fra 2016: Apotek som skal innlevere regnskaper for 2015.xlsx. Det er et håp og krav at SAM-T skal ordne opp i datagrunnlaget.&#xD;&#xA;&#xD;&#xA;Uttrekket har tidligere blitt sendt på epost til Magne som erstattet tabellen for aktuelle apotek i databasen Apostat. Med 99X må uttrekket sendes som Standard Change til support. Følgende veiledning har tidligere blitt laget for Microsoft SQL 2000 server og prinsippene er de samme for nyere versjoner: Rutine for import av apotek i databasen Apostat.doc">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

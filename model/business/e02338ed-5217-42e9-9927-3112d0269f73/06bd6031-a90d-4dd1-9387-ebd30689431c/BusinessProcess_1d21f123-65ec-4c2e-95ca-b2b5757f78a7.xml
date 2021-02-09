@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klassifisere produkt som ikke-legemiddel"
+    id="1d21f123-65ec-4c2e-95ca-b2b5757f78a7">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

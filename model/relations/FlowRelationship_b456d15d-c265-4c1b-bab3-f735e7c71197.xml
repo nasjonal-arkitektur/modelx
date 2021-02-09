@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uanmeldt tilsyn"
+    id="b456d15d-c265-4c1b-bab3-f735e7c71197"
+    documentation="Kan føre uvarslet tilsyn dersom det er grunn til det, f.eks. ved mistanke om misligheter knyttet til håndtering av narkotika.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_590054b0-1a6c-44f9-b51c-44f37eb82f05.xml#590054b0-1a6c-44f9-b51c-44f37eb82f05"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_71e4fe71-4517-4925-8d16-79e9ab84a26f.xml#71e4fe71-4517-4925-8d16-79e9ab84a26f"/>
+</archimate:FlowRelationship>

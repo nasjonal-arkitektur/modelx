@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skrive dag180-rapport (dag 160-180)"
+    id="43c25582-c691-47be-8cb8-1d1f385762f5"
+    documentation="RMS skriver utredningsrapport basert på MT-søkers tilbakemeldinger på kommentarer / spørsmål til dag120-rapporten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

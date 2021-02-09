@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS og RMS er uenige om utfall"
+    id="5d5c2f48-29e0-4f8f-a8ff-dafe69cadf11">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_c30873c0-ca45-4362-8dcb-dda449355abe.xml#c30873c0-ca45-4362-8dcb-dda449355abe"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f3b8863c-b6ec-4417-a391-efb7a1b4c8f2.xml#f3b8863c-b6ec-4417-a391-efb7a1b4c8f2"/>
+</archimate:FlowRelationship>

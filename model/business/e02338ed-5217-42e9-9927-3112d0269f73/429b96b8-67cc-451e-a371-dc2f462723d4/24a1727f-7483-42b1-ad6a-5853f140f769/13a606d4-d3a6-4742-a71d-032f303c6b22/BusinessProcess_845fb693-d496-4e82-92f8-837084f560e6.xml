@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta begrunnelse for reeksaminering"
+    id="845fb693-d496-4e82-92f8-837084f560e6"
+    documentation="En forespørsel om reeksaminering av søknad må begrunnes. Begrunnelsen legges til grunn for den nye vurderingen av søknaden.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

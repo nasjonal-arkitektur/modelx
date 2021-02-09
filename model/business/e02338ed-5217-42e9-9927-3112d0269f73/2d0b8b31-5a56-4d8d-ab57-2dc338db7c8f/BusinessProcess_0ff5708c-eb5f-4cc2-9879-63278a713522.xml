@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beregne og fastsette maks AIP"
+    id="0ff5708c-eb5f-4cc2-9879-63278a713522"
+    documentation="AIP = Apotekenes InnkjøpsPris&#xD;&#xA;AUP = Apotekenes UtsalgsPris&#xD;&#xA;&#xD;&#xA;Maksimal AIP - Innkjøpsprisen til apotekene. Det er en beregningsmodell bak for å komme fram til en Maks AUP (Apotekenes utsalgspris). &#xD;&#xA;Funksjonalitet i Athene beregner AIP basert på verdiene som er importert fra søknaden. Basert på AIP og en avansefaktor (Apotekenes Avanse - konfigurerbar variabel i Athene) beregnes det automatisk AUP.&#xD;&#xA;Derfor det er viktig at prisene er korrekt oppgitte i søknadsskjemaet. &#xD;&#xA;&#xD;&#xA;Kommer et nytt preparat med skyhøy pris blir dette sammenlignet med lignende preparater (ihht ATC-kode) i det norske markedet. &#xD;&#xA;&#xD;&#xA;Dersom det ikke er andre preparater å sammenligne med, og det heller ikke er oppgitt referansepriser, aksepteres som regel den pris MT-innehaver har angitt.&#xD;&#xA;&#xD;&#xA;Dersom de skal ha refusjon gjør de en kostnadsanalyse og ser på preparater innenfor samme områder. Mange ganger at prisen er satt i forhold til andre preparater innenfor samme terapautiske områder, vet at de ikke får refusjon med for høy pris.&#xD;&#xA;&#xD;&#xA;For generika og parallellimport settes stort sett samme maks AUP som originalen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

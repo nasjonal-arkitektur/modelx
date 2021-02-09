@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motta og sikre sirkulering av kommentarer og spm til dag120-rapport til alle (CMS) (dag 120-145)"
+    id="8f893880-a954-4d86-85cd-e744b952a412"
+    documentation="RMS har ansvar for å påse at alle utsendinger mht rapporter, kommentarer og spørsmål er distribuert til alle.&#xD;&#xA;Det registreres også i CTS at man har kommentarer /spørsmål.&#xD;&#xA;Dersom man ikke registrerer at man har kommentarer / spørsmål i CTS innen frist, ansees det som at man ikke har noen innvendinger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

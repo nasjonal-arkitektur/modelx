@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede søknad i henhold regelverk "
+    id="aec7e939-be77-44c3-bace-07d8947d52e5"
+    documentation="Søknaden utredes mht blant annet kvalitet og pasientsikkerhet, på bakgrunn av egne sjekklister / maler.&#xD;&#xA;Søknad sjekkes i henhold regelverk for klinisk utprøving av legemidler til mennesker. EU og Norge har begge regelverk som må følges på dette området.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

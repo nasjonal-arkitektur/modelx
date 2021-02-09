@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn"
+    id="7127cc8f-e619-4648-8263-9228980e59c0"
+    documentation="Vi bruker Altinn for innsending av skjematjenester i forbindelse med SAM-T og PASSRAPP">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

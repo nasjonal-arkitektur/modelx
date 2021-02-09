@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrasjon mister kontakt med filområdet"
+    id="0c1eb7ba-835e-4614-a6d8-d91714596e98"
+    documentation="Tilgang til filområdet til Viginor blir borte. Ukjent av hvilken  årsak.&#xD;&#xA;Det har skjedd sporadisk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VHP-A Administrator for VHP"
+    id="3c588162-90ee-448c-ab17-84576c65e386"
+    documentation="VHP eller voluntary harmonisation procedure er en prosedyre som benyttes for å behandle søknader om klinisk utprøving. Foreløpig er dette kun en øvelsesordning.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

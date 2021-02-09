@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroll av mottatt produktinformasjon"
+    id="99eff632-9a5b-4938-9693-3b7907cf32e6"
+    documentation="Kontroll av dokumentasjon mht kompletthet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage oversikt over legemidler som skal revurderes"
+    id="38831c51-80be-466e-af53-56757358496e"
+    documentation="På grunnlag av omsetningen av reseptpliktige markedsførte legemidler siste 12 mndr. lages en oversikt over legemidler det skal gjøres revurdering av.&#xD;&#xA;- Kilden er Farmastat.&#xD;&#xA;- Utvalget er de 240 største virkestoffene + de 60 neste son ikke er revurdert de siste 3 år&#xD;&#xA;- Gjøres i august/september hvert år">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

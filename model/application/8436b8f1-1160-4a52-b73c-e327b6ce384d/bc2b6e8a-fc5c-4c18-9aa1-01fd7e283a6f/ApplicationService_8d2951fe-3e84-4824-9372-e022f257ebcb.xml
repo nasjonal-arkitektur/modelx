@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NLS - Sluttbrukermodul"
+    id="8d2951fe-3e84-4824-9372-e022f257ebcb"
+    documentation="Dette er et webgrensesnitt hvor sluttbrukere kan få tilgang til noerske legemiddelstandarder (oversetting av legemiddelstandardbegreper som benyttes i hele verden).&#xD;&#xA;Løsningen benyttes av interne saksbehandlere og eksterne brukere">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

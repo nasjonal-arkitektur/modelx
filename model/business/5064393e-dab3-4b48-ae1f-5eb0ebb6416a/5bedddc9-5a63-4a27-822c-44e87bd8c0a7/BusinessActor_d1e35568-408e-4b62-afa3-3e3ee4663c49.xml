@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestillerforum RHF"
+    id="d1e35568-408e-4b62-afa3-3e3ee4663c49"
+    documentation="RHF = Regionale HelseForetak&#xA;Ansvarlig for å bestille metodevurdering.&#xA;Medlemmer er de fire fagdirektørene fra de regionale helseforetak (RHF) og to representanter fra Helsedirektoratet.&#xA;Kunnskapssenteret i FHI, SLV, Statens strålevern og Legemiddelinnkjøpssamarbeidet (LIS) har en observatør hver.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

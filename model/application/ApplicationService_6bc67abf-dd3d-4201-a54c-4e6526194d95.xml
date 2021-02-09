@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akson journalplattform"
+    id="6bc67abf-dd3d-4201-a54c-4e6526194d95">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

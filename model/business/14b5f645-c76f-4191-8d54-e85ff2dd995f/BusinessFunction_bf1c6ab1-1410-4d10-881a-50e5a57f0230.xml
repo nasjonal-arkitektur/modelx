@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reklametilsyn"
+    id="bf1c6ab1-1410-4d10-881a-50e5a57f0230"
+    documentation="Legemiddelverket fører tilsyn med legemiddelreklame og utvikler regelverket på dette området.&#xD;&#xA;&#xD;&#xA;E-postadresse: reklame@legemiddelverket.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

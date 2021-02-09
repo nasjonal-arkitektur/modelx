@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fullmakt"
+    id="1ad65a80-899f-496c-ada7-de54ba73566b">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

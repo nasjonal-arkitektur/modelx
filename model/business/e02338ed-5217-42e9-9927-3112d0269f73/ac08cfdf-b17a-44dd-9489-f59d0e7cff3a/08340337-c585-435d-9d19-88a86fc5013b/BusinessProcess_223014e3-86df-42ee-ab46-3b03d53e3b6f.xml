@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strukturere og behandle melding om bivirkning fra vaksine fra helsepersonell"
+    id="223014e3-86df-42ee-ab46-3b03d53e3b6f"
+    documentation="All informasjon som trengs skal komme via bivirkningsskjemaet fra Altinn. Det FHI gjør er å strukturere denne informasjonen og legge til ATC*-koder.&#xA;&#xA;*ATC-kode (Anatomical Therapeutic Chemical Classification System) er det klassifiseringssystemet man har valgt å basere seg på i VigiNor. EUDRAVIGILANCE benytter et annet klassifiseringssystem, som medfører at alle meldinger om bivirkning må påføres ATC-kode.&#xA;Dette gjøres manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

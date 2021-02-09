@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere vedtak"
+    id="a88eb42f-5dc5-4fa3-8e9e-3170f2224361"
+    documentation="Vedtak i saken registreres i EudraCT, slik at myndigheter i andre land kan se utfallet av søknadsprosessen.&#xD;&#xA;&#xD;&#xA;REK og SLV fatter sine vedtak uavhengig av hverandre.&#xD;&#xA;&#xD;&#xA;Begge parter må fatte positive vedtak for at tillatelse til gjennomføring av klinisk utpøving gis.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

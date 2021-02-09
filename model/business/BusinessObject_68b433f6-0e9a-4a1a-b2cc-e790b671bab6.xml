@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forespørsel"
+    id="68b433f6-0e9a-4a1a-b2cc-e790b671bab6"
+    documentation="Informasjon om det som forespørres.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessObject>

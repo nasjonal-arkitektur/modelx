@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EDQM-skjema"
+    id="c9059102-6db9-4333-85a2-3ce58d08ab7d"
+    documentation="Rapportering av resultater av analyser sendes til EDQM i form av et eget Word-basert skjema.&#xD;&#xA;Alle felter i skjemaet må fylles ut.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

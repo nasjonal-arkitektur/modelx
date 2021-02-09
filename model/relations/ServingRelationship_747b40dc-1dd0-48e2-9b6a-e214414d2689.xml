@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMOL"
+    id="747b40dc-1dd0-48e2-9b6a-e214414d2689">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_5d451497-d5c8-4439-b296-9fd858e91883.xml#5d451497-d5c8-4439-b296-9fd858e91883"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fee55fb6-f9ff-4034-8237-c9b9b23e0502.xml#fee55fb6-f9ff-4034-8237-c9b9b23e0502"/>
+</archimate:ServingRelationship>

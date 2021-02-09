@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opprette lag for søknadsbehandling"
+    id="0b4d4b74-854a-4868-b235-ec0a38b51848"
+    documentation="Dersom beslutning er at man skal ta RMS-oppdraget, opprettes det et midlertidig lag som skal håndtere søknadsbehandlingen.&#xD;&#xA;Saken legges også inn i utredningsportalen.&#xD;&#xA;De midlertidige lagene består av:&#xD;&#xA;* Regulatorisk MRP/DCP (RMS og CMS) MT-søknader (lag)&#xD;&#xA;* Kvalitetsvurdering biologiske legemidler til mennesker og dyr. (lag)&#xD;&#xA;* Kvalitetsvurdering kjemisk/syntetiske legemidler - Human og Veterinær (lag)&#xD;&#xA;* Farmakologi (lag)&#xD;&#xA;* Pre-Klinikk (lag)&#xD;&#xA;* SEN - Sikkerhet og Effekt for Nye virkestoff  (lag)&#xD;&#xA;* SEK - Sikkerhet og Effekt kjente virkestoffer (lag)&#xD;&#xA;* Lesbarhetstesting av produktinformasjon (lag)&#xD;&#xA;* Utstedelse av MT  (MRP/DCP) human/vet (lag)&#xD;&#xA;* Veterinær - Effekt og Sikkerhet (lag)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

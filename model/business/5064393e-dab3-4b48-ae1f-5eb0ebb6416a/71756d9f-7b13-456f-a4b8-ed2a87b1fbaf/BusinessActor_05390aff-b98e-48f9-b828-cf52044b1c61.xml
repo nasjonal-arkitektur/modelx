@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhetsleder "
+    id="05390aff-b98e-48f9-b828-cf52044b1c61"
+    documentation="Har personalansvar for enhetens ansatte.&#xD;&#xA;Kan ha oppfølgingsansvar for lagledere(EMOL) og ansvar for utpeking/utlysing av vikar i laglederroller.&#xD;&#xA;Deltar i prioriteringsmøtet (PM) der de bidrar til riktige prioriteringer for Legemiddelverket som helhet.&#xD;&#xA;Medvirker til å implementere og følge opp arbeid med Legemiddelverkets strategi.&#xD;&#xA;Enhetsleder med oppfølgingsansvar for lag(EMOL) og lagleder skal sammen legge en plan for oppfølging av laget.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

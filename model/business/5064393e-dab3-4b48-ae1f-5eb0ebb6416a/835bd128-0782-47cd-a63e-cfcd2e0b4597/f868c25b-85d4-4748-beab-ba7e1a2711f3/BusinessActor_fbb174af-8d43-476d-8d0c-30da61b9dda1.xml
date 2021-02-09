@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk MRP/DCP (RMS og CMS) MT-søknader (lag)"
+    id="fbb174af-8d43-476d-8d0c-30da61b9dda1"
+    documentation="Alle regulataoriske oppgaver fra søknad meldes (inkludert håndtering av forespørsel om RMS-oppdrag) og til prosedyreslutt.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

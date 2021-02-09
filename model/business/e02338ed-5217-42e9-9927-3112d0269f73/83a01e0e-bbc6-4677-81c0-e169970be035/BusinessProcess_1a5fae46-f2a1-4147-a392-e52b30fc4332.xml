@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjennomføre (hurtig) metodevurdering"
+    id="1a5fae46-f2a1-4147-a392-e52b30fc4332"
+    documentation="Det gjennomføres metodevurdering på alle nye legemidler. Så lenge det er snakk om &quot;Hurtig metodevurdering&quot; vil det være Legemiddelverket som gjennomfører metodevurderingen. I tilfeller hvor det må utføres &quot;Fullstendig metodevurdering&quot; vil det gjennomføres av Folkehelseinstituttet. Her er prosessen for hurtig metodevurdering av sykehuslegemidler og legemidler finansiert av folketrygden (blåresept).&#xA;&#xA;Godkjente legemidler må metodevurderes (&quot;verdivurderes&quot;) for å få offentlig finansiering, slik at de kommer blå resept eller blir tatt i bruk av sykehusene. Legemiddelfirmaene må levere dokumentasjon på forespørsel fra Legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

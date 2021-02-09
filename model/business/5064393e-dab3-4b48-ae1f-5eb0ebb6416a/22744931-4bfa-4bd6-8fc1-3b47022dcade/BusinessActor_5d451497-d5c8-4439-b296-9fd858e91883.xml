@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatorisk enhet 2"
+    id="5d451497-d5c8-4439-b296-9fd858e91883"
+    documentation="Eininga har ansvar for regulatoriske oppgåver som skjer etter at eit legemiddel har fått marknadsføringsløyve, for eksempel endringar, fornyingar og tvisteløysingar (referrals). (Regulatorisk enhet 1 har ansvar for oppgåver fram til marknadsføringsløyve blir gitt)">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plukke søknad til behandling fra søknadsoversikt"
+    id="4a83b1e1-aca6-43df-8a5a-ac4a2f467d47"
+    documentation="Når saksbehandler har tid går man inn og plukker en søknad for behandling. Man bruker Excel som utgangspunkt for å plukke saker (vet ikke hvorfor Excel benyttes, har bare alltid gjort det sånn - de har god oversikt).&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="App Smittestopp database"
+    id="6cb1d3aa-0174-460b-aa23-0b3348026bcf">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

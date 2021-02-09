@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prisfastsetting"
+    id="236e52f0-e7b9-4a28-b27b-120e5dbb32ac"
+    documentation="Alle registrerte, reseptpliktige legemidler for mennesker må få en maksimalpris, fastsatt av Legemiddelverket, før de kan markedsføres. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

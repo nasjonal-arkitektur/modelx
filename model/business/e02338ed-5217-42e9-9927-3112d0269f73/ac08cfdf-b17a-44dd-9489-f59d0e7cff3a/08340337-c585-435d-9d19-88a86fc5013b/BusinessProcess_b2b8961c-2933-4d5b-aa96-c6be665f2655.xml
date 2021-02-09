@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strukturere og saksbehandle mottatt melding fra pasient / pårørende"
+    id="b2b8961c-2933-4d5b-aa96-c6be665f2655"
+    documentation="Altinn-skjemaet samler inn all nødvendig informasjon, så det skal ikke være nødvendig for Bivirkningslaget å endre på eller supplere denne. Men det må likevel gjøres en jobb med å strukturere innholdet slik at riktig informasjon havner i riktig felt i bivirkningsmeldingen. Oppgaven består med andre ord i hovedsak å strukturere tekstlig informasjon i kodefelter. F.eks:&#xD;&#xA;- Registrere ATC*-koder (Alle bivirkningsmeldinger blir kodet etter et internasjonalt kodeverk, slik at symptomer, sykdommer og legemidler gis et internasjonalt standardisert format.)&#xD;&#xA;- MEDRA (Medical Dictionary for Regulatory Activities) - Internasjonal oversikt over medisisnske fagtermer på diagnoser o.l. (ikke alltid pasient registrerer korrekt term)&#xD;&#xA;- Alvorlighet - vurdering / evt. justering av denne (Pasient/pårørende vil ikke alltid vurdere bivirkningens alvorlighet riktig.&#xA;&#xA;ATC-kode (Anatomical Therapeutic Chemical Classification System) er det klassifiseringssystemet man har valgt å basere seg på i VigiNor. EUDRAVIGILANCE benytter et annet klassifiseringssystem, som medfører at alle meldinger om bivirkning må påføres ATC-kode.&#xA;Dette gjøres manuelt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

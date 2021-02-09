@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtheneSamhandling"
+    id="4d92bbe8-400f-4d33-a988-ed6d6d79cbe7"
+    documentation="Integrasjonstjeneste for integrasjon med Athene Database&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

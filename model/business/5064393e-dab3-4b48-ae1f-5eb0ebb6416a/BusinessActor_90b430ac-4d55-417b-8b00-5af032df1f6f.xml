@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemiddelverket"
+    id="90b430ac-4d55-417b-8b00-5af032df1f6f"
+    documentation="Statens legemiddelverk skal sikre god kvalitet ved behandling med legemidler og at legemidler har lavest mulig pris. Vi skal sørge for at befolkningen får likeverdig og rask tilgang til effektive legemidler, legge til rette for forskning og innovasjon og forvalte produktregelverket for medisinsk utstyr.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

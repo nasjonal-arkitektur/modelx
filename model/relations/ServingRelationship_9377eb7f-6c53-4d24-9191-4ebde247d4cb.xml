@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kun sykehusavdeling"
+    id="9377eb7f-6c53-4d24-9191-4ebde247d4cb">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_aad674e4-9753-4f85-aa75-795f28950750.xml#aad674e4-9753-4f85-aa75-795f28950750"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5a7fab1b-7fa4-45ff-bdc3-9fbb074d6ef4.xml#5a7fab1b-7fa4-45ff-bdc3-9fbb074d6ef4"/>
+</archimate:ServingRelationship>

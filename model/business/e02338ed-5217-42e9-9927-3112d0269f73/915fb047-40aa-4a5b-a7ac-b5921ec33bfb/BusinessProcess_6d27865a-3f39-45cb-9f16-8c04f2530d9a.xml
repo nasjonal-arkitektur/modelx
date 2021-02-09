@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere melding / rapport mht behov for endring eller stopp av utprøving"
+    id="6d27865a-3f39-45cb-9f16-8c04f2530d9a">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

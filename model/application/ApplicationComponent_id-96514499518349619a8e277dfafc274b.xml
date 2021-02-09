@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway hos dataeier / OAuth resource server"
+    id="id-96514499518349619a8e277dfafc274b"
+    documentation="API gateway beskytter ressurser og monitorerer tilgang. Den håndhever tilgangsstyring ved å validere aksesstokens og utfører eventuell fin-granulert tilgangskontroll. Den håndhever også volumbegrenseninger og samler data om bruken av APIer (logging). &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Komponent som beskytter ressursene og monitorerer tilgang inklusivt:&#xD;&#xA;&#xD;&#xA;*  Validere tilgangstoken&#xD;&#xA;*  Beskytte mot inntrenging og andre trusler&#xD;&#xA;• Håndtere volumbegrensninger og andre abonnementsordninger&#xD;&#xA;• Håndheve tilgangsstyring&#xD;&#xA;• Samle inn data om bruken av API-er&#xD;&#xA;• [orkestrering mellom interntjeneser??]&#xD;&#xA;&#xD;&#xA;Prinsipp fra Steiner:&#xD;&#xA;Oppgaver både sikkerhetsperspektiv og forvaltningsperspektivet&#xD;&#xA;Dersom gatway skal stå for sikkerheten, MÅ VÆRE SIKKER PÅ at API ikke kan nås utenom gateway&#xD;&#xA;Noen må passe VELDIG godt på gatewayen og holder den oppdatert.&#xD;&#xA;&#xD;&#xA;Det må være et tydeligvalg om hvem (gateway eller API) har ansvar for sikkerhetsmessig.&#xD;&#xA;">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

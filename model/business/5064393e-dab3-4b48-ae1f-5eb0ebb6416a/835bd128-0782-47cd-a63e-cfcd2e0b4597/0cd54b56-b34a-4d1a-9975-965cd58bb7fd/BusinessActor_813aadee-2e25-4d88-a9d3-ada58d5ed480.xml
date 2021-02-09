@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pris- og apotekøkonomi (lag)"
+    id="813aadee-2e25-4d88-a9d3-ada58d5ed480"
+    documentation="Maksimalpris, trinnpris, apotekavanse, apotekstatistikk, sektoravgifter, tilskudd til apotek, fraktrefusjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

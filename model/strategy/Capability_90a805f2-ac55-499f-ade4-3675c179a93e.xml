@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å vurdere og beskrive tilgang til data (fra orden i eget hus)"
+    id="90a805f2-ac55-499f-ade4-3675c179a93e"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder må evne å vurdere egne data med tanke på deling med eksterne konsumenter. Vurderingene som gjøres bør gjøres tilgjengelig for allmennheten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Vurdere om data kan deles ved å klassifisere data som grønn (offentlig), gul (begrenset offentlighet) og rød (unntatt offentlighet)&#xD;&#xA;&#xD;&#xA;Vurderingene bør dokumenteres og gjøres tilgjengelig for eventuelle konsumenter&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å vurdere og beskrive tilgang til data (fra orden i eget hus)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datatilbyder må evne å vurdere egne data med tanke på deling med eksterne konsumenter. Vurderingene som gjøres bør gjøres tilgjengelig for allmennheten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Vurdere om data kan deles ved å klassifisere data som grønn (offentlig), gul (begrenset offentlighet) og rød (unntatt offentlighet)&#xD;&#xA;&#xD;&#xA;Vurderingene bør dokumenteres og gjøres tilgjengelig for eventuelle konsumenter&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

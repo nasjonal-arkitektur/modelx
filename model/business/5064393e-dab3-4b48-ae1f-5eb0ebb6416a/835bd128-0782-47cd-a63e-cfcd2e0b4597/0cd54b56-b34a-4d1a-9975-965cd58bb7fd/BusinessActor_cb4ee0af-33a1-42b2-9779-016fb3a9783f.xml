@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PI support/diverse saksbehandling og administrative oppgaver human/vet (lag)"
+    id="cb4ee0af-33a1-42b2-9779-016fb3a9783f"
+    documentation="Diverse faste oppgaver; brevskriving, endringer, transfer m.m.&#xA;PI = Product information/produktinformasjon">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

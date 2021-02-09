@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvikling av brukernære API og datasett"
+    id="id-c10096bcdd784cd985a921f60c6f0d65">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-forvaltning"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-f27d35941f384297b7b099b612b29096"/>
+  <properties
+      key="drill down"
+      value="id-f27d35941f384297b7b099b612b29096"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

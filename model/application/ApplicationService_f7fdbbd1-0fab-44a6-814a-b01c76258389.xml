@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdrags-tagere"
+    id="f7fdbbd1-0fab-44a6-814a-b01c76258389">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

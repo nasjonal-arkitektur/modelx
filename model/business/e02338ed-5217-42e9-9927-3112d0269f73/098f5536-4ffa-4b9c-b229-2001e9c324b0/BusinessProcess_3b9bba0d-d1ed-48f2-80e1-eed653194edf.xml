@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planlagte tilsyn"
+    id="3b9bba0d-d1ed-48f2-80e1-eed653194edf"
+    documentation="Hoveddelen av de tilsyn som gjennomføres, gjøres ut fra en plan om gjennomføring.&#xD;&#xA;Til grunn for denne planen ligger: &#xD;&#xA;* krav om tilsynsfrekvens fra EU&#xD;&#xA;* vurdering av risiko (risikobasert tilsyn)&#xD;&#xA;* oppdrag fra EMA / EDQM">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

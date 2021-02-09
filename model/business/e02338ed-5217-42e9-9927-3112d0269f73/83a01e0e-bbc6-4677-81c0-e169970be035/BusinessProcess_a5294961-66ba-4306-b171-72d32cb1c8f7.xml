@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formøte"
+    id="a5294961-66ba-4306-b171-72d32cb1c8f7"
+    documentation="Legemiddelfirmaet kommer til Legemiddelverket og holder muntlig presentasjon">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

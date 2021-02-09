@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkning - meldingskonvertering"
+    id="07f01dd6-089a-4b00-9831-3375864b0d52"
+    documentation="Konvertering fra Altinn skjemafomat til R2-format&#xD;&#xA;3 jobber:&#xD;&#xA;- FileCopy Altinnn - kopierer fila til eget fiolshare&#xD;&#xA;- SLV BsatchsplitterApplicatoin - plukker opp fila og starter K2-prosess for prosessering&#xD;&#xA;- FileCopyPassRapp - kopierer ferdig prosesserert fil og legger den på filshare til Viginor">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

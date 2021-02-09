@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraGMP"
+    id="741ccc89-9434-4a35-ab9a-df3c4e032a68"
+    documentation="EudraGMP is the database of the European Community of manufacturing authorisations and of certificates of good manufacturing practice. The EudraGMP system was launched in April 2007, for use by European Medicines Regulators. Access for the general public, via Internet, is available since 2009 using the URL : http://eudragmp.ema.europa.eu.&#xD;&#xA;EudraGMP is part of a larger database known as EudraGMDP, which contains information on:&#xD;&#xA;* “Manufacturing and import authorisations&#xD;&#xA;* Good manufacturing Practice (GMP) certificates&#xD;&#xA;* Statements of non-compliance with GMP&#xD;&#xA;* GMP inspection planning in third countries” [1]">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

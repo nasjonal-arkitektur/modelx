@@ -1,0 +1,37 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasett"
+    id="e7a43b99-dd6d-4881-9c92-fcea2c2e9f49"
+    documentation="Iflg. https://w3c.github.io/dxwg/dcat/#Class:Dataset : A collection of data, published or curated by a single agent, and available for access or download in one or more representations.&#xD;&#xA;&#xD;&#xA;Et datasett kan inneholde eller lenkes til andre datasett. &#xD;&#xA;&#xD;&#xA;Oppbyggingen av datasett, samt relasjoner melom datasett, uttrykkes i datamodeller.">
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datasett"/>
+  <properties
+      key="difi:name_en"
+      value="Dataset"/>
+  <properties
+      key="difi:description_no"
+      value="Iflg. https://w3c.github.io/dxwg/dcat/#Class:Dataset : A collection of data, published or curated by a single agent, and available for access or download in one or more representations.&#xD;&#xA;&#xD;&#xA;Et datasett kan inneholde eller lenkes til andre datasett. &#xD;&#xA;&#xD;&#xA;Oppbyggingen av datasett, samt relasjoner melom datasett, uttrykkes i datamodeller."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

@@ -1,0 +1,24 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over tilpasninger"
+    id="id-f0c17dedfebb4e3a9d1384101775a70b">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-8f23c685cc9d44a69b5f65873333badb">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="222"
+        y="84"
+        width="133"
+        height="67"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-a2583934806b4e6c987d01d8bf9bb9ca.xml#id-a2583934806b4e6c987d01d8bf9bb9ca"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ArchimateDiagramModel>

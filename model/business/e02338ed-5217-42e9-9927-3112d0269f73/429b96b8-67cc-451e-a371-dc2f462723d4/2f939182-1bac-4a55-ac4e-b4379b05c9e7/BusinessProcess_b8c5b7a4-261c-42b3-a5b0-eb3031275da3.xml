@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mottar dokumentasjon - utredningsrapport"
+    id="b8c5b7a4-261c-42b3-a5b0-eb3031275da3"
+    documentation="I MRP foreligger det allererede en utredningsrapport fra søknad om markedsføringstillatelse (MT) i andre EU/EØS-land gjennom NP eller DCP. Denne blir grunnlaget for videre utredning av søknaden. Produktinformasjons, pakningsvedlegg, mockups o.l. oversendes også.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

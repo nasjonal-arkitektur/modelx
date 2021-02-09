@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtere sviktmeldinger"
+    id="83a64354-3ba9-4f93-abe0-568ac2418af6"
+    documentation="Sviktmeldinger tilsvarer bivirkningsmeldinger for medikamenter. Prosessen for å håndtere meldingene er synonym med prosessen for å håndtere bivirkningsmeldinger.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

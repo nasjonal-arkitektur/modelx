@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apotek"
+    id="5919b15e-f226-40d9-877b-ceb2b503872c"
+    documentation="Forretning med bevilling til å lage og selge medisiner og andre apotekervarer.&#xA;Apotekene er underlagt lover og regler knyttet til salg av legemidler, og er gjenstand for tilsyn fra Legemiddelverket.&#xA;For å eie og drive et apotek er det nødvendig å inneha apotekkonsesjon (eie), driftskonsesjon (drifte), tilvirkertillatelse (lage legemidle) mv.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

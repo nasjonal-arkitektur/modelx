@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verken trekker søknad eller ber om reeksaminering"
+    id="6ab2736e-752e-454d-b35d-aa40e57b4548"
+    documentation="Søker har verken bedt om reeksaminering eller trukket søknaden">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_6936036e-8713-4ee6-aaa8-0a4038bc2071.xml#6936036e-8713-4ee6-aaa8-0a4038bc2071"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_de0ac79b-2849-4bc3-9c2a-7708b069dcb1.xml#de0ac79b-2849-4bc3-9c2a-7708b069dcb1"/>
+</archimate:FlowRelationship>

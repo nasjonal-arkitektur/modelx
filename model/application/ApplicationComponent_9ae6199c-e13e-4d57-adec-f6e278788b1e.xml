@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Komponent (modul, microtjeneste, delsystem)"
+    id="9ae6199c-e13e-4d57-adec-f6e278788b1e"
+    documentation="Modul kan være for eksempel modul eller mikrotjeneste.">
+  <properties
+      key="Sist oppdatert"/>
+  <properties
+      key="SIst oppdatert av"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internservice"
+    id="bc32cf29-f7a6-4a23-8098-45359489d503"
+    documentation="Internservice er Legemiddelverkets representanter i forvaltning av huset (tilganger, mot ENTRA, kontorrekvisita og mye mye mer. Der er alt-mulig-mennesker), har fram til november ansvar for resepsjon(telefonhenvendelser)">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

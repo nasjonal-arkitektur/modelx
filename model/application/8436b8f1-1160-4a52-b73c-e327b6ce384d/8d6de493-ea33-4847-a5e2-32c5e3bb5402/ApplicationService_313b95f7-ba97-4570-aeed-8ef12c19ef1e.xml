@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F5 - Administrasjonsgrensesnitt"
+    id="313b95f7-ba97-4570-aeed-8ef12c19ef1e"
+    documentation="Redaksjonelt grensesnitt for å opprette og redigere varsler som publiseres via F5Service til Felleskatalogen og til F5 brukergrensesnittet for visning av varsler.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

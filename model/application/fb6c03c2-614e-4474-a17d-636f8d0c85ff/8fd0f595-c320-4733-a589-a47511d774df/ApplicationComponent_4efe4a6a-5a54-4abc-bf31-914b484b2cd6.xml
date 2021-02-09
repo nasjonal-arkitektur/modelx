@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PSUR Repository"
+    id="4efe4a6a-5a54-4abc-bf31-914b484b2cd6"
+    documentation="Arkiv for PSUR (Periodic Safety Update Report). Dette er sentralisert i Europa.&#xD;&#xA;The PSUR repository is a single, central platform for PSURs and related documents to be used by all regulatory authorities and pharmaceutical companies in the EU. The PSUR Repository provides an important simplification for marketing authorisation holders allowing them to send all PSURs and related submissions to a single recipient. It also facilitates the assessment by ensuring that NCAs, EMA and its scientific committees have timely and secure access to all relevant documents">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

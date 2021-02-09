@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å vurdere om etterspurte data er tilgjengeliggjort som ‘Åpne data’"
+    id="038de522-d7f1-488e-a8b9-37e4dc11d480"
+    documentation="Forklaring:&#xD;&#xA;Konsument må finne ut om etterspurte data helt eller delvis er åpent tilgjengelighet. Dersom dataene er åpne kan konsument hente aktuelle data uten å henvende seg til tilbyder&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Bygge kompetanse på ‘Åpne data’ &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å vurdere om etterspurte data er tilgjengeliggjort som ‘Åpne data’"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Konsument må finne ut om etterspurte data helt eller delvis er åpent tilgjengelighet. Dersom dataene er åpne kan konsument hente aktuelle data uten å henvende seg til tilbyder&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Bygge kompetanse på ‘Åpne data’ &#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

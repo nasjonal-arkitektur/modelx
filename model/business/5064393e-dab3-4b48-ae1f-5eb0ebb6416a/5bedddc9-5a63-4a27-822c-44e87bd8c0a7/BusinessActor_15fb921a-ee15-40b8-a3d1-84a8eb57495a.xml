@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Akademia"
+    id="15fb921a-ee15-40b8-a3d1-84a8eb57495a"
+    documentation="Med akademia menes i denne sammenhengen forskningsmiljøer knyttet til unvisersiteter og andre utdanningsinstitusjoner, som forsker på legemidler og utfører klinisk utprøving.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

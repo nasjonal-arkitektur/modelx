@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EudraVigilance Veterinary Data Warehouse (V)"
+    id="12ba57c0-5fca-4b6f-b5b2-ef03a80f647b"
+    documentation="The  EudraVigilance  Veterinary  Data  Warehouse  is  a  query  tool  to  access  EU  Veterinary productdata in the Data Warehouse.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

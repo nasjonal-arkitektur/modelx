@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Beskrivelse "
+    id="id-6308f13c95974f7ab04953bb26a3282b"
+    documentation="Open API spesifikasjon (har vi føringer på format her)?&#xD;&#xA;&#xD;&#xA;VI ønsker oss beskrivelse av datamodell og begreper som finnes i begrepskatalog og datamodell katalog (per default bruker vi det nasjonale, men kan hende vi må bruke noe for sektoren om ikke funksjonalitet er dekket&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

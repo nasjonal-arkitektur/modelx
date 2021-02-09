@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fastlege"
+    id="6bea5a9e-6fdd-4c34-9046-a22d015620cf">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessRole>

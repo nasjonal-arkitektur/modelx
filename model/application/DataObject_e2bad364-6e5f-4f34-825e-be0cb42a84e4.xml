@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utførte utbetalinger knyttet rammeid i økonom-isystem"
+    id="e2bad364-6e5f-4f34-825e-be0cb42a84e4">
+  <properties
+      key="Masterdata?"
+      value="Ja"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

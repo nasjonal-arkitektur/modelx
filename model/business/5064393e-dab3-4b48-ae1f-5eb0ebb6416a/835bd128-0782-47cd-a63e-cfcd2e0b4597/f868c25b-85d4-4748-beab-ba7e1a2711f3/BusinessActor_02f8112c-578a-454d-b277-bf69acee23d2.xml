@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veterinær - Effekt og Sikkerhet (lag)"
+    id="02f8112c-578a-454d-b277-bf69acee23d2"
+    documentation="Ad hoc saker, passe på postboksene (utredningssaker går til laget med  vurderingen av innsatsnivået), samarbeidet med mattilsynet etc">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

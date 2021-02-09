@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utforme og sende ut spørreskjema"
+    id="566a17fc-c0dd-4724-a0de-975cd8153687"
+    documentation="På bakgrunn av tema for kartleggingen utarbeides et spørreskjema med relevante sprøsmål.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

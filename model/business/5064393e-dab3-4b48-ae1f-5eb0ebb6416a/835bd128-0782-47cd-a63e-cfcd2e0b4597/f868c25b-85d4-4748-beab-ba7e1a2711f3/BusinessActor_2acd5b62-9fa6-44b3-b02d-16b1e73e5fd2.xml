@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagforum (lag)"
+    id="2acd5b62-9fa6-44b3-b02d-16b1e73e5fd2"
+    documentation="Lage agenda og finne foredragholdere til møtene">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstedelse av MT i Norge"
+    id="7ee5e1ca-23dd-41a5-96d7-cc2a348aa947"
+    documentation="CP Human: Utstedelse av MT i Norge (30 dager)&#xD;&#xA;I og med at Norge ikke er del av EU - bare medlem i EØS, må det utstedes egen Markedsføringstillatelse i Norge.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

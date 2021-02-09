@@ -1,0 +1,46 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datavalidering"
+    id="22d9336c-e63c-4e9d-a618-faa8bf57a5c2"
+    documentation="Tjeneste for å validere dataformater og innhold iforholdt til aktuelle spesifikasjoner.">
+  <properties
+      key="ID"
+      value="ABB42"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Datavalidering"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for å validere dataformater og innhold iforholdt til aktuelle spesifikasjoner."/>
+  <properties
+      key="difi:name_en"
+      value="Data Validation Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of referring to any activity aimed at verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. &#xD;&#xA;&#xD;&#xA;Based on Eurostat Data Validation&#xD;&#xA;http://ec.europa.eu/eurostat/data/data-validation  &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Validation Service ABB  is salient for technical interoperability because it shares the functionality to validate if data received (or to be sent) is compliant with common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Eurostat Struval&#xD;&#xA;The Structural Validation service (called STRUVAL) performs structural validation of statistical data files following the SDMX Information Model for a given data flow. It ensures that a data file respects the following key elements: &#xD;&#xA;&#xD;&#xA;•&#x9;SDMX compliance in terms of checks on file format and completeness in terms of mandatory fields; &#xD;&#xA;•&#x9;SDMX compliance in terms of the structure and coding defined by the Data Structure Definition (DSD); &#xD;&#xA;•&#x9;The constraints defined for respective data flows. &#xD;&#xA;&#xD;&#xA;The STRUVAL service returns a response containing a machine-readable message that is processed by the process manager. The invoker of the service receives a validation report, regardless of the result of the process (in case of no failures the reports hold no records). &#xD;&#xA;http://ec.europa.eu/eurostat/web/sdmx-infospace/validation-transformation/structural-validation &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

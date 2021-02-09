@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Målgruppe"
+    id="id-620fadc88bbc4cd5afc57eb614c67ad0"
+    documentation="Målgruppen for referansearkitekturen er primært arkitekter og tekniske prosjektledere.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-bakgrunn"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

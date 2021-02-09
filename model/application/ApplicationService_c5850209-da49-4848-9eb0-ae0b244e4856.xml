@@ -8,7 +8,7 @@
       value="archi:application-service"/>
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="digdir"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>
@@ -33,11 +33,4 @@
       value="meta"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
-  <properties
-      key="digdir:logo"/>
-  <properties
-      key="modelx:guid"
-      value="c5850209-da49-4848-9eb0-ae0b244e4856"/>
 </archimate:ApplicationService>

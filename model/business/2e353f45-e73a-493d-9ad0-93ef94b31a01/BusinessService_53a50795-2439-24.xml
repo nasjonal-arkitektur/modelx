@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brann og redning"
+    id="53a50795-2439-24"
+    documentation="Brann- og redningstjenesten.">
+  <properties
+      key="Engelsk navn"
+      value="Fire and rescue services"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

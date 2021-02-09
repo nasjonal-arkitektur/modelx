@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elektronisk reklamearkiv"
+    id="c7edfc6a-e31b-4108-9c80-3e91b698e560"
+    documentation="Alle legemiddelfirmaer som har markedsføringstillatelse for legemidler i Norge arkiverer en kopi av all skriftlig reklame i Rådet for legemiddelinformasjon sitt elektroniske reklamearkiv. Rådet for legemiddelinformasjon er legemiddelbransjens eget kontrollorgan og ble opprettet av Den norske legeforening. Rådet skal påse at all legemiddelinformasjon til helsepersonell og allmennhet følger alle myndighetenes lover samt strenge bransjeinterne retningslinjer.&#xA;&#xA;Reklamemateriellet skal oppbevares i arkivet i minst 2 år, og både Legemiddelverket og Rådet tar stikkprøver for å kontrollere at materiellet faktisk lastes inn og at kvaliteten på reklamen er tilfredsstillende.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

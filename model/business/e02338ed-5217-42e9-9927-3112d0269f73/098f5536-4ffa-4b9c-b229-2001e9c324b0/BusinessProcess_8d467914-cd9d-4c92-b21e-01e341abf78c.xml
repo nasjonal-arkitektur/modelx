@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage temarapporter og statistikker"
+    id="8d467914-cd9d-4c92-b21e-01e341abf78c"
+    documentation="På bakgrunn av de mottatte besvarelsene lages det temarapporter og statistikker.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Markedstyring"
+    id="d85ea94b-13d0-470c-88e4-d865f475c4a1"
+    documentation="Ability to define, identify, quantify, qualify, analyze, segment, address, and create an actual or virtual, or otherwise nominal place where forces of demand and supply operate, and where buyers and sellers interact — directly or through intermediaries — to exchange products and services for monetary or non-monetary value.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Markedstyring"/>
+  <properties
+      key="difi:name_en"
+      value="Market Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to define, identify, quantify, qualify, analyze, segment, address, and create an actual or virtual, or otherwise nominal place where forces of demand and supply operate, and where buyers and sellers interact — directly or through intermediaries — to exchange products and services for monetary or non-monetary value."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to define, identify, quantify, qualify, analyze, segment, address, and create an actual or virtual, or otherwise nominal place where forces of demand and supply operate, and where buyers and sellers interact — directly or through intermediaries — to exchange products and services for monetary or non-monetary value."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har ikke noe godt system for å ta vare på bivirkningsmeldinger"
+    id="d27e1cfd-1696-45db-9563-75969f4be86c"
+    documentation="Man har ikke noe godt system for å registrere bivirkningsmeldinger i tilknytning til kklinisk utprøving, slik at man kan se på trender, lage statistikker og rapporter.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

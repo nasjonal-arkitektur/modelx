@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for inspeksjoner og løyve"
+    id="6f78cf0b-e568-44e9-8b85-946819c18e89"
+    documentation="Ansvarsområder:&#xD;&#xA;* Føre tilsyn med alle aktørar i forsyningskjeda&#xD;&#xA;* Handtere tilfelle av kvalitetssvikt&#xD;&#xA;* Gi løyve og sertifikat knytt til apotekdrift, tilverking, import og grossistverksemd&#xD;&#xA;&#xD;&#xA;Medisinsk utstyr&#xD;&#xA;* Forvaltings- og rådgjevingsoppgåver&#xD;&#xA;* Tilsynsmyndigheit overfor produsentar, distributørar og teknisk kontrollorgan&#xD;&#xA;* Markedsovervåking inkludert oppfølging av meldingar om svikt og uhell&#xD;&#xA;* Klassifisere medisinsk utstyr&#xD;&#xA;* Vurdere søknader om klinisk utprøving&#xD;&#xA;* Regelverksutvikling og -tolking">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

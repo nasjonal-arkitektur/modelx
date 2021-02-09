@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storskala produksjon av medikament"
+    id="38d7bf02-51f2-4fdc-825e-bb86b76c9963"
+    documentation="Tilverking omfattar produksjon, kvalitetskontroll og frigjeving av legemiddel. Tilverkinga kan vere fullstendig frå råvare til bruksferdig legemiddel, eller delvis som for eksempel berre ompakking. Tilvirkning av legemiddel krever tillatelse fra SLV.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

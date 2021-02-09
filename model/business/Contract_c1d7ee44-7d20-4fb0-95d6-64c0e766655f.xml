@@ -1,0 +1,53 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatorisk samhandlingsavtale"
+    id="c1d7ee44-7d20-4fb0-95d6-64c0e766655f"
+    documentation="DESCRIPTION:&#xD;&#xA;Concrete and binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability. &#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing the TERMS/CONDITIONS for SHARING&amp;REUSING AND EXCHANGING information.&#xD;&#xA;An Interoperability Agreement is the means through which organisations (public administrations, or businesses) formalises the cooperation with one another. These agreements aim at the development of interoperability solutions, which meets the functional / technical requirements and needs of one another (European Interoperability Framework). &#xD;&#xA;&#xD;&#xA;Source ISA2, EIFv2&#xD;&#xA;https://ec.europa.eu/isa2/isa2_en&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s). The EIRA© differentiates the following Interoperability Agreements:&#xD;&#xA;&#xD;&#xA;•&#x9;Interoperability Service Agreement (between Public Service Consumers and Public Service Providers;&#xD;&#xA;•&#x9;Interoperability Collaboration Agreement (between Organisations); or&#xD;&#xA;•&#x9;Interoperability Provider Agreement (between Public Service Providers).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Organisational Interoperability Agreement ABB  is a key interoperability enabler because it helps achieve organisational interoperability by assessing and formalising terms and conditions for sharing/reusing/exchanging information between two cooperating parties as stated in the EIF Recommendation 26: &quot;Establish interoperability agreements in all layers, complemented by operational agreements and change management procedures.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ICAO Service Level Agreement Template&#x9;&#xD;&#xA;A Service Level Agreement (SLA) is an example of Interoperability Agreement in which parties agree on the description of the services to be provided by one or several parties to the other one(s). The SLA tackles topics like: service description, optional services, exclusions, limitations, service levels, service credits, escalation procedure, reporting and points of contact.&#xD;&#xA;https://www.icao.int/ESAF/Documents/APIRG/APIRG18/Docs/wp17_appendices_en.pdf &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB119"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityAgreement"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:reusability"
+      value="[ Reusable | Not reusable ]"/>
+  <properties
+      key="eira:reuse_status"
+      value="[ Reuse planned | Already reused ]"/>
+  <properties
+      key="eira:interoperability_type"
+      value="[ Collaboration agreement | Provider agreement | Service agreement ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Organisatorisk samhandlingsavtale"/>
+  <properties
+      key="difi:name_en"
+      value="Organisational Interoperability Agreement"/>
+  <properties
+      key="difi:description_no"
+      value="DESCRIPTION:&#xD;&#xA;Concrete and binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability. &#xD;&#xA;This ABB is a key interoperability enabler (*) for assessing the TERMS/CONDITIONS for SHARING&amp;REUSING AND EXCHANGING information.&#xD;&#xA;An Interoperability Agreement is the means through which organisations (public administrations, or businesses) formalises the cooperation with one another. These agreements aim at the development of interoperability solutions, which meets the functional / technical requirements and needs of one another (European Interoperability Framework). &#xD;&#xA;&#xD;&#xA;Source ISA2, EIFv2&#xD;&#xA;https://ec.europa.eu/isa2/isa2_en&#xD;&#xA;&#xD;&#xA;(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xD;&#xA;&#xD;&#xA;The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s). The EIRA© differentiates the following Interoperability Agreements:&#xD;&#xA;&#xD;&#xA;•&#x9;Interoperability Service Agreement (between Public Service Consumers and Public Service Providers;&#xD;&#xA;•&#x9;Interoperability Collaboration Agreement (between Organisations); or&#xD;&#xA;•&#x9;Interoperability Provider Agreement (between Public Service Providers).&#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Organisational Interoperability Agreement ABB  is a key interoperability enabler because it helps achieve organisational interoperability by assessing and formalising terms and conditions for sharing/reusing/exchanging information between two cooperating parties as stated in the EIF Recommendation 26: &quot;Establish interoperability agreements in all layers, complemented by operational agreements and change management procedures.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): &#xD;&#xA;&#xD;&#xA;ICAO Service Level Agreement Template&#x9;&#xD;&#xA;A Service Level Agreement (SLA) is an example of Interoperability Agreement in which parties agree on the description of the services to be provided by one or several parties to the other one(s). The SLA tackles topics like: service description, optional services, exclusions, limitations, service levels, service credits, escalation procedure, reporting and points of contact.&#xD;&#xA;https://www.icao.int/ESAF/Documents/APIRG/APIRG18/Docs/wp17_appendices_en.pdf &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Contract>

@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å gi tilbyder tilbakemelding"
+    id="597642e3-3452-437d-b096-b98ecef6a567"
+    documentation="Forklaring:&#xD;&#xA;Datakonsument må evne å gi tilbyder tilbakemelding på hvordan dialogen med tilbyder oppleves. Dette for å bidra til at opplegget for datadeling forbedres &#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Konsument bør ha som rutine å gi tilbyder tilbakemelding på hvordan datadelingen fungerer ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å gi tilbyder tilbakemelding"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Datakonsument må evne å gi tilbyder tilbakemelding på hvordan dialogen med tilbyder oppleves. Dette for å bidra til at opplegget for datadeling forbedres &#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Konsument bør ha som rutine å gi tilbyder tilbakemelding på hvordan datadelingen fungerer "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

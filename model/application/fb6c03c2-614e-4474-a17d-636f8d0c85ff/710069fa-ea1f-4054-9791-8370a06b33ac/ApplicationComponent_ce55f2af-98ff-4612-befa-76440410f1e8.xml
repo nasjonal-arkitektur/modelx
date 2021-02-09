@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VigiNor - Bivirkningsdatabasen"
+    id="ce55f2af-98ff-4612-befa-76440410f1e8"
+    documentation="Bivirkningsdatabasen har som funksjon å arkivere og behandle innsendte meldinger som omfatter bivirkninger ved bruk av legemidler. Meldingene kan sendes inn av helsepersonell i papirskjemaform eller via en webside som er tilgjengelig fra www.legemiddelverket.no og Altinn. Meldinger som fylles ut i Altinn løsningen klassifiseres som pasientrapporter. Pasientrapporter kan alle med nasjonalt personnummer sende inn til Bivirkningsdatabasen.&#xD;&#xA;&#xD;&#xA;Papirskjemaene mottas og legges inn elektronisk av fire regionale Relis kontorer som også har ansvar for informasjonsutveksling i distriktene.&#xD;&#xA;&#xD;&#xA;Folkehelsa (FHI) håndterer bivirkninger i forbindelse med vaksiner og benytter Bivirkningsdatabasen i den forbindelsen.&#xD;&#xA;&#xD;&#xA;Bivirkningsdatabasen har et statistikkverktøy som kalles signalrapportering. Dette er et omfattende statistikkverktøy som må oppfylle krav definert i et europeisk regelverk Pharmacovigilance legislation. Hensikten med verktøyet er å avdekke signifikante bivirkninger på tvers av medikamentene noe som kan kreve en ytterligere utredning. Signifikante funn skal rapporteres til The European Medicines Agency (EMA). Alvorlige tilfeller utløser Rapid Alert som informerer alle land tilkoblet EMA om alvorlige bivirkninger på et legemiddel.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

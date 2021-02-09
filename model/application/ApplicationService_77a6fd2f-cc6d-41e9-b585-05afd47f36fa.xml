@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR person og lønn"
+    id="77a6fd2f-cc6d-41e9-b585-05afd47f36fa">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

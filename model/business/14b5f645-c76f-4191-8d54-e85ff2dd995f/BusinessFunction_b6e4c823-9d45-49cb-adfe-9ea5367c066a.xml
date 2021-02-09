@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Miljøtoksikologi"
+    id="b6e4c823-9d45-49cb-adfe-9ea5367c066a"
+    documentation="Legemiddelverket vurderer om legemidler kan ha skadelig påvirkning på natur og dyreliv. Dette gjelder både ved søknader om markedsføringstillatelse og søknader om godkjenningsfritak for humane og veterinære legemidler).&#xD;&#xA;&#xD;&#xA;E-postadresse: post@legemiddelverket.no  ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessFunction>

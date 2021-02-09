@@ -1,0 +1,46 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling"
+    id="7cd27c56-d8e0-4fb5-9cda-ffe1e2655342"
+    documentation="Tjeneste for utveksling av data. Benyttes av avsender/tilbyder og mottaker/konsument for transport av data.">
+  <properties
+      key="ID"
+      value="ABB43"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="Datautveksling"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste for utveksling av data. Benyttes av avsender og mottaker for transport av meldinger."/>
+  <properties
+      key="difi:name_en"
+      value="Data Exchange Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality that enables the secure exchange of messages, records, forms and other kinds of data between different ICT systems. This includes data routing, except endpoint discovery. &#xD;&#xA;&#xD;&#xA;Based on EIFv2&#xD;&#xA;http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf   &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Data Exchange Service ABB  is salient for technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;XMLGate&#xD;&#xA;XMLGate is a Web service application used to validate an XML instance against a well-defined schema. The XML flow is submitted either via a PDF form or by uploading the XML file.&#xD;&#xA;https://webgate.ec.europa.eu/sanco-xmlgate/Login.jsp;jsessionid=2MPn_N5Wg9Dar4_W2-yVL_Xg-VlW3kn47PLVbNise9X5Kycx1yLI!-25226473 &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+</archimate:ApplicationService>

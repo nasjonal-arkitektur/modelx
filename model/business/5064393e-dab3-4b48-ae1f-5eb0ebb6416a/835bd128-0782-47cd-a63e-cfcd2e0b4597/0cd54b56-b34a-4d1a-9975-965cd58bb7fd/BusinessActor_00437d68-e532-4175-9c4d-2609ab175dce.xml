@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etter MT : godkjenne endringer og utstede fornyelser(MRP/DCP) human/vet (lag)"
+    id="00437d68-e532-4175-9c4d-2609ab175dce"
+    documentation="Kvalitetssikre SPC, PIL og merking i forbindelse med endringer og fornyelser">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

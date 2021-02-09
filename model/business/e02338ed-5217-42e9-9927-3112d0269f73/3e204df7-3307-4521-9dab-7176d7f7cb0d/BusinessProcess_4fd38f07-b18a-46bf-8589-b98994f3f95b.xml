@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppføre legemiddel på positivlisten"
+    id="4fd38f07-b18a-46bf-8589-b98994f3f95b"
+    documentation="Legemiddelet oppdateres i Athene med status / tag som forteller at det står på positivlisten.&#xD;&#xA;Informasjonen oppdateres også i positiv- / negativlisten på SLVs nettsider.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

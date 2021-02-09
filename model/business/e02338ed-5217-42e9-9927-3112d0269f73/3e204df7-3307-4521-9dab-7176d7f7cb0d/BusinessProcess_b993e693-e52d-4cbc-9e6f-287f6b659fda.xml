@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere om legemiddel kan notifiseres"
+    id="b993e693-e52d-4cbc-9e6f-287f6b659fda"
+    documentation="For alle legemidler uten Markedsførsingstillatelse (MT) som enten er del av notifiseringsordningen eller står på Legemiddelverkets positivliste, delegeres ansvaret for å vurdere godkjenningsfritaket til Apoteket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internettportal - legemiddelverket.no"
+    id="f0e98f39-3fb6-466c-adfa-4d8fe675ad1b"
+    documentation="Internettportal som er Legemiddelverkets viktigste kommunikasjonskanal ut mot apotek/grossister, legemiddelindustri, allmennhet, andre helseetater og delvis helsepersonell. &#xD;&#xA;Nyhetsvarsel – Brukere kan registrere seg og motta e-postvarsel når sider innenfor angitte kategorier i internettportalen publiseres eller oppdateres. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

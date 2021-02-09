@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Har ikke noe godt system for å holde oversikt, gjøre signalarbeid og hente ut statistikker for svikttilfeller"
+    id="1ff72c4f-16b1-45a9-b06a-ed7511b56989"
+    documentation="Det er behov for en system for å ta vare på sviktmeldinger, slik at det er mulig å danne oversikter og statistikker.&#xD;&#xA;Slik tilfelle er i dag, er man nødt til å lete rundt i P360 for å finne data. Dette er svært tidkrevende, og medfører også noe unøyaktighet.&#xD;&#xA;&#xD;&#xA;Det finnes ingen samlet kilde til hvor man kan søke og analysere for å finne fram til avvik / signaler på bivirkninger. Signaldeteksjon gjøres som regel på bakgrunn i enkeltpersoner kjennskap til ulike tilfeller. Med bakgrunn i dette sjekker med f.eks. i Public360 på alle saker knyttet til et produkt. Det hentes også noe informasjon ut fra EUDAMED for dette formålet.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

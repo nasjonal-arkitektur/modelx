@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sykehusinnkjøp HF"
+    id="b256fb4a-e1d8-41ef-ac38-8b72f44536be"
+    documentation="Sykehusinnkjøp HF (Helseforetak) skal utøve en spesialisert og profesjonell innkjøpstjeneste for spesialisthelsetjenesten&#xA;&#xA;Divisjon legemidler i Sykehusinnkjøp (LIS) har mandat fra RHFene (bestillerforum) til å forhandle pris på nye legemidler i Nye metoder og å utarbeidevilkår for bruk av legemidler som finansieres av helseforetakene.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

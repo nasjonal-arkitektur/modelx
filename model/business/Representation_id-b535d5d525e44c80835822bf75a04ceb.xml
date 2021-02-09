@@ -1,0 +1,27 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhent data, detaljert verdistrøm konsument med kapabiliteter"
+    id="id-b535d5d525e44c80835822bf75a04ceb"
+    documentation="&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="839c86c1-602d-47f5-a3ce-bbf0a87f559a"/>
+  <properties
+      key="drill down"
+      value="839c86c1-602d-47f5-a3ce-bbf0a87f559a"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

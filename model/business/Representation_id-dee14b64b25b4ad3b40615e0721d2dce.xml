@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applikasjonsoversikt forespørsel"
+    id="id-dee14b64b25b4ad3b40615e0721d2dce">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-e4df62fd7efc4d2aa8dc588384b41795"/>
+  <properties
+      key="drill down"
+      value="id-e4df62fd7efc4d2aa8dc588384b41795"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Representation>

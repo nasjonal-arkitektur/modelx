@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasikkerhet"
+    id="6322fb3a-788a-4430-8269-611c90cb7c36"
+    documentation="Data Security ensures that data privacy and confidentiality are maintained, that data is not breached, and that data is accessed appropriately">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datasikkerhet"/>
+  <properties
+      key="difi:name_en"
+      value="Data Security "/>
+  <properties
+      key="difi:description_no"
+      value="Data Security ensures that data privacy and confidentiality are maintained, that data is not breached, and that data is accessed appropriately"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

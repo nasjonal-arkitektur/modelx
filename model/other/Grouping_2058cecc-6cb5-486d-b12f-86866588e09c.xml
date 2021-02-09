@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naturforvaltning"
+    id="2058cecc-6cb5-486d-b12f-86866588e09c"
+    documentation="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Naturforvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Bio-organism Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, track, and set life quality standards for the population of non-human living things, including all categories of animals and plants that react to stimuli, consume natural resources to grow, thrive, and reproduce."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

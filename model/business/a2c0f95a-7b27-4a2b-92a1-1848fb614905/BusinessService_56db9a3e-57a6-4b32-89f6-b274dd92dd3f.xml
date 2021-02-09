@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parallellimport"
+    id="56db9a3e-57a6-4b32-89f6-b274dd92dd3f"
+    documentation="* Ikke noen distinkt prosess knyttet til dette&#xD;&#xA;* Import fra annet land, hvor prisen er lav (spesialiserte virksomheter holder på med dette)&#xD;&#xA;* Er pakket litt annerledes enn orginialen (som sier noe om parallellimportøren)&#xD;&#xA;* Pakningsvedlegget lages av parallellimportøren&#xD;&#xA;&#x9;* Henvises i produktinformasjonen til originalvedlegget&#xD;&#xA;* Enkel godkjenning (kanskje ikke god nok prosess på dette)&#xD;&#xA;* Legges inn i produktdatabasen som eget produkt&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beredskap2017 (lag)"
+    id="fc316802-b482-4ac0-985d-8057bb07afeb"
+    documentation="Løpende oppdatere alle dokumenter ifm. beredskap. Forberede, gjennomføre og evaluere en årlig beredskapsøvelse.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

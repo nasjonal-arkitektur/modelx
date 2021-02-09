@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abonnent på forretningsmessige hendelser (vedtak)"
+    id="0da7b474-5c7d-49e3-a89c-0ef6c1f4a206">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+</archimate:BusinessRole>

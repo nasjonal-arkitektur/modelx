@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bivirkningsmelding (Altinn)"
+    id="b9cea24a-0edf-42e5-b0b4-e26ec9bc21f8">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_86a80333-ca47-4cc7-b9ab-3538a5b98d60.xml#86a80333-ca47-4cc7-b9ab-3538a5b98d60"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_07f01dd6-089a-4b00-9831-3375864b0d52.xml#07f01dd6-089a-4b00-9831-3375864b0d52"/>
+</archimate:FlowRelationship>

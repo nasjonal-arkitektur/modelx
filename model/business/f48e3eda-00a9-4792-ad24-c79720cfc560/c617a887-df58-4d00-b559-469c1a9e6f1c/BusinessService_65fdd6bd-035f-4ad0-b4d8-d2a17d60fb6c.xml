@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tidsskriftet Den Norske Legeforening"
+    id="65fdd6bd-035f-4ad0-b4d8-d2a17d60fb6c">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

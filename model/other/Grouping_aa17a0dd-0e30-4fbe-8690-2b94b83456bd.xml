@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materialadministrasjon"
+    id="aa17a0dd-0e30-4fbe-8690-2b94b83456bd"
+    documentation="Ability to identify, track, set quality standards for, and equitably distribute food, ingredients, chemicals, and other physical matter used to enable an outcome including sustaining life, the growing of crops, the construction of assets and infrastructure, and the powering of products and conveyors.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Materialadministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Material Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to identify, track, set quality standards for, and equitably distribute food, ingredients, chemicals, and other physical matter used to enable an outcome including sustaining life, the growing of crops, the construction of assets and infrastructure, and the powering of products and conveyors."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to identify, track, set quality standards for, and equitably distribute food, ingredients, chemicals, and other physical matter used to enable an outcome including sustaining life, the growing of crops, the construction of assets and infrastructure, and the powering of products and conveyors."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilsyn med forsyningskjeden"
+    id="f06e7377-a7c0-41c7-97ec-e301ab26f3f2"
+    documentation="Tilsyn med (tilvirker, grossist, apotek...)&#xD;&#xA;Både for medisin og medisinsk utstyr.&#xD;&#xA;&#xD;&#xA;Medisinsk utstyr:&#xD;&#xA;Føre tilsyn med medisinsk utstyr; produkter, produsenter og omsettere samt teknisk kontrollorgan">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad utredes i Excel"
+    id="964fc6bc-a960-40ed-961c-bf78a4eb345d"
+    documentation="Administrasjon og oppfølging av behandlingen av søknader om klinisk utprøving håndteres i Excel.&#xD;&#xA;Dette innebærer at saksbehandlere forholde seg til Exel-regnearket for å ha kontroll på om de har gjort oppgavene sine.&#xD;&#xA;&#xD;&#xA;En sakbehandlingsløsning med oppgavefordeling og prosesstøtte vil gi bedre underlag for kontroll, oppføling og rapportering / statistikk.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>

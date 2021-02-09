@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sss - Farmasøytisk virkning/ styrke"
+    id="8d847fa6-3f3c-4f0e-8773-77a845575042"
+    documentation="Et eget nummer (3 siffer) er allokert til hver farmasøytisk form / styrke og sekvensiell nummerering brukes uavhengig av om den nye presentasjonen er en ny farmasøytisk form eller en ny styrke eller en kombinasjon av begge. Prinsippet om et sekvensielt spesialnummer må også gjelde for enhver annen utvidelsesapplikasjon som definert i vedlegg II til kommisjonsforordning (EF) 1084/2003.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessObject>

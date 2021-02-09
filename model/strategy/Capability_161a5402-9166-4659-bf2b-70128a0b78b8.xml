@@ -1,0 +1,32 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datastyring"
+    id="161a5402-9166-4659-bf2b-70128a0b78b8"
+    documentation="Data Governance provides direction and oversight for data management by establishing a system of decision rights over data that accounts for the needs of the enterprise. ">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datastyring"/>
+  <properties
+      key="difi:name_en"
+      value="Data Governance"/>
+  <properties
+      key="difi:description_no"
+      value="Data Governance provides direction and oversight for data management by establishing a system of decision rights over data that accounts for the needs of the enterprise. "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Capability>

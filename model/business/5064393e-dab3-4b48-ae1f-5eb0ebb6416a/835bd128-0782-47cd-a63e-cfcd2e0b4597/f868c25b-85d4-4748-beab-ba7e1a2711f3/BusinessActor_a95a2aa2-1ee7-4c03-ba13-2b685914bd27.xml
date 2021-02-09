@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" ATMP  (lag)"
+    id="a95a2aa2-1ee7-4c03-ba13-2b685914bd27"
+    documentation="Ad hoc oppgaver for ATMPer og sikre konsistens for de forskjellige oppgavene hvor celler og vev inngår.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

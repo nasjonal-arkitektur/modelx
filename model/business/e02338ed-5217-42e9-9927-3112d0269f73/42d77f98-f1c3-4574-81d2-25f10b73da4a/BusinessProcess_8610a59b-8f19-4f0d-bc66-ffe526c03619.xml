@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generika-søknad (generisk bytte)"
+    id="8610a59b-8f19-4f0d-bc66-ffe526c03619"
+    documentation="Det første godkjente legemidlet med en bestemt virkning kalles original. Når det kommer nye legemidler med samme virkning og et annet navn, kalles de generiske legemidler (generika), også kalt &quot;kopimedisiner&quot; eller &quot;synonympreprater&quot;. Man kan først søke om å produsere generika når patent har gått ut.&#xA;&#xA;Byttelisten:&#xA;Legemidler som er byttbare settes på Byttelisten som distribueres til alle apotek. Enkelte legemidler har merknad til byttbarhet, for eksempel begrenset bytte. Byttelisten blir oppdatert to ganger hver måned.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

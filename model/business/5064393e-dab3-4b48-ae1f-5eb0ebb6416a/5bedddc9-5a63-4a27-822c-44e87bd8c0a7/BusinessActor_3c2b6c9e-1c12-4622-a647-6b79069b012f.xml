@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stortinget"
+    id="3c2b6c9e-1c12-4622-a647-6b79069b012f"
+    documentation="Stortinget må gi sitt samtykke hvis innføringen medfører en vekst i utgifter til legemidlet for folketrygden på mer enn 100 mill. kroner i minst ett av de første fem årene.&#xA;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

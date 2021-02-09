@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privat import av CBD-produkter med lavt innhold av THC (lag)"
+    id="7ebfab85-9ae4-447a-beda-f557bfb92178"
+    documentation="Legemiddelverket ønsker at pasienter skal ha muligheten til bruke CBD produkter. Disse produktene inneholder som regel lave mengder THC, og blir derfor klassifisert som narkotika. Det har vist seg vanskelig for apotekene å skaffe produktene via grossist (ingen produkter med MT) og har ikke Legemiddelverket hjemmel til å gi importtillatelse for narkotiske produkter til privatpersoner. Laget må først sørge for at HOD gir Legemiddelverket i oppdrag å endre endre narkotikaforskriften slik at Legemiddelverket få en hjemmel til å innvilge importtillatelse (etter søknad) for privatpersoner  spesielt for CBD-produkter med lavt innhold av THC inntil en viss mengde. Deretter skal endringen gjennomføres.">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

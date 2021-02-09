@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å utvikle IT løsninger for å motta data "
+    id="59c87cbd-2bc6-4236-a27d-cfbc39d35681"
+    documentation="Forklaring:&#xD;&#xA;Konsument må sørge for å ha tekniske løsninger som støtter innhenting av dataene, og helst at dataene kan hentes på ønsket format.&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Kompetanse på valg av IT løsninger, samt utvikling av IT løsningene&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evnen til å utvikle IT løsninger for å motta data "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Forklaring:&#xD;&#xA;Konsument må sørge for å ha tekniske løsninger som støtter innhenting av dataene, og helst at dataene kan hentes på ønsket format.&#x9;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Kompetanse på valg av IT løsninger, samt utvikling av IT løsningene&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

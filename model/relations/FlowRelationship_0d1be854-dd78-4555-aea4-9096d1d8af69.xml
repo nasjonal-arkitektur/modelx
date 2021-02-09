@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dataflyt"
+    id="0d1be854-dd78-4555-aea4-9096d1d8af69">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_d418f50e-a146-4a27-bb12-a9ae8cfc4b4d.xml#d418f50e-a146-4a27-bb12-a9ae8cfc4b4d"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_3bf49272-5d3a-4ae6-b529-4613537e3353.xml#3bf49272-5d3a-4ae6-b529-4613537e3353"/>
+</archimate:FlowRelationship>

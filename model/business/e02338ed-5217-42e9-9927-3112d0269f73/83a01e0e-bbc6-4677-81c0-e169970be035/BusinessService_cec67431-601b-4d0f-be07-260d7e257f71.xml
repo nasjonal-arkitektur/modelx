@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Induviduell refusjon"
+    id="cec67431-601b-4d0f-be07-260d7e257f71"
+    documentation="For legemidler som ikke er på refusjonslisten for den aktuelle sykdommen kan en lege søke om stønad på vegne av den enkelte bruker. Det kan ytes individuell stønad til&#xA;-markedsførte legemidler brukt på godkjent bruksområde&#xA;-markedsførte legemidler brukt utenfor godkjent bruksområde (off-label bruk&#xA;-legemidler som ikke er markedsført i Norge (uregistrerte legemidler)&#xA;Helsedirektoratet har delegert ansvaret for saksbehandlingen til Helfo. Stønad vurderes på bakgrunn av vilkår i blåreseptforskriften og tilhørende rundskriv. Les mer om søknadsprosessen på Helfo.no">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

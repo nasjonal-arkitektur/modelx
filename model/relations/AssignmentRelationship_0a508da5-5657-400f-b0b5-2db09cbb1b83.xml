@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="0a508da5-5657-400f-b0b5-2db09cbb1b83">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"
+      value="styrer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_90419aa5-8713-466d-a862-1725a7c6276a.xml#90419aa5-8713-466d-a862-1725a7c6276a"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_0d867114-d08f-4a8f-8089-797f0883d784.xml#0d867114-d08f-4a8f-8089-797f0883d784"/>
+</archimate:AssignmentRelationship>

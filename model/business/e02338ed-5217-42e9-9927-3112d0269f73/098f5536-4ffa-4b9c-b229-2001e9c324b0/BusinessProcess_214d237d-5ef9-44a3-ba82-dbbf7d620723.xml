@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere bekymringsmelding mht oppfølging"
+    id="214d237d-5ef9-44a3-ba82-dbbf7d620723"
+    documentation="Innkomne bekymringsmeldinger vurderes mht om og hvordan de skal følges opp">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

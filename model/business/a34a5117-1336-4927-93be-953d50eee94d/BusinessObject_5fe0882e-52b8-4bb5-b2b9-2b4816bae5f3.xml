@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamodell"
+    id="5fe0882e-52b8-4bb5-b2b9-2b4816bae5f3">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessObject>

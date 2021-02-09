@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besvare spørreskjema"
+    id="ee511415-c974-41b3-92a7-05d7ac7f694e"
+    documentation="Tilsynsobjektene besvarer spørreskjemaet og rapporterer tilbake til Legemiddelverket.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

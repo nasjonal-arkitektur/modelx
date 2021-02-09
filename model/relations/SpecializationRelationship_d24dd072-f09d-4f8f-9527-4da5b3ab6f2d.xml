@@ -1,0 +1,16 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPD-uttrekk"
+    id="d24dd072-f09d-4f8f-9527-4da5b3ab6f2d"
+    documentation="CPD-uttrekket baserer seg på uttrekk av versjon 2.5.1 av M30 Rekvirent">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_0dd39431-8df0-4bef-ab4f-31afbcc168e1.xml#0dd39431-8df0-4bef-ab4f-31afbcc168e1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_993dc512-e7f8-4978-bd16-5528363080df.xml#993dc512-e7f8-4978-bd16-5528363080df"/>
+</archimate:SpecializationRelationship>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indikatorer"
+    id="8b84c355-d60b-487a-b457-8e0d73e2fd9a">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:DataObject>

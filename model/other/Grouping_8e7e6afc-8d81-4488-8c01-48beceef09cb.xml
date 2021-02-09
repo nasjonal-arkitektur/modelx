@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverksadministrasjon"
+    id="8e7e6afc-8d81-4488-8c01-48beceef09cb"
+    documentation="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nettverksadministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Network Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to plan, direct, monitor, organize, control, and report on a set of connected arcs and nodes that may be associated with infrastructure, assets, locations, routes, and other business objects."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

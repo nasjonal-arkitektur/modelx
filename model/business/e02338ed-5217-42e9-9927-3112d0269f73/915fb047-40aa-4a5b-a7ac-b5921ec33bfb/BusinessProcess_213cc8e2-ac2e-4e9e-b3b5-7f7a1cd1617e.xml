@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fatte vedtak"
+    id="213cc8e2-ac2e-4e9e-b3b5-7f7a1cd1617e"
+    documentation="Vedtak fattes på bakgrunn av resultatet av vurderingen av søknaden. Vedtak fattes uavhengig av hvilke vedtak REK måtte komme fram til.&#xD;&#xA;For endringssøknader er behandlingsprosessen enklere, og REK er ikke involvert.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

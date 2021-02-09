@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lage bestilling for preparater og utstyr"
+    id="7c346dfb-db18-4059-9c76-f8505016cf0d"
+    documentation="Lab. setter opp bestilling av preparater og utstyr i henhold de aktuelle analysene som skal gjennomføres.&#xD;&#xA;Bestillinger sendes primært på ePost, i noen tilfeller på telefon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

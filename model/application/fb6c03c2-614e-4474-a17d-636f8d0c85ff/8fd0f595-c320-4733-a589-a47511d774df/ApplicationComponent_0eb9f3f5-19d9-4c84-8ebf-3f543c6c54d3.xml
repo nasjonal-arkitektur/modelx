@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MSREP - E-sigaretter"
+    id="0eb9f3f5-19d9-4c84-8ebf-3f543c6c54d3"
+    documentation="Brukergrensesnitt for tilgang til data i EUCEG.&#xD;&#xA;For å få tilgang til denne modulen, må man koble seg opp via TestaNG&#xD;&#xA;Er i versjon 1.9&#xD;&#xA;Repository for innsendte innmeldinger av&#xD;&#xA;- eSigaretter&#xD;&#xA;- Tobakk&#xD;&#xA;- Andre røykeproddukter">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

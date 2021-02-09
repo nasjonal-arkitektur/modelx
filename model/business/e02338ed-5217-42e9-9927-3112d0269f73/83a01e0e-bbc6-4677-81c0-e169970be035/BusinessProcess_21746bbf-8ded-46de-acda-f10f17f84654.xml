@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skanne EMA-lister for å Identifisere nye metoder"
+    id="21746bbf-8ded-46de-acda-f10f17f84654"
+    documentation="Identifikasjon av nye legemidler (som blir gjenstand for metodevarsling) gjøres i hovedsak på bakgrunn av skanning av EMA-lister over kommende legemidler&#xD;&#xA;I noen utstrekning mottas forslag fra offentligheten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad Valid"
+    id="42d51ec9-cc29-4c1d-abce-fda640992ccf"
+    documentation="Når søknaden er vurdert som valid, registreres dette i CTS.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

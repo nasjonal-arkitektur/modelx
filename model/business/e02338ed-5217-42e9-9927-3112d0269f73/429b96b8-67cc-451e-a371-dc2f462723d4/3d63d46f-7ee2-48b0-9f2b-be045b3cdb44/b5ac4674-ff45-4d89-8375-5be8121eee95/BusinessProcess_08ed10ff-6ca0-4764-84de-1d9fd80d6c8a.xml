@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Påse sirkulering av kommentarer og spørsmål til alle (CMS) (dag 100-105)"
+    id="08ed10ff-6ca0-4764-84de-1d9fd80d6c8a"
+    documentation="Concerned Member States (CMS) har frist til dag 100 med å levere sine kommentarer og spørsmål til Reference Member State (RMS). RMS har ansvar for å følge opp at alle kommentarer og spørsmål sirkuleres til alle, inkludert MT-søker.&#xD;&#xA;&#xD;&#xA;CTS har en egen funksjon for å hente ut epostadresser til alle impliserte parter.&#xD;&#xA;&#xD;&#xA;Det registreres også i CTS at man har kommentarer /spørsmål.&#xD;&#xA;Dersom man ikke registrerer at man har kommentarer / spørsmål i CTS innen frist, ansees det som at man ikke har noen innvendinger.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

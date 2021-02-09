@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compendia Stat"
+    id="ee2806a3-f42e-48ea-a05f-6b06fc2b099a"
+    documentation="Informasjons-website for Personal. Benyttes av personal som informasjonskanal om ansattes retningslinjer og rettigheter.&#xD;&#xA;&#xD;&#xA;Websiten har også en lederhåndbok med nyttig informasjon for de som har personalansvar&#xD;&#xA;&#xD;&#xA;Etter samtale med compedia, det er ikke noe avhengigheter med andre systemer.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

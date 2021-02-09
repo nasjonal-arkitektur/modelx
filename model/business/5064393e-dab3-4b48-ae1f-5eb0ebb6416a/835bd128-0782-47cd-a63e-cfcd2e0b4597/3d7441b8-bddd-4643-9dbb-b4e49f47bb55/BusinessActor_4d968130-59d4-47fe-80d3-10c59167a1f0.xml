@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjensidig  godkjenningsavtale med USA (lag)"
+    id="4d968130-59d4-47fe-80d3-10c59167a1f0"
+    documentation="Legemiddelverket skal bistå departementet i arbeidet for at Norge skal kunne inngå en MRA om gjensidig godkjenning av GMP-inspeksjoner med USA basert på den MRA EU har med USA (Jf.tildelingsbrevet pkt 2.12)">
+  <properties
+      key="Stereotype"
+      value="Midlertidig lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

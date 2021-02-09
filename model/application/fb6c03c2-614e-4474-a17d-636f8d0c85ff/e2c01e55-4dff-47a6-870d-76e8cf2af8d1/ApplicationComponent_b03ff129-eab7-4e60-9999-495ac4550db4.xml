@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XML Validator Buddy"
+    id="b03ff129-eab7-4e60-9999-495ac4550db4"
+    documentation="XML Validator Buddy gir flere unike funksjoner som XML-validator og editor. Sjekk og rediger store XML-instansfiler (flere GB), men ikke last dem helt inn i minnet. En enkel å bruke XML-batch validator og en praktisk &quot;Finn ugyldig XML&quot; -funksjon. ">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

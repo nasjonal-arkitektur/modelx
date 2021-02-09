@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding til kommunen"
+    id="53a50795-2439-140"
+    documentation="Melding til kommunen om bygging eller tilbygg som er unntatt søknadsplikt.">
+  <properties
+      key="Engelsk navn"
+      value="Notification to the municipality"/>
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:BusinessService>

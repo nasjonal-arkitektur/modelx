@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laste opp søknad i EudraCT-skjema"
+    id="963a8162-223d-4022-8b9c-1c6b781383ed"
+    documentation="Søknaden lastes opp i EudraCT, slik at myndighetene i andre land har tilgang på informasjon om søknaden og utfallet av den.&#xD;&#xA;Som en del av søknaden sender søker inn en XML-fil som man laster opp i EudraCT.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

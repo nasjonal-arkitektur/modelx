@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MT/NP - Innsjekk av søknad"
+    id="2c85de43-a5e0-45ea-bed4-7f6f031e0bd0">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

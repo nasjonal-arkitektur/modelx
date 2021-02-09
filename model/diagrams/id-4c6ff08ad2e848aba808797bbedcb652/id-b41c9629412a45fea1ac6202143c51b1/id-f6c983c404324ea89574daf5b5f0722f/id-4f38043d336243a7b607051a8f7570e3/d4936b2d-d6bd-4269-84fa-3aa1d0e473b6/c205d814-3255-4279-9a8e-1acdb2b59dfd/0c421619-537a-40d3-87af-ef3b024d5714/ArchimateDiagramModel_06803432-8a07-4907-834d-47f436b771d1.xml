@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generisk Bytte og Medikamentreisen"
+    id="06803432-8a07-4907-834d-47f436b771d1">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="37371922-5f6c-48d0-895d-148c573591b6">
+    <bounds
+        x="21"
+        y="18"
+        width="181"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a4ee21fc-bfc4-4623-a144-7a335d202b30"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Generisk bytte og medikamentreisen"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="285"
+        y="18"
+        width="793"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="46287463-5617-47a1-96ac-9ecf5ddad5b9"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Prosesser knyttet til generisk bytte er ikke kartlagt ennå">
+    <bounds
+        x="564"
+        y="84"
+        width="185"
+        height="80"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

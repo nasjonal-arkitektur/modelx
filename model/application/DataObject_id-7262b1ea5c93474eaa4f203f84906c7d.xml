@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikasjon"
+    id="id-7262b1ea5c93474eaa4f203f84906c7d">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

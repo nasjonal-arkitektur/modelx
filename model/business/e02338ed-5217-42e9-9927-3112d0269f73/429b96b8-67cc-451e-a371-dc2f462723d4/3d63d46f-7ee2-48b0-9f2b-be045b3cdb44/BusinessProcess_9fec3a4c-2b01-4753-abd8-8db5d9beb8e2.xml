@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innledende fase"
+    id="9fec3a4c-2b01-4753-abd8-8db5d9beb8e2"
+    documentation="Den inneldende fasen innebærer for SLV å vurdere om man har ressurser og kompetanse til å utrede den angitte søknaden.&#xD;&#xA;Dette skjer nokså raskt etter at forespørsel er mottat, normalt innen 3 uker etter mottak av søknad.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

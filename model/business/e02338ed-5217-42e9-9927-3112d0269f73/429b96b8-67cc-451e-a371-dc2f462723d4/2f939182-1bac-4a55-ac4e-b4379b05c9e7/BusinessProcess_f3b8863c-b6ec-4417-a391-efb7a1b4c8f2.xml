@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="60 dager Referral med CMD"
+    id="f3b8863c-b6ec-4417-a391-efb7a1b4c8f2"
+    documentation="Ved uenighet vil saken behandles med CMD som hjelper partene til å komme til konsensus. Prosedyren kan avsluttes før det har gått 60 dager dersom partene når konsensus før dette.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunikasjon med Apotek og SAM-T"
+    id="2aa5134d-fab8-487f-8089-c26e3ae2c200"
+    documentation="Tjenestegrensesnitt for to-veis kommunikasjon mellom SAM-T og Apotekene. Tjenesten er basert på Altinn.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationService>

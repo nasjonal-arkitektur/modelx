@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for riktig bruk"
+    id="52cb9593-9cf9-4c5f-bfb8-a9b5fc2b072a"
+    documentation="Eininga har ansvar for riktig bruk av legemiddel:&#xD;&#xA;&#xD;&#xA;* Allmennmedisinsk rådgiving&#xD;&#xA;* Sikkerheitsinformasjon, legemiddelovervaking og ansvar for det nasjonale biverknadsregisteret&#xD;&#xA;* Tilsyn med legemiddelreklame&#xD;&#xA;* Godkjenningsfritak&#xD;&#xA;* Privatimport og regelverk for å ta med seg legemiddel på utanlandsreise&#xD;&#xA;&#xD;&#xA;Eininga forvaltar òg tilskot til dei regionale legemiddelinformasjonssentra (RELIS).">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

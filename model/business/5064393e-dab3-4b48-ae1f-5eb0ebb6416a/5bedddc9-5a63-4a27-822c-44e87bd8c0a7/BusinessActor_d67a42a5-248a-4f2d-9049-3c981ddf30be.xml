@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produsent av medisinsk utstyr"
+    id="d67a42a5-248a-4f2d-9049-3c981ddf30be"
+    documentation="Prudusenter av medisinsk utstyr produserer alt utstyr som fra produsentens side er ment å skulle anvendes på mennesker i den hensikt å diagnostisere, forebygge, overvåke, behandle eller lindre sykdom, skade eller handikap. Også visse svangerskapsforebyggende midler, samt hjelpemidler til funksjonshemmede faller inn under definisjonen.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

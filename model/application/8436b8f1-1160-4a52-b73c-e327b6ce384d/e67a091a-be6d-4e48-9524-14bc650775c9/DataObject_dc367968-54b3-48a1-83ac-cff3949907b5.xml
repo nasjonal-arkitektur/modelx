@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="En Vei Inn - Skjema for medisinsk utstyr"
+    id="dc367968-54b3-48a1-83ac-cff3949907b5">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:DataObject>

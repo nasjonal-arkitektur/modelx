@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legemidler Utenom Apotek og Medikamentreisen"
+    id="396daca6-210f-444e-9264-b30906991be3">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="1a06e6f8-371f-4b2f-bd74-de9448abf9f3">
+    <bounds
+        x="24"
+        y="24"
+        width="181"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3a3e817c-5c55-446c-aa0a-03ea0446cdc7.xml#3a3e817c-5c55-446c-aa0a-03ea0446cdc7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="217c695c-5ec9-463e-b5f4-2e3d14ff67b2"
+      font="1|Segoe UI Black|16.125|2|WINDOWS|1|-43|0|0|0|900|-1|0|0|0|3|2|1|34|Segoe UI Black"
+      fontColor="#ffffff"
+      fillColor="#00778a"
+      content="Legemidler Utenom Apotek (LUA) og medikamentreisen"
+      textPosition="1"
+      borderType="2">
+    <bounds
+        x="288"
+        y="24"
+        width="793"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="60f69208-add4-4fe4-b2a9-2737a20822f5"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Prosesser knyttet til legemidler utenom apotek er ikke kartlagt ennå">
+    <bounds
+        x="456"
+        y="120"
+        width="185"
+        height="80"/>
+  </children>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ArchimateDiagramModel>

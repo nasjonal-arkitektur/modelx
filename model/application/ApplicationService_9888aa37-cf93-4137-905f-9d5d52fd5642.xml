@@ -1,0 +1,47 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Discovery Service"
+    id="9888aa37-cf93-4137-905f-9d5d52fd5642"
+    documentation="DESCRIPTION:&#xD;&#xA;Shares the functionality of locating a machine-processable description of a service-related resource that may have been previously unknown and that meets certain functional criteria. It involves matching a set of functional and other criteria with a set of resource descriptions. The goal is to find an appropriate service-related resource.&#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;https://www.w3.org/TR/2004/NOTE-ws-gloss-20040211/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Discovery Service ABB is salient for technical interoperability because it allows to discover service available for reuses as stated in the EIF recommendation n°36: &quot;Develop a shared infrastructure of reusable services and information sources that can be used by all public administrations.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;jUDDI&#xD;&#xA;jUDDI is an open source Java implementation of OASIS the Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services. The jUDDI project includes Scout. Scout is an implementation of the JSR 93 - JavaTM API for XML Registries 1.0 (JAXR).&#xD;&#xA;&#xD;&#xA;Features: &#xD;&#xA;•&#x9;Platform Independent&#xD;&#xA;•&#x9;Use with any relational database that supports ANSI standard SQL (MySQL, Oracle, DB2, Sybase, Derby etc.)&#xD;&#xA;•&#x9;Deployable on any Java application server that supports the Servlet 2.3 specification&#xD;&#xA;•&#x9;jUDDI registry supports a clustered deployment configuration.&#xD;&#xA;•&#x9;Easy integration with existing authentication systems&#xD;&#xA;•&#x9;Supports InVM embeddable mode&#xD;&#xA;&#xD;&#xA;jUDDIv3 Services:&#xD;&#xA;•&#x9;UDDI Specification version 3.0.2 compliant&#xD;&#xA;•&#x9;UDDI Specification version 2.0.4 interoperability services (BETA)&#xD;&#xA;•&#x9;Built on JAXB and JAX-WS standardized interfaces, tested on Apache CXF&#xD;&#xA;•&#x9;Built on JPA standardized interfaces, tested with Apache OpenJPA and Hibernate&#xD;&#xA;•&#x9;Pre-configured bundle deployed to Apache Tomcat&#xD;&#xA;•&#x9;Full featured user interface (based on Bootstrap)&#xD;&#xA;•&#x9;User, Administrative and Developer Documentation&#xD;&#xA;•&#x9;Includes extensive predefined tModels, such as Quality of Service Metrics&#xD;&#xA;&#xD;&#xA;http://juddi.apache.org/ &#xD;&#xA;">
+  <properties
+      key="ID"
+      value="ABB159"/>
+  <properties
+      key="dct:publisher"/>
+  <properties
+      key="dct:modified"/>
+  <properties
+      key="eira:status"
+      value="[ Exists | Development planned ]"/>
+  <properties
+      key="eira:reusability"
+      value="[ Excellent (90-100%) | Very good (70-89,9%) | Fair (50-74,9%) | Poor (0-49,9%) ]"/>
+  <properties
+      key="eira:actual_use"
+      value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"
+      value="Service Discovery Service [ns:eira]"/>
+  <properties
+      key="difi:description_en"
+      value="DESCRIPTION:&#xD;&#xA;Shares the functionality of locating a machine-processable description of a service-related resource that may have been previously unknown and that meets certain functional criteria. It involves matching a set of functional and other criteria with a set of resource descriptions. The goal is to find an appropriate service-related resource.&#xD;&#xA;&#xD;&#xA;Based on W3C&#xD;&#xA;https://www.w3.org/TR/2004/NOTE-ws-gloss-20040211/ &#xD;&#xA;&#xD;&#xA;INTEROPERABILITY SALIENCY:&#xD;&#xA;The Service Discovery Service ABB is salient for technical interoperability because it allows to discover service available for reuses as stated in the EIF recommendation n°36: &quot;Develop a shared infrastructure of reusable services and information sources that can be used by all public administrations.&quot; &#xD;&#xA;&#xD;&#xA;EXAMPLES:&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;jUDDI&#xD;&#xA;jUDDI is an open source Java implementation of OASIS the Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services. The jUDDI project includes Scout. Scout is an implementation of the JSR 93 - JavaTM API for XML Registries 1.0 (JAXR).&#xD;&#xA;&#xD;&#xA;Features: &#xD;&#xA;•&#x9;Platform Independent&#xD;&#xA;•&#x9;Use with any relational database that supports ANSI standard SQL (MySQL, Oracle, DB2, Sybase, Derby etc.)&#xD;&#xA;•&#x9;Deployable on any Java application server that supports the Servlet 2.3 specification&#xD;&#xA;•&#x9;jUDDI registry supports a clustered deployment configuration.&#xD;&#xA;•&#x9;Easy integration with existing authentication systems&#xD;&#xA;•&#x9;Supports InVM embeddable mode&#xD;&#xA;&#xD;&#xA;jUDDIv3 Services:&#xD;&#xA;•&#x9;UDDI Specification version 3.0.2 compliant&#xD;&#xA;•&#x9;UDDI Specification version 2.0.4 interoperability services (BETA)&#xD;&#xA;•&#x9;Built on JAXB and JAX-WS standardized interfaces, tested on Apache CXF&#xD;&#xA;•&#x9;Built on JPA standardized interfaces, tested with Apache OpenJPA and Hibernate&#xD;&#xA;•&#x9;Pre-configured bundle deployed to Apache Tomcat&#xD;&#xA;•&#x9;Full featured user interface (based on Bootstrap)&#xD;&#xA;•&#x9;User, Administrative and Developer Documentation&#xD;&#xA;•&#x9;Includes extensive predefined tModels, such as Quality of Service Metrics&#xD;&#xA;&#xD;&#xA;http://juddi.apache.org/ &#xD;&#xA;"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="label"
+      value="${name} [lang:${property:difi:language}]"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+</archimate:ApplicationService>

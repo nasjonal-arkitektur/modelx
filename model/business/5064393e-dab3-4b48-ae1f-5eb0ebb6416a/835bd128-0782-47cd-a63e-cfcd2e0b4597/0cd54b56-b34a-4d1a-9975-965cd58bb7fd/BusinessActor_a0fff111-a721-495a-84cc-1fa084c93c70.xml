@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Privatimport (Langvarig) (lag)"
+    id="a0fff111-a721-495a-84cc-1fa084c93c70"
+    documentation="Saksbehandling knyttet til privatimport av legemidler. Samarbeid med posten. Regelverksutvikling.  (Gjennomgang av rutiner med tanke på forenkling).">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

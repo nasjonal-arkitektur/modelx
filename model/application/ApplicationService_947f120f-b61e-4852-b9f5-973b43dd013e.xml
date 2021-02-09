@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barnehage"
+    id="947f120f-b61e-4852-b9f5-973b43dd013e">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:ApplicationService>

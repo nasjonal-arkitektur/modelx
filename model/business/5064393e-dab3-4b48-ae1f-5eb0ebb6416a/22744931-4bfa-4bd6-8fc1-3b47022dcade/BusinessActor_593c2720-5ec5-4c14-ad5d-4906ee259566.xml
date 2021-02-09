@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhet for produktinformasjon"
+    id="593c2720-5ec5-4c14-ad5d-4906ee259566"
+    documentation="Eininga gir marknadsføringsløyve og godkjenner produktinformasjon – preparatomtale, pakningsvedlegg og merking i alle regulatoriske prosedyrar. Andre oppgåver er blant anna å implementere &quot;sunset clause&quot; i Noreg og å oppdatere av databasar med legemiddelinformasjon. ">
+  <properties
+      key="Stereotype"
+      value="Enhet"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utstedet MT-brev uten norsk PI"
+    id="1fa55f50-822d-4609-ad1e-76cd469d00ce"
+    documentation="Dersom MT-søker velger å ikke framstille produktinformasjon på norsk, kan søknaden godkjennes uten norsk produktinformasjon. Man registrerer informasjon om medikamentet, men angir at det ikke har markedsføringstillatelse i norge pga manglende norsk produktinformasjon.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

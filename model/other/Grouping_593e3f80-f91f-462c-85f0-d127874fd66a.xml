@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kanalledelse"
+    id="593e3f80-f91f-462c-85f0-d127874fd66a"
+    documentation="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kanalledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Channel Management"/>
+  <properties
+      key="difi:description_no"
+      value="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means."/>
+  <properties
+      key="difi:description_en"
+      value="Ability to establish, analyze, and utilize a digital, analog, or physical conduit through which products, related services or communications are delivered or received, including the Internet, phone, delivery service, satellite, radio, or physical means."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

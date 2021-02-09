@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU-systemer - Dokumentforvaltning (lag)"
+    id="db168be0-dddd-49a9-a3c5-27954efa8cfb"
+    documentation="• Nedlasting fra Common Repository &#xD;&#xA;• Nedlasting av kommisjonsvedtak fra EU-kommisjonens hjemmeside &#xD;&#xA;• Nedlasting av Opinion - Innstillinger fra EUs møteportal MMD &#xD;&#xA;• Innleggelse av sekvenser i EURS &#xD;&#xA;• Teknisk validering &#xD;&#xA;• Nedlasting fra PSUR Repository &#xD;&#xA;• Vedlikehold av informasjon om innsendelse på internett">
+  <properties
+      key="Stereotype"
+      value="Lag"/>
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessActor>

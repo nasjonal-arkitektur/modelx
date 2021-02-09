@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internasjonale oppgaver"
+    id="71691566-9d3f-48c0-9ec2-902a9c3afaa7"
+    documentation="* Bidra i det europeiske legemiddelsamarbeidet, representere Norge i EUs vitenskapelige komiteer og arbeidsgrupper, samt andre internasjonale organer (FN, EDQM m.fl.)&#xD;&#xA;* Delta i det europeiske samarbeidet på området medisinsk utstyr, i EU-kommisjonens komiteer og arbeidsgrupper samt annet myndighetssamarbeid&#xD;&#xA;* Gjøre faglige utredninger og vurderinger på vegne av det europeiske legemiddelnettverket.&#xD;&#xA;* Delta i utforming av europeisk regelverk for legemidler og medisinsk utstyr">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

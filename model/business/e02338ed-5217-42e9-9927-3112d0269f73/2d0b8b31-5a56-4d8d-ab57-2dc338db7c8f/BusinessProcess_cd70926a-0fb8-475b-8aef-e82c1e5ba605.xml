@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatere fra Farmalogg"
+    id="cd70926a-0fb8-475b-8aef-e82c1e5ba605"
+    documentation="To ganger i måneden synkroniseres Athene med Farmalogg. Fra Athene via Apollon og FEST kommer det produktinformasjon. Fra Farmalogg får man oppdateringer mht. varnummer (varenummeret som benyttes i salg) og markedsførsingsstatus.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

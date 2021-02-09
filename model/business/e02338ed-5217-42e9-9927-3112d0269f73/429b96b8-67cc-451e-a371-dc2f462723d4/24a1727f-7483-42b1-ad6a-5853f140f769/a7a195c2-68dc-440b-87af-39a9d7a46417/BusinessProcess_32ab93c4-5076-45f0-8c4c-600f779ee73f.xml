@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validere søknad"
+    id="32ab93c4-5076-45f0-8c4c-600f779ee73f"
+    documentation="Validering av søknaden innebærer en gjennomgang av søknadsmaterialet for å kontrollere at all nødvendig dokumentasjon er til stede, er av tilstrekkelig kvalitet og at formalia er korrekt.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

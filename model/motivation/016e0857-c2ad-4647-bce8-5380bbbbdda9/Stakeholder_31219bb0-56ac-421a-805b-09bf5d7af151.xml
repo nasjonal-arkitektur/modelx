@@ -1,0 +1,8 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aktivister"
+    id="31219bb0-56ac-421a-805b-09bf5d7af151">
+  <properties
+      key="difi:namespace"
+      value="ks"/>
+</archimate:Stakeholder>

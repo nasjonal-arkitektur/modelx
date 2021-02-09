@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EURS Validator"
+    id="8a20e2a3-d7c7-40e6-bf4b-b7abfab64ca7"
+    documentation="EURS Validator er et eCTD valideringsverktøy som Arkiv benytter når nye dossier-filer og mapper mottas via CESSP eller på DVD. Det er viktig med korrekt fil-arkitekturstandard, så saksbehandlingen kan utføres etter gjeldende prosedyre. EURS skal til en hver tid presentere nyeste versjon av dossier dokumentene som kan ha mange revisjoner av samme dokumentfil lokalisert i dossiermappene. Versjonshåndteringen i EURS er en av de viktigste funksjonene i programmet og derfor må eCTD standarden valideres for å garantere funksjonaliteten.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EVOKO"
+    id="3840e806-78b0-4e91-909d-edfe36d8f05d"
+    documentation="Infosystem fra Evoko gir deg optimal kontroll på dine møterom!&#xD;&#xA;Når er de ledig? Når er de opptatt? Hva skjer på møterommene?&#xD;&#xA;&#xD;&#xA;Evoko kjører møterommet bookingpaneler.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:ApplicationComponent>

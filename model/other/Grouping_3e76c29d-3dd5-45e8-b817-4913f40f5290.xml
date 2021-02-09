@@ -1,0 +1,38 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportadministrasjon"
+    id="3e76c29d-3dd5-45e8-b817-4913f40f5290"
+    documentation="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains.">
+  <properties
+      key="difi:namespace"
+      value="digdir"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Transportadministrasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Conveyor Management"/>
+  <properties
+      key="difi:description_no"
+      value="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains."/>
+  <properties
+      key="difi:description_en"
+      value="The ability to design, procure, maintain, and dispose of any variety of an apparatus or assembly whether human or robotically piloted that has the capacity to transport people, animals, goods, assets, or other physical items, and includes but is not limited to trucks, carts, airplanes, automobiles, railroad trains, water-borne craft, and animal-pulled devices or animal-assemblies such as mule-trains."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

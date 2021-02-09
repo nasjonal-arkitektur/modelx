@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forvalte lov og forskrift om medisinsk utstyr"
+    id="d914be05-1c87-4e85-a443-590f2f598054"
+    documentation="Regelverksutvikling og -fortolkning">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

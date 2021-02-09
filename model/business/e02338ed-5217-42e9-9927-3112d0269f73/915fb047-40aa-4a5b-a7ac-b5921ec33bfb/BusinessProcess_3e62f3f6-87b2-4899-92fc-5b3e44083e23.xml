@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dialog med søker"
+    id="3e62f3f6-87b2-4899-92fc-5b3e44083e23"
+    documentation="I løpet av vurderingsprosessen har man som regel dialog med søker. Det kan være alt fra eposter til arbeidsmøter.&#xD;&#xA;E-postdialog med søker går via egen epostadresse post@legemiddelverket og journalføres på saken i P360.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessProcess>

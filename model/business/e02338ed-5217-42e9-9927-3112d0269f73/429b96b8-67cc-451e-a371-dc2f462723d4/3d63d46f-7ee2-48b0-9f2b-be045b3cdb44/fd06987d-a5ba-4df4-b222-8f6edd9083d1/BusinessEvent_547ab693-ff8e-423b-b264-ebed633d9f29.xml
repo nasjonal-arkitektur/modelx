@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sak avsluttet"
+    id="547ab693-ff8e-423b-b264-ebed633d9f29"
+    documentation="Dersom beslutning er at man ikke kan ta RMS-oppdraget, avsluttes saken.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessEvent>

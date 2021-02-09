@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandle søknad om virksomhetstillatelse"
+    id="a6a71244-a9f6-4689-930c-ff0b784c7fc3"
+    documentation="Gi tillatelser til tilvirkning, import, grossistvirksomhet, inn- og utførsel samt omsetning av legemidler&#xD;&#xA;Søknad om virksomhetstillatelser (tilvirker, grossist, apotek mfl)&#xD;&#xA;* LM utsteder sertifikater for alle i Norge&#xD;&#xA;* Alle virksomheter skal ha en QP (Qualified Person)&#xD;&#xA;&#x9;* Innmelding av endring av QP er også en form for prosess&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:BusinessService>

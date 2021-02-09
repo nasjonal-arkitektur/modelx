@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legenes EPJ er ikke alltid oppdatert"
+    id="927f77b3-686c-423d-91d5-8513e612d97f"
+    documentation="Legenes EPJ er ikke alltid oppdatert, slik at søknader som er lagt på positivlisten / er i notifiseringsordningen, kommer til SLV.">
+  <properties
+      key="difi:namespace"
+      value="legemiddelverket"/>
+</archimate:Assessment>
