@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunalt arkitekturverksted"
+    id="id-a944832f24c64f32bc4f1d4064d27cda"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="showrooms"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

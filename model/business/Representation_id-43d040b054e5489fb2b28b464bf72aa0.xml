@@ -1,0 +1,36 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ModelX - Fra modellutveksling til arkitektursamarbeid"
+    id="id-43d040b054e5489fb2b28b464bf72aa0"
+    documentation="ModelX er et nettverk som ...&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:book"/>
+  <properties
+      key="modelx:site_url"
+      value="https://modelx-no.github.io/"/>
+  <properties
+      key="modelx:antora_update_script"
+      value="C:\gitlab\modelx\wiki\playbooks\modelx-playbook\update.sh"/>
+  <properties
+      key="modelx:book_front_cover_image"
+      value="modelx front cover image.jpg"/>
+  <properties
+      key="modelx:book_back_cover_image"
+      value="modelx back cover image.png"/>
+  <properties
+      key="modelx:author_name"
+      value="Erik Hagen"/>
+  <properties
+      key="modelx:author_email"
+      value="erik.hagen@digdir.no"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_module"
+      value="books"/>
+</archimate:Representation>

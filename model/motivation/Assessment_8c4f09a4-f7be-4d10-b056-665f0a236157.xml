@@ -1,9 +1,0 @@
-<archimate:Assessment
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Usikker på om det er hensiktsmessig å ha Sharepoint og Office med i dette viewet"
-    id="8c4f09a4-f7be-4d10-b056-665f0a236157"
-    documentation="Og hvis det skal være med bør det ligge inne med relevant Sharepointversjon (er)&#xD;&#xA;&#xD;&#xA;Anja">
-  <properties
-      key="difi:namespace"
-      value="legemiddelverket"/>
-</archimate:Assessment>

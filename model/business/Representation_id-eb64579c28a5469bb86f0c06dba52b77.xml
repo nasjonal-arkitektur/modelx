@@ -1,0 +1,28 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samarbeidsprosjekter"
+    id="id-eb64579c28a5469bb86f0c06dba52b77"
+    documentation="TBD">
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_module"
+      value="initiatives"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-8518ba5badf44781b61389ef7b1949d6"/>
+  <properties
+      key="drill down"
+      value="id-8518ba5badf44781b61389ef7b1949d6"/>
+</archimate:Representation>

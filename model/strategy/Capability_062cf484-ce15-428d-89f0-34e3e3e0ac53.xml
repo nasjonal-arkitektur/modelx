@@ -1,8 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tjenestekjøp"
-    id="062cf484-ce15-428d-89f0-34e3e3e0ac53">
-  <properties
-      key="difi:namespace"
-      value="ks"/>
-</archimate:Capability>

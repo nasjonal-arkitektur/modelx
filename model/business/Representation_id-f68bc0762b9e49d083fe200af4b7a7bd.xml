@@ -1,0 +1,22 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjenbruksstasjon"
+    id="id-f68bc0762b9e49d083fe200af4b7a7bd"
+    documentation="TBD">
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_module"
+      value="for-reuse"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

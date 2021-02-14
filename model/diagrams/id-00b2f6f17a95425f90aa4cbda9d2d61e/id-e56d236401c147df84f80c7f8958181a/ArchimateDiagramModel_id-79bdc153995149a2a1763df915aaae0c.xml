@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverksmøter"
+    id="id-79bdc153995149a2a1763df915aaae0c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d88f908387884cd6a279c568285f82dc"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="72"
+        y="54"
+        width="531"
+        height="128"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-7ad39a00cfa04647a857d7a842c6a0af.xml#id-7ad39a00cfa04647a857d7a842c6a0af"/>
+  </children>
+</archimate:ArchimateDiagramModel>

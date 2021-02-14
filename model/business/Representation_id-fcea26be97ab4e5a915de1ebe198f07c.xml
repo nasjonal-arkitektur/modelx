@@ -1,0 +1,17 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hvordan opprette et ad-hoc samarbeid i gitlab"
+    id="id-fcea26be97ab4e5a915de1ebe198f07c">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="about"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

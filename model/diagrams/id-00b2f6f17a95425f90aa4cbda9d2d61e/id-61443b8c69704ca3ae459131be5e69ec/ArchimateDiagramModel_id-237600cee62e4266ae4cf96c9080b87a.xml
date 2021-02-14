@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Praktiske tips"
+    id="id-237600cee62e4266ae4cf96c9080b87a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f4eaac503ed745ebb7834978e1e766e6"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+    <features
+        name="gradient"
+        value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-da4f44b10da146c4a6a7c07d67067172"
+        source="id-f4eaac503ed745ebb7834978e1e766e6"
+        target="id-92bf79b7cba74688837ac528d276e6f3">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e1a859a7fd1043f5976c3a177692cc9a.xml#id-e1a859a7fd1043f5976c3a177692cc9a"/>
+    </sourceConnections>
+    <bounds
+        x="30"
+        y="42"
+        width="875"
+        height="183"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-92bf79b7cba74688837ac528d276e6f3"
+        targetConnections="id-da4f44b10da146c4a6a7c07d67067172"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="48"
+          y="54"
+          width="137"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:Representation"
+          href="Representation_id-fcea26be97ab4e5a915de1ebe198f07c.xml#id-fcea26be97ab4e5a915de1ebe198f07c"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-c64ecf4bc2c14ad8a9d7d0af33e5a678.xml#id-c64ecf4bc2c14ad8a9d7d0af33e5a678"/>
+  </children>
+</archimate:ArchimateDiagramModel>

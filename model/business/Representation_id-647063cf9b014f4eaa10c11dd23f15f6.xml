@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mandat"
+    id="id-647063cf9b014f4eaa10c11dd23f15f6"
+    documentation="Ingen penger...&#xD;&#xA;Forankret hos ...&#xD;&#xA;Smidig...">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="about"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

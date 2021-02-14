@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Parallellimportør"
-    id="c9926c5b-be42-4a88-8847-2667983d07ec"
-    documentation="Parallellimport av legemidler til Norge skjer når et legemiddel som har gyldig MT i et EU/EØS-land, importeres til Norge, og markedsføres i konkurranse med et tilsvarende preparat med gyldig markedsføringstillatelse i Norge.">
-  <properties
-      key="difi:namespace"
-      value="legemiddelverket"/>
-</archimate:BusinessActor>

@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles konsepter"
+    id="id-97f10effe2024db29549356331e3553c"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="guides"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

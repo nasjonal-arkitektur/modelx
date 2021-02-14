@@ -1,0 +1,23 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Praktiske tips for å komme igang"
+    id="id-c64ecf4bc2c14ad8a9d7d0af33e5a678">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="about"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-237600cee62e4266ae4cf96c9080b87a"/>
+  <properties
+      key="drill down"
+      value="id-237600cee62e4266ae4cf96c9080b87a"/>
+</archimate:Representation>

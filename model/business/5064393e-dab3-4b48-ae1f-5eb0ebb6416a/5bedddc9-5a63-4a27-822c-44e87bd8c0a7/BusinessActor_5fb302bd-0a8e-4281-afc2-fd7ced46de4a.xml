@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mattilsynet"
-    id="5fb302bd-0a8e-4281-afc2-fd7ced46de4a"
-    documentation="Mattilsynet er eit statleg, landsdekkjande forvaltingsorgan som er med på å sikre forbrukarane trygg mat og trygt drikkevatn. Vi skal fremje folke-, plante- , fiske- og dyrehelse, miljøvennleg produksjon og etisk forsvarleg hald av fisk og dyr. Mattilsynet har også oppgåver i høve til kosmetikk og legemiddel og fører tilsyn med dyrehelsepersonell.">
-  <properties
-      key="difi:namespace"
-      value="legemiddelverket"/>
-</archimate:BusinessActor>

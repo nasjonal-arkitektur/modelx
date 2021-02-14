@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles metodikk - god  praksis"
+    id="id-262fb94c39f24e418201b237c5490620"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="guides"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

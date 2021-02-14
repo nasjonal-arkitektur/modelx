@@ -1,0 +1,17 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FRA21 - Felles referansearkitekturarbeid fra 2021"
+    id="id-fc74a9ca31e14e0e899c4b91dbfd2cf0">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="about"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

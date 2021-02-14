@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Helseforetakene"
-    id="007004f9-e1fb-43e0-a081-fcd2f0a02b71"
-    documentation="Helseforetak, samlebetegnelse på regionale helseforetak (RHF) og helseforetak (HF), opprettet etter at staten tok over ansvaret for spesialisthelsetjenesten fra fylkeskommunene 1. januar 2002. &#xA;Regionale helseforetak (RHF) er Helse Vest, Nors, Sør-Øst, og Midt-Norge.&#xA;Det er ca 30 Helseforetak (HF) som ligger under de enkelte RHF-ene. Dette er typisk sykehus, sykeshusapotek og psykatri.">
-  <properties
-      key="difi:namespace"
-      value="legemiddelverket"/>
-</archimate:BusinessActor>

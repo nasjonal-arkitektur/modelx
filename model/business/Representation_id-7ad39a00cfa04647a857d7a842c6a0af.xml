@@ -1,0 +1,28 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverksmøter"
+    id="id-7ad39a00cfa04647a857d7a842c6a0af"
+    documentation="TBD">
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_module"
+      value="initiatives"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-79bdc153995149a2a1763df915aaae0c"/>
+  <properties
+      key="drill down"
+      value="id-79bdc153995149a2a1763df915aaae0c"/>
+</archimate:Representation>

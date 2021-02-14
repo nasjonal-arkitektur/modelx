@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kommunemal"
+    id="id-eee62cd911264c4ea77a324311fe3154"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="for-reuse"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

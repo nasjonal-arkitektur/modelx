@@ -11,10 +11,7 @@
       value="no"/>
   <properties
       key="difi:antoraComponentsPath"
-      value="C:\antora\modelx-no\components"/>
-  <properties
-      key="modelx:guid"
-      value="id-47cab0b6afa149a783d217a0fa229ff0"/>
+      value="C:\gitlab\modelx\wiki\components"/>
   <properties
       key="modelx:web_browser_app"
       value="C:\Program Files\Google\Chrome\Application\chrome.exe"/>

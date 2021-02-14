@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles verktøy"
+    id="id-9bc26788063841c68241a6d79892cf1a"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="guides"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ny Testkomponet"
-    id="id-077181280c564472804ccad68e8682f2">
-  <properties
-      key="difi:namespace"
-      value="digdir"/>
-</archimate:ApplicationComponent>

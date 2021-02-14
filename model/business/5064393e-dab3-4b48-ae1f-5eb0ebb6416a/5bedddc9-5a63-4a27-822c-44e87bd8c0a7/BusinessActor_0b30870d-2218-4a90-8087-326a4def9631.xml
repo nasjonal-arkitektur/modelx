@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="European Directorate for the Quality of Medicines (EDQM)"
-    id="0b30870d-2218-4a90-8087-326a4def9631"
-    documentation="EDQM contributes to the basic human right of access to good quality medicines and healthcare, and promotes and protects human and animal health by:&#xD;&#xA;* establishing and providing official standards for the manufacture and quality control of medicines in all the signatory states of the Convention on the Elaboration of a European Pharmacopoeia and beyond;&#xD;&#xA;* granting Certificates of suitability which verify the compliance of pharmaceutical substances with European Pharmacopoeia standards and carrying out inspections of manufacturers of these substances;&#xD;&#xA;* co-ordinating a network of Official Medicines Control Laboratories (OMCL) to collaborate and pool expertise and to effectively use limited resources with the aim of achieving effective public quality control of medicines in Europe and beyond;&#xD;&#xA;* proposing ethical, safety and quality standards for blood transfusions (collection, preparation, storage, distribution and appropriate use of blood components) and organ, tissue and cell transplantation;&#xD;&#xA;* working with national, European and international organisations in efforts to combat counterfeiting/falsification of medical products and similar crimes;&#xD;&#xA;* providing policies and model approaches for the safe use of medicines, including guidelines on pharmaceutical care;&#xD;&#xA;* establishing standards for cosmetics and food contact materials and coordinating the public control of cosmetics.">
-  <properties
-      key="difi:namespace"
-      value="legemiddelverket"/>
-</archimate:BusinessActor>

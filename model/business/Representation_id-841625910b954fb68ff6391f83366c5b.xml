@@ -1,0 +1,17 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etablering av samarbeidsverktøy"
+    id="id-841625910b954fb68ff6391f83366c5b">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="about"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

@@ -1,0 +1,22 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverksaktiviteter"
+    id="id-b7b89c40b6ae45258bd4208d244922c5"
+    documentation="TBD">
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_module"
+      value="initiatives"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

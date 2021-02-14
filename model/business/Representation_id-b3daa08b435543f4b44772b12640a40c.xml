@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitekturer "
+    id="id-b3daa08b435543f4b44772b12640a40c"
+    documentation="TBD">
+  <properties
+      key="modelx:antora_component"
+      value="common-doc"/>
+  <properties
+      key="modelx:antora_version"
+      value="master"/>
+  <properties
+      key="modelx:antora_module"
+      value="for-reuse"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>
